@@ -96,7 +96,7 @@ async function sendMessage(
         },
         agent: proxy ? new HttpsProxyAgent(proxy) : null,
         body: JSON.stringify({
-          chat_id: '@appstore_discounts',
+          chat_id: '-1002614986383',
           text: message,
           parse_mode: 'HTML',
           link_preview_options: {
