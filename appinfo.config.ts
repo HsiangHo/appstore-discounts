@@ -1,6 +1,6 @@
 import { Translate } from 'i18n-pro'
 
-export const regions: Region[] = ['cn', 'hk', 'mo', 'tw', 'us', 'tr']
+export const regions: Region[] = ['cn', 'us']
 
 /**
  * 注意：这里默认写的是中文，做了多语言支持，以中文为key
