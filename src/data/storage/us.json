@@ -17900,16 +17900,34 @@
       "formattedPrice": "$6.99",
       "All the Light": "$9.99",
       "More Light": "$3.99",
-      "A Little Light": "$0.99"
+      "A Little Light": "$0.99",
+      "More Light (Medium Tip)": "$3.99",
+      "A Little Light (Small Tip)": "$0.99",
+      "All the Light (Huge Tip)": "$9.99"
     },
     "minPriceInfo": {
       "price": 6.99,
       "formattedPrice": "$6.99",
       "All the Light": "$9.99",
       "More Light": "$3.99",
-      "A Little Light": "$0.99"
+      "A Little Light": "$0.99",
+      "More Light (Medium Tip)": "$3.99",
+      "A Little Light (Small Tip)": "$0.99",
+      "All the Light (Huge Tip)": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747685971798,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "More Light (Medium Tip)": "$3.99",
+            "A Little Light (Small Tip)": "$0.99",
+            "All the Light (Huge Tip)": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747501329127,
