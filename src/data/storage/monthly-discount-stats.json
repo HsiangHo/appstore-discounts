@@ -469,6 +469,13 @@
       "price": 2,
       "inAppPurchase": {}
     },
+    "406541444": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "8mm Pro": 1
+      }
+    },
     "904278510": {
       "all": 2,
       "price": 0,

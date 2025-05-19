@@ -3851,12 +3851,25 @@
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "$3.99",
-      "8mm Pro": "$39.99",
+      "8mm Pro": "$9.99",
       "Countdown Theme": "$0.00",
       "Silent Film Theme": "$0.00",
       "Light Leak Theme": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747646381790,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "8mm Pro": "$9.99",
+            "Silent Film Theme": "$0.00",
+            "Light Leak Theme": "$0.00",
+            "Countdown Theme": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -46703,6 +46716,25 @@
       "Eclypse Supporter Pack": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747646381790,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Infernal Invasions": "$5.99",
+            "Vaul of the Void Promo Pack": "$0.00",
+            "Eclypse Supporter Pack": "$3.99",
+            "Dawncaster Origins Bundle": "$4.99",
+            "Dawncaster Mega Bundle": "$12.99",
+            "Siege of Shadows": "$4.99",
+            "Catalyst Support Pack": "$4.99",
+            "Masks of Misery": "$4.99",
+            "Infinitum Support Banner": "$3.99",
+            "Death of Divinity": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747216950585,
