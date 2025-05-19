@@ -68,6 +68,11 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 6742200021,
+    name: 'BLBewly',
+    addType: 'auto',
+  },
+  {
     id: 1448326351,
     name: '数据恢复',
     addType: 'auto',
