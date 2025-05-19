@@ -1,6 +1,68 @@
 {
   "cn": [
     {
+      "artistViewUrl": "https://apps.apple.com/cn/developer/chengdu-aibo-tech-co-ltd/id1218166840?mt=12&uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2c/9e/7d/2c9e7d67-b7ec-c20b-af2b-710cb8c27d77/AppIcon-0-0-85-220-4-2x-0-0.png/60x60bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2c/9e/7d/2c9e7d67-b7ec-c20b-af2b-710cb8c27d77/AppIcon-0-0-85-220-4-2x-0-0.png/100x100bb.png",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/93/97/6e/93976e66-670b-4aa5-7bd0-319e4fcac30b/pr_source.png/800x500bb.jpg"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2c/9e/7d/2c9e7d67-b7ec-c20b-af2b-710cb8c27d77/AppIcon-0-0-85-220-4-2x-0-0.png/512x512bb.png",
+      "kind": "mac-software",
+      "minimumOsVersion": "10.8",
+      "trackCensoredName": "数据恢复",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D/id1448326351?mt=12&uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "userRatingCountForCurrentVersion": 0,
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "14143312",
+      "formattedPrice": "¥298.00",
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 0,
+      "artistId": 1218166840,
+      "artistName": "Chengdu Aibo Tech Co., Ltd.",
+      "genres": [
+        "工具",
+        "商务"
+      ],
+      "price": 298,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "trackName": "数据恢复",
+      "genreIds": [
+        "6002",
+        "6000"
+      ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "bundleId": "com.iBoysoft.DataRecovery-zh",
+      "trackId": 1448326351,
+      "releaseDate": "2020-01-02T08:00:00Z",
+      "sellerName": "Chengdu Aibo Tech Co., Ltd.",
+      "currentVersionReleaseDate": "2020-01-06T01:39:02Z",
+      "releaseNotes": "- 修复bug\n- 优化算法",
+      "version": "1.0.1",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "赤友数据恢复是一款专业安全易用的数据恢复软件，兼容最新的macOS Catalina和APFS文件系统.\n\n它能够从U盘，SD卡，外置硬盘等存储设备中恢复因误删除，格式化，病毒影响，不正当操作，意外断电等原因丢失的文档，图片，视频，音频等文件类型.\n\n赤友数据恢复软件兼容macOS 10.15/10.14/10.13/10.12 & Mac OS X 10.11/10.10/10.9/10.8/10.7 和APFS/exFAT/FAT32/HFS/HFS+文件系统\n\n使用过程有任何问题请联系技术支持support@aibotech.cn",
+      "userRatingCount": 0,
+      "inAppPurchases": {
+        "数据恢复专业版": "¥698.00"
+      },
+      "timestamp": 1747642894933,
+      "discounts": [
+        {
+          "type": "price",
+          "name": "价格",
+          "from": "¥398.00",
+          "to": "¥298.00",
+          "range": "[¥298.00 ~ ¥398.00]"
+        }
+      ]
+    },
+    {
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/80/1c/3f801c32-a2ba-7ed3-3523-3c2b8f6e4844/ZH_5-5_Image_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/3a/60/2e3a60eb-b5fa-55f6-2bbf-0c95d096c315/ZH_5-5_Image_02.png/392x696bb.png",

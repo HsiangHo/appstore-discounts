@@ -30525,12 +30525,20 @@
       "数据恢复专业版": "¥698.00"
     },
     "minPriceInfo": {
-      "price": 398,
-      "formattedPrice": "¥398.00",
+      "price": 298,
+      "formattedPrice": "¥298.00",
       "数据恢复专业版": "¥698.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1747642894933,
+          "price": 298,
+          "formattedPrice": "¥298.00",
+          "inAppPurchases": {
+            "数据恢复专业版": "¥698.00"
+          }
+        },
         {
           "timestamp": 1747639418828,
           "price": 398,
@@ -48351,6 +48359,27 @@
           "timestamp": 1747189868019,
           "price": 6,
           "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6742200021": {
+    "name": "BLBewly",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1747642894933,
+          "price": 0,
+          "formattedPrice": "免费",
           "inAppPurchases": {}
         }
       ]
