@@ -325,6 +325,25 @@
     "history": [
       [
         {
+          "timestamp": 1747639418828,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Adult Swim Customization Pack": "₺39,99",
+            "Grimm Skin Pack": "₺39,99",
+            "Zombie Skin Pack": "₺39,99",
+            "Monster Pack": "₺39,99",
+            "Dance Pack Three": "₺39,99",
+            "Mondo Pack": "₺39,99",
+            "Superbowl Skin Pack": "₺39,99",
+            "Candy Land Pack": "₺39,99",
+            "Underwater World Pack": "₺39,99",
+            "Mafia Pack": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745593334191,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -8155,6 +8174,25 @@
       "Mountain of Bolts": "₺4.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747639418828,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "SLS 2023: Chicago": "₺39,99",
+            "SLS 2022: Jacksonville": "₺39,99",
+            "SLS 2021: World Championship": "₺39,99",
+            "SLS 2019: Sao Paulo": "₺39,99",
+            "SLS 2019: London": "₺39,99",
+            "Sandbox 1 Year": "₺439,99",
+            "Sandbox 3 Months": "₺174,99",
+            "Sandbox Monthly": "₺87,99",
+            "SLS 2018: World Championship": "₺39,99",
+            "Mountain of Bolts": "₺4.499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745794940542,
@@ -36672,6 +36710,23 @@
     "history": [
       [
         {
+          "timestamp": 1747639418828,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Midnight Deck": "₺229,99",
+            "Midnight Night Out Pack": "₺99,99",
+            "Holiday Christmas Pack": "₺39,99",
+            "Word Bonanza Bundle": "₺449,99",
+            "Fun & Games Sports Mix Pack 1": "₺39,99",
+            "Midnight Bedroom Pack": "₺99,99",
+            "Midnight Mix Pack 1": "₺99,99",
+            "Celebrity Musicians Pack": "₺39,99",
+            "Mystery Mix Pack 1": "₺39,99",
+            "Holiday Christmas Pack 2": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1747627613721,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -47768,6 +47823,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747639418828,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺129,99",
+            "Boeing 777-300ER": "₺99,99",
+            "The Aircraft Bundle": "₺799,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 737-900": "₺99,99",
+            "UH-60": "₺39,99",
+            "Airbus A350-1000": "₺179,99",
+            "Concorde": "₺99,99",
+            "Boeing 787-10": "₺99,99"
+          }
+        },
         {
           "timestamp": 1747627613721,
           "price": 179.99,

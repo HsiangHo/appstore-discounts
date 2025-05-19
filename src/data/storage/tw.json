@@ -24373,7 +24373,14 @@
       "Get inside the temple door password": "$30.00",
       "Rockets get the door unlocking": "$30.00",
       "Get the factory door unlock": "$30.00",
-      "Open the box to the sea": "$30.00"
+      "Open the box to the sea": "$30.00",
+      "Purchase game": "$30.00",
+      "Get tips on holographic camera": "$30.00",
+      "Get tips about two weeks mesh box factory eye": "$30.00",
+      "Get tips about the triangle blocks (1-6)": "$30.00",
+      "Get tips on the bucket": "$30.00",
+      "Get tips on stone-eyed": "$30.00",
+      "Get tips about this mysterious stone": "$30.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -24388,9 +24395,35 @@
       "Get inside the temple door password": "$30.00",
       "Rockets get the door unlocking": "$30.00",
       "Get the factory door unlock": "$30.00",
-      "Open the box to the sea": "$30.00"
+      "Open the box to the sea": "$30.00",
+      "Purchase game": "$30.00",
+      "Get tips on holographic camera": "$30.00",
+      "Get tips about two weeks mesh box factory eye": "$30.00",
+      "Get tips about the triangle blocks (1-6)": "$30.00",
+      "Get tips on the bucket": "$30.00",
+      "Get tips on stone-eyed": "$30.00",
+      "Get tips about this mysterious stone": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747639418828,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Purchase game": "$30.00",
+            "Props Tip: Temple corner": "$30.00",
+            "Props Tip: Pyramid": "$30.00",
+            "Props Tip: flower": "$30.00",
+            "Get tips on holographic camera": "$30.00",
+            "Get tips about two weeks mesh box factory eye": "$30.00",
+            "Get tips about the triangle blocks (1-6)": "$30.00",
+            "Get tips on the bucket": "$30.00",
+            "Get tips on stone-eyed": "$30.00",
+            "Get tips about this mysterious stone": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746331470214,
@@ -29683,6 +29716,25 @@
       "神話完整卡牌包": "$1,290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747639418828,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "$120.00",
+            "茶具魔王皮膚卡牌包 C": "$150.00",
+            "茶具魔王皮膚卡牌包 B": "$150.00",
+            "茶具魔王皮膚卡牌包 A": "$150.00",
+            "小墮落勇士造型卡牌包": "$890.00",
+            "小勇士造型卡牌包": "$890.00",
+            "黑暗的魔王皮膚卡牌包": "$290.00",
+            "光芒的魔王皮膚卡牌包": "$290.00",
+            "魔王覺醒蛇女卡牌包": "$150.00",
+            "神話完整卡牌包": "$1,290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747371751417,
@@ -41185,6 +41237,22 @@
     "history": [
       [
         {
+          "timestamp": 1747639418828,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "2年联合VIP会员": "$990.00",
+            "每日外刊": "$290.00",
+            "VIP连续包季": "$270.00",
+            "一年联合VIP会员": "$690.00",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "$990.00",
+            "大学英语_外刊精读 | 2021年度TOP100精选": "$990.00",
+            "大学英语_外刊精读 | 2022年度TOP100精选": "$990.00",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "$990.00",
+            "林小鹿英语精读（1-7季合集升级版）": "$2,290.00"
+          }
+        },
+        {
           "timestamp": 1747630952888,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -50991,6 +51059,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747639418828,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "巨大的威脅": "$290.00",
+            "所有塔": "$490.00",
+            "所有英雄": "$990.00",
+            "Hero Lumenir": "$220.00",
+            "骷心巫龍": "$220.00",
+            "希瓦菈": "$220.00",
+            "科斯米爾": "$220.00",
+            "電湧石魔": "$150.00"
+          }
+        },
         {
           "timestamp": 1747627613721,
           "price": 220,
