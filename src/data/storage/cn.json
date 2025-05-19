@@ -12036,6 +12036,22 @@
     "history": [
       [
         {
+          "timestamp": 1747664282076,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Ultimate Access": "¥998.00",
+            "Font Access": "¥398.00",
+            "Pro Access": "¥698.00",
+            "Abstract Theme 5": "¥8.00",
+            "Abstract Theme 4": "¥8.00",
+            "Abstract Theme 2": "¥8.00",
+            "Abstract Theme 3": "¥8.00",
+            "Abstract Theme 1": "¥8.00",
+            "Abstract Theme Bundle": "¥22.00"
+          }
+        },
+        {
           "timestamp": 1747661432669,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -35022,6 +35038,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747664282076,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745071327074,
