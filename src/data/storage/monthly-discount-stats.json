@@ -51,10 +51,11 @@
       "inAppPurchase": {}
     },
     "1551263854": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "钻石月卡": 1
+        "钻石月卡": 1,
+        "元宝礼包": 1
       }
     },
     "1576329230": {
@@ -66,10 +67,10 @@
       }
     },
     "1624326561": {
-      "all": 2,
+      "all": 3,
       "price": 0,
       "inAppPurchase": {
-        "SP武将碎片": 2
+        "SP武将碎片": 3
       }
     },
     "6447693393": {
@@ -594,6 +595,11 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1519571900": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "1523146826": {
       "all": 1,
       "price": 1,
@@ -640,6 +646,11 @@
       "inAppPurchase": {}
     },
     "6449251957": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6505058041": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
