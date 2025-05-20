@@ -46073,6 +46073,14 @@
     "history": [
       [
         {
+          "timestamp": 1747710658272,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1745119034055,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -49130,6 +49138,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747710658272,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Content Bundle 1": "$9.99",
+            "Content Bundle 2": "$7.99",
+            "Getaway Car Pack": "$2.99",
+            "Racing Heroes Car Pack": "$2.99",
+            "Off-Road Car Pack": "$2.99",
+            "Modified Monsters Car Pack": "$2.99",
+            "Steel & Wheels Pack": "$1.99",
+            "Rusty Rats Car Pack": "$2.99",
+            "American All-Stars Car Pack": "$2.99",
+            "Banger Racing Car Pack": "$2.99"
+          }
+        },
         {
           "timestamp": 1747704309179,
           "price": 4.99,
@@ -66354,8 +66379,8 @@
       "Pre registration bundle": "$5.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99",
+      "price": 0.99,
+      "formattedPrice": "$0.99",
       "Huge Investment": "$4.99",
       "Bundle": "$9.99",
       "Very Large Investment": "$2.99",
@@ -66367,6 +66392,24 @@
       "Pre registration bundle": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747710658272,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Huge Investment": "$4.99",
+            "Bundle": "$9.99",
+            "Very Large Investment": "$2.99",
+            "Premium livery bundle": "$5.99",
+            "Investment": "$1.99",
+            "Game Editor": "$5.99",
+            "Chairman's Payment": "$5.99",
+            "Large Investment": "$2.99",
+            "Pre registration bundle": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746641007488,

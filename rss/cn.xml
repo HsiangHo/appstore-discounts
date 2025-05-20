@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-05-19T17:18:20.759Z</updated>
+    <updated>2025-05-20T03:16:13.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-19T17:18:20.760Z</updated>
+        <updated>2025-05-20T03:16:13.257Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnMon, 19 May 2025 17:18:20 GMT</id>
+        <id>rankingcnTue, 20 May 2025 03:16:13 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-19T17:18:20.761Z</updated>
+        <updated>2025-05-20T03:16:13.257Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -398,6 +398,31 @@ feedId:49753297431966720+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>18</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6444782083">王国保卫战4</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>超大英雄组合包</i>：<b>1</b>
+              </li><li>
+                <i>限时特惠</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -500,6 +525,54 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[王国保卫战4]]></title>
+        <id>王国保卫战4-cn-1747710658272</id>
+        <link href="https://apps.apple.com/cn/app/%E7%8E%8B%E5%9B%BD%E4%BF%9D%E5%8D%AB%E6%88%984/id6444782083?uo=4"/>
+        <updated>2025-05-20T03:10:58.272Z</updated>
+        <summary type="html"><![CDATA[超大英雄组合包: ¥148.00 → ¥128.00<br/>限时特惠: ¥148.00 → ¥22.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%8E%8B%E5%9B%BD%E4%BF%9D%E5%8D%AB%E6%88%984/id6444782083?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/b2/62/37b26252-e809-0016-eb2a-165c7911bf07/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>超大英雄组合包：</strong><span>¥148.00</span> → <b>
+  <strong>¥128.00</strong>
+</b><span>[¥128.00 ~ ¥148.00]</span>
+  </li><li>
+    <strong>限时特惠：</strong><span>¥148.00</span> → <b>
+  <strong>¥22.00</strong>
+</b><span>[¥22.00 ~ ¥148.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  ===铁皮公司正版授权===
+===中国地区正式回归===
+
+战无不胜的巫师维兹南再度登场！踏上这场史诗之旅，组建军队，履行他那阴险的计划吧……哇哈哈。做好准备，让王国境内的臣民见识见识谁才是真正的老大！你将一路浴血奋战，征服新旧疆土，迎战各大帝国的劲敌，与强悍绝伦的BOSS们展开死斗——一切尽在这款充满幽默与史诗感的经典塔防游戏！
+
+游戏特色
+
+- 新增22种防御塔，每种都自带独一无二的特殊能力。
+- 你可以随心所欲挑选防御塔，打造出最具杀伤力的组合，阻拦敌人进军的步伐！
+- 42道挑战关卡，遍布三座大陆， 只等你来征服！
+- 17位骁勇善战的英雄任你发号施令，绝无一丝犹豫。
+- 超过60种强力敌人，让你绞尽脑汁，调动一切战术才能克敌制胜。
+- 在传奇般的BOSS战中打倒7位不可一世的敌人，保卫你的王国！
+- 新能力、新援军，帮你力克强敌。
+- 10多种饰品和器具，让你再多几成胜算。
+- 30种升级选择，让你的军队将潜力发挥得淋漓尽致。
+- 60多种成就、隐藏秘密和好玩的东西等你来探索！
+- 黑暗塔里没 Wi-Fi？别担心，离线玩就好！
+
+维兹南领主的最新动态：
+https://www.kingdomrushvengeance.com/
+
+使用条款：
+https://www.ironhidegames.com/TermsOfService
+
+隐私政策：
+https://www.ironhidegames.com/PrivacyPolicy
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/f3/a0/1bf3a00f-986b-8a65-efae-57f9e70c780e/24c367e5-9847-4415-ad28-ed597679884a_KRV_Pirate-screenshots_iPhone-5.5_Simplified-chinese-0000.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/bd/c2/62bdc250-33ce-b6f9-9e07-27d214bcb417/509049e9-847f-472f-8b28-edbc2ed0e3ca_zh_Hans_iPhone_00.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/ec/48/44ec4864-558b-6720-46e4-7a176c718fc0/99eeab76-5160-46c9-9bbb-193390b86116_02.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/77/ed/a577ed91-1622-08b2-d6ab-b4ccc1396ec5/d483bc57-95e1-44c3-b6d5-c8823673abcf_zh_Hans_iPhone_02.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/af/56/c4af566c-89db-ceb5-aa7c-7db736ac8dab/7131d8eb-0bbe-4afe-ab27-da91482e04be_zh_Hans_iPhone_03.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/79/0f/62790fd5-ab7d-c2a8-c06a-5a2d1b8d8ef0/d93da903-fd95-4283-96aa-cbad8a9e0fad_zh_Hans_iPhone_04.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/0a/cb/5d0acbfa-581a-1c48-3017-3a2d107690a8/26908417-e1e1-4a71-96b3-ab40ea37ba59_KRV_Pirates-screenshots_4_3_new_Simplified-chinese-0000.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/c6/a4/f8c6a451-db0f-5905-0783-aaf780e063bd/09572487-e349-4e4f-ba11-15035de048c8_zh_Hans_iPad_00.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/72/ad/c772ad26-0391-a273-1bf5-086134b19fe4/5fda9de3-1f79-4a57-9280-70270064d81c_02.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/47/bf/e947bf2f-a3f3-9857-dec6-c0085fbe7db2/17ef0e21-a96d-4d68-8d1a-a52279fbefe1_zh_Hans_iPad_02.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/e2/f9/eae2f9b2-8175-d331-c320-acf33e62bb4f/3c4bc1b2-9fe5-4ca9-b4ac-2ed35e3ccaed_zh_Hans_iPad_03.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/0a/1a/cf0a1a49-62f1-c8fc-9858-682287e1e4db/bc7a8ebe-9cff-4a72-bd95-d75b8d605039_zh_Hans_iPad_04.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[手表浏览器  Wafari]]></title>
@@ -907,101 +980,5 @@ Dumb Phone 可完全自定义，让你选择对你来说最重要的应用程序
 
 使用 Dumb Phone，保持专注，简化你的数字生活。
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/65/34/4d653410-0e23-8d64-3a0e-feaee60380a2/d00adc69-33bd-4152-9b79-64a56136ef10_Iphone_5.5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/f3/06/1ef30663-2896-bb04-20bc-039c18691c7a/15a74314-e7b6-4198-8762-3488ace0ed8d_Iphone_5.5-2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/4b/de/cf4bde68-412e-995c-cc79-46f241dd1bbb/67b0db9b-6d5e-4c2f-82f0-9dccf245b217_Iphone_5.5-3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/f2/87/c7f28710-75a7-7a88-5a94-ee41577c68af/8b03354c-cfdd-4d86-93ec-966f403f312f_Iphone_5.5-4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/2a/25/2e2a2528-949b-80c6-7f58-4f6b199c96bb/56c0ac32-d5a0-43e4-be29-3f9755fc6f10_Iphone_5.5-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/84/df/1684dfd8-0370-ac44-9773-ba1611c70c36/70d3d583-fcc7-44bc-8f0c-6a8f18fa5fe5_Iphone_5.5-6.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/10/8c/11108c5f-4971-e62f-7646-7b7b10ee01de/6f616f18-217e-4ab3-8a47-8a16cc9549ff_iPad_3d_Gen.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/8c/04/968c04db-1f57-1f60-2211-d5877f90824a/0529738d-1e3a-492c-9b39-7db5268bd05e_iPad_3d_Gen-1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/5c/32/fc5c322c-f7e0-2639-d8b1-9ba8f5503655/9dcd8564-0d9a-4911-8ec3-7bc381879a90_iPad_3d_Gen-2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/b0/87/4fb08765-9a07-bf6b-6d32-a2e3fbba90e2/aa486290-fb2b-4013-a938-4c2ce0e57fb7_iPad_3d_Gen-3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/5e/78/725e78a7-2c42-3e38-fb8f-16a34ba9fe26/afdbe5d3-680e-4996-a3a6-c7f78a10debc_iPad_3d_Gen-4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/5c/1f/455c1f94-6880-8743-ecd3-d568a241a91a/ea364b09-11cb-4a06-a823-61ead20d975b_iPad_3d_Gen-5.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[传奇1.76官方正版盛大首发(重置版)今日开服送点卡迷失传说]]></title>
-        <id>传奇1.76官方正版盛大首发(重置版)今日开服送点卡迷失传说-cn-1747429321187</id>
-        <link href="https://apps.apple.com/cn/app/%E4%BC%A0%E5%A5%871-76%E5%AE%98%E6%96%B9%E6%AD%A3%E7%89%88%E7%9B%9B%E5%A4%A7%E9%A6%96%E5%8F%91-%E9%87%8D%E7%BD%AE%E7%89%88-%E4%BB%8A%E6%97%A5%E5%BC%80%E6%9C%8D%E9%80%81%E7%82%B9%E5%8D%A1%E8%BF%B7%E5%A4%B1%E4%BC%A0%E8%AF%B4/id1576329230?uo=4"/>
-        <updated>2025-05-16T21:02:01.187Z</updated>
-        <summary type="html"><![CDATA[铜币礼包: ¥128.00 → ¥88.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E4%BC%A0%E5%A5%871-76%E5%AE%98%E6%96%B9%E6%AD%A3%E7%89%88%E7%9B%9B%E5%A4%A7%E9%A6%96%E5%8F%91-%E9%87%8D%E7%BD%AE%E7%89%88-%E4%BB%8A%E6%97%A5%E5%BC%80%E6%9C%8D%E9%80%81%E7%82%B9%E5%8D%A1%E8%BF%B7%E5%A4%B1%E4%BC%A0%E8%AF%B4/id1576329230?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/85/ac/8285aca2-af0f-8685-e78b-507fd5d8d9d6/xiaobai-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>铜币礼包：</strong><span>¥128.00</span> → <b>
-  <strong>¥88.00</strong>
-</b><span>[¥88.00 ~ ¥128.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  十年不忘初心，官方正版经典再升级！
-原版复刻端游，好玩又保值，永不关服！
-布拉格公会强势回归，兄弟我在正版传奇等你！
-
-
-2024官方正版传奇今日盛大首发！原版PC游戏内容1:1复刻重制，经典全职业-道法战回归。多系统复古玩法，游戏中多种复古写实场景可供玩家随意切换，多种酷炫魔幻的守护装备可在怪物中爆落。自由打金兄弟齐聚，燃情沙城争霸！
-
-【游戏玩法】
-— PK爆装 跨服竞技
-自由PK，蛮荒古城，跨服争霸，多人竞技，与其他服抢夺资源，争夺BOSS！
-杀人爆装、野外红名、镖车护送、领地争夺、激情攻沙丰富的PvP玩法！
-— 轻松挂机 装备保值 
-护肝玩法，轻松挂机升级，等级永不落后！
-装备道具直接掉落，稀世装备永久保值！
-— 自由交易 散人天堂
-超激情打宝神器，爆极品装备、绚丽法阵高级技能刷怪！
-装备保值自由交易，打造散人天堂！
-— 新增玩法 激爽一夏
-卧龙山庄勇闯天关，BOSS悬赏皇陵秘境，刀刀屠龙刀刀切割！
-
-【特色系统】
-— 副本系统：
-全新副本，重磅来袭，等着玩家去探索和体验，和兄弟一起并肩作战吧！
-— 装备系统：
-装备可通过洗练获得随机属性；武器、衣服、项链、勋章、手镯、戒指、腰带、鞋子、玉佩、疗伤石等装备可通过镶嵌宝石提升装备属性。装备阶数：沃玛、祖玛、赤月、雷霆、战神、火龙、通云、金牛、主宰、传奇、热血、真龙、神龙、GM系列，可通过镶嵌宝石提高属性。
-— 转生系统：
-自由转生，转生神翼，万人膜拜，可增加角色生命值和攻击穿戴更高等级装备进入更高等级地图。
-— 法觉系统：
-炫酷法阵必不可少，增强法阵属性，轻松过渡前中期，法阵专属外观，让你在万人面前闪闪发光。
-— 封号系统：
-消耗功勋可提升封号等级，升级后可获得大量属性加成和封号称号显示。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/d2/a8/6f/d2a86fb7-a8d5-6c74-4aaa-a8db1f2624ed/5f1ffc50-f19b-44cf-883e-6dd7a7e10ae4_1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/28/6b/66/286b66e1-f043-f8e2-1304-29efb1ccec8b/92b23b5f-e363-4bea-855c-2f2c810b7f60_2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/0a/41/39/0a413909-b765-91f9-b3aa-2b86c51e46c9/65788ac1-2b83-4908-baf0-ce1fafe1a62b_3.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/11/71/a0/1171a082-4570-b85f-9ec7-9b40c5fb2327/3f42be79-b91a-4389-8176-5dff89c10000_4.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/45/d4/19/45d4196d-b7dd-f41d-d926-8b56903a4bb7/5ba72b7e-743d-479a-9166-1aba99253039_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/b5/93/9f/b5939fe9-e00e-a528-69c8-6432fa97eeac/a2385cf6-5fd1-45ab-8c6a-37710faab46e_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/b0/38/e5/b038e535-c42d-1160-0deb-fc3d81664616/2afe0ef7-a95c-4df0-9cb4-9aaa7b7a89a6_3.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/d8/c4/50/d8c45098-bd8d-1654-dc54-c49c56f2d9c9/a5e08692-f69e-4d8c-8134-d9670f81bd60_4.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[传奇1.76官方正版盛大首发(重置版)今日开服送点卡迷失传说]]></title>
-        <id>传奇1.76官方正版盛大首发(重置版)今日开服送点卡迷失传说-cn-1747425750922</id>
-        <link href="https://apps.apple.com/cn/app/%E4%BC%A0%E5%A5%871-76%E5%AE%98%E6%96%B9%E6%AD%A3%E7%89%88%E7%9B%9B%E5%A4%A7%E9%A6%96%E5%8F%91-%E9%87%8D%E7%BD%AE%E7%89%88-%E4%BB%8A%E6%97%A5%E5%BC%80%E6%9C%8D%E9%80%81%E7%82%B9%E5%8D%A1%E8%BF%B7%E5%A4%B1%E4%BC%A0%E8%AF%B4/id1576329230?uo=4"/>
-        <updated>2025-05-16T20:02:30.922Z</updated>
-        <summary type="html"><![CDATA[元宝大礼包: ¥88.00 → ¥58.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E4%BC%A0%E5%A5%871-76%E5%AE%98%E6%96%B9%E6%AD%A3%E7%89%88%E7%9B%9B%E5%A4%A7%E9%A6%96%E5%8F%91-%E9%87%8D%E7%BD%AE%E7%89%88-%E4%BB%8A%E6%97%A5%E5%BC%80%E6%9C%8D%E9%80%81%E7%82%B9%E5%8D%A1%E8%BF%B7%E5%A4%B1%E4%BC%A0%E8%AF%B4/id1576329230?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/85/ac/8285aca2-af0f-8685-e78b-507fd5d8d9d6/xiaobai-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>元宝大礼包：</strong><span>¥88.00</span> → <b>
-  <strong>¥58.00</strong>
-</b><span>[¥58.00 ~ ¥88.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  十年不忘初心，官方正版经典再升级！
-原版复刻端游，好玩又保值，永不关服！
-布拉格公会强势回归，兄弟我在正版传奇等你！
-
-
-2024官方正版传奇今日盛大首发！原版PC游戏内容1:1复刻重制，经典全职业-道法战回归。多系统复古玩法，游戏中多种复古写实场景可供玩家随意切换，多种酷炫魔幻的守护装备可在怪物中爆落。自由打金兄弟齐聚，燃情沙城争霸！
-
-【游戏玩法】
-— PK爆装 跨服竞技
-自由PK，蛮荒古城，跨服争霸，多人竞技，与其他服抢夺资源，争夺BOSS！
-杀人爆装、野外红名、镖车护送、领地争夺、激情攻沙丰富的PvP玩法！
-— 轻松挂机 装备保值 
-护肝玩法，轻松挂机升级，等级永不落后！
-装备道具直接掉落，稀世装备永久保值！
-— 自由交易 散人天堂
-超激情打宝神器，爆极品装备、绚丽法阵高级技能刷怪！
-装备保值自由交易，打造散人天堂！
-— 新增玩法 激爽一夏
-卧龙山庄勇闯天关，BOSS悬赏皇陵秘境，刀刀屠龙刀刀切割！
-
-【特色系统】
-— 副本系统：
-全新副本，重磅来袭，等着玩家去探索和体验，和兄弟一起并肩作战吧！
-— 装备系统：
-装备可通过洗练获得随机属性；武器、衣服、项链、勋章、手镯、戒指、腰带、鞋子、玉佩、疗伤石等装备可通过镶嵌宝石提升装备属性。装备阶数：沃玛、祖玛、赤月、雷霆、战神、火龙、通云、金牛、主宰、传奇、热血、真龙、神龙、GM系列，可通过镶嵌宝石提高属性。
-— 转生系统：
-自由转生，转生神翼，万人膜拜，可增加角色生命值和攻击穿戴更高等级装备进入更高等级地图。
-— 法觉系统：
-炫酷法阵必不可少，增强法阵属性，轻松过渡前中期，法阵专属外观，让你在万人面前闪闪发光。
-— 封号系统：
-消耗功勋可提升封号等级，升级后可获得大量属性加成和封号称号显示。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/d2/a8/6f/d2a86fb7-a8d5-6c74-4aaa-a8db1f2624ed/5f1ffc50-f19b-44cf-883e-6dd7a7e10ae4_1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/28/6b/66/286b66e1-f043-f8e2-1304-29efb1ccec8b/92b23b5f-e363-4bea-855c-2f2c810b7f60_2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/0a/41/39/0a413909-b765-91f9-b3aa-2b86c51e46c9/65788ac1-2b83-4908-baf0-ce1fafe1a62b_3.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/11/71/a0/1171a082-4570-b85f-9ec7-9b40c5fb2327/3f42be79-b91a-4389-8176-5dff89c10000_4.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/45/d4/19/45d4196d-b7dd-f41d-d926-8b56903a4bb7/5ba72b7e-743d-479a-9166-1aba99253039_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/b5/93/9f/b5939fe9-e00e-a528-69c8-6432fa97eeac/a2385cf6-5fd1-45ab-8c6a-37710faab46e_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/b0/38/e5/b038e535-c42d-1160-0deb-fc3d81664616/2afe0ef7-a95c-4df0-9cb4-9aaa7b7a89a6_3.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/d8/c4/50/d8c45098-bd8d-1654-dc54-c49c56f2d9c9/a5e08692-f69e-4d8c-8134-d9670f81bd60_4.jpg/552x414bb.jpg" />]]></content>
     </entry>
 </feed>

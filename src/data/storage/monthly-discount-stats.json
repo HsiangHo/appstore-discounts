@@ -92,6 +92,14 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6444782083": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "超大英雄组合包": 1,
+        "限时特惠": 1
+      }
     }
   },
   "hk": {
@@ -577,6 +585,11 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1538124245": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "1580067723": {
       "all": 1,
       "price": 1,
@@ -608,6 +621,11 @@
       "inAppPurchase": {}
     },
     "6446178861": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6449251957": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
