@@ -35816,6 +35816,23 @@
     "history": [
       [
         {
+          "timestamp": 1747772405596,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {
+            "Funk Popular": "¥22.00",
+            "Swing Ⅱ-V-I-VI 12key (Long)": "¥38.00",
+            "Metheny & Mehldau": "¥38.00",
+            "Neo Soul Jam Track 12key": "¥38.00",
+            "Major Jazz Blues 12 key": "¥38.00",
+            "Herbie Hancock & Chick corea": "¥38.00",
+            "Bill Evans Repertoire": "¥58.00",
+            "Rhythm Change 12key": "¥38.00",
+            "Bossa Nova Blues 12key": "¥22.00",
+            "Antonio Carlos Jobim Book Ⅰ.": "¥38.00"
+          }
+        },
+        {
           "timestamp": 1747768437664,
           "price": 98,
           "formattedPrice": "¥98.00",
