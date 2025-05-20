@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-05-20T03:16:13.256Z</updated>
+    <updated>2025-05-20T04:24:02.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-20T03:16:13.257Z</updated>
+        <updated>2025-05-20T04:24:02.598Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnTue, 20 May 2025 03:16:13 GMT</id>
+        <id>rankingcnTue, 20 May 2025 04:24:02 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-20T03:16:13.257Z</updated>
+        <updated>2025-05-20T04:24:02.599Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -199,14 +199,20 @@ feedId:49753297431966720+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1400032769">Card.Note - 多彩卡片笔记</a>
+        <a href="https://apps.apple.com/cn/app/id1055511498">Day One 日記：私人日記</a>
       </td>
       <td>
         <ul>
           <li>
             <span>总次数</span>：<b>1</b>
           </li><li>
-            <span>价格</span>：<b>1</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>Premium</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -216,7 +222,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1448326351">数据恢复</a>
+        <a href="https://apps.apple.com/cn/app/id1400032769">Card.Note - 多彩卡片笔记</a>
       </td>
       <td>
         <ul>
@@ -233,7 +239,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1449020025">不玩手机-自律习惯养成记</a>
+        <a href="https://apps.apple.com/cn/app/id1448326351">数据恢复</a>
       </td>
       <td>
         <ul>
@@ -250,7 +256,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1497120981">LUCH: Photo Effects & Filters</a>
+        <a href="https://apps.apple.com/cn/app/id1449020025">不玩手机-自律习惯养成记</a>
       </td>
       <td>
         <ul>
@@ -267,7 +273,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1538124245">哪里哪里</a>
+        <a href="https://apps.apple.com/cn/app/id1497120981">LUCH: Photo Effects & Filters</a>
       </td>
       <td>
         <ul>
@@ -284,7 +290,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6447693393">灵感卡片 - 创意笔记</a>
+        <a href="https://apps.apple.com/cn/app/id1538124245">哪里哪里</a>
       </td>
       <td>
         <ul>
@@ -301,7 +307,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6737987084">小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</a>
+        <a href="https://apps.apple.com/cn/app/id6447693393">灵感卡片 - 创意笔记</a>
       </td>
       <td>
         <ul>
@@ -318,7 +324,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6742129099">群英打三国-超休闲国风放置卡牌巅峰巨作</a>
+        <a href="https://apps.apple.com/cn/app/id6737987084">小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</a>
       </td>
       <td>
         <ul>
@@ -335,7 +341,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6740471827">手表经典迷宫游戏</a>
+        <a href="https://apps.apple.com/cn/app/id6742129099">群英打三国-超休闲国风放置卡牌巅峰巨作</a>
       </td>
       <td>
         <ul>
@@ -352,7 +358,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6451376191">Dumb Phone: 简约主屏幕</a>
+        <a href="https://apps.apple.com/cn/app/id6740471827">手表经典迷宫游戏</a>
       </td>
       <td>
         <ul>
@@ -369,7 +375,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>16</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6446178861">PlayNav - 影片内无广告！</a>
+        <a href="https://apps.apple.com/cn/app/id6451376191">Dumb Phone: 简约主屏幕</a>
       </td>
       <td>
         <ul>
@@ -386,7 +392,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>17</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6449930220">手表浏览器  Wafari</a>
+        <a href="https://apps.apple.com/cn/app/id6446178861">PlayNav - 影片内无广告！</a>
       </td>
       <td>
         <ul>
@@ -401,6 +407,23 @@ feedId:49753297431966720+userId:73658201673997312
     <tr>
       <td>
         <b>18</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6449930220">手表浏览器  Wafari</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6444782083">王国保卫战4</a>
@@ -525,6 +548,75 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day One 日記：私人日記]]></title>
+        <id>Day One 日記：私人日記-cn-1747714888380</id>
+        <link href="https://apps.apple.com/cn/app/day-one-%E6%97%A5%E8%A8%98-%E7%A7%81%E4%BA%BA%E6%97%A5%E8%A8%98/id1055511498?mt=12&amp;uo=4"/>
+        <updated>2025-05-20T04:21:28.380Z</updated>
+        <summary type="html"><![CDATA[Premium: ¥253.00 → ¥233.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/day-one-%E6%97%A5%E8%A8%98-%E7%A7%81%E4%BA%BA%E6%97%A5%E8%A8%98/id1055511498?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/75/a1/ea75a16e-1777-4be5-7bdb-b0543c3deac7/AppIcon-0-0-85-220-0-0-2-0-2x.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>Premium：</strong><span>¥253.00</span> → <b>
+  <strong>¥233.00</strong>
+</b><span>[¥38.00 ~ ¥253.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Apple 的年度应用在全球范围内下载次数超过 1500 万次，获得 20 万个 5 星级评分，Day One 重塑了日记功能，让您可以随时记录日常生活。 在全球最值得信赖的数字日记中安全地保存音频、视频、照片、笔记等内容。
+
+“Day One 创造了一个非常罕见，甚至让人感觉神圣的东西：一个完全私人的数字空间。”-《纽约时报》
+
+“Day One 使写日记变成了一件轻松愉快的事。”- Wired
+
+“这款出色的日记应用程序仍然美观、易于使用，并且对于任何竞争对手来说都是一个难以超越的强大产品。”- Macworld
+
+为什么选择 DAY ONE？
+
+Day One 是一款原创日记应用。经过十年不懈的更新和新增功能，使它成为世界上最私密、最值得信任和最易于使用的日记记录平台。
+
+易于使用，让您爱不释手
+
+• 备受赞誉的美观设计
+• 无限的文本日记条目
+• 无限量照片和视频*
+•功能强大的富文本格式，带有 Markdown 功能
+• 不同的日记类型适用于记录您生活的方方面面*
+
+私密且安全
+
+• 自动备份可确保日记条目的安全性
+• 端到端加密，这是一种确保日记条目完全私密的巧妙方式
+•日记条目使用密码或 TouchID 来保证安全性
+•多个导出选项（pdf、纯文本、JSON 等）确保您的日记条目永远属于您
+
+养成习惯并坚持下去
+
+•可编程的提醒通知
+• 独特的每日日记提示功能有助于避免日记中断
+•可自定义的模板可节省时间，并可向日记条目中添加组织
+• 通过今日视图，您可以大致了解您去过哪里，做了什么
+
+随时随地写日记
+
+• 可在 iPhone、Apple Watch、iPad 和 Mac 上使用的跨平台应用
+• 能够直接向您的日记发送文本或电子邮件条目
+
+专为记录回忆而生
+
+• 那年今日功能让您可以回顾过去的回忆
+• 标签、收藏夹和搜索筛选器使您可以轻松找到所需内容
+• 地图视图可快速显示您在日记中记录的所有地点
+
+*Day One 可永久免费使用，不限日记条目数量。 Day One 高级会员可享受其他功能，包括不限量的照片、视频和音频录制。 立即开始免费试用。
+
+隐私政策：https://dayoneapp.com/privacy-policy/
+
+使用条款：https://dayoneapp.com/terms-of-use/
+
+如需技术帮助或其他查询，请访问 https://dayoneapp.com/contact/
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/10/02/61100204-5424-353f-4eb7-ef318112e404/9616e6e1-eb84-4ad2-b510-63f91517ed26_Mac1-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/dd/00/2add00e4-71ec-5824-0da7-9155edcd0aba/a0d8e438-0519-4e57-8d86-2e4807552aff_Mac2-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/70/63/ce7063f7-e040-b2a1-0dd8-84fde320e092/b92f6312-a18b-4488-866b-56d500ee8eb2_Mac3-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/ae/76/c0ae766c-cf1f-bbe5-3e63-c224e0a4dc6f/c4f0e9b6-a42b-47b5-898e-62421f90bd77_Mac5-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/4b/4a/684b4af4-446e-1430-5966-7e1f4bcbbcd3/b9a002a6-6656-4f33-9743-c0a74615c9ab_Mac4-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/51/43/fc51434d-542b-740a-28e4-d02a4b9d06f9/21ce8c55-4bf5-45ae-b705-8faf38653136_Mac6-DayOne.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[王国保卫战4]]></title>
