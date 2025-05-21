@@ -14953,6 +14953,25 @@
     "history": [
       [
         {
+          "timestamp": 1747840808780,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Rayark 12th Collection": "$3.99",
+            "Ayatsugu_Otowa Collection": "$3.99",
+            "Sherwin Collection": "$3.99",
+            "Capchii Collection": "$3.99",
+            "VII Bundle 06": "$12.99",
+            "VII Bundle 05": "$10.99",
+            "VII Bundle 03": "$6.99",
+            "VII Bundle 02": "$4.99",
+            "VII Bundle 04": "$8.99",
+            "VII Bundle 01": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746853333553,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -19735,6 +19754,23 @@
     "history": [
       [
         {
+          "timestamp": 1747840808780,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包月": "$0.99",
+            "金牛会员连续包月": "$0.99",
+            "金牛会员尊享版连续包年": "$14.99",
+            "金牛会员月版": "$2.99",
+            "手机Level-2包年服务": "$12.99",
+            "手机超级Level-2连续包半年": "$6.49",
+            "手机超级Level2两年版": "$22.99",
+            "手机高级诊股连续包月": "$0.99",
+            "神奇电波连续包季": "$27.99",
+            "金牛会员年版": "$9.99"
+          }
+        },
+        {
           "timestamp": 1747837102345,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -21026,6 +21062,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747840808780,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "[A heap of crystals]": "$0.99",
+            "[A box of crystals]": "$2.99",
+            "[A package of crystals]": "$3.99",
+            "[A big package of crystals]": "$9.99",
+            "[A chest of crystals]": "$19.99",
+            "Package4": "$9.99",
+            "Coupon of the Greedy Cave": "$3.99",
+            "[A big chest of crystals]": "$49.99"
+          }
+        },
         {
           "timestamp": 1747837102345,
           "price": 0.99,
@@ -23927,6 +23978,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747840808780,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "20,000 points": "$0.99",
+            "63,000 points": "$2.99",
+            "225,000 points": "$9.99",
+            "176,000 points": "$7.99",
+            "345,000 points": "$14.99",
+            "100,000 points": "$2.99",
+            "600,000 points": "$24.99",
+            "25,000 points": "$0.99",
+            "500,000 points": "$9.99",
+            "300,000 points": "$7.99"
+          }
+        },
         {
           "timestamp": 1747837102345,
           "price": 0.49,
@@ -28585,6 +28653,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747840808780,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "HARDCORE TANO*C VOL.II": "$4.99",
+            "HARDCORE TANO*C": "$4.99",
+            "Cosmic Radio 2024": "$4.99",
+            "Miku Extend 2025": "$4.99",
+            "Paradigm: Reboot pt. 2": "$4.99",
+            "Paradigm: Reboot pt. 1": "$4.99",
+            "RAVON": "$4.99",
+            "NEKO_II": "$9.99",
+            "Rhythm Games Party 2024": "$4.99",
+            "B.B.K.K.B.K.K. 2023 Remake SLC": "$4.99"
+          }
+        },
         {
           "timestamp": 1747801317725,
           "price": 1.99,
@@ -45340,14 +45425,23 @@
       "Sandy Shores Bundle": "$7.99",
       "Lunar Age World": "$5.99",
       "Sandy Shores": "$5.99",
-      "Lunar Age Bundle": "$7.99"
+      "Lunar Age Bundle": "$7.99",
+      "Mothgirl Outfit": "$0.99",
+      "Tunneler Ship": "$0.99",
+      "Foxman Bike": "$0.99",
+      "Action Car Avatar": "$0.99",
+      "Super Pet Avatar": "$0.99",
+      "Magical Girl Outfit": "$0.99",
+      "Skyscraper Avatar": "$0.99",
+      "Foxman Outfit": "$0.99",
+      "Super Hero World Bundle": "$7.99"
     },
     "minPriceInfo": {
       "price": 4.99,
       "formattedPrice": "$4.99",
       "Fairytale Kingdom Bundle": "$7.99",
       "Fairytale Kingdom": "$5.99",
-      "The Ultimate Life Collection": "$34.99",
+      "The Ultimate Life Collection": "$19.99",
       "Haunted Hills Bundle": "$7.99",
       "Haunted Hills World": "$5.99",
       "Frozen Lands Bundle": "$7.99",
@@ -45355,9 +45449,37 @@
       "Sandy Shores Bundle": "$7.99",
       "Lunar Age World": "$5.99",
       "Sandy Shores": "$5.99",
-      "Lunar Age Bundle": "$7.99"
+      "Lunar Age Bundle": "$7.99",
+      "Mothgirl Outfit": "$0.99",
+      "Tunneler Ship": "$0.99",
+      "Foxman Bike": "$0.99",
+      "Action Car Avatar": "$0.99",
+      "Super Pet Avatar": "$0.99",
+      "Magical Girl Outfit": "$0.99",
+      "Skyscraper Avatar": "$0.99",
+      "Foxman Outfit": "$0.99",
+      "Super Hero World Bundle": "$7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747840808780,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "The Ultimate Life Collection": "$19.99",
+            "Mothgirl Outfit": "$0.99",
+            "Tunneler Ship": "$0.99",
+            "Foxman Bike": "$0.99",
+            "Action Car Avatar": "$0.99",
+            "Super Pet Avatar": "$0.99",
+            "Magical Girl Outfit": "$0.99",
+            "Skyscraper Avatar": "$0.99",
+            "Foxman Outfit": "$0.99",
+            "Super Hero World Bundle": "$7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746191337517,
