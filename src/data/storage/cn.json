@@ -41806,6 +41806,25 @@
     "history": [
       [
         {
+          "timestamp": 1747815829758,
+          "price": 20,
+          "formattedPrice": "¥20.00",
+          "inAppPurchases": {
+            "反击篇": "¥18.00",
+            "99枚鸡蛋": "¥68.00",
+            "396枚鸡蛋": "¥198.00",
+            "15枚鸡蛋": "¥12.00",
+            "212枚鸡蛋": "¥128.00",
+            "41枚鸡蛋": "¥30.00",
+            "41枝鲜花": "¥30.00",
+            "396枝鲜花": "¥198.00",
+            "15枝鲜花": "¥12.00",
+            "7枚鸡蛋": "¥6.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747238551196,
           "price": 20,
           "formattedPrice": "¥20.00",
@@ -47257,10 +47276,18 @@
       "formattedPrice": "¥18.00"
     },
     "minPriceInfo": {
-      "price": 18,
-      "formattedPrice": "¥18.00"
+      "price": 15,
+      "formattedPrice": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747815829758,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745419646428,
