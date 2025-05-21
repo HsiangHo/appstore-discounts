@@ -3251,7 +3251,8 @@
       "Predictive Report - No Background": "¥22.00",
       "Birth Chart Report - Untimed": "¥22.00",
       "Birthday Report": "¥28.00",
-      "Lunar Return Report": "¥28.00"
+      "Lunar Return Report": "¥28.00",
+      "Predictive Report - Untimed": "¥22.00"
     },
     "minPriceInfo": {
       "price": 298,
@@ -3266,9 +3267,29 @@
       "Predictive Report - No Background": "¥22.00",
       "Birth Chart Report - Untimed": "¥22.00",
       "Birthday Report": "¥28.00",
-      "Lunar Return Report": "¥28.00"
+      "Lunar Return Report": "¥28.00",
+      "Predictive Report - Untimed": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747801317725,
+          "price": 298,
+          "formattedPrice": "¥298.00",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "¥28.00",
+            "Relationship Report": "¥28.00",
+            "Predictive Report - Full": "¥28.00",
+            "7-day Trial Astrolocality": "¥0.00",
+            "Astrolocality Maps": "¥168.00",
+            "Child Report - Full": "¥28.00",
+            "Predictive Report - No Background": "¥22.00",
+            "Birth Chart Report - Untimed": "¥22.00",
+            "Birthday Report": "¥28.00",
+            "Predictive Report - Untimed": "¥22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746658943078,
@@ -24236,7 +24257,8 @@
       "宗师礼包一": "¥118.00",
       "大师礼包四": "¥113.00",
       "大师礼包三": "¥108.00",
-      "大师礼包二": "¥98.00"
+      "大师礼包二": "¥98.00",
+      "3280钻石": "¥328.00"
     },
     "minPriceInfo": {
       "price": 1,
@@ -24261,9 +24283,29 @@
       "宗师礼包一": "¥118.00",
       "大师礼包四": "¥113.00",
       "大师礼包三": "¥108.00",
-      "大师礼包二": "¥98.00"
+      "大师礼包二": "¥98.00",
+      "3280钻石": "¥328.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747801317725,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "60钻石": "¥6.00",
+            "300钻石": "¥30.00",
+            "980钻石": "¥98.00",
+            "1980钻石": "¥198.00",
+            "3280钻石": "¥328.00",
+            "6480钻石": "¥648.00",
+            "月卡": "¥25.00",
+            "季卡": "¥50.00",
+            "1元礼包": "¥1.00",
+            "3元礼包": "¥3.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746334946051,
@@ -39984,6 +40026,24 @@
       "节日礼包": "¥30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747801317725,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "心愿礼包": "¥45.00",
+            "聚财盆": "¥18.00",
+            "超值月卡": "¥30.00",
+            "一碟包子": "¥6.00",
+            "豪华月卡": "¥68.00",
+            "SP武将碎片": "¥298.00",
+            "新手成长礼包": "¥6.00",
+            "竞赛VIP赛季卡": "¥30.00",
+            "新手成长大礼包": "¥30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747747861646,
