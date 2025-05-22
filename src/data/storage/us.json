@@ -63219,7 +63219,8 @@
       "Gizmo": "$0.99",
       "Loki": "$0.99",
       "Civet Theme": "$0.99",
-      "Tuxedo Theme": "$0.99"
+      "Tuxedo Theme": "$0.99",
+      "Siamese Theme": "$0.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -63236,9 +63237,29 @@
       "Gizmo": "$0.99",
       "Loki": "$0.99",
       "Civet Theme": "$0.99",
-      "Tuxedo Theme": "$0.99"
+      "Tuxedo Theme": "$0.99",
+      "Siamese Theme": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747941257433,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lucky": "$0.99",
+            "Siamese Theme": "$0.99",
+            "Monthly": "$1.99",
+            "Yearly": "$11.99",
+            "Grey Theme": "$0.99",
+            "2025 Spring Forest Theme": "$0.99",
+            "2025 Spring Lawn Theme": "$1.49",
+            "2025 Spring Flower Theme": "$0.99",
+            "Lawn Theme": "$0.99",
+            "Toby": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746831739705,
