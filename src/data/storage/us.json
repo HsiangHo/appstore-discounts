@@ -22660,8 +22660,8 @@
       "Hero Trabuco": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99",
+      "price": 1.99,
+      "formattedPrice": "$1.99",
       "Hero Mark X": "$4.99",
       "Special Pack 4": "$14.99",
       "Special Pack 2": "$3.99",
@@ -22678,6 +22678,25 @@
       "Hero Trabuco": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747923470524,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Hero Mark X": "$6.99",
+            "Special Pack 4": "$14.99",
+            "Special Pack 2": "$3.99",
+            "Hero Blue Dragon": "$6.99",
+            "Special Pack 5": "$4.99",
+            "Hero Dr.Graff": "$4.99",
+            "Hero Fate": "$2.99",
+            "Hero Ajax": "$2.99",
+            "Starter Pack": "$4.99",
+            "Hero Sha'Tra": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747026150405,
@@ -30887,6 +30906,25 @@
       "Awakening Skill Package": "$17.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747923470524,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "$3.99",
+            "TeaSet DarkLord Skin Package C": "$4.99",
+            "Teaset Dark Lord Skin PackageB": "$4.99",
+            "Teaset DarkLord Skin Package A": "$4.99",
+            "Little Corr. Hero costume Pack": "$25.99",
+            "Little Hero Costume Package": "$25.99",
+            "Black Dark Lord Skin Package": "$7.99",
+            "White Dark Lord Skin Package": "$7.99",
+            "Awakening Viper Package": "$4.99",
+            "Myth full pack": "$39.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747714888380,
