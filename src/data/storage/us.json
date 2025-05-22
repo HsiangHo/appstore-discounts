@@ -303,6 +303,25 @@
     "history": [
       [
         {
+          "timestamp": 1747877026021,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Adult Swim Customization Pack": "$0.99",
+            "Grimm Skin Pack": "$0.99",
+            "Zombie Skin Pack": "$0.99",
+            "Monster Pack": "$0.99",
+            "Dance Pack Three": "$0.99",
+            "Mondo Pack": "$0.99",
+            "Superbowl Skin Pack": "$0.99",
+            "Candy Land Pack": "$0.99",
+            "Underwater World Pack": "$0.99",
+            "Mafia Pack": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746498642266,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -18990,7 +19009,14 @@
       "Kid": "$0.99",
       "Rob-o": "$0.99",
       "Joshua": "$0.99",
-      "Lucy": "$0.99"
+      "Lucy": "$0.99",
+      "Medium Coin Pack": "$1.99",
+      "Pig": "$0.99",
+      "Dog": "$0.99",
+      "Rooster": "$0.99",
+      "Monkey": "$0.99",
+      "Goat": "$0.99",
+      "Horse": "$0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -19010,9 +19036,35 @@
       "Kid": "$0.99",
       "Rob-o": "$0.99",
       "Joshua": "$0.99",
-      "Lucy": "$0.99"
+      "Lucy": "$0.99",
+      "Medium Coin Pack": "$1.99",
+      "Pig": "$0.99",
+      "Dog": "$0.99",
+      "Rooster": "$0.99",
+      "Monkey": "$0.99",
+      "Goat": "$0.99",
+      "Horse": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747877026021,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Free Checkpoints": "$0.99",
+            "Large Coin Pack": "$2.99",
+            "Medium Coin Pack": "$1.99",
+            "Small Coin Pack": "$0.99",
+            "Pig": "$0.99",
+            "Dog": "$0.99",
+            "Rooster": "$0.99",
+            "Monkey": "$0.99",
+            "Goat": "$0.99",
+            "Horse": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746244942439,
@@ -38129,6 +38181,19 @@
     "history": [
       [
         {
+          "timestamp": 1747877026021,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goodnotes 6 (1 year)": "$11.99",
+            "GoodNotes 5 Unlock": "$9.99",
+            "Goodnotes 6 Free Trial": "$0.00",
+            "Goodnotes 6 One-Time Payment": "$28.99",
+            "Goodnotes 6 (1 Year)": "$11.99",
+            "Marketplace Content": "$6.99"
+          }
+        },
+        {
           "timestamp": 1747801317725,
           "price": 0,
           "formattedPrice": "Free",
@@ -53297,6 +53362,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747877026021,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Colossal Dwarfare": "$7.99",
+            "Hero Lumenir": "$6.99",
+            "HERO DRAGON BONEHART": "$6.99",
+            "Hero Kosmyr": "$6.99",
+            "TOWER TWILIGHT LONGBOWS": "$4.99",
+            "Tower Necromancer": "$4.99",
+            "All Towers": "$19.99",
+            "Tower Elven Stargazers": "$4.99",
+            "Mega Tower Bundle": "$14.99",
+            "Hero Anya": "$2.99"
+          }
+        },
         {
           "timestamp": 1747822762551,
           "price": 6.99,
