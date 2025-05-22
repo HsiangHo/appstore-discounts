@@ -303,6 +303,22 @@
     "history": [
       [
         {
+          "timestamp": 1747883431772,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Dance Pack Too": "$0.99",
+            "Tyrannosaurus Rex Skin Pack": "$0.99",
+            "Alien Pack": "$0.99",
+            "Retro Games SkinPack": "$0.99",
+            "Halloween Skin Pack": "$0.99",
+            "Holiday Skin Pack": "$0.99",
+            "Medieval Pack": "$0.99",
+            "Japanese Skin Pack": "$0.99",
+            "Ice Monster Skin Pack": "$0.99"
+          }
+        },
+        {
           "timestamp": 1747877026021,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -19048,6 +19064,23 @@
     "history": [
       [
         {
+          "timestamp": 1747883431772,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Unlock all stages": "$0.99",
+            "Free Checkpoints": "$0.99",
+            "Atom": "$0.99",
+            "Chloe": "$0.99",
+            "B.I.G.": "$0.99",
+            "Snake": "$0.99",
+            "Tiger": "$0.99",
+            "Large Coin Pack": "$2.99",
+            "Emo": "$0.99",
+            "Mia": "$0.99"
+          }
+        },
+        {
           "timestamp": 1747877026021,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -29364,10 +29397,18 @@
       "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747883431772,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -36887,6 +36928,14 @@
     "history": [
       [
         {
+          "timestamp": 1747883431772,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1745378203223,
           "price": 7.99,
           "formattedPrice": "$7.99",
@@ -43210,10 +43259,18 @@
       "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747883431772,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -43999,6 +44056,14 @@
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747883431772,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745378203223,
@@ -56309,6 +56374,17 @@
       "Hello World!": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747883431772,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Home Sweet Home": "$0.99",
+            "Hello World!": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745983031540,
