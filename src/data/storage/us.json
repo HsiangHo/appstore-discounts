@@ -41129,7 +41129,9 @@
       "Bronze Decree": "$25.99",
       "60 gems": "$0.99",
       "Role Package": "$2.99",
-      "310 gems": "$4.99"
+      "310 gems": "$4.99",
+      "Gold Decree": "$89.99",
+      "Silver Decree": "$49.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -41144,9 +41146,30 @@
       "Bronze Decree": "$25.99",
       "60 gems": "$0.99",
       "Role Package": "$2.99",
-      "310 gems": "$4.99"
+      "310 gems": "$4.99",
+      "Gold Decree": "$89.99",
+      "Silver Decree": "$49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747952213577,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Role Package": "$2.99",
+            "Teammate Package": "$4.99",
+            "Role Package III": "$9.99",
+            "Resource Package": "$2.99",
+            "Gold Decree": "$89.99",
+            "Heroic Package#3": "$49.99",
+            "Silver Decree": "$49.99",
+            "Heroic Package#1": "$9.99",
+            "Teammate Package#2": "$4.99",
+            "310 gems": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746590581540,
@@ -64854,6 +64877,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747952213577,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$3.99",
+            "The Aircraft Bundle": "$17.99",
+            "Global scenery - 12 months": "$12.99",
+            "Boeing 737-900": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Airbus A350-1000": "$3.99",
+            "Airbus A380": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Global scenery - 3 months": "$6.99"
+          }
+        },
         {
           "timestamp": 1747898245923,
           "price": 3.99,
