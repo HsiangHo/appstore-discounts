@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-05-22T14:23:06.665Z</updated>
+    <updated>2025-05-22T23:21:16.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-22T14:23:06.666Z</updated>
+        <updated>2025-05-22T23:21:16.315Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnThu, 22 May 2025 14:23:06 GMT</id>
+        <id>rankingcnThu, 22 May 2025 23:21:16 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-22T14:23:06.667Z</updated>
+        <updated>2025-05-22T23:21:16.316Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -406,14 +406,20 @@ feedId:49753297431966720+userId:73658201673997312
         <b>17</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6447693393">灵感卡片 - 创意笔记</a>
+        <a href="https://apps.apple.com/cn/app/id1603421749">传奇高爆99999% 攻速9999倍PC同款三职业:战无不胜</a>
       </td>
       <td>
         <ul>
           <li>
             <span>总次数</span>：<b>1</b>
           </li><li>
-            <span>价格</span>：<b>1</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>限时礼包</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -423,7 +429,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6737987084">小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</a>
+        <a href="https://apps.apple.com/cn/app/id6447693393">灵感卡片 - 创意笔记</a>
       </td>
       <td>
         <ul>
@@ -440,7 +446,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>19</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6742129099">群英打三国-超休闲国风放置卡牌巅峰巨作</a>
+        <a href="https://apps.apple.com/cn/app/id6737987084">小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</a>
       </td>
       <td>
         <ul>
@@ -457,7 +463,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>20</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6740471827">手表经典迷宫游戏</a>
+        <a href="https://apps.apple.com/cn/app/id6742129099">群英打三国-超休闲国风放置卡牌巅峰巨作</a>
       </td>
       <td>
         <ul>
@@ -474,7 +480,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>21</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6451376191">Dumb Phone: 简约主屏幕</a>
+        <a href="https://apps.apple.com/cn/app/id6740471827">手表经典迷宫游戏</a>
       </td>
       <td>
         <ul>
@@ -491,7 +497,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>22</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6446178861">PlayNav - 影片内无广告！</a>
+        <a href="https://apps.apple.com/cn/app/id6451376191">Dumb Phone: 简约主屏幕</a>
       </td>
       <td>
         <ul>
@@ -508,7 +514,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>23</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6449930220">手表浏览器  Wafari</a>
+        <a href="https://apps.apple.com/cn/app/id6446178861">PlayNav - 影片内无广告！</a>
       </td>
       <td>
         <ul>
@@ -523,6 +529,23 @@ feedId:49753297431966720+userId:73658201673997312
     <tr>
       <td>
         <b>24</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6449930220">手表浏览器  Wafari</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6444782083">王国保卫战4</a>
@@ -547,7 +570,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -564,7 +587,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6744311159">魔王终局</a>
@@ -681,6 +704,51 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传奇高爆99999% 攻速9999倍PC同款三职业:战无不胜]]></title>
+        <id>传奇高爆99999% 攻速9999倍PC同款三职业:战无不胜-cn-1747955795126</id>
+        <link href="https://apps.apple.com/cn/app/%E4%BC%A0%E5%A5%87%E9%AB%98%E7%88%8699999-%E6%94%BB%E9%80%9F9999%E5%80%8Dpc%E5%90%8C%E6%AC%BE%E4%B8%89%E8%81%8C%E4%B8%9A-%E6%88%98%E6%97%A0%E4%B8%8D%E8%83%9C/id1603421749?uo=4"/>
+        <updated>2025-05-22T23:16:35.126Z</updated>
+        <summary type="html"><![CDATA[限时礼包: ¥208.00 → ¥30.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E4%BC%A0%E5%A5%87%E9%AB%98%E7%88%8699999-%E6%94%BB%E9%80%9F9999%E5%80%8Dpc%E5%90%8C%E6%AC%BE%E4%B8%89%E8%81%8C%E4%B8%9A-%E6%88%98%E6%97%A0%E4%B8%8D%E8%83%9C/id1603421749?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/be/32/b6be32c9-5129-0d69-3f29-45f6f6dfbe7f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>限时礼包：</strong><span>¥208.00</span> → <b>
+  <strong>¥30.00</strong>
+</b><span>[¥30.00 ~ ¥208.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  金蛇新春贺岁，传奇耀世启幕！
+蛇年限定版官方盛大首发，超变玩法复古体验！
+全新合击绝技现世，经典玩法焕新升级！
+
+游戏特色
+【超变玩法 装备靠打】
+稀有装备打怪掉落，更有虎年限定装备，等你获取！
+
+【沙城攻坚 策略对决】
+肉盾堵门，抢占复活点，多元策略沙城齐现，等你来战！
+
+【周末狂欢 燃爆全场】
+狂欢启幕，世界BOSS，狂野挖矿等数十种活动限时开启，海量道具、神装等你来拿！
+
+【神宠养成 战力狂飙】
+神宠特色养成，进阶觉醒，战力飞升！
+
+【合击绝技 焕新登场】
+新版合击绝技，更华丽的特效及更强大的威力定能助你横扫战场！
+
+【热血烧猪 经典还原】
+端游经典玩法，带你重温经典旧时光，正版原生体验！
+
+【超强打击 刀刀切割】
+真实打击，刀刀切割，小怪满屏不用抢！
+
+【专属神装 时刻惊喜】
+一怪一专属神装，打怪即出，惊喜不断，时刻欢呼！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/fd/ab/8dfdab7c-acdb-dd68-b67b-fd8d5a0569be/1242-1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/16/c6/2316c642-797a-da16-ecb8-65ce7b5bd73b/1242-2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/bf/d0/41bfd077-4131-b9dc-75e5-7c16b5b4243c/1242-3.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/0e/cf/130ecfac-1220-c208-9daf-f2f295a65fa0/2048-1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/f9/aa/65f9aab4-bcc8-b739-14ac-473da1f8f772/2048-2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/40/6d/b2406dfb-d431-901b-53a8-3d0a73d69841/2048-3.jpg/576x768bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[水平仪 HD]]></title>
@@ -1244,73 +1312,5 @@ https://www.ironhidegames.com/TermsOfService
 隐私政策：
 https://www.ironhidegames.com/PrivacyPolicy
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/f3/a0/1bf3a00f-986b-8a65-efae-57f9e70c780e/24c367e5-9847-4415-ad28-ed597679884a_KRV_Pirate-screenshots_iPhone-5.5_Simplified-chinese-0000.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/bd/c2/62bdc250-33ce-b6f9-9e07-27d214bcb417/509049e9-847f-472f-8b28-edbc2ed0e3ca_zh_Hans_iPhone_00.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/ec/48/44ec4864-558b-6720-46e4-7a176c718fc0/99eeab76-5160-46c9-9bbb-193390b86116_02.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/77/ed/a577ed91-1622-08b2-d6ab-b4ccc1396ec5/d483bc57-95e1-44c3-b6d5-c8823673abcf_zh_Hans_iPhone_02.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/af/56/c4af566c-89db-ceb5-aa7c-7db736ac8dab/7131d8eb-0bbe-4afe-ab27-da91482e04be_zh_Hans_iPhone_03.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/79/0f/62790fd5-ab7d-c2a8-c06a-5a2d1b8d8ef0/d93da903-fd95-4283-96aa-cbad8a9e0fad_zh_Hans_iPhone_04.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/0a/cb/5d0acbfa-581a-1c48-3017-3a2d107690a8/26908417-e1e1-4a71-96b3-ab40ea37ba59_KRV_Pirates-screenshots_4_3_new_Simplified-chinese-0000.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/c6/a4/f8c6a451-db0f-5905-0783-aaf780e063bd/09572487-e349-4e4f-ba11-15035de048c8_zh_Hans_iPad_00.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/72/ad/c772ad26-0391-a273-1bf5-086134b19fe4/5fda9de3-1f79-4a57-9280-70270064d81c_02.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/47/bf/e947bf2f-a3f3-9857-dec6-c0085fbe7db2/17ef0e21-a96d-4d68-8d1a-a52279fbefe1_zh_Hans_iPad_02.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/e2/f9/eae2f9b2-8175-d331-c320-acf33e62bb4f/3c4bc1b2-9fe5-4ca9-b4ac-2ed35e3ccaed_zh_Hans_iPad_03.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/0a/1a/cf0a1a49-62f1-c8fc-9858-682287e1e4db/bc7a8ebe-9cff-4a72-bd95-d75b8d605039_zh_Hans_iPad_04.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手表浏览器  Wafari]]></title>
-        <id>手表浏览器  Wafari-cn-1747674942029</id>
-        <link href="https://apps.apple.com/cn/app/%E6%89%8B%E8%A1%A8%E6%B5%8F%E8%A7%88%E5%99%A8-wafari/id6449930220?uo=4"/>
-        <updated>2025-05-19T17:15:42.029Z</updated>
-        <summary type="html"><![CDATA[价格: ¥5.00 → ¥3.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%89%8B%E8%A1%A8%E6%B5%8F%E8%A7%88%E5%99%A8-wafari/id6449930220?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/75/f6/bc75f6c2-bef9-414f-acfb-346177a6ade1/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥5.00</span> → <b>
-  <strong>¥3.00</strong>
-</b><span>[¥1.00 ~ ¥6.00]</span>）
-</h2><h2>应用描述</h2><p>
-  Wafari 手表浏览器，让你的Apple Watch轻松浏览网页
-
-- 支持多种搜索引擎，搜索自定义
-- 书签快速创建和同步
-- 浏览历史记录
-- iCloud同步数据
-
-欢迎使用
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/04/9b/bc/049bbcc6-08ad-ce69-0a2c-e47c737b35c6/e7e8331d-49e7-4094-b5d2-f9a85aaec304_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-06-05_at_17.16.10.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/c6/df/8ec6dfb6-31fa-3484-e757-e7582c15b84b/3b8cea51-1470-44dd-9942-d11550847dfa_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-06-05_at_17.18.25.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LUCH: Photo Effects & Filters]]></title>
-        <id>LUCH: Photo Effects &amp; Filters-cn-1747667982004</id>
-        <link href="https://apps.apple.com/cn/app/luch-photo-effects-filters/id1497120981?uo=4"/>
-        <updated>2025-05-19T15:19:42.004Z</updated>
-        <summary type="html"><![CDATA[价格: ¥3.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/luch-photo-effects-filters/id1497120981?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/8f/a7/768fa7de-6762-b739-351e-9d29dc513354/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥3.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥3.00]</span>）
-</h2><h2>应用描述</h2><p>
-  LUCH Films is a modern app for giving images the effect of film photography. Try unique bokeh effects, light leaks, noise and dust effects, and original filters.
-
-20+ HANDMADE FILTERS
-
-The application has over 20 different filters made by hand by a professional photographer. They are universal and made for various kinds of photos and colors, imitating the effects film KODAK and ILFORD.
-
-FILM FRAMES FOR INSTAGRAM STORY AND FEED
-
-We have adapted film frames for modern screen formats and added them to the application so that the warmth of film photography will always remain in our hearts and minds.
-
-DUST EFFECT
-
-Making a shabby photo is easy. You don't have to wait 20 years, you just have to choose one of 35 effects.
-
-LIGHT LEAKS
-
-You know these old light leaks shots that we loved to look at as children. We simulated the same light flashes in the LUCH FILMS.
-
-BOKEH EFFECT
-
-If you love bokeh as much as we do, then you should definitely love it. Choose from 35 bokeh and prism effects.
-
-NO ADS, NO SUBSCRIPTIONS, NO IN-APP PURCHASES
-
-Take full control over your image, apply unique filters developed in collaboration with photographers. Create unique photos including new layers. Over 90 effects. The ability to apply noise and dust effects, light leaks, bokeh and prism effects to the image.
-
-You can choose the size of the image for a stream or story, which is ideal for Instagram or other social networks. Film frames are also included in the LUCH Films.
-
-Follow @luchfilmsapp on Instagram for inspiration from our community of users.
-We love hearing your ideas and feedback. Please email hello@vostokapp.ru or DM us on Instagram at @luchfilmsapp for questions or suggestions.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/dd/4a/82/dd4a8296-5b8c-7ae8-18ac-70ec9300345d/d0e89f8b-e0bc-498e-9cd3-d00e1c344362_Group_1004.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/97/e9/6d/97e96d91-8718-5c9b-814e-1d2b251a1a39/9d9ed9a1-9dc6-498e-9019-4fe09435277d_Group_992.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/db/ea/41/dbea4104-d415-ed42-5d72-bfc68918ac03/27c9554f-2ffb-4116-9f7a-9423048642de_Group_1033.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e6/20/09/e6200980-8b20-ab1a-c07f-f1838d27ba09/fa381b19-edc3-4542-98a9-37134c4a3a85_Group_1032.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/94/37/bd9437e0-0488-26f2-25f3-b9957e62ddfe/f36dbd84-605b-4a28-81e0-1f511c9f314e_Group_1034.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d3/17/c3/d317c334-ad9f-a716-9204-832370b9b736/026954c8-11b9-4714-bd81-3b6c87c13908_Group_1030.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3b/3f/d3/3b3fd3dd-0d05-0f5f-2d5f-86bd361c9c20/7b938047-d866-44ad-8a01-b26447f0fd70_Group_1031.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2a/6b/91/2a6b91ff-cae9-f2d8-9012-1ecf8d343fb7/196b3455-4eed-4d2c-8374-c197652a8e38_Group_998.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ac/da/78/acda7899-5c13-e880-7283-a745440be7e4/86217d6c-6d55-48c3-bdfc-9c964ff2ff9b_Group_994.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f8/40/8f/f8408f24-9df9-4c85-c965-d27bf40fda09/b8d6eef1-6482-48ab-a052-9b42d18ec046_ipad-2-3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/22/a7/75/22a775a6-0f88-b05c-29f0-5fdc02c14df4/782c79ca-9d65-485e-9d2a-7433b8b8c810_ipad-2-2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/b7/8d/76b78d6a-32f8-2b2c-0510-30f6ddcdfd8e/02ad3071-384d-4431-af5b-551645b4e7c9_ipad-2-1.png/576x768bb.png" />]]></content>
     </entry>
 </feed>

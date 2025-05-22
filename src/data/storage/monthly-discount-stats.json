@@ -88,6 +88,13 @@
         "铜币礼包": 2
       }
     },
+    "1603421749": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "限时礼包": 1
+      }
+    },
     "1624326561": {
       "all": 3,
       "price": 0,
@@ -754,6 +761,11 @@
       "inAppPurchase": {}
     },
     "6471947612": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6467822375": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
