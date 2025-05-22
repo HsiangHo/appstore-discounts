@@ -63015,6 +63015,18 @@
     "history": [
       [
         {
+          "timestamp": 1747902238239,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "故事模式+自由模式合集": "$8.99",
+            "劇情模式": "$4.99",
+            "自由模式": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745896628504,
           "price": 0.29,
           "formattedPrice": "$0.29",
