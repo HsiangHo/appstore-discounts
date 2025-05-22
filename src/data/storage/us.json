@@ -30908,6 +30908,23 @@
     "history": [
       [
         {
+          "timestamp": 1747927162248,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "$3.99",
+            "Original Succession Package": "$17.99",
+            "Monster Succession": "$4.99",
+            "Dark Lord Awakening Complete": "$26.99",
+            "Awakened Irea Package": "$4.99",
+            "Dark Lord Boost Package": "$8.99",
+            "Original Lord Complete Package": "$26.99",
+            "Awakening Viper Package": "$4.99",
+            "Torture Master Package": "$22.99",
+            "Original Facility Package": "$8.99"
+          }
+        },
+        {
           "timestamp": 1747923470524,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -49053,6 +49070,20 @@
       "Apollo Lunar Missions": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747927162248,
+          "price": 29.99,
+          "formattedPrice": "$29.99",
+          "inAppPurchases": {
+            "SkySafari Premium": "$29.99",
+            "SkySafari Premium Monthly": "$3.99",
+            "PGC Galaxy Database": "$0.00",
+            "GAIA Star Database": "$0.00",
+            "Apollo Lunar Missions": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746760759184,

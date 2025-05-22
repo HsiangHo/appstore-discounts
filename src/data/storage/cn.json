@@ -37103,6 +37103,20 @@
     "history": [
       [
         {
+          "timestamp": 1747927162248,
+          "price": 198,
+          "formattedPrice": "¥198.00",
+          "inAppPurchases": {
+            "SkySafari Premium Monthly": "¥25.00",
+            "GAIA Star Database": "¥0.00",
+            "PGC Galaxy Database": "¥0.00",
+            "Apollo Lunar Missions": "¥0.00",
+            "SkySafari Premium": "¥198.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746763400158,
           "price": 98,
           "formattedPrice": "¥98.00",
