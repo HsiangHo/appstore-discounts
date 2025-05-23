@@ -558,6 +558,11 @@
         "8mm Pro": 1
       }
     },
+    "510249014": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "904278510": {
       "all": 2,
       "price": 0,
@@ -644,6 +649,16 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1439262206": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {
+        "The Riverfolk Expansion": 1,
+        "Root: The Underworld Expansion": 1,
+        "Exiles & Partisans & Vagabonds": 1,
+        "The Clockwork Expansion": 1
+      }
+    },
     "1439881811": {
       "all": 1,
       "price": 0,
@@ -715,6 +730,11 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1642733080": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "6447693393": {
       "all": 1,
       "price": 1,
@@ -771,8 +791,8 @@
       "inAppPurchase": {}
     },
     "6467822375": {
-      "all": 1,
-      "price": 1,
+      "all": 2,
+      "price": 2,
       "inAppPurchase": {}
     }
   },
