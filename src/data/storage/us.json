@@ -38650,6 +38650,23 @@
     "history": [
       [
         {
+          "timestamp": 1748024609237,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Travel Planning Template Bundl": "$3.99",
+            "Smart Digital Notebook (Matcha": "$7.99",
+            "Digital Language Learning Jour": "$6.99",
+            "Digital Mind Map Notebook": "$6.99",
+            "Smart ADHD Planner": "$9.99",
+            "Business Productivity Planner": "$10.99",
+            "12 Tab Paper Texture Study Not": "$6.99",
+            "Study Daily Planner (Mon.Start": "$10.99",
+            "Business & Focus Planner": "$10.99",
+            "Study Daily Planner (Sun.Start": "$10.99"
+          }
+        },
+        {
           "timestamp": 1747974056302,
           "price": 0,
           "formattedPrice": "Free",
@@ -58594,6 +58611,25 @@
       "Weapon Upgrade Ticket x1 (C)": "$2.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748024609237,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$59.99",
+            "Extra DLC Pack": "$19.99",
+            "Weapon Upgrade Ticket x5 (A)": "$9.99",
+            "Weapon Upgrade Ticket x3 (A)": "$6.99",
+            "Weapon Upgrade Ticket x3 (D)": "$6.99",
+            "Weapon Upgrade Ticket x3 (C)": "$6.99",
+            "Weapon Upgrade Ticket x1 (F)": "$2.99",
+            "Weapon Upgrade Ticket x1 (E)": "$2.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.99",
+            "Weapon Upgrade Ticket x1 (C)": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747541165364,
