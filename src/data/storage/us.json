@@ -10570,6 +10570,23 @@
     "history": [
       [
         {
+          "timestamp": 1747998887002,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Skatepark: Mondo Ramp": "$0.99",
+            "Skatepark: The Factory": "$0.99",
+            "Skatepark: The Valley": "$0.99",
+            "Skatepark: Schoolyard": "$0.99",
+            "Skatepark 6 Pack": "$4.99",
+            "Unlimited Custom Images": "$4.99",
+            "Skatepark: The Warehouse": "$0.99",
+            "Skatepark: Inbound": "$0.99",
+            "Slow Motion Mode": "$0.99",
+            "Skatepark: Double Infinity": "$0.99"
+          }
+        },
+        {
           "timestamp": 1747995551071,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -14129,6 +14146,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1747998887002,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Adult Supervision": "$1.99",
+            "Just For Kids": "$0.00",
+            "Happy Holidays": "$1.99",
+            "Mix It Up": "$0.00",
+            "That's So 90s": "$1.99",
+            "The Ellen Show": "$0.00",
+            "Food Fight": "$1.99",
+            "Adult Supervision 2: Even Adultier": "$1.99",
+            "Branded": "$1.99",
+            "Super Heroes": "$1.99"
+          }
+        },
         {
           "timestamp": 1747995551071,
           "price": 1.99,
