@@ -3366,6 +3366,23 @@
     "history": [
       [
         {
+          "timestamp": 1747963450490,
+          "price": 298,
+          "formattedPrice": "¥298.00",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "¥28.00",
+            "Relationship Report": "¥28.00",
+            "Predictive Report - Full": "¥28.00",
+            "7-day Trial Astrolocality": "¥0.00",
+            "Astrolocality Maps": "¥168.00",
+            "Child Report - Full": "¥28.00",
+            "Predictive Report - No Background": "¥22.00",
+            "Birth Chart Report - Untimed": "¥22.00",
+            "Birthday Report": "¥28.00",
+            "Predictive Report - Untimed": "¥22.00"
+          }
+        },
+        {
           "timestamp": 1747955795126,
           "price": 298,
           "formattedPrice": "¥298.00",
@@ -25317,6 +25334,25 @@
     "history": [
       [
         {
+          "timestamp": 1747963450490,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "阿古亚星兜风指南": "¥25.00",
+            "肥宅快乐包 Vol.20": "¥25.00",
+            "喵斯快跑·传奇": "¥25.00",
+            "宇宙电台 2024": "¥25.00",
+            "MSR特选曲目组合包_Vol.02": "¥40.00",
+            "MD 级战术教育光盘": "¥18.00",
+            "东方暮乐团 -肆-": "¥25.00",
+            "东方暮乐团 组合包100": "¥100.00",
+            "东方暮乐团 组合包88": "¥88.00",
+            "东方暮乐团 组合包78": "¥78.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746802942895,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -38868,6 +38904,23 @@
     "history": [
       [
         {
+          "timestamp": 1747963450490,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "1200灵符": "¥12.00",
+            "3000灵符": "¥30.00",
+            "5000灵符": "¥50.00",
+            "10800灵符": "¥108.00",
+            "32800灵符": "¥328.00",
+            "64800灵符": "¥648.00",
+            "史诗礼包": "¥158.00",
+            "坐骑礼包504": "¥208.00",
+            "限时礼包": "¥208.00",
+            "进阶礼包": "¥178.00"
+          }
+        },
+        {
           "timestamp": 1747955795126,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -40388,6 +40441,24 @@
       "节日礼包": "¥30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747963450490,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "心愿礼包": "¥45.00",
+            "聚财盆": "¥18.00",
+            "超值月卡": "¥30.00",
+            "豪华月卡": "¥68.00",
+            "一碟包子": "¥6.00",
+            "SP武将碎片": "¥30.00",
+            "新手成长礼包": "¥6.00",
+            "竞赛VIP赛季卡": "¥30.00",
+            "新手成长大礼包": "¥30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747801317725,
@@ -44388,6 +44459,14 @@
       "formattedPrice": "¥3.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747963450490,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747790676979,

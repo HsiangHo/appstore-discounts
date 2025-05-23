@@ -96,10 +96,10 @@
       }
     },
     "1624326561": {
-      "all": 3,
+      "all": 4,
       "price": 0,
       "inAppPurchase": {
-        "SP武将碎片": 3
+        "SP武将碎片": 4
       }
     },
     "6447693393": {
@@ -151,6 +151,11 @@
       "inAppPurchase": {}
     },
     "6744311159": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6742396803": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
