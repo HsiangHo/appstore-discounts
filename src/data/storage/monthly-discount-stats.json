@@ -159,6 +159,11 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6473332700": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   },
   "hk": {
@@ -667,10 +672,10 @@
       }
     },
     "1444383602": {
-      "all": 2,
+      "all": 3,
       "price": 0,
       "inAppPurchase": {
-        "Marketplace Content": 2
+        "Marketplace Content": 3
       }
     },
     "1449020025": {
@@ -793,6 +798,11 @@
     "6467822375": {
       "all": 2,
       "price": 2,
+      "inAppPurchase": {}
+    },
+    "6743459503": {
+      "all": 1,
+      "price": 1,
       "inAppPurchase": {}
     }
   },
