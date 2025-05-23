@@ -10570,6 +10570,25 @@
     "history": [
       [
         {
+          "timestamp": 1747995551071,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "SLS 2023: Chicago": "$0.99",
+            "SLS 2022: Jacksonville": "$0.99",
+            "SLS 2021: World Championship": "$0.99",
+            "SLS 2019: Sao Paulo": "$0.99",
+            "SLS 2019: London": "$0.99",
+            "Sandbox 1 Year": "$24.99",
+            "Sandbox 3 Months": "$9.99",
+            "Sandbox Monthly": "$4.99",
+            "SLS 2018: World Championship": "$0.99",
+            "Mountain of Bolts": "$99.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745773328187,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -14109,6 +14128,25 @@
       "90s And 00s Cartoons Deck": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747995551071,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Kids Favs Bundle": "$5.99",
+            "Animation Bundle Sale": "$4.99",
+            "Animated Movies Deck": "$1.99",
+            "Animation Bundle": "$5.99",
+            "Kids Favs Bundle Sale": "$4.99",
+            "Around The World Bundle": "$6.99",
+            "Travel Essentials Deck": "$1.99",
+            "Around The World Bundle Sale": "$5.99",
+            "90s And 00s Cartoons Deck": "$1.99",
+            "Kids Family Bundle BYOD": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747819187633,
@@ -53892,7 +53930,8 @@
       "Spider Offer": "$6.99",
       "All towers": "$14.99",
       "All heroes": "$24.99",
-      "Tower Elven Stargazers": "$4.99"
+      "Tower Elven Stargazers": "$4.99",
+      "TWILIGHT LONGBOWS SALE": "$2.99"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -53919,10 +53958,28 @@
       "Spider Offer": "$6.99",
       "All towers": "$14.99",
       "All heroes": "$24.99",
-      "Tower Elven Stargazers": "$4.99"
+      "Tower Elven Stargazers": "$4.99",
+      "TWILIGHT LONGBOWS SALE": "$2.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1747995551071,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Colossal Dwarfare": "$7.99",
+            "Hero Lumenir": "$6.99",
+            "Hero Kosmyr": "$6.99",
+            "HERO DRAGON BONEHART": "$6.99",
+            "TOWER TWILIGHT LONGBOWS": "$4.99",
+            "Tower Necromancer": "$4.99",
+            "All Towers": "$19.99",
+            "Mega Tower Bundle": "$14.99",
+            "TWILIGHT LONGBOWS SALE": "$2.99",
+            "All Heroes": "$19.99"
+          }
+        },
         {
           "timestamp": 1747974056302,
           "price": 6.99,
@@ -63849,6 +63906,25 @@
     "history": [
       [
         {
+          "timestamp": 1747995551071,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Round the World Ticket": "$29.99",
+            "1910 Ticket Pack": "$3.99",
+            "Europe Expansion": "$9.99",
+            "Europe Map": "$8.99",
+            "Ticket to Ride ChristmasBundle": "$4.99",
+            "Nordic Bundle": "$7.99",
+            "LegendaryAsia Expansion Bundle": "$7.99",
+            "Japan Expansion Bundle": "$7.99",
+            "Nordic Map": "$6.99",
+            "India Expansion Bundle": "$7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747538584897,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -66998,6 +67074,25 @@
       "Season MLB 1990": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1747995551071,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "Season MLB 1990": "$0.99",
+            "Season MLB 2013": "$0.99",
+            "Season MLB 2004": "$0.99",
+            "Season MLB 2011": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747920603969,
