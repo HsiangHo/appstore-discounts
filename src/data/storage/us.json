@@ -26461,6 +26461,23 @@
     "history": [
       [
         {
+          "timestamp": 1748031565433,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Feature Package": "$3.99",
+            "Automatic Package": "$15.99",
+            "300 Rubies": "$3.99",
+            "Total Package": "$15.99",
+            "660 Rubies": "$8.99",
+            "Magic Package": "$8.99",
+            "Element Package": "$15.99",
+            "Rebirth EXP increase": "$8.99",
+            "2400 Rebirth Stones": "$8.99",
+            "Element EXP increase": "$8.99"
+          }
+        },
+        {
           "timestamp": 1748027622332,
           "price": 0.99,
           "formattedPrice": "$0.99",
