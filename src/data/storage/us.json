@@ -7234,9 +7234,19 @@
     "minPriceInfo": {
       "price": 4.99,
       "formattedPrice": "$4.99",
-      "DVSA Driving essential skills": "$9.99"
+      "DVSA Driving essential skills": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748003740620,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "DVSA Driving essential skills": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745470938782,

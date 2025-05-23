@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-05-23T10:24:14.303Z</updated>
+    <updated>2025-05-23T12:40:13.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-23T10:24:14.304Z</updated>
+        <updated>2025-05-23T12:40:13.886Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnFri, 23 May 2025 10:24:14 GMT</id>
+        <id>rankingcnFri, 23 May 2025 12:40:13 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-23T10:24:14.304Z</updated>
+        <updated>2025-05-23T12:40:13.886Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -218,6 +218,29 @@ feedId:49753297431966720+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id463295925">Official DVSA Theory Test Kit</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>DVSA Driving essential skills</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>8</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id510249014">水平仪 HD</a>
       </td>
       <td>
@@ -232,7 +255,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
@@ -255,7 +278,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1055511498">Day One 日記：私人日記</a>
@@ -278,7 +301,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1344655035">蜡烛人</a>
@@ -301,7 +324,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -318,7 +341,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1448326351">数据恢复</a>
@@ -335,7 +358,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1449020025">不玩手机-自律习惯养成记</a>
@@ -352,7 +375,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1453318714">Vostok — 创建美丽快拍页面</a>
@@ -369,7 +392,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1497120981">LUCH: Photo Effects & Filters</a>
@@ -386,7 +409,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1538124245">哪里哪里</a>
@@ -403,7 +426,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1603421749">传奇高爆99999% 攻速9999倍PC同款三职业:战无不胜</a>
@@ -426,7 +449,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -443,7 +466,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737987084">小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</a>
@@ -460,7 +483,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742129099">群英打三国-超休闲国风放置卡牌巅峰巨作</a>
@@ -477,7 +500,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6740471827">手表经典迷宫游戏</a>
@@ -494,7 +517,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6451376191">Dumb Phone: 简约主屏幕</a>
@@ -511,7 +534,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6446178861">PlayNav - 影片内无广告！</a>
@@ -528,7 +551,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6449930220">手表浏览器  Wafari</a>
@@ -545,7 +568,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6444782083">王国保卫战4</a>
@@ -570,7 +593,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -587,7 +610,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6744311159">魔王终局</a>
@@ -604,7 +627,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742396803">DaDaDaDa - 空气枪</a>
@@ -621,7 +644,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6473332700">逐鹿 - 历史沙盘战棋</a>
@@ -738,6 +761,81 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Official DVSA Theory Test Kit]]></title>
+        <id>Official DVSA Theory Test Kit-cn-1748003740620</id>
+        <link href="https://apps.apple.com/cn/app/official-dvsa-theory-test-kit/id463295925?uo=4"/>
+        <updated>2025-05-23T12:35:40.620Z</updated>
+        <summary type="html"><![CDATA[DVSA Driving essential skills: ¥68.00 → ¥38.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/official-dvsa-theory-test-kit/id463295925?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/5a/40/0a5a4017-b2dd-d646-3485-3d6697e9f141/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>DVSA Driving essential skills：</strong><span>¥68.00</span> → <b>
+  <strong>¥38.00</strong>
+</b><span>[¥38.00 ~ ¥68.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  The Driver and Vehicle Standards Agency (DVSA) are the people who set the tests and this app is by their official publisher, The Stationery Office (TSO). It’s regularly updated and covers everything you need to know to pass your theory test, drive safely and improve your road safety awareness! 
+
+Our app is for CAR DRIVERS in Great Britain and Northern Ireland. 
+
+This app can be used offline so that you can practise anytime and anywhere. 
+
+KEY HIGHLIGHTS
+• Over 770+  practice theory questions.
+• Custom mock tests.
+• 36 interactive CGI hazard perception clips.
+• Free access to The Highway Code.
+• Exclusive access to one of the 3 source materials for the theory test: ‘The Official DVSA Guide to Driving – the essential skills’ (additional purchase required).
+• Progress tracking.
+• Advanced search tool.
+• Voiceover features.
+
+TEST YOURSELF
+• Take unlimited quick and timed mock tests. Build a custom practice set or take a timed mock test with 50 questions – just like the real thing. 
+• Your progress will also be monitored and visualised in graphs, so you can see how far you’ve come and when you are ready to pass.
+
+STUDY AND PRACTISE
+• Read the exclusive study content to increase your knowledge of all theory test topics and test your understanding by answering practice questions (including all official questions, over 770+!).
+• You can also select specific question sets from areas you may be struggling with. Got a question wrong? See the correct answer, note the explanation and find out more with references to The Highway Code and other official DVSA guides!
+
+VIDEO CASE STUDIES
+• 9 bonus case studies so that you can practise multiple choice questions about a short video clip. 
+
+PROGRESS GAUGE
+• Backed by learning science, use the progress gauge to measure your test readiness, providing you with confidence that you’re ready to pass your theory test. 
+
+THE HIGHWAY CODE
+• To support your study, we’ve included a free copy of The Official Highway Code to revise from.
+
+EXCLUSIVE CONTENT
+• This is the only app to offer ‘The Official DVSA Guide to Driving – the essential skills’, one of the 3 key source materials that the multiple choice questions in the theory test are based on. Study these to learn the rules and skills you’ll be tested on (additional purchase required). 
+
+SEARCH FEATURE
+• Do you want to learn about airbags, stopping distances, or yellow lines, or practise questions on road markings? Use our advanced search tool to find the content you need.
+
+ENGLISH VOICEOVER
+• If you have reading difficulties (such as dyslexia), or prefer to learn by listening, use our voiceover feature within the test section to support you. 
+
+USEFUL LINKS AND SUPPLIER ZONE
+• Navigate through useful resources to support your learning, including the Safe Driving for Life website – a one-stop information resource featuring helpful blogs with lots of tips to help you pass. 
+• Passed your test? Use our supplier zone to help you with the next steps in your driving journey. 
+• Ready to Pass? links to DVSA’s official resources to help you understand what it takes to be ready for your driving test. Give yourself the best possible chance of passing by learning vital skills, managing your nerves and taking mock tests. 
+
+FEEDBACK
+• Let us know what you’d like to see. We’d love to hear from you with any comments or suggestions about this app. 
+
+AWARDS AND RECOGNITION
+• Produced by the official publishers of DVSA (TSO).
+• Over 4+ million downloads.
+• Featured on Apple’s Top Education Apps.
+• Nominated for App of the Year (FirstCar).
+
+SUPPORT
+• Contact our UK-based team at feedback@williamslea.com  or +44 (0)333 202 5070. We listen and respond to your feedback by updating the app and adding new features.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/94/70/ce94702b-5a6e-2f00-f10b-2d040f1550e8/d7ca487a-57a5-48e5-a1dd-6e96ea957df1_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_01.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/55/93/505593d4-5477-9d76-6df1-362a59cef95b/cfc7b785-5746-4ddc-a686-311c6a944948_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_02.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/ff/3b/01ff3b5a-7c08-78a4-382a-4a403e978fbc/2faa28df-3720-4f67-a289-5591a5b33421_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_03.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/43/03/e143033a-1df8-9baa-0294-9e84d6655cea/a1156d76-b93b-459a-8258-20654803ecaa_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_04.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/c8/80/42c880ca-ae10-3813-e797-24275a6c9878/d12467a3-6088-403e-bb15-093f0831cdf6_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_05.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/b3/d8/edb3d8e4-5dd0-2943-01fe-9b5f67aee038/57797f11-c4b8-4f76-9fd7-77ad455d1b3a_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_06.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/87/39/508739ba-1e9d-5f95-f689-25c63bc51a63/1def1fe4-3ac7-4d66-81fd-b6afa2b272e6_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_07.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/4b/45/c44b4521-db85-1ecd-00c8-a18bd93b08d0/8fd9c835-e7b5-48d6-894e-f942e2a2d29c_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_08.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/bd/10/9abd1031-ddd3-55d6-03be-766f101b384d/fb5346aa-a16f-4359-955c-1efbcbbe1d93_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_01.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/51/ba/b651baa4-1d5b-f24f-6f10-dc5e43a3c688/a498df04-3673-4342-82a8-189e78c82488_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_02.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/0d/6f/e60d6f08-cca4-b87b-cd93-fe3cad3e4b10/24e3ac6f-753e-4b81-bc6d-396429572d23_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_03.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/94/31/34943156-c954-afec-7c19-0b2b4843a836/e5633a70-c190-4398-9451-5fa98be4a325_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_04.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/c2/a9/ccc2a907-8952-4da2-4f4b-d1c81da8ff7e/ff6fff8e-5df1-45b6-b5ac-e7b9c87e7274_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_05.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/54/20/565420c7-8622-22c2-73e0-5d4413b4c545/0d7276cb-2280-421a-b073-a52a313dd62d_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_06.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/94/16/0a941602-ba4e-da2f-79c1-7a2b960ddee2/d98f7cd7-cda0-4100-b9a5-465ff7bb18f1_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/0a/e9/890ae959-b56a-9229-8533-88daba9980fc/6d490d1c-1710-4775-8c4d-a407a00c9cd6_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_08.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[传奇1.76官方正版盛大首发(重置版)今日开服送点卡迷失传说]]></title>
@@ -1398,55 +1496,5 @@ QQ交流群3：203399926
 
 微信公众账号：oneonegames
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/07/bd/d807bd30-99bb-9945-a067-03f2c49629fe/f0e4f60a-4954-4bb7-a7ed-c82719cf2327_1242x2208a.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/0f/ad/ff0fad39-6d04-9d56-3dea-da736bde4e5a/51173042-4b5d-495f-acb7-9fd80100b713_1242x2208b.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/03/83/dd038315-3b46-330f-bd3f-2253895ab832/3b207c75-ac77-41f9-8e34-6a9014fc0872_1242x2208c.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/30/b6/8430b68e-e980-5921-9663-ca90d9dcd38c/d9792cae-3b81-4aa2-a246-ce9aea3ca2d2_1242x2208d.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/db/27/78db2794-0b31-a59f-fb14-9ba722268760/90325e9b-a755-48fc-abff-c2c602b8ad3a_1242x2208e.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/b7/ee/0cb7eed8-0c43-e7ab-fa9b-8fd3537b0a72/f6f84a88-d14b-459b-a505-5f2d088c71fd_1242x2208g.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/1e/6a/1d1e6a11-f4d6-7f09-dbce-acfed449a41f/334b0d09-8020-49b0-b80b-be90be09a21d_1242x2208i.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/11/cd/ff11cd62-9246-cc0c-9a87-85c543a51bfb/b51df902-ae39-4c0e-b0a6-0a9cb0980936_1242x2208f.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/aa/ca/25aaca19-0bdb-0330-eb8e-bfed2a39d259/564a53af-659f-48a0-ac07-161ddd4a88a7_1242x2208h.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/e4/82/8de4825a-30f1-8aa7-6e78-042a14b6021c/ce8bb588-760e-4d57-a744-6b12c5109edd_2048x2732a.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/fd/20/3cfd202f-1cb9-50b3-3264-a147fc223239/6917e928-83a9-4207-8966-3eb2fb2c4bdd_2048x2732b.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/27/47/f42747e5-b8c3-7ecd-aac9-8951afca32da/3b8225d4-b514-4514-a5cd-6784137204dc_2048x2732i.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/78/b5/0078b517-307b-724a-34e2-ed26c60b0ada/84150d86-ce21-4bb2-8cb2-312b89c69f1a_2048x2732e.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/6a/b1/7d6ab170-c0a6-348d-22c5-382a01e57785/aab426e1-73cb-4c56-8499-869d6a9ccb3e_2048x2732h.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/ed/1a/a8ed1a7b-fc86-a894-0923-25d9ff0e052b/0392b6eb-2aaa-4771-8bad-dbba4004a03d_2048x2732g.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/db/cc/a6dbccd1-cc53-04fd-80c8-668dde5d8a76/809c68e6-6c95-494b-9f08-e36932c31ba1_2048x2732c.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/d0/4f/d8d04f85-819d-7576-5454-6bb92da7cb31/3a9edbcd-eed8-4552-8968-ff5423b21e48_2048x2732f.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/2c/f6/3e2cf60f-f366-63bc-0ff2-2235d2bd8049/995842d4-a0ed-4041-9108-e8ab73d79bf5_2048x2732d.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[打金传奇:官方正版 搬砖回收永不关服超爆加强版，传奇王者霸业]]></title>
-        <id>打金传奇:官方正版 搬砖回收永不关服超爆加强版，传奇王者霸业-cn-1747744659041</id>
-        <link href="https://apps.apple.com/cn/app/%E6%89%93%E9%87%91%E4%BC%A0%E5%A5%87-%E5%AE%98%E6%96%B9%E6%AD%A3%E7%89%88-%E6%90%AC%E7%A0%96%E5%9B%9E%E6%94%B6%E6%B0%B8%E4%B8%8D%E5%85%B3%E6%9C%8D%E8%B6%85%E7%88%86%E5%8A%A0%E5%BC%BA%E7%89%88-%E4%BC%A0%E5%A5%87%E7%8E%8B%E8%80%85%E9%9C%B8%E4%B8%9A/id1551263854?uo=4"/>
-        <updated>2025-05-20T12:37:39.041Z</updated>
-        <summary type="html"><![CDATA[钻石月卡: ¥598.00 → ¥58.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%89%93%E9%87%91%E4%BC%A0%E5%A5%87-%E5%AE%98%E6%96%B9%E6%AD%A3%E7%89%88-%E6%90%AC%E7%A0%96%E5%9B%9E%E6%94%B6%E6%B0%B8%E4%B8%8D%E5%85%B3%E6%9C%8D%E8%B6%85%E7%88%86%E5%8A%A0%E5%BC%BA%E7%89%88-%E4%BC%A0%E5%A5%87%E7%8E%8B%E8%80%85%E9%9C%B8%E4%B8%9A/id1551263854?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/ed/3d/a7ed3d30-1427-cb25-4b86-76168c445b7c/wushuang-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>钻石月卡：</strong><span>¥598.00</span> → <b>
-  <strong>¥58.00</strong>
-</b><span>[¥58.00 ~ ¥598.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  ▷ 散人多开打金，秒变土豪，只玩正版！
-▷ 装备在线交易，轻松回收，永久保值！
-▷ 传奇正版授权，打金传奇，永不关服！
-
-端游画面风格，原滋原味呈现经典，
-打怪爽感，元宝满地，刀刀光柱，神装满屏，
-传奇体验，重回热血激情，兄弟情深！
-
-版本特性：
-游戏由角色成长、装备、转生、阵法、神器、时装、觉醒、多人跨服PVP对抗等多个模块组成：
-
-经典玩法：全地图野外自由探索、挑战个人BOSS、跨服争霸、个人竞技、对战爆装玩法等。在玩法方面，以打金、升级、爆装、抢沙等。
-
-新增玩法：卧龙山庄、勇闯天关、BOSS悬赏、皇陵秘境、夺宝奇兵等多种创新玩法。
-
-传奇体验：传奇三职业玩法，三个经典职业特色互为攻守，华丽的技能特效，自由无限制PK。
-
-元婴铭文：内丹等系统，极大地提高了战斗的策略性，使每个玩家都能找到自己的定位。
-
-游戏社交：以公会为核心，通过协助功能，营造互帮互助的公会氛围，倾力打造真实的游戏社交环境，后期更会开跨服阵营战玩法，争夺属于区服的最高荣誉。
-
-【玩法特色】
-跨服竞技：蛮荒古城，跨服争霸，与其他服抢夺资源，争夺BOSS！
-周末狂欢：开启周末活动，涵盖PVP、PVE玩法！
-卧龙山庄：综合玩法，涵盖采集、杀怪、打BOSS、押镖玩法结合！
-杀人爆装：野外红名、跨服竞技多人经典任你自由体验！
-百变时装：绚丽法阵，装备养成，花样追求！
-
-【游戏特色】
-【正版传奇-装备保值，永不关服】打金回收，装备保值！
-【打金回收-爆装变现，在线交易】轻松爆装，散人天堂！
-【神装靠打-兄弟情深，全民攻沙】经典重现，再创辉煌！
-【自由交易-散人天堂，秒成土豪】炫酷特效，战力飙升！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/0c/1c/e60c1cd2-c4d9-0854-f71a-144e0330b747/1242x2208-1_U00283_U0029.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/9b/be/119bbe66-3842-c294-ef16-d6b5a45bde32/0f857775-497c-440b-a2c6-087dcd5a8984_1242-2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/6f/92/f56f9292-df56-0d8b-99a2-3eb21a0fc164/c904b185-9228-49c4-b547-776875cdfa9f_1242-3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/fd/91/6bfd91f3-8b2d-c965-2864-bf5986dec861/c400548f-0d1f-4dde-9956-906b57fdece0_1242-4.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/d5/a1/1ed5a1b4-ad69-8d2d-871e-093eff425b75/2048x2732-1_U00281_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/d0/4d/87d04d2d-01be-1c8c-471b-7decab21464e/8506d209-c1ea-460e-813a-47b7be3c2e9c_2048-2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/2c/df/cf2cdff0-1e16-1001-f93d-a13633bbbb66/99fc848d-e287-431e-a423-24f8fb67a6dd_2048-3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/e9/05/72e90542-9185-416f-bff8-b9eb7146983e/e9dfebfc-a1d7-4970-a46f-7ef1e1034e35_2048-4.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
