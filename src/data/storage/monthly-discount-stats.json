@@ -49,6 +49,16 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1400652313": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "1437479513": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "1448326351": {
       "all": 1,
       "price": 1,
@@ -79,6 +89,11 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1544190466": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "1551263854": {
       "all": 2,
       "price": 0,
@@ -86,6 +101,11 @@
         "钻石月卡": 1,
         "元宝礼包": 1
       }
+    },
+    "1551596643": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     },
     "1576329230": {
       "all": 6,
@@ -109,6 +129,11 @@
         "SP武将碎片": 4
       }
     },
+    "1659316190": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "6447693393": {
       "all": 1,
       "price": 1,
@@ -125,8 +150,8 @@
       "inAppPurchase": {}
     },
     "6740471827": {
-      "all": 1,
-      "price": 1,
+      "all": 2,
+      "price": 2,
       "inAppPurchase": {}
     },
     "6451376191": {
@@ -145,8 +170,8 @@
       "inAppPurchase": {}
     },
     "6444782083": {
-      "all": 1,
-      "price": 0,
+      "all": 2,
+      "price": 1,
       "inAppPurchase": {
         "超大英雄组合包": 1,
         "限时特惠": 1
@@ -168,6 +193,11 @@
       "inAppPurchase": {}
     },
     "6473332700": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6450877530": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
