@@ -31353,7 +31353,14 @@
       "White Dark Lord Skin Package": "$7.99",
       "Myth full pack": "$39.99",
       "Dark Lord Awakening Package": "$17.99",
-      "Awakening Skill Package": "$17.99"
+      "Awakening Skill Package": "$17.99",
+      "Dark Lord Emma": "$2.99",
+      "Dark Lord Floria": "$2.99",
+      "Dark Lord Marielle": "$2.99",
+      "Dark Lord Rebecca": "$2.99",
+      "Dark Lord Tania": "$2.99",
+      "Original Monster Package": "$8.99",
+      "Original Lord Skill Package": "$17.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -31379,9 +31386,35 @@
       "White Dark Lord Skin Package": "$7.99",
       "Myth full pack": "$39.99",
       "Dark Lord Awakening Package": "$17.99",
-      "Awakening Skill Package": "$17.99"
+      "Awakening Skill Package": "$17.99",
+      "Dark Lord Emma": "$2.99",
+      "Dark Lord Floria": "$2.99",
+      "Dark Lord Marielle": "$2.99",
+      "Dark Lord Rebecca": "$2.99",
+      "Dark Lord Tania": "$2.99",
+      "Original Monster Package": "$8.99",
+      "Original Lord Skill Package": "$17.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748096071962,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Monster Succession": "$4.99",
+            "Dark Lord Boost Package": "$8.99",
+            "Dark Lord Emma": "$2.99",
+            "Dark Lord Floria": "$2.99",
+            "Dark Lord Marielle": "$2.99",
+            "Dark Lord Rebecca": "$2.99",
+            "Dark Lord Tania": "$2.99",
+            "Original Dungeon Package": "$17.99",
+            "Original Monster Package": "$8.99",
+            "Original Lord Skill Package": "$17.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747927162248,
@@ -49912,8 +49945,8 @@
       "Apollo Lunar Missions": "$0.00"
     },
     "minPriceInfo": {
-      "price": 14.99,
-      "formattedPrice": "$14.99",
+      "price": 12.99,
+      "formattedPrice": "$12.99",
       "SkySafari Premium": "$29.99",
       "SkySafari Premium Monthly": "$3.99",
       "PGC Galaxy Database": "$0.00",
@@ -49921,6 +49954,20 @@
       "Apollo Lunar Missions": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748096071962,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {
+            "SkySafari Premium": "$29.99",
+            "SkySafari Premium Monthly": "$3.99",
+            "PGC Galaxy Database": "$0.00",
+            "GAIA Star Database": "$0.00",
+            "Apollo Lunar Missions": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747927162248,
@@ -69281,6 +69328,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748096071962,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747558923025,
