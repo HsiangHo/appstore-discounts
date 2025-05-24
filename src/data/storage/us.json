@@ -29993,6 +29993,24 @@
     "history": [
       [
         {
+          "timestamp": 1748078192798,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Power Builder (monthly)": "$2.99",
+            "Power Builder (yearly)": "$25.49",
+            "Power Builder (weekly)": "$0.99",
+            "The Ultimate Tip": "$54.99",
+            "Super Mega Smashing Tip": "$30.99",
+            "Super Smashing Tip": "$16.99",
+            "Super Mega Tip": "$9.99",
+            "Mega Tip": "$5.99",
+            "Super Tip": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1746072334351,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -51772,6 +51790,25 @@
       "French Audio": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748078192798,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "German Audio": "$0.00",
+            "Tales of Valor - Russian": "$0.00",
+            "Tales of Valor": "$0.00",
+            "Tales of Valor - Spanish": "$0.00",
+            "Opposing Fronts - French": "$0.00",
+            "Opposing Fronts - Spanish": "$0.00",
+            "Tales of Valor - French": "$0.00",
+            "Invasion of Normandy 6-10": "$0.00",
+            "High-Quality Models": "$0.00",
+            "French Audio": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747618225044,
