@@ -5566,7 +5566,9 @@
       "Locksmith - All Cranky Locks": "$1.99",
       "Locksmith - All Mystery Locks": "$4.99",
       "Locksmith - All Allie Locks": "$1.99",
-      "Mystery Duck Sale Pack": "$0.99"
+      "Mystery Duck Sale Pack": "$0.99",
+      "Cranky Sale Pack": "$0.99",
+      "Allie Sale Pack": "$0.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -5580,9 +5582,30 @@
       "Locksmith - All Cranky Locks": "$1.99",
       "Locksmith - All Mystery Locks": "$4.99",
       "Locksmith - All Allie Locks": "$1.99",
-      "Mystery Duck Sale Pack": "$0.99"
+      "Mystery Duck Sale Pack": "$0.99",
+      "Cranky Sale Pack": "$0.99",
+      "Allie Sale Pack": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748103603928,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Mystery Duck Sale Pack": "$0.99",
+            "Cranky Sale Pack": "$0.99",
+            "Allie Sale Pack": "$0.99",
+            "Locksmith - All Allie Locks": "$1.99",
+            "Allie's Story": "$0.99",
+            "Sale Pack": "$3.99",
+            "Locksmith - One Lock": "$0.99",
+            "Mystery Duck": "$2.99",
+            "Locksmith - All Mystery Locks": "$4.99",
+            "Locksmith - All Cranky Locks": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -50144,7 +50167,8 @@
       "Manuel character": "$0.99",
       "Marco character": "$0.99",
       "Yellow menu color": "$0.99",
-      "Stephan character": "$0.99"
+      "Stephan character": "$0.99",
+      "Jack character": "$0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -50159,9 +50183,29 @@
       "Manuel character": "$0.99",
       "Marco character": "$0.99",
       "Yellow menu color": "$0.99",
-      "Stephan character": "$0.99"
+      "Stephan character": "$0.99",
+      "Jack character": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748103603928,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Founders Pack": "$0.99",
+            "Lisa character": "$0.00",
+            "Jack character": "$0.99",
+            "Gloria skin": "$0.99",
+            "Elsa character": "$0.99",
+            "Daniel skin": "$0.99",
+            "Jorge skin": "$0.99",
+            "James character": "$0.99",
+            "Manuel character": "$0.99",
+            "Marco character": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747714888380,
