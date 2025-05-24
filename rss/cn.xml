@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-05-24T14:19:13.774Z</updated>
+    <updated>2025-05-24T21:20:23.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-24T14:19:13.775Z</updated>
+        <updated>2025-05-24T21:20:23.699Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnSat, 24 May 2025 14:19:13 GMT</id>
+        <id>rankingcnSat, 24 May 2025 21:20:23 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-24T14:19:13.776Z</updated>
+        <updated>2025-05-24T21:20:23.699Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -323,6 +323,29 @@ feedId:49753297431966720+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1028950091">贪婪洞窟：猿神降临</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>贪婪洞窟点券</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>13</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1055511498">Day One 日記：私人日記</a>
       </td>
       <td>
@@ -343,7 +366,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1344655035">蜡烛人</a>
@@ -366,7 +389,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -383,7 +406,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1400652313">冰钓大师</a>
@@ -400,7 +423,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1437479513">逃脱者：困境突围</a>
@@ -417,7 +440,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1448326351">数据恢复</a>
@@ -434,7 +457,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1449020025">不玩手机-自律习惯养成记</a>
@@ -451,7 +474,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1453318714">Vostok — 创建美丽快拍页面</a>
@@ -468,7 +491,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1497120981">LUCH: Photo Effects & Filters</a>
@@ -485,7 +508,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1538124245">哪里哪里</a>
@@ -502,7 +525,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1544190466">避难所：生存</a>
@@ -519,7 +542,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1551596643">模拟地铁</a>
@@ -536,7 +559,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1567658979">SkySafari 7 Pro</a>
@@ -553,7 +576,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1603421749">传奇高爆99999% 攻速9999倍PC同款三职业:战无不胜</a>
@@ -576,7 +599,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1659316190">钢铁战队(R)</a>
@@ -593,7 +616,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -610,7 +633,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737987084">小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</a>
@@ -627,7 +650,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742129099">群英打三国-超休闲国风放置卡牌巅峰巨作</a>
@@ -644,7 +667,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6451376191">Dumb Phone: 简约主屏幕</a>
@@ -661,7 +684,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6446178861">PlayNav - 影片内无广告！</a>
@@ -678,7 +701,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6449930220">手表浏览器  Wafari</a>
@@ -695,7 +718,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -712,7 +735,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6744311159">魔王终局</a>
@@ -729,7 +752,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742396803">DaDaDaDa - 空气枪</a>
@@ -746,7 +769,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6473332700">逐鹿 - 历史沙盘战棋</a>
@@ -763,7 +786,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6450877530">花园之间</a>
@@ -880,6 +903,48 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贪婪洞窟：猿神降临]]></title>
+        <id>贪婪洞窟：猿神降临-cn-1748121301653</id>
+        <link href="https://apps.apple.com/cn/app/%E8%B4%AA%E5%A9%AA%E6%B4%9E%E7%AA%9F-%E7%8C%BF%E7%A5%9E%E9%99%8D%E4%B8%B4/id1028950091?uo=4"/>
+        <updated>2025-05-24T21:15:01.653Z</updated>
+        <summary type="html"><![CDATA[贪婪洞窟点券: ¥68.00 → ¥6.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E8%B4%AA%E5%A9%AA%E6%B4%9E%E7%AA%9F-%E7%8C%BF%E7%A5%9E%E9%99%8D%E4%B8%B4/id1028950091?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/25/c4/e525c49e-ab0e-e37e-ed0a-5012404bc7d3/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>贪婪洞窟点券：</strong><span>¥68.00</span> → <b>
+  <strong>¥6.00</strong>
+</b><span>[¥6.00 ~ ¥68.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  《贪婪洞窟》全新英雄[猿神]悟空出世，独特双符文图纸效果，扫平洞窟一切妖魔鬼怪。
+
+【简介】
+《贪婪洞窟》是一款地牢探险Roguelike手游。游戏整体画风神秘而诡异，共有4种不同难度，400层随机地形迷宫，60多种不同的怪物和BOSS，300多件随机属性的可收集装备， 20000+字的线索式剧情。还有更多独特有趣的玩法等你发现！
+
+【游戏背景】
+在崇尚刀剑与魔法的弥尔顿大陆，一名冒险者在废弃多年的矿坑中发现了大量的金子和财宝，一夜之间他收获了从未想象的财富和名声。
+消息随着北风迅速吹遍了整个大陆，各地的人蜂拥至此地却又心怀鬼胎。
+你，芸芸众生中的一个普通年轻人，也带着旁人看不透的目的，来到了这个地方……
+
+【游戏特色】
+-探索随机洞窟
+你永远不知道下一层洞窟会有什么——宝藏、迷雾、陷阱、密室？还是强大首领？游戏中充满了不确定性，玩家只有依靠自己的计谋与胆量，才能以最小的牺牲换取最大的收获。
+
+-找寻卷轴 及时逃脱
+逃脱卷轴是你离开洞窟唯一的物品，请务必尽快找到它！因为在洞窟内死亡后你将一无所获——所有辛苦打怪升级的经验、守财奴般积攒的金币、让你欣喜若狂的顶级宝物都将伴随你的死亡埋葬。
+
+-宝箱遍地也暗藏杀机
+在洞窟中有许多奇珍异宝等你发现，密室宝藏更不能错过。但是要小心那些看守宝藏的怪物，它们可是等着你上钩呢！甚至还有伪装成宝箱的怪物，让你防不胜防！
+
+-角色养成 装备收集
+在洞窟中消灭怪物能提升角色等级，合理分配属性点与技能点将让你更加从容面对洞窟的危险；升级、改造、附魔、点金你的装备，以面对更具难度的探险，甚至挑战邪恶首领，解开埋藏在洞窟的无尽秘密！
+
+-宠物相伴 一起冒险
+全新上线宠物系统，冒险之旅不再孤独！在冒险的旅途中，你将会在不同的际遇下，遇上这些宠物。它们各具特色，也有专属自己的独特能力，带上它们一起去冒险吧！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/21/d6/5d/21d65de2-2ecb-b335-0bc7-4847ce63abd3/eba6035c-b4f0-409b-9377-a58fafc6b71a_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/bf/49/31/bf4931cf-15c2-7169-8b1c-0fd4b2e0d92d/681ea451-dfab-4f92-862f-96aa2dd08b84_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/84/7b/15/847b1500-0212-a581-9adf-0882a09daa09/2f2ec185-38b1-43c8-b5c8-867e814fb1ff_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a4/67/44/a46744b3-9dc1-ced3-c07f-b901d575e0ed/78892d63-bbb6-4729-ac1b-e7a2be916cb0_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/fa/8e/d1/fa8ed130-fcde-b758-3469-9a3ce45ed62e/5e7248b4-5caf-4144-9016-03ca8e813fe9_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/84/ee/d5/84eed573-05b4-f9e3-cf67-bb03fe7f61d8/94aa25cc-2af9-43e9-8d61-3cac02b9becc_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/bc/96/54/bc965473-de7c-1bc4-d1e4-f4c702d6ee44/c5e84ffb-00da-486d-adb1-d95294c54863_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/64/9a/98/649a98fe-b69a-ad08-57ab-457fd1fc7ebf/eed1cb00-bb13-432a-92de-b93fc14ecaea_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f0/c9/bb/f0c9bb84-6cd4-7abf-6789-18375667befd/9dd381e4-0b41-47c1-b89d-2109f04321b9_4.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/9b/35/ef/9b35ef5c-8286-b2b0-47be-df8080807b4d/aa4b6a56-3d5f-409a-b6cd-feed3679791d_5.jpg/576x768bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SkySafari 7 Pro]]></title>
