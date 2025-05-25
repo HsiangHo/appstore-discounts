@@ -42369,6 +42369,23 @@
     "history": [
       [
         {
+          "timestamp": 1748157344875,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "68金玉": "$9.99",
+            "30金玉": "$4.99",
+            "禮包5": "$4.99",
+            "648金玉": "$99.99",
+            "198金玉": "$29.99",
+            "尊享月俸": "$4.99",
+            "328金玉": "$49.99",
+            "6金玉": "$0.99",
+            "禮包6": "$9.99",
+            "禮包9": "$29.99"
+          }
+        },
+        {
           "timestamp": 1748147056259,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -64838,6 +64855,25 @@
       "India Expansion Bundle": "$7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748157344875,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Round the World Ticket": "$29.99",
+            "1910 Ticket Pack": "$3.99",
+            "Europe Expansion": "$9.99",
+            "Europe Map": "$8.99",
+            "Ticket to Ride ChristmasBundle": "$4.99",
+            "Nordic Bundle": "$7.99",
+            "LegendaryAsia Expansion Bundle": "$7.99",
+            "India Expansion Bundle": "$7.99",
+            "San Francisco Expansion Bundle": "$7.99",
+            "Nordic Map": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747995551071,
