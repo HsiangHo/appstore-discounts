@@ -67,1077 +67,853 @@
 ## 钉钉
 点击 [![dingtalk](https://img.alicdn.com/imgextra/i3/O1CN01WMvMRG1ks3Ixc9x1v_!!6000000004738-55-tps-32-32.svg "dingtalk")](https://qr.dingtalk.com/action/joingroup?code=v1,k1,o9TXTPxGRNhCmrTUa4cHymeJCIcRiimCsH4FqEnbEWU=&_dt_no_comment=1&origin=11 "dingtalk") 订阅
 # 关注焦点
-当前已收录 `2` 个 `国家或地区` 和 `1066` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `2` 个 `国家或地区` 和 `842` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 >特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br />如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br />目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|1066|6742200021|自动|BLBewly||||BLBewly||
-|1065|1448326351|自动|数据恢复||||❌||
-|1064|6743422824|自动|❌||||Pixel Paws - Virtual Pet Toy||
-|1063|885792725|自动|❌||||THE KING OF FIGHTERS '98||
-|1062|1577752006|自动|SoccerPlus-足球运动记录和训练||||Soccer Plus||
-|1061|1632953327|自动|❌||||Tivimax IPTV Player (Premium)||
-|1060|1523146826|自动|❌||||Everybody's RPG: Reboot||
-|1059|1609683141|自动|❌||||Dirt Trackin 3||
-|1058|1639509098|自动|❌||||Pasha Planet: Reborn||
-|1057|6738923299|自动|❌||||Spin Hero||
-|1056|299342927|自动|❌||||PocketPhonics (basic edition)||
-|1055|6502399166|自动|卡路狸 - 轻运动记录||||Calobara||
-|1054|1435752659|自动|❌||||駕考王-摩托車、汽車、客車、貨車駕駛實習考試||
-|1053|6458733069|自动|养生钟 - 中医时辰手表软件||||Health Clock - Sleep & Health||
-|1052|1216484605|自动|Viewfinder Preview||||Viewfinder Preview||
-|1051|440666387|自动|化学家 - CHEMIST||||CHEMIST by THIX||
-|1050|6480058345|自动|❌||||Kaiju Attack 2||
-|1049|6745711999|自动|青签助手||||青签助手||
-|1048|1060082362|自动|OrthoFlow||||OrthoFlow||
-|1047|486578707|自动|Unofficial Minifigure Catalog||||Unofficial Minifigure Catalog||
-|1046|1083801827|自动|Note Rush: Music Reading Game||||Note Rush: Music Reading Game||
-|1045|378272803|自动|DaF Wörterbuch Deutsch-Deutsch||||German Learner's Dictionary||
-|1044|6503088710|自动|❌||||World of Goo 2||
-|1043|1659258538|自动|视频缓存器||||Video Cacher||
-|1042|983143183|自动|❌||||Neo Monsters||
-|1041|708196645|自动|❌||||Oceanhorn ™||
-|1040|6503932402|自动|超声智学||||超声智学||
-|1039|325307477|自动|AudioTools - dB, Sound & Audio||||AudioTools - dB, Sound & Audio||
-|1038|929618748|自动|Squeezy Men||||Squeezy Men||
-|1037|519561306|自动|ATracker PRO - 每日时间管理||||ATracker PRO Time Tracker||
-|1036|1456212639|自动|❌||||Detention||
-|1035|734464614|自动|生命密码||||Numberology||
-|1034|941671702|自动|GR Viewer||||GR Remote Viewer for GR2 & GR3||
-|1033|744851208|自动|❌||||Pocket Stables||
-|1032|1123652342|自动|❌||||Jurassic GO - Dinosaur Snap Adventures||
-|1031|6742740688|自动|无声冲突||||❌||
-|1030|1369253556|自动|长时间曝光||||Light | Long Exposure||
-|1029|6449251957|自动|❌||||Motorsport Manager 4||
-|1028|968820626|自动|Watch Tuner Lite||||Watch Tuner Lite||
-|1027|1065791514|自动|❌||||The Ramen Sensei||
-|1026|1114127463|自动|❌||||Reigns||
-|1025|1636439801|自动|❌||||Railbound||
-|1024|1479808939|自动|❌||||孙美琪||
-|1023|6451376191|自动|Dumb Phone: 简约主屏幕||||Dumb Phone: Minimal Launcher||
-|1022|6446912063|自动|❌||||Disney Iwájú: Rising Chef||
-|1021|1611723264|自动|❌||||❌||
-|1020|409818349|自动|Real Piano™ Classic||||Real Piano™ Classic||
-|1019|1141282192|自动|Advanced Comprehension Therapy||||Advanced Comprehension Therapy||
-|1018|6737434503|自动|❌||||將星三國||
-|1017|478289911|自动|iMMIG 記帳小秘書||||iMMIG 記帳小秘書||
-|1016|1269488509|自动|饥荒语音助手||||饥荒语音助手||
-|1015|426860241|自动|❌||||Mini Motor Racing||
-|1014|531727127|自动|CovertCam||||CovertCam||
-|1013|1102750714|自动|地牢求生||||Dungeon Survival||
-|1012|1387331406|自动|Flamelet||||Flamelet||
-|1011|1139588979|自动|位置伪装器 - 模拟地图当前位置,模拟GPS坐标||||LocFaker - Change Current Location on the Map||
-|1010|316491616|自动|❌||||TowerMadness||
-|1009|332636983|自动|哭翻译者||||Cry Translator||
-|1008|1419928720|自动|❌||||❌||
-|1007|892542000|自动|Board Game Stats||||Board Game Stats||
-|1006|728401013|自动|NoteWorks for iPhone||||NoteWorks for iPhone||
-|1005|729067952|自动|Purgatory||||Purgatory||
-|1004|950012304|自动|Cellular Info||||Cellular Info||
-|1003|1448241295|自动|小管家 - 垃圾短信拦截清理大师||||Armor - SMS Spam Filter||
-|1002|378503081|自动|❌||||Groundwire: VoIP SIP Softphone||
-|1001|535176909|自动|❌||||BADLAND||
-|1000|601831815|自动|❌||||Ridiculous Fishing - A Tale of Redemption||
-|999|1614795077|自动|❌||||Otaku's Adventure||
-|998|6744998205|自动|赛博神医-猜病每日挑战小测验||||赛博神医-猜病每日挑战小测验||
-|997|6477745183|自动|❌||||Echo Ways||
-|996|557168861|自动|香港法例 Legislation HK||||香港法例 Legislation HK||
-|995|586604476|自动|易爻(實用)||||易爻(實用)||
-|994|597758149|自动|❌||||Happy Learn Japanese Kana Pro||
-|993|625740630|自动|Hairtechapp - Cutting Diagrams||||Hairtechapp - Cutting Diagrams||
-|992|808296431|自动|❌||||Crashlands||
-|991|1116905928|自动|nPlayer||||nPlayer||
-|990|1292311498|自动|International One Night||||❌||
-|989|6473332700|自动|逐鹿 - 历史沙盘战棋||||❌||
-|988|6742526717|自动|WatchTube for YouTube||||WatchTube for YouTube||
-|987|6478398981|自动|IPTV Smart Pro - Live TV||||IPTV Smart Pro - Live TV||
-|986|528181527|自动|行车记录仪 「TripREC」||||TripREC Driving Recorder||
-|985|545625741|自动|❌||||King of Math: Full Game||
-|984|592398757|自动|Perfect Tempo||||Perfect Tempo||
-|983|669835030|自动|WinZip完整版: 压缩/解压||||WinZip Pro: zip, unzip & rar||
-|982|672649451|自动|Panecal Plus 科学计算器||||Panecal Plus Sci. Calculator||
-|981|682046579|自动|人体探秘 - Tinybop出品||||The Human Body by Tinybop||
-|980|787148904|自动|❌||||R-TYPE II||
-|979|933113994|自动|❌||||DRAGON QUEST V||
-|978|1056920931|自动|❌||||Iron Marines: RTS offline game||
-|977|1082806154|自动|❌||||Age of Rivals||
-|976|1354857517|自动|NotePad++ - Pro||||NotePad++ - Pro||
-|975|1463331841|自动|Oolimo Guitar Chords||||Oolimo Guitar Chords||
-|974|1476509317|自动|每日英语 听力学习版||||每日英语 听力学习版||
-|973|1599005073|自动|❌||||KOF 2002 ACA NEOGEO||
-|972|1623111026|自动|❌||||Pocket Academy 3||
-|971|1671475521|自动|DNA Transform!||||DNA Transform!||
-|970|6479295005|自动|❌||||Dream House Days DX||
-|969|6744569015|自动|❌||||Neon Labyrinth||
-|968|6502905107|自动|❌||||AListServer||
-|967|400259071|自动|❌||||Rain Alarm Pro Weather Radar||
-|966|1139986977|自动|❌||||軒轅劍參 雲和山的彼端 加強版||
-|965|1197552569|自动|❌||||Poly Bridge||
-|964|1313164055|自动|EE35 Film Camera||||EE35 Film Camera||
-|963|1553774029|自动|❌||||Taskmaster The App||
-|962|6449433291|自动|❌||||常春藤108課綱基礎單字||
-|961|1403183441|自动|❌||||Ala Mobile GP||
-|960|1538900393|自动|❌||||Boxing Gym Story||
-|959|6476442028|自动|❌||||❌||
-|958|461659980|自动|❌||||Phonics Genius||
-|957|6458144503|自动|❌||||Skul: The Hero Slayer||
-|956|1552176109|自动|❌||||Trials of Mana||
-|955|1580067723|自动|❌||||Wall of insanity||
-|954|1621055260|自动|百分之一||||❌||
-|953|840811083|自动|❌||||Rules!||
-|952|1473749002|自动|Vergi Akademisi Pro||||Vergi Akademisi Pro||
-|951|6508165149|自动|❌||||Dungeon Clawler||
-|950|537280156|自动|❌||||Raiden Legacy||
-|949|635644097|自动|调音器 by Piascore||||Tuner by Piascore||
-|948|727544019|自动|❌||||Street Kart #1 Go Kart Game||
-|947|950812012|自动|❌||||Alto's Adventure||
-|946|1001096601|自动|❌||||1941 Frozen Front Premium||
-|945|1439889483|自动|❌||||Construction Simulator 3||
-|944|1562555975|自动|D2助手(专业版) for 暗黑破坏神2重制版||||D2 Pal Pro for Diablo2||
-|943|1567658979|自动|SkySafari 7 Pro||||SkySafari 7 Pro||
-|942|6467822375|自动|❌||||Auto Redial App||
-|941|329772936|自动|iDeco Pro||||iDeco Pro||
-|940|394057299|自动|❌||||Battleheart||
-|939|499470113|自动|FE文件管理器||||FE File Explorer Pro||
-|938|666508823|自动|❌||||Battleheart Legacy||
-|937|792638268|自动|❌||||Ninja Village||
-|936|1095883970|自动|芳香乐活||||芳香樂活||
-|935|1232791258|自动|❌||||Battleheart 2||
-|934|1600925588|自动|GR Linker - 理光相机传图 Image Sync||||GR Linker - Image Sync||
-|933|6474479684|自动|Spark - Ren'Py 小说们||||Spark - Ren'Py Novels||
-|932|6466296603|自动|❌||||The Last Game||
-|931|6670402289|自动|❌||||Looking for Aliens||
-|930|459947180|自动|LectroRM||||LectroRM||
-|929|1491196899|自动|❌||||Papa's Bakeria To Go!||
-|928|1559183447|自动|PoPo日记 - 心情日记本,记录情绪手账和记事本||||PoPo日记 - 心情日记本,记录情绪手账和记事本||
-|927|1041260001|自动|❌||||FINAL FANTASY Ⅸ||
-|926|1059218666|自动|Litchi for DJI Drones||||Litchi for DJI Drones||
-|925|1059911569|自动|❌||||Rusty Lake Hotel||
-|924|1202650514|自动|HealthFit||||HealthFit||
-|923|1230231705|自动|❌||||The Witness||
-|922|1441522083|自动|❌||||Morphing LED Banner||
-|921|1492041539|自动|❌||||FINAL FANTASY VI||
-|920|1498778559|自动|MindPage||||MindPage||
-|919|1533709428|自动|❌||||Pocket City 2||
-|918|1559871386|自动|ehliyet Sınav Sorular 2022 PRO||||ehliyet Sınav Sorular 2022 PRO||
-|917|1560779038|自动|伤寒论条阅||||伤寒论条阅||
-|916|6450680262|自动|❌||||CMSPlayer||
-|915|6443750571|自动|EmoGuard - 关键字拦截器||||EmoGuard - Keyword Blocker||
-|914|6466976437|自动|❌||||OOTP Baseball 26 Go!||
-|913|424591347|自动|❌||||FINAL FANTASY III (3D REMAKE)||
-|912|563082328|自动|Military Retirement||||Military Retirement||
-|911|962291530|自动|Analog Beijing||||Analog Beijing||
-|910|1003660287|自动|❌||||Dwarf Fortress Remote||
-|909|1035220162|自动|Analog Budapest||||Analog Budapest||
-|908|1055650930|自动|❌||||Codenames||
-|907|1073576068|自动|电波表对时||||Clock Wave||
-|906|1106831630|自动|❌||||ROME: Total War||
-|905|1138248035|自动|Analog Seoul||||Analog Seoul||
-|904|1373057849|自动|❌||||ThreeKingdoms The Last Warlord||
-|903|1458977921|自动|照片保险箱Pro - 私密照片加密码相册管家||||Secret Vault - Hide Photos||
-|902|1509252675|自动|❌||||Lapse: A Forgotten Future||
-|901|1554691584|自动|Naturalisation en France||||Naturalisation en France||
-|900|1574339556|自动|❌||||Game Booster 4x||
-|899|6453763474|自动|❌||||Hidden Through Time 2: Magic||
-|898|6477535804|自动|❌||||Vault of the Void||
-|897|6730126160|自动|戏曲锣鼓 - 传统乐器新体验||||戏曲锣鼓 - 传统乐器新体验||
-|896|6449986941|自动|❌||||常春藤108課綱核心單字||
-|895|1115520522|自动|姬魔恋战纪-单机剧情手游戏||||姬魔恋战纪-单机剧情手游戏||
-|894|1322877018|自动|地震 - DataX Earthquake||||DataX Earthquake||
-|893|379485721|自动|Blood Type Diet®||||Blood Type Diet®||
-|892|1537362903|自动|❌||||Neighbours back From Hell||
-|891|338893931|自动|Prepware Aviation Maintenance||||Prepware Aviation Maintenance||
-|890|596026805|自动|PhotoPills||||PhotoPills||
-|889|1448573670|自动|冒险与征服-暗黑单机RPG角色扮演挂机游戏||||Adventurer Legends||
-|888|1619733202|自动|的士地方筆試 2024 Pro||||的士地方筆試 2024 Pro||
-|887|6450058135|自动|❌||||Unpacking||
-|886|304731501|自动|Tempo - Metronome 节拍器||||Tempo - Metronome with Setlist||
-|885|954982733|自动|Tuner T1 Pro||||Tuner T1 Pro||
-|884|979048658|自动|❌||||新多益必考選擇題型1000||
-|883|1050535507|自动|❌||||Lanota - Music game with story||
-|882|1078553162|自动|❌||||超級單字王Pro||
-|881|1384164285|自动|AR鲁班尺||||AR鲁班尺||
-|880|1586762439|自动|Auto Translate for Safari||||Auto Translate for Safari||
-|879|1598843625|自动|❌||||DragonSpear-Ex||
-|878|6445905944|自动|❌||||Garten of Banban 2||
-|877|6449941289|自动|❌||||Spirit of the Island||
-|876|384363262|自动|13:20:玛雅历||||13:20:Sync||
-|875|1561136737|自动|❌||||Word Puzzle-Cambridge (NoAds)||
-|874|6451224796|自动|❌||||藏武||
-|873|6504192378|自动|❌||||B.ROLL - Youth Filter Camera||
-|872|1462324486|自动|❌||||Papa's Donuteria To Go!||
-|871|344844888|自动|天元乌兔万年历 - 十三行作品||||天元烏兔萬年曆 - 十三行作品||
-|870|349242632|自动|六爻装卦||||六爻装卦||
-|869|936694037|自动|录音机专业版: 高清录制||||Voice Recorder - Audio Record||
-|868|1101997011|自动|论藏甲-奇门(实用)||||奇門(實用)||
-|867|1147297267|自动|❌||||Don't Starve: Shipwrecked||
-|866|1205486761|自动|❌||||Beholder||
-|865|1506620807|自动|麻将AI小番 - 胡牌分析||||Mahjong AI Analyze Calculator||
-|864|1513506417|自动|轻历 - 清新日历||||轻历 - 清新日历||
-|863|1563906582|自动|❌||||Bus Simulator||
-|862|1586437121|自动|吃饭打卡-饮食记录和减肥健身,轻断食健康管理日记本||||吃饭打卡-饮食记录和减肥健身,轻断食健康管理日记本||
-|861|1599393574|自动|❌||||Peace, Death! 2||
-|860|1642715290|自动|❌||||Little Big Workshop||
-|859|1672004303|自动|❌||||Zoo Park Story||
-|858|6463115144|自动|❌||||TV Studio Story||
-|857|6448530928|自动|❌||||Total War™: EMPIRE||
-|856|6502455111|自动|❌||||Lara Croft: Guardian of Light||
-|855|295462558|自动|❌||||Toobz||
-|854|329233299|自动|Universe Splitter||||Universe Splitter||
-|853|329981776|自动|❌||||Sudoku ″||
-|852|363738376|自动|forScore||||forScore||
-|851|479431697|自动|❌||||CHRONO TRIGGER (Upgrade Ver.)||
-|850|525176875|自动|太阳测量师(Sun Surveyor)||||Sun Surveyor (Sun & Moon)||
-|849|922155038|自动|aprs.fi||||aprs.fi||
-|848|989630809|自动|❌||||Malody||
-|847|1001613037|自动|ABRSM Aural Trainer Grades 6-8||||ABRSM Aural Trainer Grades 6-8||
-|846|1029588869|自动|❌||||Brothers: A Tale of Two Sons||
-|845|1043963852|自动|Pipefitter||||Pipefitter||
-|844|1086617993|自动|时间块 - 快速记录时间规划日程安排||||BlockyTime||
-|843|1104795347|自动|iFiles 2||||iFiles 2||
-|842|1184336299|自动|NAS Detector||||NAS Detector||
-|841|1270659758|自动|如果可以回家早一点||||If only I could go home early||
-|840|1308038634|自动|❌||||修真风云录||
-|839|1486110292|自动|Minitube for Youtube||||Minitube for Youtube||
-|838|1531068181|自动|TimeGlance - 并发症||||TimeGlance - Complication||
-|837|1551539091|自动|NFC Business Card - Read Write||||NFC Business Card - Read Write||
-|836|1552157188|自动|Ace Subtitle Converter：字幕转换器||||Ace Subtitle Converter||
-|835|1577762239|自动|❌||||Invading Horde - TD||
-|834|1613920866|自动|金價即時通||||金價即時通||
-|833|1617006551|自动|❌||||Tropical Resort Story||
-|832|6447693393|自动|灵感卡片 - 创意笔记||||灵感卡片 - 创意笔记||
-|831|6446021269|自动|❌||||MEGA MAN X DiVE Offline||
-|830|6446337236|自动|新概念英语-新概念英语全四册单词听力口语||||New Concept English Study||
-|829|6475892753|自动|❌||||Listenify||
-|828|6739755879|自动|百名店map||||Oishii Map - Tabelog Top 100||
-|827|6443849085|自动|❌||||Terminal Madness - Awakening||
-|826|6744893097|自动|Easy Snap Finger||||Easy Snap Finger||
-|825|463295925|自动|Official DVSA Theory Test Kit||||Official DVSA Theory Test Kit||
-|824|1115022026|自动|朗达·拜恩创作的《金钱的秘密》||||The Secret To Money||
-|823|1442440203|自动|大家的日语初级-第二版||||❌||
-|822|1453820315|自动|❌||||This Is the Police 2||
-|821|1453875289|自动|❌||||Hyper Light Drifter||
-|820|1543161449|自动|❌||||Dungeon Village 2||
-|819|1616652599|自动|❌||||Kingdom Eighties||
-|818|6444435974|自动|❌||||VARIOUS DAYLIFE Mobile||
-|817|755018884|自动|新概念英语专业版 - 英语美语全四册||||新概念英语专业版 - 英语美语全四册||
-|816|1319618742|自动|❌||||Getting Over It||
-|815|1423115391|自动|Führerschein 2025 GOLD||||Führerschein 2025 GOLD||
-|814|6474207287|自动|❌||||Wagotabi: Learn Japanese||
-|813|497880658|自动|J23 - 发布日期和补货||||J23 - Release Dates & Restocks||
-|812|1108935309|自动|20 Watch Games - Classic Pack||||20 Watch Games - Classic Pack||
-|811|1410053842|自动|小渔排班 - 倒班工作者的专属日历||||小渔排班 - 倒班工作者的专属日历||
-|810|1519508653|自动|Nomad Sculpt - 3D雕刻建模||||Nomad Sculpt||
-|809|6446826650|自动|❌||||Dream Town Island||
-|808|998437590|自动|西语背单词||||西语背单词||
-|807|430388524|自动|Do! Spring Mint - To Do List||||Do! Spring Mint - To Do List||
-|806|592155900|自动|Wake up! Earthquake||||Wake up! Earthquake||
-|805|625274950|自动|漢語詞典繁體版||||中國漢語辭典 Chinese Dictionary||
-|804|998834675|自动|❌||||Clouds & Sheep 2 Premium||
-|803|1232529101|自动|❌||||Home Behind||
-|802|1573482724|自动|❌||||Coffee Inc 2||
-|801|1602772289|自动|❌||||7 Days to End with You||
-|800|1613295180|自动|❌||||Growing Up: Life of the '90s||
-|799|1614666556|自动|❌||||CNC VMC Simulator||
-|798|1624777523|自动|❌||||Guess Who? Meet the Crew||
-|797|413943804|自动|Real Piano™||||Real Piano™||
-|796|508064644|自动|地震讯息||||Earthquakes Pro||
-|795|1038014543|自动|❌||||Day R Premium: last world war||
-|794|1084793426|自动|Instant USGS Earthquake Pro||||Instant USGS Earthquake Pro||
-|793|1596863467|自动|❌||||LoveChoice||
-|792|1602403259|自动|Webmail App||||Webmail App||
-|791|1622064157|自动|Sismo: Vibration Meter & Alert||||Sismo: Vibration Meter & Alert||
-|790|6447606411|自动|❌||||Cafe Master Story||
-|789|6449046261|自动|❌||||Crystania Wars 2-Roguelike TD||
-|788|336543029|自动|Grat's Film Slate/Clapboard||||Grat's Film Slate/Clapboard||
-|787|583922375|自动|myLightMeter PRO||||myLightMeter PRO||
-|786|608540795|自动|Tunable – Tuner & Metronome||||Tunable – Tuner & Metronome||
-|785|975770717|自动|My Earthquake Alerts Pro||||My Earthquake Alerts Pro||
-|784|1056698678|自动|Live 2 Photos||||Live 2 Photos||
-|783|1062022008|自动|LumaFusion||||LumaFusion||
-|782|1207867591|自动|❌||||Papa's Taco Mia To Go!||
-|781|1326740784|自动|❌||||FINAL FANTASY VIII Remastered||
-|780|1372408358|自动|ARGun2018||||ARGun2018||
-|779|1438597800|自动|OKNDrum: Optokinetic Drum||||OKNDrum: Optokinetic Drum||
-|778|1448798374|自动|❌||||CAR++||
-|777|1450908177|自动|❌||||Shadow Of Death: Premium Games||
-|776|1509817154|自动|某某宗女修修炼手札||||某某宗女修修炼手札||
-|775|1513814705|自动|计算器键盘 - 快人一步||||Calculator Keyboard - Faster||
-|774|1543183092|自动|YKS Konu, Deneme, Soru Takibi||||YKS Konu, Deneme, Soru Takibi||
-|773|6744311159|自动|魔王终局||||❌||
-|772|6740014272|自动|水果合成 - 手表游戏||||Fruit Merge - Watch Game||
-|771|6742253703|自动|❌||||Slime 3K: Rise Against Despot||
-|770|6463440317|自动|❌||||Online Kaza Tutanağı||
-|769|6502287918|自动|❌||||PPSSPP Gold - PSP emulator||
-|768|400666114|自动|Guitar Pro||||Guitar Pro||
-|767|562989701|自动|❌||||Vector Classic||
-|766|1127680609|自动|吾龟 - 记录乌龟生长，制作生长曲线||||Tortoise - Keep Recording||
-|765|1171627280|自动|❌||||魔窟-无尽的地下城: 暗黑世界||
-|764|1179421849|自动|❌||||GRID™ Autosport||
-|763|1260311003|自动|五线谱照片扫描仪 - 乐谱图像识别||||Notation Scanner - Sheet Music||
-|762|1291427111|自动|❌||||Evoland 2||
-|761|1437715202|自动|倉頡詞典||||倉頡詞典||
-|760|1519571900|自动|Luwian||||Luwian||
-|759|1544947623|自动|Kiosk - fullscreen browser||||Kiosk - fullscreen browser||
-|758|1575192531|自动|❌||||Dream Park Story||
-|757|6742311454|自动|伏魔诀-阴阳秘术诡道修仙录||||❌||
-|756|6444396120|自动|挺进地牢||||❌||
-|755|6738590491|自动|KennysGifs||||KennysGifs||
-|754|6444311205|自动|❌||||GRID™ Legends: Deluxe Edition||
-|753|6477660875|自动|❌||||High Sea Saga DX||
-|752|6447090616|自动|Whisper Notes - 离线AI语音识别转录成文字||||Whisper Notes - Speech To Text||
-|751|414371107|自动|Morse Elmer||||Morse Elmer||
-|750|510119487|自动|AnatomyMapp||||AnatomyMapp||
-|749|561396899|自动|❌||||皇帝養成計畫 - 經典歷史模擬遊戲||
-|748|634158738|自动|e-Sword LT: Bible Study to Go||||e-Sword LT: Bible Study to Go||
-|747|814977594|自动|❌||||Surgeon Simulator||
-|746|958889621|自动|ADF Trainer - YOU Session Prep||||ADF Trainer - YOU Session Prep||
-|745|1066366174|自动|❌||||Concentration Grid||
-|744|1397002811|自动|Catholic Hymn||||Catholic Hymn||
-|743|1447509164|自动|Freya • Surge Timer||||Freya • Surge Timer||
-|742|1456714022|自动|RFECU Performance 2.0||||RFECU Performance 2.0||
-|741|1459520638|自动|❌||||Wingspan: The Board Game||
-|740|1463480017|自动|❌||||Leek Inc.||
-|739|1466120520|自动|❌||||iVerify Basic||
-|738|1499085878|自动|CNC Lathe Simulator||||CNC Lathe Simulator||
-|737|1522425038|自动|Alien10||||Alien10||
-|736|1541290982|自动|GPSPlus Pro||||GPSPlus - Location Editor Pro||
-|735|1551579024|自动|❌||||Burger Bistro Story||
-|734|1562608316|自动|Kelvin: Light Panel||||Kelvin: Light Panel||
-|733|1601177112|自动|❌||||Convenience Stories||
-|732|1609059358|自动|eVario2  - Variometer Pro||||eVario2  - Variometer Pro||
-|731|6702013134|自动|FOCUS - 猫猫专注计时器和学习番茄钟||||Cat Flow - Kitty Focus Timer||
-|730|6740487579|自动|❌||||Songs of Conquest Mobile||
-|729|6451009326|自动|❌||||LMP - Music Hub||
-|728|6473789128|自动|❌||||❌||
-|727|299021909|自动|圣经工具(新标点和合本)||||聖經工具(新標點和合本)||
-|726|407078169|自动|❌||||⋆Sudoku+||
-|725|418751595|自动|GyrOSC||||GyrOSC||
-|724|667362389|自动|❌||||The Room Two||
-|723|768379887|自动|Eye Meter||||Eye Meter||
-|722|814323051|自动|❌||||Bridge Constructor Medieval||
-|721|911205290|自动|❌||||DRAGON QUEST II||
-|720|983145797|自动|超注音||||超注音||
-|719|1033342465|自动|Just Press Record||||Just Press Record||
-|718|1112850631|自动|❌||||VideoShow PRO - Video Editor||
-|717|1126386264|自动|❌||||AdGuard Pro — adblock&privacy||
-|716|1182456409|自动|❌||||Alto's Odyssey||
-|715|1238247658|自动|❌||||❌||
-|714|1260271235|自动|BoatSpeed: Course & Speed||||BoatSpeed: Course & Speed||
-|713|1260967308|自动|WhatCall||||WhatCall||
-|712|1423585518|自动|ROMAN: 进食计画、减肥、减脂一体化。 体重管理。||||Roman: budget weight loss||
-|711|1508108761|自动|EasyQuit Pro - Stop Smoking||||EasyQuit Pro - Stop Smoking||
-|710|1550721625|自动|JAMMATES||||JAMMATES||
-|709|1582355047|自动|❌||||❌||
-|708|1610305853|自动|SunOnTrack: Sun Path & Shadows||||SunOnTrack: Sun Path & Shadows||
-|707|1616391834|自动|合成游戏合集：含合成大西瓜、2048和合成神龙经典游戏||||❌||
-|706|1668418644|自动|大事記帳 - 阻止你花過多的錢||||大事記帳 - 阻止你花過多的錢||
-|705|6477756843|自动|❌||||Final Girl Companion||
-|704|6698876690|自动|WristTube+ Player for YouTube||||WristTube+ Player for YouTube||
-|703|6742457882|自动|Deco: Wallpaper Creator||||Deco: Wallpaper Creator||
-|702|6471914901|自动|Lux: AdBlock + PiP for YouTube||||Lux: AdBlock + PiP for YouTube||
-|701|300132735|自动|专业万年历 - 十三行作品||||專業萬年曆 - 十三行作品||
-|700|430234732|自动|Site Audit Pro||||Site Audit Pro||
-|699|602990197|自动|❌||||METAL SLUG X||
-|698|898697688|自动|五十音輕鬆學：聯想記憶||||五十音輕鬆學：聯想記憶||
-|697|1304822713|自动|无尽坦克大战 - 八位元单机王者 完美模拟穿越旧经典电视手游||||Infinity Tank Battle||
-|696|1400579543|自动|❌||||imo video calls and chat HD||
-|695|1435461053|自动|❌||||This Is the Police||
-|694|1471323296|自动|❌||||Basketball Club Story||
-|693|1472184189|自动|❌||||The White Door||
-|692|1478611992|自动|❌||||Farming Simulator 20||
-|691|1498550832|自动|ASCCP Management Guidelines||||ASCCP Management Guidelines||
-|690|6739975257|自动|乐桥||||TuneShift||
-|689|6670190133|自动|❌||||Doraemon Dorayaki Shop Story||
-|688|6744862281|自动|iPlayer - 本地音乐播放器&离线音乐专业版||||iPlayer - Offline Music  Pro||
-|687|6473001577|自动|❌||||Aerofly FS Global||
-|686|327963391|自动|Pedi STAT||||Pedi STAT||
-|685|398463868|自动|❌||||詰将棋||
-|684|419606496|自动|Baby Shusher Sleep Miracle App||||Baby Shusher Sleep Miracle App||
-|683|435871950|自动|HappyCow - Vegan Food Near You||||HappyCow - Vegan Food Near You||
-|682|459189186|自动|❌||||Machinarium||
-|681|580008932|自动|❌||||Real Badminton||
-|680|1253855339|自动|❌||||Rusty Lake Paradise||
-|679|1330055286|自动|比手划脚 - 你说我猜合家欢聚会神器||||比手划脚 - 你比我猜合家欢猜词工具||
-|678|1453117329|自动|❌||||Yume Nikki||
-|677|1456547302|自动|❌||||A Dance of Fire and Ice||
-|676|1457316711|自动|❌||||DRAW CHILLY||
-|675|1481181827|自动|❌||||Aces of the Luftwaffe Squadron||
-|674|1505174740|自动|❌||||VFUN - Find your interests||
-|673|1517281147|自动|行星小时||||Planetary Hours + Widget||
-|672|1530149693|自动|心岛日记-难过的人不孤独||||心岛日记-难过的人不孤独||
-|671|1548281314|自动|❌||||倉頡打字2V||
-|670|1607511516|自动|❌||||Construction Simulator 4||
-|669|1612615618|自动|腕上txt小说阅读器||||腕上txt小说阅读器||
-|668|1617390109|自动|❌||||我们的大航海||
-|667|1621065119|自动|❌||||Ace Attorney Trilogy||
-|666|1626320298|自动|极速变色龙||||❌||
-|665|6738272916|自动|全球电视 - 国际电视直播||||NetTV: Watch Global TV||
-|664|6446178861|自动|PlayNav - 影片内无广告！||||PlayNav - No ads in videos!||
-|663|363385252|自动|DTMFdec||||DTMFdec||
-|662|430270438|自动|Astro Gold||||Astro Gold||
-|661|679454835|自动|Rarevision VHS - Retro 80s Cam||||Rarevision VHS - Retro 80s Cam||
-|660|911201894|自动|❌||||DRAGON QUEST||
-|659|921954809|自动|❌||||Craft The World-Pocket Edition||
-|658|1093859891|自动|djembeföla!||||djembeföla!||
-|657|1232097854|自动|❌||||Home Run High||
-|656|1261834568|自动|❌||||Shadow Fight 2 Special Edition||
-|655|1555459868|自动|❌||||Dawncaster: Deckbuilding RPG||
-|654|1563121109|自动|❌||||Shattered Pixel Dungeon||
-|653|6744629398|自动|汉界||||汉界||
-|652|6738784151|自动|❌||||A Little to the Left: Stars||
-|651|6470642337|自动|❌||||Ex Astris||
-|650|6483862844|自动|❌||||Sky Band||
-|649|314192799|自动|❌||||Acrobits Softphone||
-|648|466388978|自动|My Contacts Backup Pro||||My Contacts Backup Pro||
-|647|512142109|自动|❌||||Max Payne Mobile||
-|646|904737816|自动|❌||||Kingdom Rush Origins TD||
-|645|952625011|自动|每日精選-國家地理每日精選||||❌||
-|644|958202096|自动|❌||||❌||
-|643|1085978097|自动|Pythonista 3||||Pythonista 3||
-|642|1148321705|自动|❌||||Bully: Anniversary Edition||
-|641|1286255182|自动|Filmlike||||Filmlike Camera||
-|640|1449584007|自动|Koala Sampler||||Koala Sampler||
-|639|1523025509|自动|PANTHEON - Official||||PANTHEON - Official||
-|638|1536419933|自动|❌||||Break Pile - Brick Breaker||
-|637|1574175808|自动|❌||||Specimen Zero - Horror||
-|636|1622935612|自动|❌||||❌||
-|635|1633879571|自动|❌||||Poppy Playtime Chapter 2||
-|634|6504841512|自动|❌||||Halls of Torment: Premium||
-|633|6476902290|自动|Handy Guitar Lab for MS-70CDR+||||Handy Guitar Lab for MS-70CDR+||
-|632|6479512734|自动|❌||||NARUTO: Ultimate Ninja STORM||
-|631|6740051873|自动|数字华容道：手表版||||Classic Number Games for Watch||
-|630|6444109272|自动|Kübaj - Hacim Hesaplama||||Kübaj - Hacim Hesaplama||
-|629|318639200|自动|❌||||Crush the Castle||
-|628|325915322|自动|BatteryFull + (Alarm)||||BatteryFull + (Alarm)||
-|627|365729342|自动|RacquetTune - String Tension||||RacquetTune - String Tension||
-|626|414469628|自动|面部和躯体照片编辑器||||Face & Body Photo editor||
-|625|459313476|自动|Tenuto||||Tenuto||
-|624|478126577|自动|Merriam-Webster Dictionary+||||Merriam-Webster Dictionary+||
-|623|493493802|自动|RhymeZone||||RhymeZone||
-|622|555612465|自动|存錢記帳-管理預算、掃描記帳、理財分析CWMoney Pro||||CWMoney Pro - Expense Tracker||
-|621|564730202|自动|Money Manager (Remove Ads)||||Money Manager (Remove Ads)||
-|620|582584117|自动|Solocator - GPS Field Camera||||Solocator - GPS Field Camera||
-|619|633600716|自动|432 Player||||432 Player||
-|618|683353582|自动|Hong Kong Taxi Cards||||Hong Kong Taxi Cards||
-|617|777310222|自动|GoodReader PDF Editor & Viewer||||GoodReader PDF Editor & Viewer||
-|616|887877435|自动|f8 镜头大师||||f8 Lens Toolkit||
-|615|908905093|自动|Lumy - 太阳追踪器与黄金时刻||||Lumy||
-|614|961339405|自动|❌||||Prison Life RPG||
-|613|994157520|自动|❌||||1942 Pacific Front Premium||
-|612|1048509287|自动|❌||||龙纪冒险棋||
-|611|1087099916|自动|铅笔素描 高清版||||Pencil Sketch HD||
-|610|1107320261|自动|❌||||Splitter Critters||
-|609|1241909999|自动|WorkOutDoors||||WorkOutDoors||
-|608|1293681293|自动|❌||||Pocket Build||
-|607|1330717186|自动|❌||||The Golf Tracer||
-|606|1357651989|自动|❌||||Tick Tock: A Tale for Two||
-|605|1385258906|自动|❌||||Mindustry||
-|604|1402080820|自动|❌||||This War of Mine: Stories||
-|603|1439262206|自动|❌||||Root Board Game||
-|602|1450194251|自动|Kişiye Özel Diyet||||Weight Loss in 28 Days||
-|601|1477229754|自动|❌||||Papa's Cheeseria To Go!||
-|600|1514329124|自动|❌||||Rusted Warfare - RTS||
-|599|1553055273|自动|Chairgun Elite Ballistic Tool||||❌||
-|598|1573220858|自动|❌||||环球酒店大亨||
-|597|1580509302|自动|❌||||The Heroic Legend of Eagarlnia||
-|596|1614771445|自动|❌||||Rotaeno||
-|595|6742396803|自动|DaDaDaDa - 空气枪||||DaDaDaDa - Air Gun Simulator||
-|594|6740943002|自动|BaMai||||BaMai||
-|593|6743459503|自动|❌||||逐鹿||
-|592|6480251529|自动|体育集换卡制作专业版||||Ultimate Card Creator||
-|591|6739179322|自动|WristShorts for YouTube||||WristShorts for YouTube||
-|590|6744837914|自动|块块爱消除-手表游戏经典快乐休闲益智||||Block Jam Blast For Watch||
-|589|6502623166|自动|❌||||金武江湖||
-|588|6468033830|自动|❌||||Refind Self||
-|587|6738138603|自动|❌||||偶像之路终极版UltimateEdition||
-|586|6739185971|自动|❌||||Earnifi: Rent, Early Pay, Cash||
-|585|284972998|自动|SoundHound∞ 音乐搜索识别和播放器||||SoundHound∞ - Music Discovery||
-|584|288419283|自动|❌||||RadarScope||
-|583|292421271|自动|❌||||Fieldrunners||
-|582|294934058|自动|HotSchedules||||HotSchedules||
-|581|298206806|自动|iReal Pro||||iReal Pro||
-|580|299117180|自动|Airports||||Airports||
-|579|301387274|自动|❌||||Pocket God||
-|578|305557780|自动|换脸 (iSwap Faces Pro)||||iSwap Faces Pro||
-|577|306938028|自动|Photo Sticker||||Photo Sticker||
-|576|307132353|自动|❌||||Sally's Spa||
-|575|307727765|自动|❌||||Doodle Jump||
-|574|307751675|自动|❌||||PopStar!-stars crush||
-|573|315021242|自动|❌||||Unblock Me Premium||
-|572|315514944|自动|实用家常菜谱大全||||实用家常菜谱大全||
-|571|317809458|自动|LiveATC Air Radio||||LiveATC Air Radio||
-|570|323048611|自动|Dr.eye譯典通||||Dr.eye譯典通||
-|569|329670577|自动|Camera+旧版||||Camera+ Legacy||
-|568|332424440|自动|❌||||MILLIONAIRE TYCOON™||
-|567|333212604|自动|蒙恬名片王Mobile||||蒙恬名片王Mobile||
-|566|335029050|自动|❌||||Catan Classic||
-|565|335709058|自动|Stylebook||||Stylebook||
-|564|335862325|自动|Blower||||Blower||
-|563|342115564|自动|Hipstamatic 相机||||Classic Camera by Hipstamatic||
-|562|344784375|自动|播放器OPlayer||||OPlayer - video player||
-|561|351850196|自动|紫白飛星萬年曆 - 十三行作品||||紫白飛星萬年曆 - 十三行作品||
-|560|352247139|自动|Calorie Counter PRO MyNetDiary||||Calorie Counter PRO MyNetDiary||
-|559|355281169|自动|❌||||遠流字典通 (豪華版)||
-|558|357404131|自动|慢快门相机 (Slow Shutter Cam)||||Slow Shutter Cam||
-|557|357421934|自动|PeakFinder||||PeakFinder||
-|556|367327563|自动|秘密照片管理 - i照片文件夹||||Secret Photo+Folder||
-|555|373493387|自动|AnkiMobile Flashcards||||AnkiMobile Flashcards||
-|554|388130466|自动|❌||||iSlash||
-|553|388857410|自动|❌||||Blackjack & Card Counting Pro||
-|552|392531952|自动|倉頡解碼||||倉頡解碼||
-|551|395680819|自动|AVPlayer||||AVPlayer||
-|550|396085661|自动|❌||||Game Dev Story||
-|549|402012828|自动|iSafe Pro||||iSafe Pro||
-|548|402656416|自动|IP Cam Viewer Pro||||IP Cam Viewer Pro||
-|547|403684733|自动|Badoo高级版||||Badoo Premium||
-|546|404990064|自动|SkyView®||||SkyView®||
-|545|405835358|自动|MilGPS||||MilGPS||
-|544|406239138|自动|❌||||Puffin Browser Pro||
-|543|406541444|自动|8毫米相机||||8mm Vintage Camera||
-|542|407933070|自动|怀旧日历 - 十三行作品||||懷舊日曆 - 十三行作品||
-|541|408697793|自动|❌||||King of Opera||
-|540|408854559|自动|❌||||Hot Springs Story||
-|539|417817520|自动|❌||||Tiny Wings||
-|538|424403441|自动|瑕疵清除器 (Pimple Eraser)||||Pimple Eraser||
-|537|430163724|自动|智能风水罗盘-专业版||||智能风水罗盘-专业版||
-|536|432850619|自动|FL Studio Mobile||||FL Studio Mobile||
-|535|433596395|自动|❌||||ZOOKEEPER DX||
-|534|449735650|自动|❌||||Where's My Water?||
-|533|450542233|自动|❌||||Cut the Rope: Experiments GOLD||
-|532|452990487|自动|RushPlayer||||RushPlayer||
-|531|454086751|自动|❌||||Flick Home Run !||
-|530|469343554|自动|❌||||❌||
-|529|479516143|自动|❌||||Minecraft: Dream it, Build it!||
-|528|479662730|自动|❌||||Grand Theft Auto III||
-|527|482303584|自动|❌||||PDG PROmote 2025+||
-|526|485246824|自动|❌||||Cytus||
-|525|491231653|自动|❌||||大富翁 4 Fun||
-|524|497716362|自动|TonalEnergy 调音器—节拍器||||TonalEnergy Tuner & Metronome||
-|523|498732510|自动|❌||||Blitzer.de PRO||
-|522|501695715|自动|儿歌童谣 - 国语+粤语(广东话)儿歌连歌词||||兒歌童謠 - 國語+粵語(廣東話)兒歌連歌詞||
-|521|503190232|自动|❌||||Bridge Constructor||
-|520|504176984|自动|论子平-论八字(实用)||||论子平-论八字(实用)||
-|519|504300412|自动|❌||||European War 3||
-|518|505367096|自动|世界迷雾||||Fog of World||
-|517|519411018|自动|iGuzheng - 爱古筝||||iGuzheng||
-|516|520231936|自动|eDrawings||||eDrawings||
-|515|524387892|自动|The Official KSIOlajidebt Soundboard - KSI Sounds||||The Official KSIOlajidebt Soundboard - KSI Sounds||
-|514|525818839|自动|❌||||Plague Inc.||
-|513|530425820|自动|东方财富领先版-财经资讯&股票开户||||东方财富领先版-财经资讯&股票开户||
-|512|540925500|自动|❌||||❌||
-|511|549105915|自动|❌||||True Skate||
-|510|549432607|自动|❌||||Townsmen Premium||
-|509|554937499|自动|❌||||Earn to Die||
-|508|555642577|自动|晋硕万年历||||Chinsoft Lunar Calendar||
-|507|563718995|自动|❌||||Bloons TD 5||
-|506|575154654|自动|❌||||Pou||
-|505|577628510|自动|TeamSpeak 3||||TeamSpeak 3||
-|504|578448682|自动|❌||||Grand Theft Auto: Vice City||
-|503|586149216|自动|Monash FODMAP Diet||||Monash FODMAP Diet||
-|502|594117733|自动|❌||||仙劍奇俠傳1 DOS懷舊版||
-|501|600626116|自动|❌||||Papa's Burgeria To Go!||
-|500|623592465|自动|❌||||Heads Up!||
-|499|625334537|自动|❌||||Geometry Dash||
-|498|634235735|自动|❌||||Duet Game||
-|497|640364616|自动|❌||||Terraria||
-|496|646256209|自动|Photo Eraser||||Photo Eraser for iPhone||
-|495|657016140|自动|Good Maps - 谷歌地图,离线,街景,公交,地铁,导航||||Good Maps - for Google Maps, with Offline Map, Directions, Street Views and More||
-|494|679044544|自动|AndroMoney||||AndroMoney||
-|493|687236545|自动|Adv. Learner’s Dictionary (TC)||||Adv. Learner’s Dictionary (TC)||
-|492|697885605|自动|❌||||常春藤基礎英文字彙||
-|491|700637744|自动|❌||||DEEMO||
-|490|736683061|自动|❌||||A Dark Room||
-|489|741990930|自动|❌||||Walkout Song DJ||
-|488|763692274|自动|❌||||Grand Theft Auto: San Andreas||
-|487|784373321|自动|❌||||軒轅劍參外傳 天之痕||
-|486|807317212|自动|每日精选-天文地理人文照片之美&壁纸||||Daily Dozen-Culture in Photos||
-|485|824305459|自动|❌||||Papa's Freezeria To Go!||
-|484|829581836|自动|Driving Theory Test 4 in 1 Kit||||Driving Theory Test 4 in 1 Kit||
-|483|837860959|自动|❌||||Mini Metro||
-|482|860809977|自动|Fongo World Edition||||Fongo World Edition||
-|481|870322730|自动|❌||||Implosion - Never Lose Hope||
-|480|890791581|自动|樂客導航王全3D Pro||||樂客導航王全3D Pro||
-|479|891194610|自动|❌||||Earn to Die 2||
-|478|901738789|自动|地下城堡: 炼金术师的魔幻之旅||||Dungeon Survivor||
-|477|904278510|自动|❌||||Hitman Sniper||
-|476|912536422|自动|❌||||Five Nights at Freddy's||
-|475|916976066|自动|短语键盘||||Phraseboard Keyboard||
-|474|918609651|自动|Money Pro: Personal Finance AR||||Money Pro: Personal Finance AR||
-|473|924695435|自动|Pixelmator||||Pixelmator||
-|472|925494667|自动|❌||||Papa's Pizzeria To Go!||
-|471|926015463|自动|Timestamp Photo and Video pro||||Timestamp Photo and Video pro||
-|470|926076608|自动|秒速记账 1SecMoney||||1SecMoney||
-|469|927098908|自动|Pro Camera by Moment||||Pro Camera by Moment||
-|468|932389062|自动|❌||||Give It Up! - Jump to the Beat||
-|467|935216956|自动|❌||||Papers, Please||
-|466|935528099|自动|同步音律||||MUSYNX||
-|465|941143328|自动|❌||||Five Nights at Freddy's 2||
-|464|945322477|自动|❌||||新仙劍奇俠傳(正版單機)||
-|463|946477821|自动|❌||||Evoland||
-|462|948944368|自动|全屏浏览器 - 用得全屏才是好浏览器！||||iBrowser- Full Screen Browser||
-|461|954724812|自动|同花顺至尊版-股票软件||||同花顺至尊版-股票软件||
-|460|955687901|自动|kirakira+||||kirakira+||
-|459|961932335|自动|Analog Tokyo||||Analog Tokyo||
-|458|963034692|自动|Streaks||||Streaks||
-|457|964708975|自动|古诗文网||||古诗文网||
-|456|973482987|自动|❌||||Five Nights at Freddy's 3||
-|455|975683986|自动|❌||||Door Kickers||
-|454|982175678|自动|❌||||This War of Mine||
-|453|982227026|自动|聚爆Implosion||||❌||
-|452|992047786|自动|Analog Wedding||||Analog Wedding||
-|451|998437582|自动|法语背单词 - 法语单词记忆工具||||法语背单词 - 法语单词记忆工具||
-|450|1010311475|自动|QuickBend: Conduit Bending||||QuickBend: Conduit Bending||
-|449|1012298403|自动|❌||||Don't Starve: Pocket Edition||
-|448|1023146677|自动|❌||||Five Nights at Freddy's 4||
-|447|1028950091|自动|贪婪洞窟：猿神降临||||The Greedy Cave||
-|446|1029932207|自动|❌||||Papa's Cupcakeria To Go!||
-|445|1035219553|自动|Analog London||||Analog London||
-|444|1035219562|自动|Analog Paris||||Analog Paris||
-|443|1065360416|自动|BimmerLink for BMW and MINI||||BimmerLink for BMW and MINI||
-|442|1065599938|自动|❌||||HARVEST MOON: Seeds Of Memories||
-|441|1077639630|自动|说剑The Swords||||❌||
-|440|1093131935|自动|❌||||Incredibox||
-|439|1094038347|自动|❌||||Only You Are Here||
-|438| ~~1095903651~~ |自动| ~~【约吗】-约会附近的人，同城陌生人交友陪玩聊天软件~~ |||| ~~甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件~~ ||
-|437|1099088440|自动|火柴人联盟2||||❌||
-|436|1108479411|自动|❌||||Driving Zone 2: Car Racing||
-|435|1110646984|自动|地下城堡2: 黑暗觉醒||||❌||
-|434|1111420122|自动|❌||||Hear My Baby Heartbeat Monitor||
-|433|1112429079|自动|物种起源||||Origin - The Big Bang||
-|432|1113736426|自动|❌||||RollerCoaster Tycoon® Classic||
-|431|1118115766|自动|❌||||Bloons TD 6||
-|430|1121484538|自动|❌||||Station Manager||
-|429|1128464707|自动|❌||||Death Road to Canada||
-|428|1129429340|自动|RaceChrono Pro||||RaceChrono Pro||
-|427|1134805859|自动|迷失岛||||Isoland||
-|426|1137257203|自动|Namaz Vakti Pro (Reklamsız)||||Muslim Prayer Times Pro, Adhan||
-|425|1142016085|自动|❌||||Rusty Lake: Roots||
-|424|1160608318|自动|Air Traffic Control - Live ATC||||Air Traffic Control - Live ATC||
-|423|1166143148|自动|❌||||Brutal Street 2||
-|422|1169282239|自动|活下去-丧尸题材末日生存冒险游戏||||❌||
-|421|1184204602|自动|ProMovie + 专业摄像机||||ProMovie Recorder +||
-|420|1187265767|自动|❌||||Monument Valley 2||
-|419|1189781891|自动|❌||||Five Nights at Freddy's: SL||
-|418|1195035357|自动|❌||||Dungeon Defense : The Gate||
-|417|1217732174|自动|TA - 一对一聊天，遇见对的人||||❌||
-|416|1237692856|自动|Gudak Cam||||Gudak Cam||
-|415|1239299402|自动|❌||||Street Fighter IV CE||
-|414|1241383990|自动|Baby Sensory Signbook||||Baby Sensory Signbook||
-|413|1247397901|自动|❌||||Oddmar||
-|412|1248033433|自动|❌||||Kingdom Rush Vengeance TD Game||
-|411|1249864455|自动|❌||||Peace, Death!||
-|410|1250144822|自动|玄空飛星羅經 - 專業風水羅盤||||玄空飛星羅經 - 專業風水羅盤||
-|409|1259067036|自动|❌||||Wild Park Manager||
-|408|1262474519|自动|❌||||Monoposto||
-|407|1264608487|自动|❌||||Driving Zone: Germany Pro||
-|406|1290687550|自动|❌||||Cytus II||
-|405|1291429551|自动|❌||||60 Parsecs!||
-|404|1291730054|自动|❌||||Lowriders Comeback 2: Cruising||
-|403|1296085645|自动|aRacerSmart||||aRacerSmart||
-|402|1298544927|自动|❌||||My Child Lebensborn||
-|401|1303222868|自动|Paprika食谱管理3||||Paprika Recipe Manager 3||
-|400|1312534841|自动|MyText Widget||||MyText Widget||
-|399|1329434099|自动|乱斗堂3||||❌||
-|398|1330314351|自动|微剪辑-微视频编辑助手||||Videdit - Handy Video Editor||
-|397|1336793944|自动|❌||||HAAK||
-|396|1339516665|自动|奥特曼传奇英雄VIP版||||❌||
-|395|1351652600|自动|❌||||Boolean!||
-|394|1359107338|自动|Catch the Easter Bunny||||Catch the Easter Bunny||
-|393|1359652100|自动|❌||||Dungeon Maker : Dark Lord||
-|392|1391339323|自动|❌||||Zaptiye||
-|391|1392608717|自动|❌||||Papa's Scooperia To Go!||
-|390|1406710800|自动|❌||||Stardew Valley||
-|389|1435004182|自动|❌||||❌||
-|388|1436429074|自动|FILCA - SLR Film Camera||||FILCA - Vintage Film Camera||
-|387|1437096541|自动|❌||||Rush Rally 3||
-|386|1438245901|自动|❌||||Papa's Pancakeria To Go!||
-|385|1439187947|自动|❌||||Rebel Inc.||
-|384|1439881811|自动|RadarOmega||||RadarOmega||
-|383|1441969889|自动|❌||||Z.O.N.A Shadow of Lemansk||
-|382|1442776789|自动|❌||||Pirates Outlaws||
-|381| ~~1444761746~~ |自动| ~~❌~~ |||| ~~RFS - Real Flight Simulator~~ ||
-|380|1449893235|自动|Earthquake Network||||Earthquake Network||
-|379|1450064785|自动|山林日志||||Hiking Logger||
-|378|1450144092|自动|❌||||三國志天下布武 - 單機戰棋策略遊戲||
-|377|1451873044|自动|❌||||Papa's Wingeria To Go!||
-|376|1453838527|自动|❌||||Age of History II||
-|375|1455781522|自动|❌||||FNaF 6: Pizzeria Simulator||
-|374|1459749978|自动|List背单词||||List背单词||
-|373|1461751938|自动|❌||||Purple Place - Classic Games||
-|372|1464850921|自动|每日英语阅读||||每日英语阅读||
-|371|1474716211|自动|❌||||60 Seconds! Reatomized||
-|370|1477203766|自动|❌||||Total War: MEDIEVAL II||
-|369|1477854253|自动|大家的日本语 初级 第二版||||大家的日本語 初級 第二版||
-|368|1477966166|自动|❌||||MONOPOLY: The Board Game||
-|367|1477991646|自动|❌||||Kingdom Two Crowns||
-|366|1479608271|自动|❌||||Arcadia - Watch Games||
-|365|1480844881|自动|❌||||Mini Chess on Watch||
-|364|1481006495|自动|倒计时应用 Countdown App||||Countdown App||
-|363|1482339363|自动|iScore5 APHG||||iScore5 APHG||
-|362|1484622401|自动|❌||||Religion inc. God Simulator||
-|361|1485875855|自动|❌||||❌||
-|360|1491530147|自动|❌||||Slay the Spire||
-|359|1497120981|自动|LUCH: Photo Effects & Filters||||LUCH: Photo Effects & Filters||
-|358|1499849161|自动|❌||||Ultimate Custom Night||
-|357|1500098830|自动|❌||||❌||
-|356|1503486239|自动|❌||||Richman10||
-|355|1504662191|自动|❌||||❌||
-|354|1504760106|自动|❌||||Eco inc.||
-|353|1504952058|自动|❌||||Papa's Sushiria To Go!||
-|352|1505636751|自动|❌||||TeleGuard||
-|351|1509344823|自动|Ezberle||||Ezberle||
-|350|1512751689|自动|❌||||The Game of Life 2||
-|349|1515215584|自动|RakugakiAR||||RakugakiAR||
-|348|1515382132|自动|❌||||Axis & Allies 1942 Online||
-|347|1516531425|自动|JSPS APP||||JSPS APP||
-|346|1517349382|自动|群雄时代 - 单机三国战棋策略游戏||||❌||
-|345|1518841947|自动|ATSU||||ATSU||
-|344|1519386476|自动|❌||||MiniGames - Watch Games Arcade||
-|343|1523633394|自动|❌||||SpongeBob SquarePants||
-|342|1525735418|自动|❌||||❌||
-|341|1528199331|自动|❌||||Crashlands 2||
-|340|1531462734|自动|桂林字牌手机版||||❌||
-|339|1531654315|自动|❌||||MayLikeWallpaper - best hiapk||
-|338|1536762482|自动|Spirit Talker ®||||Spirit Talker ®||
-|337|1544190466|自动|避难所：生存||||❌||
-|336|1544412558|自动|航海奇闻||||❌||
-|335|1544722749|自动|拣爱||||❌||
-|334|1548185534|自动|❌||||Musical Maze||
-|333|1551207253|自动|❌||||Papa's Mocharia To Go!||
-|332|1551263854|自动|打金传奇:官方正版 搬砖回收永不关服超爆加强版，传奇王者霸业||||❌||
-|331|1555857229|自动|2048 for watch||||2048_watch||
-|330|1556671822|自动|合成大西瓜 for watch||||Merge Watermelon for watch||
-|329|1559869450|自动|❌||||❌||
-|328|1562560561|自动|Tevekkülvakti Pro||||Tevekkülvakti Pro||
-|327|1563932741|自动|❌||||Taboo - Official Party Game||
-|326|1569963107|自动|❌||||❌||
-|325|1576329230|自动|传奇1.76官方正版盛大首发(重置版)今日开服送点卡迷失传说||||❌||
-|324|1576763082|自动|女帝的日常||||女帝的日常||
-|323|1577392165|自动|❌||||Monster Train||
-|322|1578203914|自动|电子宠物机||||Peggy Cat - A Virtual Pet||
-|321|1581640677|自动|❌||||Football Referee Simulator||
-|320|1587674627|自动|爱琳诗篇:异世界冒险 少女放置卡牌手游||||❌||
-|319|1590622755|自动|µBrowser: Watch Web Browser||||µBrowser: Watch Web Browser||
-|318|1591627945|自动|❌||||Papa's Cluckeria To Go!||
-|317|1592505377|自动|❌||||Wreckfest||
-|316|1592660274|自动|❌||||天际牧场物语-模拟经营自己的牧场||
-|315|1595739885|自动|❌||||Shadow Hunter: Special Edition||
-|314|1596736236|自动|❌||||Red's First Flight||
-|313|1600307023|自动|❌||||Dealer's Life 2||
-|312|1603421749|自动|传奇高爆99999% 攻速9999倍PC同款三职业:战无不胜||||❌||
-|311|1603553413|自动|手表浏览器||||手表浏览器||
-|310|1606405358|自动|❌||||Dealer's Life||
-|309|1609910024|自动|❌||||❌||
-|308|1610947489|自动|❌||||Poppy Playtime Chapter 1||
-|307|1612952507|自动|AeroPads - Pads & Soundscapes||||AeroPads - Pads & Soundscapes||
-|306|1614200925|自动|部落与弯刀||||❌||
-|305|1622869542|自动|❌||||Kingdom Rush 5: Alliance TD||
-|304|1624326561|自动|真武三国  英雄集结||||真武三国  英雄集结||
-|303|1631859420|自动|❌||||After Inc.||
-|302|1631867592|自动|❌||||Jumbo Airport Story||
-|301|1633243177|自动|Ableton Note||||Ableton Note||
-|300|1633253544|自动|消除星星 - 益智的星星消消乐经典手表游戏||||Pop The Stars Game For Watch||
-|299|1636342413|自动|SSH Term Pro||||SSH Term Pro||
-|298|1642601792|自动|❌||||The Past Within||
-|297|1642733080|自动|❌||||DungeonSquad||
-|296|1643199620|自动|Any Text · Widgets||||Any Text · Widgets||
-|295|1659271912|自动|❌||||Train Dispatcher!2||
-|294|1659316190|自动|钢铁战队(R)||||❌||
-|293|1662217862|自动|Wipr 2||||Wipr 2||
-|292|1665706687|自动|❌||||Underground Blossom||
-|291|1668755109|自动|❌||||Brotato:Premium||
-|290|1669877091|自动|光明记忆：无限||||Bright Memory: Infinite||
-|289|1671505630|自动|迷失岛外传南瓜镇||||❌||
-|288|6737795387|自动|鬼谷八荒||||❌||
-|287|6448477521|自动|BiuBiuBiu - 空气枪||||PewPewPew - Fingergun||
-|286|6472380172|自动|Kino - Pro Video Camera||||Kino - Pro Video Camera||
-|285|6443786927|自动|全面憨憨战争模拟器||||❌||
-|284|6502489827|自动|大侠立志传||||❌||
-|283|6742129099|自动|群英打三国-超休闲国风放置卡牌巅峰巨作||||❌||
-|282|6443916065|自动|WiFi万能钥匙专业版-无线热点密码安全万能wi-fi管家||||❌||
-|281|6737512463|自动|怦然心动的瞬间-轻科幻真人互动恋爱影游||||怦然心动的瞬间-轻科幻真人互动恋爱影游||
-|280|6462190343|自动|药王谷女修修炼手札||||药王谷女修修炼手札||
-|279|6444782083|自动|王国保卫战4||||❌||
-|278|6450148077|自动|干中学！偷偷||||❌||
-|277|6449766387|自动|合成大西瓜 : 专为手表设计的合成类休闲解压小游戏||||Merge Watermelon 4 Watch||
-|276|6740246950|自动|花皮 - 无面具素颜社区/解压/释放/正念||||花皮 - 无面具素颜社区/解压/释放/正念||
-|275|6550914957|自动|打造世界-经典沙盒建造||||❌||
-|274|6742537442|自动|努力活着 - 自由人生重开模拟器||||❌||
-|273|6741474933|自动|Berryfilm||||Berryfilm||
-|272|6742221550|自动|魔卡棋旅||||❌||
-|271|6738767315|自动|便利店开业日记||||❌||
-|270|6737987084|自动|小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者||||CatLight Pro: Selfie Light Cam||
-|269|6446607609|自动|佛系传奇:君王天下||||❌||
-|268|6499512726|自动|浮岛冒险||||❌||
-|267|6483210281|自动|生物原型||||❌||
-|266|6738767322|自动|森丘露营地||||❌||
-|265|6737434454|自动|暗夜地城 - 单机暗黑刷装备挂机游戏||||❌||
-|264|6743117370|自动|Clash X Pro : Network Analyzer||||Clash X Pro : Network Analyzer||
-|263|6740705851|自动|手表变身器：时空驱动器 - iWatch发声器||||Henshin Hero - Game for watch||
-|262|6743487416|自动|黄金矿工 for Watch - 经典复刻||||Gold Miner - Watch Games||
-|261|6478843819|自动|❌||||Home, Planet & Hunters||
-|260|6502453075|自动|❌||||Balatro||
-|259|6670749900|自动|❌||||再戰江湖之傲視蒼龍||
-|258|6711347049|自动|❌||||Hero's Adventure||
-|257|6547834967|自动|❌||||Animal Crossing: Pocket Camp C||
-|256|6452276410|自动|❌||||遊戲開發者：全能製作人||
-|255|6471479898|自动|猫历 - 可爱清新日历和日程表提醒事项||||Cat Calendar：Schedule Planner||
-|254|6738371720|自动|❌||||Skating Rink Story||
-|253|6456751953|自动|❌||||ChatTan - AI Bot||
-|252|6469114836|自动|❌||||Suika Game-Aladdin X||
-|251|6743648252|自动|❌||||Saihate Station||
-|250|6738636631|自动|❌||||❌||
-|249|6480082872|自动|Dumbify||||Dumbify||
-|248|6738769251|自动|❌||||METRO QUESTER - Hack & Slash||
-|247|6621207768|自动|❌||||❌||
-|246|6743420230|自动|❌||||❌||
-|245|6736642117|自动|櫻花最前線 - 2025年預測||||❌||
-|244|6498879077|自动|❌||||Heian City Story||
-|243|6738636602|自动|❌||||❌||
-|242|6504323939|自动|❌||||❌||
-|241|6505046490|自动|❌||||Pro Wrestler Story||
-|240|6443723657|自动|❌||||filmhwa - @hwa.min's filter||
-|239|6743342476|自动|中药方剂速查 -【专业版】中医药查询宝典||||中药方剂速查 -【专业版】中医药查询宝典||
-|238|6742773178|自动|经络穴位养生 - 中医穴位自我按摩治愈||||经络穴位养生 - 中医穴位自我按摩治愈||
-|237|6476663854|自动|❌||||Solo Mini Golf||
-|236|6670469064|自动|❌||||The Exit 8||
-|235|6447508479|自动|❌||||Warm Snow||
-|234|6470958985|自动|❌||||A Perfect Day: Go back to 1999||
-|233|6445875391|自动|叶分贝-噪音分贝检测||||叶分贝-噪音分贝检测||
-|232|6443923265|自动|GSE SMART IPTV PRO||||GSE SMART IPTV PRO||
-|231|6739839815|自动|❌||||RogueVana||
-|230|6505052301|自动|❌||||❌||
-|229|6642649684|自动|❌||||Leek Inc. 2||
-|228|6738784092|自动|❌||||A Little to the Left: Drawers||
-|227|6450724928|自动|❌||||Luck be a Landlord||
-|226|6740814979|自动|❌||||Follow the meaning||
-|225|6456886656|自动|❌||||Layla||
-|224|6498623389|自动|Folium||||Folium||
-|223|6738342400|自动|Tampermonkey||||Tampermonkey||
-|222|6744355637|自动|Schedule I Drug Dealer||||Schedule I Drug Dealer||
-|221|6476064417|自动|❌||||Knight & Dragon III||
-|220|6463710522|自动|❌||||勇者的传奇||
-|219|6468572535|自动|❌||||Cavern Adventurers||
-|218|6471947612|自动|❌||||召喚騎士團||
-|217|6480501528|自动|TODO：猫咪待办事项 & 提醒事项 & 备忘录||||Cat Todo：To do list & Reminder||
-|216|6714479204|自动|❌||||Lowriders Comeback: Boulevard||
-|215|6740349666|自动|❌||||Backyard Baseball '97||
-|214|6473097811|自动|❌||||Doodle Baseball Game||
-|213|6463616555|自动|❌||||Ticket to Ride® The Board Game||
-|212|6477835115|自动|❌||||Papa's Paleteria To Go!||
-|211|6449003064|自动|Goblin Tools||||Goblin Tools||
-|210|6670199903|自动|❌||||StreetPro Racing||
-|209|6505058041|自动|❌||||QUAKELINE||
-|208|6744445187|自动|❌||||The Platform - Survive||
-|207|6469419567|自动|❌||||Overwinter Survival||
-|206|6444400410|自动|❌||||Farming Simulator 23 Mobile||
-|205|6474616013|自动|❌||||Trump Is Back||
-|204|6471594918|自动|Just a Simple Image Converter||||Just a Simple Image Converter||
-|203|6686394372|自动|❌||||Age of History 3||
-|202|6740471827|自动|手表经典迷宫游戏||||Classic Maze Game for Watch||
-|201|1481853033|手动|Strongbox Pro||||Strongbox Pro||
-|200|1581140954|手动|Noir - 为Safari添加深色模式||||Noir - Dark Mode for Safari||
-|199|1592917505|手动|Noir – 为Safari添加深色模式||||Noir – Dark Mode for Safari||
-|198|1591620171|手动|Stay for Safari - 浏览器伴侣||||Stay for Safari||
-|197|1438243180|手动|Dark Reader for Safari||||Dark Reader for Safari||
-|196|625206080|手动|❌||||Tomb Raider||
-|195|1108032375|手动|❌||||Rise of the Tomb Raider™||
-|194|1439569401|手动|❌||||Shadow of the Tomb Raider||
-|193|6459738231|手动|❌||||Lies of P||
-|192|1441532941|手动|❌||||Divinity: Original Sin 2||
-|191|6449748961|手动|❌||||DEATH STRANDING DIRECTOR'S CUT||
-|190|6499559693|手动|iStat Menus 7||||iStat Menus 7||
-|189|6475002485|手动|❌||||Reeder.||
-|188|1198176727|手动|Controller for HomeKit||||Controller for HomeKit||
-|187|904280696|手动|Things 3||||Things 3||
-|186|1055511498|手动|Day One 日記：私人日記||||Day One||
-|185|1208145167|手动|Picsew - 滚动截图 & 长图拼接||||Picsew - Scrollshot & Collage||
-|184|1444636541|手动|Photomator||||Photomator – Photo Editor||
-|183|1444383602|手动|Goodnotes 6：笔记，PDF，AI||||Goodnotes 6: AI Notes & Docs||
-|182|1473785373|手动|钱迹记账-无广告自动记账软件 & 预算 & 资产管理||||MoneyTrack: Expense & Budget||
-|181|1461652639|手动|网络调试精灵||||iSocketTool||
-|180|6499198824|手动|蜂软扫描 - 全能扫描仪||||ScanGo - PDF Document Scanner||
-|179|1538124245|手动|哪里哪里||||where I put it||
-|178|6446469093|手动|口袋时钟 - StandBy待机Widget桌面翻页创意时钟||||Clock Pocket:standby widget||
-|177|1610668825|手动|FyTube - 没有广告的 YouTube||||FyTube - YouTube Without Ads||
-|176|1175912897|手动|EverMemo印象便签||||EverMemo - Fastest Note||
-|175|6504433140|手动|LaxtTime - 日常记录/循环提醒/习惯养成/倒计时||||LaxtTime - Remember Last Time||
-|174|920133658|手动|解剖和生理学||||Anatomy & Physiology||
-|173|6463851696|手动|功德++ : 锁屏，Standby，桌面小组件都可以敲的木鱼||||Zen++||
-|172|1358237203|手动|时间胶囊-寄往未来的信||||时间胶囊-寄往未来的信||
-|171|1316883372|手动|音乐世界赛特斯2||||❌||
-|170|956086985|手动|美元折纸||||Dollar Bill Origami||
-|169|1436481293|手动|迷失岛3宇宙的尘埃||||ISOLAND 3 Dust of the Universe||
-|168|1422480068|手动|Notes Writer Pro: 笔记和 PDF 标注||||Notes Writer Pro 2025||
-|167|6443915320|手动|发条日签-好心情制造机||||发条日签-好心情制造机||
-|166|884153085|手动|Remote, Mouse & Keyboard Pro||||Remote, Mouse & Keyboard Pro||
-|165|1065802380|手动|Stream Music Player||||Stream Music Player||
-|164| ~~533055404~~ |手动| ~~夜星 (Night Stars)~~ |||| ~~Night Stars~~ ||
-|163|1493379610|手动|时光进度 - 进度管理&待办计划||||bProgress - Manage Daily Tasks||
-|162|1255627901|手动|方便面 - 朋友圈图文排版好帮手||||Instant Noodles: Original||
-|161|1449020025|手动|不玩手机-自律习惯养成记||||不玩手机-自律习惯养成记||
-|160|1576004936|手动|化学 - 元素周期表 2025||||Chemistry Periodic Table 2025||
-|159|827740598|手动|小牛计算器(高级版)||||Xmart Calculator Pro||
-|158|355460798|手动|Inspire Pro||||Inspire Pro||
-|157|1595313870|手动|瓦尔登 - 日程管理，一个就够||||Walden - Calendar/ToDo/Notes||
-|156|6449383791|手动|GIF录制助手-录屏、裁剪、优化、生成一站式便捷体验||||GIF Recorder-ImproveEfficiency||
-|155|1587301632|手动|全能记(录音,备忘,流水)||||All In One Memo||
-|154|1464666446|手动|我的足迹: GPS记录仪||||MyTracks: GPS Recorder||
-|153|1665759338|手动|坐在罐子里的人||||❌||
-|152|953426154|手动|Be Focused Pro - Focus Timer||||Be Focused Pro - Focus Timer||
-|151|1238778050|手动|纪念碑谷2||||❌||
-|150|1020541183|手动|电影精灵 - 专业视频编辑和电影制作||||MovieSpirit - Movie Maker Pro||
-|149|576718804|手动|aTimeLogger - 时间记录工具||||aTimeLogger Time Tracker||
-|148|670400597|手动|梁的挠度||||Deflection||
-|147|1400652313|手动|冰钓大师||||❌||
-|146|1551596643|手动|模拟地铁||||❌||
-|145|1437479513|手动|逃脱者：困境突围||||❌||
-|144|1314212521|手动|PPHub For GitHub - 开发者必备||||PPHub For GitHub - Developer||
-|143|1564383045|手动|算法导论.助手||||CLRS.Helper||
-|142|1380582804|手动|手机帝国||||Mobile Empire||
-|141|6466390901|手动|旋转音律 Rotaeno||||❌||
-|140|1596406400|手动|黄鸭证件照-最美求职考试证照制作神器||||黄鸭证件照-最美求职考试证照制作神器||
-|139|598581396|手动|Kingdom Rush Frontiers 塔防史诗冒险||||Kingdom Rush Frontiers TD||
-|138|1157863540|手动|泰拉瑞亚||||❌||
-|137|1630541373|手动|隐私相册-私密记忆，安心记录，安全保障隐藏秘密PRAM||||Private Album - PRAM||
-|136|1512838461|手动|DayCircle - 倒数||||DayCircle - Day counter||
-|135|1400032769|手动|Card.Note - 多彩卡片笔记||||Card.Note - 多彩卡片笔记||
-|134| ~~460661291~~ |手动| ~~安全笔记+ Pro~~ |||| ~~Safety Note+ Pro~~ ||
-|133| ~~505904421~~ |手动| ~~AirDisk Pro~~ |||| ~~AirDisk Pro~~ ||
-|132| ~~1527841661~~ |手动| ~~沙盒星球~~ |||| ~~Sandbox Planet~~ ||
-|131|1159266744|手动|双子 Gemini||||❌||
-|130|1453808408|手动|恶果之地||||Juicy Realm||
-|129|1458460469|手动|人类跌落梦境||||❌||
-|128|1481100296|手动|BreatheIn: Calm Breathing||||BreatheIn: Calm Breathing||
-|127| ~~431033044~~ |手动| ~~Phone Drive - 云储存管理和文件共享~~ |||| ~~Phone Drive: File Storage Sync~~ ||
-|126|1309638846|手动|Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜||||Vintage Camera - Goodak||
-|125|1618180398|手动|照片同步-导出备份相册照片视频||||PhotoSync-Backup your photos||
-|124| ~~456637671~~ |手动| ~~安全监控照片+视频Pro~~ |||| ~~Safety Photo+Video Pro~~ ||
-|123|1453318714|手动|Vostok — 创建美丽快拍页面||||Vostok — Story Maker||
-|122|931188326|手动|DayCost||||DayCost Pro - Personal Finance||
-|121|6449930220|手动|手表浏览器  Wafari||||Wafari - Watch Browser||
-|120| ~~818394449~~ |手动| ~~时间轴-全球历史~~ |||| ~~Timeline - World history~~ ||
-|119|1391571907|手动|Fine修图||||Fine - Photo Editor||
-|118|6499125531|手动|完蛋！我被美女包围了！||||完蛋！我被美女包围了！||
-|117| ~~1485101937~~ |手动| ~~Juice Watch~~ |||| ~~Juice Watch~~ ||
-|116|703265535|手动|FocusDots · 专注于当下||||FocusDots · Focus What Matters||
-|115|6479307181|手动|灵体侦测器||||Ghostly Detector||
-|114| ~~488674899~~ |手动| ~~雨雷達-實時天氣圖。 亞洲和中國。°~~ |||| ~~RAIN RADAR °- sky weather NOAA~~ ||
-|113|1636719674|手动|锁屏启动 - 万能桌面小组件&灵动岛一键快捷指令手机捷径布局||||Lock Launcher - Screen Widgets||
-|112|1543163106|手动|末剑二||||❌||
-|111|6443812780|手动|我的水世界求生||||❌||
-|110|1344655035|手动|蜡烛人||||❌||
-|109|6446614518|手动|画中世界||||❌||
-|108|1159700098|手动|去月球-To the Moon||||To the Moon||
-|107|1271620263|手动|艾希 - ICEY||||ICEY||
-|106|1361473095|手动|喵斯快跑||||MuseDash||
-|105|6476010032|手动|拦截猫-垃圾短信电话拦截||||拦截猫-垃圾短信电话拦截||
-|104|510249014|手动|水平仪 HD||||Level HD.||
-|103|904237743|手动|Things 3||||Things 3||
-|102|1622341132|手动|iSleeper - 梦话鼾声记录与睡眠监测||||iSleeper: Sleep Tracker||
-|101|900833042|手动|Fliqlo||||Fliqlo||
-|100|1467880680|手动|LEDot||||LEDot||
-|99|1455055663|手动|皮皮虾专业版||||❌||
-|98|1595901138|手动|NES 模拟器 - 吞食天地||||Handheld Game - NES Emulator||
-|97|1163515895|手动|鲨鱼记账Pro-3秒钟快速记账||||鲨鱼记账本Pro-管家理财必备工具||
-|96|754105884|手动|NightCap相机||||NightCap Camera||
-|95|1642364007|手动|海拔指南针||||Altitude Compass||
-|94|1522215205|手动|拒之-骚扰电话批量拦截助手||||拒之-骚扰电话批量拦截助手||
-|93|1484181693|手动|截图超人 - 微商专用的营销助手截图神器||||截图超人 - 微商专用的营销助手截图神器||
-|92|1117998129|手动|2025人体解剖学图谱||||Human Anatomy Atlas 2025||
-|91|6444824570|手动|ClashX - 服务监控面板||||ClashX - 服务监控面板||
-|90|469338840|手动|飞常准PRO-全球航班查询机票酒店预订||||飞常准PRO-全球航班查询机票酒店预订||
-|89|1197275827|手动|金十数据专业版-为交易而生||||金十数据专业版-为交易而生||
-|88|578665578|手动|Threema。安全的通讯工具||||Threema. The Secure Messenger||
-|87|1547418803|手动|Incredibox - 好玩的音乐盒||||❌||
-|86|1210251567|手动|SleepTown 睡眠小镇||||SleepTown||
-|85|1080235640|手动|CNU - 顶尖视觉精选||||CNU - 顶尖视觉精选||
-|84|1658579911|手动|小特钥匙 - 特斯拉蓝牙手表钥匙||||XIAOTE - Tesla BLE Watch key||
-|83|1152396902|手动|凤凰新闻(专业版)-头条新闻阅读平台||||凤凰新闻(专业版)-头条新闻阅读平台||
-|82|1633366918|手动|Instant Lines||||Instant Lines||
-|81|6480159520|手动|转录大师 - 录音转文字、实时离线转录||||Whisper Pen - Speech to Text||
-|80|966489322|手动|生辰 — 桌面时间小组件||||生辰 — 桌面时间小组件||
-|79|898876435|手动|Planit巧摄专业版：风光摄影计划神器||||Planit Pro: Photo Planner||
-|78|1062745479|手动|HeartWatch: 心脏和活动监测器||||HeartWatch: Heart Rate Tracker||
-|77|6476963352|手动|万能生成器||||万能生成器||
-|76|1459076631|手动|隐形守护者||||隐形守护者||
-|75|1660014964|手动|飞越13号房||||❌||
-|74|730712409|手动|ProCam - 专业相机||||ProCam - Pro Camera||
-|73|6451239549|手动|全网短剧大全-热门短剧抢先看||||全网短剧大全-热门短剧抢先看||
-|72|1633865171|手动|獬豸 · 民法典 - 法律/司法解释/指导案例||||獬豸 · 民法典 - 法律/司法解释/指导案例||
-|71|1492395549|手动|爱美剧-人人美剧天堂社区||||爱美剧-人人美剧天堂社区||
-|70|1661419573|手动|atvTools||||atvTools||
-|69|6479683928|手动|AMood - 你的健康生活好伙伴||||AMood - 你的健康生活好伙伴||
-|68|6443798663|手动|敲木鱼 - 打节拍敲音效解压神器||||MuYu||
-|67|373454750|手动|随手记Pro–个人家庭生意记账||||随手记Pro||
-|66|916366645|手动|Procreate Pocket||||Procreate Pocket||
-|65|1164801111|手动|AutoSleep - 通过手表自动追踪睡眠||||AutoSleep Track Sleep on Watch||
-|64|1625289361|手动|空气投篮||||AirBasketball - AuditoryAR||
-|63|1261944766|手动|Alook浏览器 - 8倍速||||Alook Browser - 8x Speed||
-|62|866450515|手动|Forest 专注森林 - 番茄钟学习计时器||||Forest: Focus for Productivity||
-|61|1600873673|手动|炭炭背单词｜四六级考研等英语单词学习||||❌||
-|60|388624839|手动|扫描全能王 - 官方出品1元畅用版，扫描PDF文件，文字识别||||CamScanner + | OCR Scanner||
-|59|768160271|手动|航旅纵横PRO-官方机票、值机火车票接送机免税酒店||||航旅纵横PRO-官方机票、值机火车票接送机免税酒店||
-|58|1439723850|手动|时间规划局 - 倒计时与提醒事项||||Countdown! Reminders and Timer||
-|57|6447023668|手动|爱韩剧 - 韩剧TV大全||||爱韩剧 - 韩剧TV大全||
-|56|6468843723|手动|❌||||GTA III – Definitive||
-|55|6468845173|手动|❌||||GTA: Vice City – Definitive||
-|54|6468845068|手动|❌||||GTA: San Andreas – Definitive||
-|53|1631331207|手动|❌||||Hitman: Blood Money — Reprisal||
-|52|1598130789|手动|❌||||Company of Heroes Collection||
-|51|1085114709|手动|Parallels Desktop||||Parallels Desktop||
-|50|6450262949|手动|Longshot - 截图 & OCR文字识别||||Longshot - Screenshot & OCR||
-|49|6451498949|手动|❌||||Stray||
-|48|1630403500|手动|APTV||||APTV||
-|47|1552536109|手动|PasteNow - 剪贴板工具||||PasteNow - Instant Clipboard||
-|46|1558391784|手动|Filebar||||Filebar - media player||
-|45|1548711022|手动|Barbee - 清理您的菜单栏图标||||Barbee - Hide Menu Bar Items||
-|44|1575588022|手动|MenubarX - 强大的菜单栏浏览器||||MenubarX - Floating Browser||
-|43|1630034110|手动|Bob - 翻译和 OCR 工具||||Bob - 翻译和 OCR 工具||
-|42|1009747025|手动|zFuse - 影音播放器||||zFuse - Video Player||
-|41|1054505347|手动|zFuse - 视频播放器||||zFuse - Media Player||
-|40|1659622164|手动|VidHub - 高清影片视频播放器，快速播放云盘网盘||||VidHub -Video Library & Player||
-|39|1136220934|手动|Infuse||||Infuse||
-|38|1476649036|手动|帕斯卡契约||||Pascal's Wager||
-|37|1635315427|手动|暖雪||||❌||
-|36|1523446532|手动|重生细胞||||❌||
-|35|1389752090|手动|❌||||Dead Cells||
-|34|1640627334|手动|❌||||Resident Evil Village for Mac||
-|33|6450980545|手动|❌||||Resident Evil Village||
-|32|6462360082|手动|❌||||Resident Evil 4||
-|31|1620883955|手动|❌||||Little Nightmares||
-|30|1606703078|手动|❌||||Gunfire Reborn||
-|29|1373575045|手动|❌||||The Gardens Between||
-|28|1371965583|手动|❌||||The Gardens Between||
-|27|6450877530|手动|花园之间||||❌||
-|26|1601446687|手动|❌||||Streets of Rage 4||
-|25|1587860402|手动|❌||||Moncage||
-|24|1584313012|手动|笼中窥梦||||❌||
-|23|1465779286|手动|❌||||GRIS||
-|22|1445379072|手动|❌||||GRIS||
-|21|1521190840|手动|格莉斯的旅程||||❌||
-|20|728293409|手动|❌||||Monument Valley||
-|19|1582832845|手动|纪念碑谷||||❌||
-|18|1644917705|手动|无处遁形：全网公敌||||Cyber Manhunt||
-|17|1369179088|手动|❌||||Grimvalor||
-|16|1669723530|手动|原界之罪||||❌||
-|15|481629890|手动|❌||||LIMBO by Playdead||
-|14|656951157|手动|❌||||Playdead's LIMBO||
-|13|886561127|手动|❌||||INSIDE by Playdead||
-|12|1201642309|手动|❌||||Playdead's INSIDE||
-|11|1529448980|手动|❌||||Reeder Classic.||
-|10|1529445840|手动|❌||||Reeder Classic||
-|9|1596063349|手动|❌||||Stash - Rule Based Proxy||
-|8|6444029612|手动|❌||||Loon Lite||
-|7|1373567447|手动|❌||||Loon||
-|6|1442620678|手动|❌||||Surge 5||
-|5|1443988620|手动|❌||||Quantumult X||
-|4|932747118|手动|❌||||Shadowrocket||
-|3|1642682818|手动|熊猫吃短信2 - 垃圾短信拦截||||熊猫吃短信2 - 垃圾短信拦截||
-|2|1319191852|手动|熊猫吃短信 - 垃圾短信过滤||||熊猫吃短信 - 垃圾短信过滤||
-|1|1067198688|手动|彩云天气Pro||||彩云天气Pro||
+|842|294934058|自动|HotSchedules||||HotSchedules||
+|841|388624839|自动|扫描全能王 - 官方出品1元畅用版，扫描PDF文件，文字识别||||CamScanner + | OCR Scanner||
+|840|479516143|自动|❌||||Minecraft: Dream it, Build it!||
+|839|525818839|自动|❌||||Plague Inc.||
+|838|623592465|自动|❌||||Heads Up!||
+|837|625334537|自动|❌||||Geometry Dash||
+|836|768160271|自动|航旅纵横PRO-官方机票、值机火车票接送机免税酒店||||航旅纵横PRO-官方机票、值机火车票接送机免税酒店||
+|835|932747118|自动|❌||||Shadowrocket||
+|834|954724812|自动|同花顺至尊版-股票软件||||同花顺至尊版-股票软件||
+|833|1093131935|自动|❌||||Incredibox||
+|832|1118115766|自动|❌||||Bloons TD 6||
+|831|1157863540|自动|泰拉瑞亚||||❌||
+|830|1544722749|自动|拣爱||||❌||
+|829|1625289361|自动|空气投篮||||AirBasketball - AuditoryAR||
+|828|6448477521|自动|BiuBiuBiu - 空气枪||||PewPewPew - Fingergun||
+|827|6742740688|自动|无声冲突||||❌||
+|826|6737795387|自动|鬼谷八荒||||❌||
+|825|6443786927|自动|全面憨憨战争模拟器||||❌||
+|824|6502453075|自动|❌||||Balatro||
+|823|6740349666|自动|❌||||Backyard Baseball '97||
+|822|1453504509|自动|动态壁纸引擎Dynamic Wallpaper Engine||||Dynamic Wallpaper Engine||
+|821|470158793|自动|Keka||||Keka||
+|820|1449438542|自动|解优专业版 - 专业的 RAR 7Z ZIP 解压缩工具||||BestZip Pro - Unzip RAR&Zip&7z||
+|819|6737150304|自动|iBar Pro-强大的菜单栏图标隐藏显示管理工具||||iBar Pro-Menubar control tool||
+|818|647505820|自动|RAR Extractor - Unarchiver Pro||||RAR Extractor - Unarchiver Pro||
+|817|6740171321|自动|FastZipPro-专业RAR 7Z ZIP解压缩软件||||FastZipPro- RAR 7Z ZIP UnZip||
+|816|1551531632|自动|自动切换输入法专业版||||AutoSwitchInput Pro||
+|815|1459028801|自动|爱五笔 - 五笔编码拆字大全||||爱五笔 - 五笔编码拆字大全||
+|814|6474505156|自动|照片处理工具 - 公务员考试报名确认照片审核||||照片处理工具 - 公务员考试报名确认照片审核||
+|813|510620098|自动|MediaInfo||||MediaInfo||
+|812|411643860|自动|DaisyDisk||||DaisyDisk||
+|811|1533946416|自动|MyZip Pro-7z zip rar多线程极速压缩工具||||MyZip Pro-7z zip rar多线程极速压缩工具||
+|810|457622435|自动|Yoink - 拖放也可以轻松自如||||Yoink - Better Drag and Drop||
+|809|1555844307|自动|右键助手专业版||||MouseBoost Pro||
+|808|1425997715|自动|解压助手专业版 - RAR ZIP Unarchiver||||RAR Extractor Pro - Unzip||
+|807|6474506915|自动|便签 - 桌面便利贴||||Sticker - Desktop Notepad||
+|806|1524202457|自动|时间胶囊 · 记住重要日子||||TimeCapsule2||
+|805|1616792360|自动|SQLiteExplorer||||SQLiteExplorer||
+|804|1622138166|自动|Change Video Speed for Safari||||Change Video Speed for Safari||
+|803|1478540997|自动|zClock - 置顶时钟, 倒计时, 网速显示||||zClock - Clock & Countdown.||
+|802|1450345160|自动|Color Folder 文件夹改色助手||||Color Folder Master||
+|801|1612054963|自动|AppUninstaller-功能强大的卸载软件||||AppUninstaller-Uninstall Apps||
+|800|1298871299|自动|电子印章制作大师企业版||||电子印章制作大师企业版||
+|799|1644030069|自动|Folder by Color Pro - 文件夹图标改色||||Folder by Color Pro - Folder||
+|798|668609870|自动|Rar解压利器||||Rar Sharp||
+|797|1381028448|自动|百读不厌 - 听书、看书神器||||百读不厌 - 听书、看书神器||
+|796|1500167033|自动|AClock - 翻页时钟与倒计时||||AClock - Digital Flip Clock||
+|795|1387780159|自动|网速 & 电池||||Network & Battery||
+|794|6502931430|自动|DocFlex - 文档转换||||DocFlex - Document conversion||
+|793|6445882848|自动|Boom3D-5.1 Audio for Netflix||||Boom3D-5.1 Audio for Netflix||
+|792|1265704574|自动|Bandizip: 压缩和解压缩||||Bandizip: Archiver||
+|791|1214639260|自动|SmallImage-图片压缩神器||||SmallImage-Smart Compression||
+|790|1385628859|自动|Highlighter for Safari||||Highlighter for Safari||
+|789|1521805728|自动|隐藏文件保险柜 iVault  - 私密文件夹||||iVault - secure your files||
+|788|697942581|自动|Disk Graph||||Disk Graph||
+|787|1435568266|自动|HiSerialPort||||HiSerialPort||
+|786|420874236|自动|PDFOutliner||||PDFOutliner||
+|785|6472044044|自动|Toolbox for Safari||||Toolbox for Safari||
+|784|1632395174|自动|CleanMyMac X Multi-License||||CleanMyMac X Multi-License||
+|783|1126745697|自动|System utility. 流量监控,电池管家,硬件检测||||System utility. monitor status||
+|782|1214761683|自动|iWall-动态壁纸，动态桌面引擎||||iWall-Dynamic Desktop Engine||
+|781|453164367|自动|系统助手||||SystemPal||
+|780|431224317|自动|Disk Drill Media Recovery||||Disk Drill Media Recovery||
+|779|1415704056|自动|超级应用锁 - 密码加密||||The App Locker -Best Lock Apps||
+|778|1162194131|自动|Easy New File||||Easy New File||
+|777|6472813601|自动|NinjaMouse - 鼠标加速神器||||NinjaMouse - Your mouse master||
+|776|1445268016|自动|清理重复文件||||Duplicate Cleaner||
+|775|1494552451|自动|小说大全||||小说大全||
+|774|1273980573|自动|Best Data Recovery||||Best Data Recovery||
+|773|1619982017|自动|五笔拆字||||五笔拆字||
+|772|1153435308|自动|inddPreview||||inddPreview||
+|771|1475051844|自动|Filmage Converter Pro-视频转换&合并||||Filmage Converter Pro-MKV,AVI||
+|770|1441394270|自动|Oka解压专家pro||||Oka Unarchiver Pro - Unzip RAR||
+|769|6711333801|自动|实时加密货币价格、图表||||Live Crypto Prices, Charts||
+|768|658182498|自动|苹果通讯录/csv转换工具-Address Book to CSV||||Address Book to CSV||
+|767|6465744342|自动|iBoot - StartupDisk shortcut||||iBoot - StartupDisk shortcut||
+|766|1526912781|自动|彩虹文件夹 - 文件夹图标换颜色图片||||Rainbow Folder - Icon changer||
+|765|668331139|自动|Backup Scheduler: Time Editor||||Backup Scheduler: Time Editor||
+|764|1261004863|自动|Data Recovery EX||||Data Recovery EX||
+|763|877615577|自动|Serial||||Serial||
+|762|6739523960|自动|允许 Safari 右键单击||||Allow Right Click for Safari||
+|761|6444238780|自动|桌面倒计时-生活好帮手||||Countdown Desktop||
+|760|6739428883|自动|TTSLite||||TTSLite||
+|759|402569179|自动|Find Any File (FAF)||||Find Any File (FAF)||
+|758|6745083093|自动|Coolmuster HEIC Converter||||Coolmuster HEIC Converter||
+|757|1602821771|自动|Renamer - 批量重命名你的文件||||Renamer||
+|756|471561604|自动|Mr. Zipper - 7Z RAR压缩解压缩||||Mr. Zipper - 7Z RAR 7ZIP||
+|755|1025822138|自动|iStatistica||||iStatistica||
+|754|524576324|自动|Smart Zipper Pro: Zip,Rar压缩解压缩||||Smart Zipper Pro: Rar, 7z, Zip||
+|753|919005729|自动|刻录大师||||Burn||
+|752|823528286|自动|Folx GO+||||Folx GO+||
+|751|6444789815|自动|记事本++||||记事本++||
+|750|884018914|自动|Zoоm||||Zoоm||
+|749|406178496|自动|KPlayer||||KPlayer||
+|748|1589912595|自动|JY字幕君 SRT导出助手 Lite||||JY Subtitle SRT Export Lite||
+|747|1181029289|自动|翻页时钟专业版 - 全屏数字悬浮显示锁屏桌面灵动岛小组件||||Flip Clock Pro - time widgets||
+|746|815333099|自动|Foldery||||Foldery||
+|745|779114299|自动|CAD Viewer 3D||||CAD Viewer 3D||
+|744|736168905|自动|DBFView||||DBFView||
+|743|1357413437|自动|LightApp-轻应用浏览器||||LightApp-轻应用浏览器||
+|742|1540733755|自动|Find Device:   查找设备：我的耳塞，电话，气垫||||Find Device - bluetooth finder||
+|741|1328847392|自动|进程监视器 - Process Monitor||||Process Monitor||
+|740|1593045116|自动|Focus & ADHD Reading - Glide||||Focus & ADHD Reading - Glide||
+|739|1463966933|自动|系统助理: CPU & 内存||||iStats X: CPU & Memory||
+|738|1447778660|自动|iStatistica Pro||||iStatistica Pro||
+|737|1568840488|自动|AutoClicker - 自动按键||||AutoClicker - Assist click||
+|736|1538700349|自动|解压助手 - 专业版 (Rar 7z Zip 解压缩工具)||||The Extractor Master||
+|735|419330170|自动|Moom Classic||||Moom Classic||
+|734|486626129|自动|Folder Tidy||||Folder Tidy||
+|733|1389745743|自动|万能下载器||||Everything Downloader||
+|732|1595306197|自动|Macaque||||Macaque||
+|731|445512770|自动|Disk Diet||||Disk Diet||
+|730|456609775|自动|Window Tidy||||Window Tidy||
+|729|6450939701|自动|Chat One - DeepSeek AI 聊天写作助手||||Chat One - AI Chat Box||
+|728|1565629813|自动|FastZip - 专业的 RAR 7Z ZIP 解压缩工具||||FastZip - RAR 7Z ZIP UnZip||
+|727|1181028777|自动|翻页时钟 - 全屏数字悬浮显示待机时间锁屏桌面小组件||||Flip Clock - digital widgets||
+|726|1488071784|自动|壁纸精灵 - 桌面壁纸，4k高清||||Wallpapers X - 4K Wallpaper||
+|725|1552826194|自动|我的壁纸 - 良心动态壁纸||||iWallpaper - Live Wallpaper||
+|724|6511220682|自动|CleanMyApp - 应用程序卸载助手||||CleanMyApp - Uninstaller||
+|723|1497428978|自动|超级右键-iRightMouse||||iRightMouse||
+|722|1541571038|自动|NTFS磁盘读写 - 赤友NTFS助手||||NTFS Read&Write -iBoysoft NTFS||
+|721|1518518216|自动|Paper 壁纸 - 超高清4K动态壁纸, 桌面壁纸||||Paper - Live Wallpapers||
+|720|6443843900|自动|iBar-强大的菜单栏图标管理工具||||iBar-Menubar icon control tool||
+|719|1442745175|自动|快帆加速器-海外回国音乐视频加速器||||快帆加速器-海外回国音乐视频加速器||
+|718|1630034110|自动|Bob - 翻译和 OCR 工具||||Bob - 翻译和 OCR 工具||
+|717|1395152179|自动|奇游加速器 - 全球游戏畅玩||||奇游加速器 - 全球游戏畅玩||
+|716|1575178082|自动|Max NTFS - NTFS磁盘读写助手||||Max NTFS - NTFS Disk Helper||
+|715|1476545828|自动|MacDroid - 安卓版管理器||||MacDroid - Manager for Android||
+|714|1456235760|自动|花見动态壁纸 - 4K超高清||||Live Wallpaper - 4K UHD||
+|713|1599191594|自动|超级的右键助手 - 赤友右键超人||||iBoysoft MagicMenu||
+|712|1514073011|自动|QuickFox-海外回国加速器追剧听歌游戏留学生必备||||QuickFox-海外回国加速器追剧听歌游戏留学生必备||
+|711|1133028347|自动|Cleaner One Pro - Uninstaller||||Cleaner One Pro - Uninstaller||
+|710|6450397515|自动|录音转文字-语音转文字助手||||Transcribe & Speech to text||
+|709|1598771178|自动|DeviceMirror Lite -无线手机投屏||||DeviceMirror Lite -Screen Cast||
+|708|1669005649|自动|TXT 阅读器 - 畅享版||||TXT Reader + AI Assistant||
+|707|1525349531|自动|Snap 截图+贴图||||Snap Screenshot - Snip & Paste||
+|706|646295438|自动|RAR Extractor - Unarchiver||||RAR Extractor - Unarchiver||
+|705|6452726154|自动|Ultra VPN - VPN and Wifi Proxy||||Ultra VPN - VPN and Wifi Proxy||
+|704|1521133201|自动|Speed Player for Safari||||Speed Player for Safari||
+|703|1298486723|自动|FileZilla Pro - FTP and Cloud||||FileZilla Pro - FTP and Cloud||
+|702|1081480270|自动|音频转换器 - MP3转换器 □||||The Audio Converter||
+|701|1244625890|自动|傲软投屏(ApowerMirror)-无线投屏助手||||ApowerMirror- Screen Mirroring||
+|700|1068435535|自动|Antivirus One - Virus Cleaner||||Antivirus One - Virus Cleaner||
+|699|1576794157|自动|飞火动态壁纸-4k超清视频桌面主题壁纸引擎||||飞火动态壁纸-4k超清视频桌面主题壁纸引擎||
+|698|1455463454|自动|WiFi 测网速 - Speedtest测速助手||||WiFi Speed Test Tools||
+|697|1441507725|自动|解压缩专家Oka - 最好的zip rar 7z文件解压工具||||Oka Unarchiver - Unzip ZIP RAR||
+|696|1535136051|自动|解压 - RAR ZIP 7Z 解压和压缩||||RAR Extractor - Unzip File||
+|695|1500706402|自动|花生壳||||PhDDNS||
+|694|1486294815|自动|阿里云网络客户端||||Aliyun Network Client||
+|693|1637557903|自动|即刻转换 - 万能小视频音频批量格式转码工厂||||Video Converter X2||
+|692|6737146353|自动|FoxVPN – 华人全球网络加速器||||FoxVPN – Fast & World NetWork||
+|691|1543649099|自动|超级克隆大师 - 同步或恢复手机,电脑,平板的数据和文件||||Clone My Data-Sync&Backup Data||
+|690|1485671150|自动|VPN -  快滚 全球网络加速||||VPN -  快滚 全球网络加速||
+|689|1570653446|自动|Focus Video - 视频压缩和格式转换器||||Focus Video - Video Converter||
+|688|740355970|自动|EaseUS Data Recovery Wizard||||Data Recovery Expert||
+|687|1606741874|自动|AConverter-全能音频转换,编辑,MP3转换器||||AConverter - Audio Converter||
+|686|6475027113|自动|Deep Think智能助手： AI智能助理||||Deep Think智能助手： AI智能助理||
+|685|1018301773|自动|AdBlocker Pro: Safari浏览器的广告拦截器||||AdBlock Pro for Safari||
+|684|1551462255|自动|右键助手 - 您的好帮手||||MouseBoost||
+|683|1466014165|自动|嗨格式录屏大师 - 专业电脑录像软件||||RecMaster Screen Recorder||
+|682|1613340764|自动|屏幕检测 - 专业的显示屏检测工具||||PixelsTester - Test Monitors||
+|681|1502255391|自动|Color Folder - Custom Icons||||Color Folder - Custom Icons||
+|680|1467607774|自动|NCM转换器 - 转MP3||||Smart Audio Editor - ID3||
+|679|1478202069|自动|幕连-简单的投屏工具||||Screen Mirroring: LetsView||
+|678|6448913901|自动|全能AI - AI视频、绘画、特效、音乐、聊天、写作、数字人||||全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理||
+|677|1476640331|自动|读写客||||读写客||
+|676|787142064|自动|VSD Viewer & VSD Converter||||VSD Viewer & VSD Converter||
+|675|1499250688|自动|壁纸管家 - 4K超高清主题桌面壁纸||||Wallpaper - HD Wallpapers||
+|674|1642304143|自动|串口(网络)调试助手 Pro||||SerialPort Debug Assistant Pro||
+|673|1516451072|自动|Another Desktop Manager||||Another Desktop Manager||
+|672|847259925|自动|SnailSVN 专业版：与访达集成的 SVN 客户端||||SnailSVN: SVN for Finder||
+|671|689176796|自动|Python Runner||||Python Runner||
+|670|1459663647|自动|虚拟定位||||Virtual Location||
+|669|417392270|自动|MDB ACCDB Viewer||||MDB ACCDB Viewer||
+|668|847260112|自动|SnailGit 专业版：与访达集成的 Git 客户端||||SnailGit: Git for Finder||
+|667|498370702|自动|RegExRX||||RegExRX||
+|666|1236813619|自动|右键菜单专业版（Context Menu）||||Context Menu||
+|665|955297617|自动|CodeRunner 4||||CodeRunner 4||
+|664|1400977081|自动|IPYNB Viewer + Editor||||IPYNB Viewer + Editor||
+|663|948079084|自动|FlashFTP - 高效FTP/SFTP文件传输客户端||||FlashFTP - Swift FTP/SFTP Client||
+|662|6504210872|自动|DartShell - SSH & SFTP||||DartShell - SSH & SFTP||
+|661|1063631769|自动|Medis - GUI for Redis||||Medis - GUI for Redis||
+|660|507135296|自动|IconKit||||IconKit||
+|659|429449079|自动|Patterns - The Regex App||||Patterns - The Regex App||
+|658|6446094097|自动|AI 文件翻译器（文件数量不限||||AI File Translator (1 to >100)||
+|657|1054575495|自动|JavaPoint||||JavaPoint||
+|656|841285201|自动|Haskell||||Haskell||
+|655|567740330|自动|JSON Editor||||JSON Editor||
+|654|1157491961|自动|PLIST Editor||||PLIST Editor||
+|653|913158085|自动|Expressions||||Expressions||
+|652|1105845111|自动|Xversion||||Xversion||
+|651|641027709|自动|Color Picker||||Color Picker||
+|650|823961613|自动|SSH Copy||||SSH Copy||
+|649|1067646949|自动|New Terminal Here||||New Terminal Here||
+|648|595177179|自动|icns Tool||||icns Tool||
+|647|490499048|自动|bmGlyph||||bmGlyph||
+|646|556381974|自动|IconFly||||IconFly||
+|645|499768540|自动|Power JSON Editor||||Power JSON Editor||
+|644|1554235898|自动|Peek — A Quick Look Extension||||Peek — A Quick Look Extension||
+|643|1224934068|自动|iTer - IT学习、求职面试必备||||iTer - IT learning||
+|642|1615269303|自动|iCon - Create And Resize Icons||||iCon - Create And Resize Icons||
+|641|686855602|自动|PHP Runner||||PHP Runner||
+|640|1511935951|自动|BetterJSON for Safari||||BetterJSON for Safari||
+|639|1106867065|自动|Svgsus||||Svgsus||
+|638|945397020|自动|Run Python||||Run Python||
+|637|536559203|自动|FlashCode - SWF to HTML5 and Objective-C converter||||FlashCode - SWF to HTML5 and Objective-C converter||
+|636|1485436674|自动|A Companion for SwiftUI||||A Companion for SwiftUI||
+|635|875264768|自动|Node.js HandBook||||Node.js HandBook||
+|634|1360203022|自动|Socket-tcp/udp tool||||Socket-tcp/udp tool||
+|633|417074533|自动|Synalyze It!||||Synalyze It!||
+|632|513995545|自动|MDB Tool - For Microsoft Access||||MDB Tool - For Microsoft Access||
+|631|1400050251|自动|Pythonic||||Pythonic||
+|630|906185173|自动|PacketSender||||PacketSender||
+|629|719577577|自动|JarPackager||||JarPackager||
+|628|803736440|自动|Hex Edit Pro||||Hex Edit Pro||
+|627|1410608230|自动|SQLite数据管理大师||||SQLiteMaster||
+|626|685191052|自动|SVN 服务器||||SVN Server||
+|625|1104615718|自动|HelloWeb||||HelloWeb||
+|624|1024903185|自动|TextLab||||TextLab||
+|623|946677126|自动|PDF to XLSX Master||||PDF to XLSX Master||
+|622|414234859|自动|DropDMG||||DropDMG||
+|621|734258109|自动|Watchdog for Xcode||||Watchdog for Xcode||
+|620|535348544|自动|Folder Compare||||Folder Compare||
+|619|1268616588|自动|Localizable - 翻译文件工具||||Localizable - translation file||
+|618|822334407|自动|TCP Client||||TCP Client||
+|617|415087689|自动|PHP Code Tester||||PHP Code Tester||
+|616|1148208665|自动|ThemeInstaller||||ThemeInstaller||
+|615|478570084|自动|CompareMerge||||CompareMerge||
+|614|1159371870|自动|Code School for Xcode PRO - Learn Coding for iOS||||Code School for Xcode PRO - Learn Coding for iOS||
+|613|1579236127|自动|UMLBoard||||UMLBoard||
+|612|1054670022|自动|Adaptivity (A)||||Adaptivity (A)||
+|611|1458267370|自动|HTTP Server - 局域网服务测试工具||||HTTP Server - LAN Debug Tool||
+|610|1434151360|自动|PowerRightMenu - 快速新建文件||||PowerRightMenu - Fast New File||
+|609|574356166|自动|CrossFTP Pro - FTP Client||||CrossFTP Pro - FTP Client||
+|608|640034674|自动|AnyMP4 AVCHD Converter Player||||AnyMP4 AVCHD Converter Player||
+|607|689184215|自动|JRunner for Java||||JRunner for Java||
+|606|670032670|自动|JS King||||JS King||
+|605|1589635432|自动|EasyPlantUML||||EasyPlantUML||
+|604|1567045405|自动|golog||||Golog||
+|603|689183220|自动|JS Runner||||JS Runner||
+|602|1516154713|自动|推送通知-测试器||||Push Notification - Tester||
+|601|467620393|自动|JavaScript Condenser||||JavaScript Condenser||
+|600|689178925|自动|Perl Runner||||Perl Runner||
+|599|1396408074|自动|PrettyJSON for Xcode||||PrettyJSON for Xcode||
+|598|1244392031|自动|CL!ng||||CL!ng||
+|597|1137451860|自动|App 预览视频转换工具||||App Preview Video Converter||
+|596|1013592748|自动|C Sharp||||C Sharp||
+|595|775920262|自动|unRAR Pro||||unRAR Pro||
+|594|1576144037|自动|mSocket - 能传文件的Socket工具||||mSocket - Transfer large files||
+|593|689175950|自动|Node Runner||||Node Runner||
+|592|552407238|自动|myPoint Coordinates||||myPoint Coordinates||
+|591|402383384|自动|Base - SQLite Editor||||Base - SQLite Editor||
+|590|433586919|自动|CSVEdit||||CSVEdit||
+|589|1076110314|自动|Smart JSON Viewer||||Smart JSON Viewer||
+|588|1134593405|自动|EncryptTools||||EncryptTools||
+|587|475193367|自动|Synalyze It! Pro||||Synalyze It! Pro||
+|586|1167060791|自动|Import||||Import||
+|585|1128674367|自动|MySQL Database Optimizer||||MySQL Database Optimizer||
+|584|1604145760|自动|TinyPNG图片压缩||||Picture Compresser||
+|583|1367025713|自动|Sprite 1-2-3||||Sprite 1-2-3||
+|582|1070488538|自动|Icons Maker||||Icons Maker||
+|581|413612688|自动|Icons||||Icons||
+|580|913523893|自动|QuartzCode||||QuartzCode||
+|579|477163052|自动|Linguan||||Linguan||
+|578|1565766176|自动|Power YAML Editor||||Power YAML Editor||
+|577|1479641484|自动|Fireworks - Effects Editor||||Fireworks - Effects Editor||
+|576|1176074088|自动|Termius — Modern SSH Client||||Termius — Modern SSH Client||
+|575|1102004240|自动|iHosts - /etc/hosts 编辑器||||iHosts - /etc/hosts editor||
+|574|1507890049|自动|Pixeur - 取色器||||Pixeur - Screen Color Picker||
+|573|6504274426|自动|termcc - SSH & SFTP Client||||termcc - SSH & SFTP Client||
+|572|1491764008|自动|红色-Redis的UI||||Red 2 - UI for Redis||
+|571|985614903|自动|SQLPro Studio||||SQLPro Studio||
+|570|1459748650|自动|CompareMerge2||||CompareMerge2||
+|569|1475741280|自动|SSH Client - Terminal, Telnet||||SSH Client - Terminal, Telnet||
+|568|828466809|自动|SQLPro for MSSQL||||SQLPro for MSSQL||
+|567|1547933097|自动|Socket调试器||||Socket Debugger||
+|566|1516553045|自动|啜色||||Colorsip||
+|565|1502044457|自动|Whisk||||Whisk||
+|564|1533756032|自动|DevUtils.app||||DevUtils.app||
+|563|1147023879|自动|App Image Kit - 应用的图像资源批量生成助手||||App Image Kit||
+|562|1469182443|自动|SnipperApp 2||||SnipperApp 2||
+|561|1570789972|自动|ESP32 WiFi OTA||||ESP32 WiFi OTA||
+|560|1584637545|自动|Translate APP - 项目本地化||||Translate APP-Project Localize||
+|559|1516378834|自动|推送通知-客户端||||Push Notification - Client||
+|558|547166701|自动|百度网盘||||百度网盘||
+|557|1014945607|自动|优酷视频-嘘国王在冬眠 全网独播||||优酷视频-嘘国王在冬眠 全网独播||
+|556|1231336508|自动|腾讯视频-折腰 全网独播||||腾讯视频-折腰 全网独播||
+|555|6741096204|自动|Deep Think AI：询问 AI 聊天机器人||||Think AI: Ask Chatbot Anything||
+|554|1012296988|自动|爱奇艺-人生若如初见 全网独播||||爱奇艺-人生若如初见 全网独播||
+|553|1327661892|自动|Xmind：思维导图||||Xmind: Mind Map||
+|552|1588231633|自动|美图秀秀 - AI修图与设计工具集||||Meitu-AI Photo Editor & Design||
+|551|1450246547|自动|解优 - 专业的 RAR 7Z ZIP 解压缩工具||||BestZip - Unarchive RAR&7Z&ZIP||
+|550|1570349123|自动|Openly for Chrome and Firefox||||Openly for Chrome and Firefox||
+|549|491854842|自动|网易有道翻译||||Youdao Translate||
+|548|1247341465|自动|同花顺-股票炒股软件||||同花顺-股票炒股软件||
+|547|1484905765|自动|CAD快速看图 - 天正全专业||||Fast CAD Reader||
+|546|747648890|自动|Telegram||||Telegram||
+|545|6450939701|自动|Chat One - DeepSeek AI 聊天写作助手||||Chat One - AI Chat Box||
+|544|1565629813|自动|FastZip - 专业的 RAR 7Z ZIP 解压缩工具||||FastZip - RAR 7Z ZIP UnZip||
+|543|1592987853|自动|录屏专家Omi-屏幕录制编辑软件||||Screen Recorder by Omi||
+|542|1488071784|自动|壁纸精灵 - 桌面壁纸，4k高清||||Wallpapers X - 4K Wallpaper||
+|541|1181028777|自动|翻页时钟 - 全屏数字悬浮显示待机时间锁屏桌面小组件||||Flip Clock - digital widgets||
+|540|1485844094|自动|iShot-优秀的截图贴图录屏录音OCR翻译取色标注工具||||iShot-ScreenShot Recording OCR||
+|539|6503169843|自动|人工 智能 AI Chatbot : AI 聊天 助手||||AI Chatbot : Ask AI Assistant||
+|538|1552826194|自动|我的壁纸 - 良心动态壁纸||||iWallpaper - Live Wallpaper||
+|537|6511220682|自动|CleanMyApp - 应用程序卸载助手||||CleanMyApp - Uninstaller||
+|536|966085870|自动|滴答清单: 专注、日历、提醒事项和时间管理番茄钟||||TickTick:To-Do List, Calendar||
+|535|1144400433|自动|东方财富经典版-股票开户证券炒股理财||||东方财富经典版-股票开户证券炒股理财||
+|534|1497428978|自动|超级右键-iRightMouse||||iRightMouse||
+|533|886103288|自动|虎牙直播HD-游戏互动直播平台||||虎牙直播HD-游戏互动直播平台||
+|532|1541571038|自动|NTFS磁盘读写 - 赤友NTFS助手||||NTFS Read&Write -iBoysoft NTFS||
+|531|1594288016|自动|Wink - 画质修复||||Wink: Video Enhancer & Editor||
+|530|1600668116|自动|有道云笔记-笔记效率办公||||有道云笔记-笔记效率办公||
+|529|6443843900|自动|iBar-强大的菜单栏图标管理工具||||iBar-Menubar icon control tool||
+|528|1442745175|自动|快帆加速器-海外回国音乐视频加速器||||快帆加速器-海外回国音乐视频加速器||
+|527|1518518216|自动|Paper 壁纸 - 超高清4K动态壁纸, 桌面壁纸||||Paper - Live Wallpapers||
+|526|1659622164|自动|VidHub - 高清影片视频播放器，快速播放云盘网盘||||VidHub -Video Library & Player||
+|525|1570563588|自动|日历清单 - 拒绝拖延 效率人生||||CalendarTask - Efficient life||
+|524|734383760|自动|每日英语听力 - 英语听力的最佳途径||||每日英语听力 - 英语听力的最佳途径||
+|523|1507782672|自动|Pixea||||Pixea||
+|522|1259223205|自动|TunesMechanic for iTunes||||TunesMechanic for iTunes||
+|521|1630034110|自动|Bob - 翻译和 OCR 工具||||Bob - 翻译和 OCR 工具||
+|520|1221250572|自动|Xnip -  截图 & 标注||||Xnip - Screenshot & Annotation||
+|519|1575178082|自动|Max NTFS - NTFS磁盘读写助手||||Max NTFS - NTFS Disk Helper||
+|518|1619925971|自动|UPDF - 新一代 AI 智能 PDF 编辑器||||UPDF - PDF Editor with AI||
+|517|1395152179|自动|奇游加速器 - 全球游戏畅玩||||奇游加速器 - 全球游戏畅玩||
+|516|503039729|自动|Fotor图片编辑器||||Fotor: AI Photo Editor, Design||
+|515|1476545828|自动|MacDroid - 安卓版管理器||||MacDroid - Manager for Android||
+|514|6449164812|自动|打字通 - 打字练习软件||||打字通 - 打字练习软件||
+|513|1536071582|自动|Omni Converter 全能视频音频格式转换器||||Omni Converter - Video & Audio||
+|512|1456235760|自动|花見动态壁纸 - 4K超高清||||Live Wallpaper - 4K UHD||
+|511|1599191594|自动|超级的右键助手 - 赤友右键超人||||iBoysoft MagicMenu||
+|510|1665341561|自动|flomo浮墨笔记 - AI 加持的便签备忘||||flomo浮墨笔记 - AI 加持的便签备忘||
+|509|1133028347|自动|Cleaner One Pro - Uninstaller||||Cleaner One Pro - Uninstaller||
+|508|1514073011|自动|QuickFox-海外回国加速器追剧听歌游戏留学生必备||||QuickFox-海外回国加速器追剧听歌游戏留学生必备||
+|507|1345035954|自动|穿梭Transocks-海外华人回国加速器||||穿梭Transocks-海外华人回国加速器||
+|506|1176074088|自动|Termius — Modern SSH Client||||Termius — Modern SSH Client||
+|505|1335335588|自动|全能视频播放器 - 高清音频视频播放器||||Final Video Player - MKV & MP4||
+|504|1044549675|自动|Elmedia Video Player||||Elmedia Video Player||
+|503|1453504509|自动|动态壁纸引擎Dynamic Wallpaper Engine||||Dynamic Wallpaper Engine||
+|502|1449438542|自动|解优专业版 - 专业的 RAR 7Z ZIP 解压缩工具||||BestZip Pro - Unzip RAR&Zip&7z||
+|501|470158793|自动|Keka||||Keka||
+|500|1550403011|自动|超级右键专业版||||iRightMouse Pro||
+|499|1611347086|自动|iShot Pro-专业的截图贴图录屏录音OCR翻译取色工具||||iShot Pro-ScreenShot Recording||
+|498|6737150304|自动|iBar Pro-强大的菜单栏图标隐藏显示管理工具||||iBar Pro-Menubar control tool||
+|497|647505820|自动|RAR Extractor - Unarchiver Pro||||RAR Extractor - Unarchiver Pro||
+|496|6740171321|自动|FastZipPro-专业RAR 7Z ZIP解压缩软件||||FastZipPro- RAR 7Z ZIP UnZip||
+|495|6742392236|自动|ClashX Pro :Service Monitoring||||ClashX Pro :Service Monitoring||
+|494|1343182480|自动|东方财富领先版-股票开户证券炒股理财||||东方财富领先版-股票开户证券炒股理财||
+|493|6741806831|自动|ClashX Pro - Dashboard manager||||ClashX Pro - Dashboard manager||
+|492|494500492|自动|倒数日 · Days Matter for Desktop||||倒数日 · Days Matter for Desktop||
+|491|951718596|自动|CAD迷你画图||||FoxCAD||
+|490|1551531632|自动|自动切换输入法专业版||||AutoSwitchInput Pro||
+|489|6738742748|自动|益智蜘蛛纸牌||||Puzzle Spider Solitaire.||
+|488|1469774098|自动|QSpace||||QSpace||
+|487|1459028801|自动|爱五笔 - 五笔编码拆字大全||||爱五笔 - 五笔编码拆字大全||
+|486|1567442612|自动|Qmenu||||Qmenu||
+|485|1544655904|自动|OmniReader Pro - 全能阅读管理专家||||OmniReader Pro - AI Reader||
+|484|411643860|自动|DaisyDisk||||DaisyDisk||
+|483|1486274102|自动|MPlayer X Pro||||MPlayer X Pro||
+|482|461788075|自动|Movist||||Movist||
+|481|1218171533|自动|Marklist 妙记 - 稍后阅读、笔记、待办、搜索和收藏||||Marklist - Manage Later Things||
+|480|6474505156|自动|照片处理工具 - 公务员考试报名确认照片审核||||照片处理工具 - 公务员考试报名确认照片审核||
+|479|510620098|自动|MediaInfo||||MediaInfo||
+|478|432850619|自动|FL Studio Mobile||||FL Studio Mobile||
+|477|1642304143|自动|串口(网络)调试助手 Pro||||SerialPort Debug Assistant Pro||
+|476|430798174|自动|HazeOver • 干扰调节器||||HazeOver • Distraction Dimmer™||
+|475|457622435|自动|Yoink - 拖放也可以轻松自如||||Yoink - Better Drag and Drop||
+|474|1606275031|自动|Picture View: 图片浏览器||||Picture View: Image browser||
+|473|1555844307|自动|右键助手专业版||||MouseBoost Pro||
+|472|402380914|自动|Eudic 欧路词典 增强版||||Eudic 欧路词典 增强版||
+|471|6738715418|自动|STEP 和 IGES 文件查看器||||STEP and IGES File Viewer||
+|470|977949232|自动|Daygram - 密码日记 / 很简单时间记录日记||||Daygram : My Secret Diary||
+|469|847259925|自动|SnailSVN 专业版：与访达集成的 SVN 客户端||||SnailSVN: SVN for Finder||
+|468|389083586|自动|MDict||||MDict||
+|467|1516451072|自动|Another Desktop Manager||||Another Desktop Manager||
+|466|1482490089|自动|Tampermonkey Classic||||Tampermonkey Classic||
+|465|6502828594|自动|Template for Adobe illustrator||||Template for Adobe illustrator||
+|464|1622138166|自动|Change Video Speed for Safari||||Change Video Speed for Safari||
+|463|1058266292|自动|妖股助手HD-优选短线强势股票||||妖股助手HD-优选短线强势股票||
+|462|1478540997|自动|zClock - 置顶时钟, 倒计时, 网速显示||||zClock - Clock & Countdown.||
+|461|1451273814|自动|nPlayer||||nPlayer||
+|460|1533946416|自动|MyZip Pro-7z zip rar多线程极速压缩工具||||MyZip Pro-7z zip rar多线程极速压缩工具||
+|459|476566660|自动|三维地球||||Earth 3D||
+|458|1325456420|自动|音乐格式互换 --- NCM转换器，MP3转码器||||Music Format Converter HQ||
+|457|668609870|自动|Rar解压利器||||Rar Sharp||
+|456|1381028448|自动|百读不厌 - 听书、看书神器||||百读不厌 - 听书、看书神器||
+|455|1269984974|自动|Markdown - 专注写作||||Markdown - Enjoy writing||
+|454|991247047|自动|流程图编辑器高级版||||Flowchart Designer Premium||
+|453|689176796|自动|Python Runner||||Python Runner||
+|452|1265704574|自动|Bandizip: 压缩和解压缩||||Bandizip: Archiver||
+|451|1199716810|自动|五子棋打谱软件||||五子棋打谱软件||
+|450|1385628859|自动|Highlighter for Safari||||Highlighter for Safari||
+|449|1521805728|自动|隐藏文件保险柜 iVault  - 私密文件夹||||iVault - secure your files||
+|448|1632395174|自动|CleanMyMac X Multi-License||||CleanMyMac X Multi-License||
+|447|775050502|自动|American Sign Language||||American Sign Language||
+|446|904280696|自动|Things 3||||Things 3||
+|445|1384206666|自动|DemoPro - Screen Annotation||||DemoPro - Screen Annotation||
+|444|464050545|自动|Algodoo Physics||||Algodoo Physics||
+|443|808501572|自动|Backgrounds||||Backgrounds||
+|442|1576064082|自动|DeviceMirror Pro -无线有线手机投屏||||DeviceMirror -Screen Mirroring||
+|441|6670793258|自动|LaTeX 编辑器专业版||||LaTeX Editor Pro||
+|440|6474615359|自动|MathCapture - 可视化公式编辑器||||MathCapture - Equation Editor||
+|439|1535623374|自动|RenameBest-文件批量重命名||||RenameBest: Rename in Batch||
+|438|1459663647|自动|虚拟定位||||Virtual Location||
+|437|1214761683|自动|iWall-动态壁纸，动态桌面引擎||||iWall-Dynamic Desktop Engine||
+|436|796608673|自动|动物打字||||Animal Typing||
+|435|966457795|自动|超级抠图 Super PhotoCut||||Super PhotoCut||
+|434|1561303442|自动|人生必读百本书||||人生必读百本书||
+|433|453164367|自动|系统助手||||SystemPal||
+|432|1425997715|自动|解压助手专业版 - RAR ZIP Unarchiver||||RAR Extractor Pro - Unzip||
+|431|431224317|自动|Disk Drill Media Recovery||||Disk Drill Media Recovery||
+|430|1415704056|自动|超级应用锁 - 密码加密||||The App Locker -Best Lock Apps||
+|429|1204268874|自动|歌词编辑器||||Lyrics Editor||
+|428|609649363|自动|3D地球和世界地图||||Earth 3D - World Atlas||
+|427|1162194131|自动|Easy New File||||Easy New File||
+|426|6474506915|自动|便签 - 桌面便利贴||||Sticker - Desktop Notepad||
+|425|1403919533|自动|MWeb Pro||||MWeb Pro||
+|424|6472813601|自动|NinjaMouse - 鼠标加速神器||||NinjaMouse - Your mouse master||
+|423|775737590|自动|iA Writer||||iA Writer||
+|422|1028838684|自动|Artpaper：每日新壁纸||||Artpaper: New Wallpapers Daily||
+|421|1102242042|自动|Subtitler for fcpxml||||Subtitler for fcpxml||
+|420|1445268016|自动|清理重复文件||||Duplicate Cleaner||
+|419|937759555|自动|Elmedia:universal video player||||Elmedia:universal video player||
+|418|1313164484|自动|距离和面积测量||||Distance and Area Measure||
+|417|1494552451|自动|小说大全||||小说大全||
+|416|1273980573|自动|Best Data Recovery||||Best Data Recovery||
+|415|522706442|自动|Sync Folders Pro||||Sync Folders Pro||
+|414|6736433415|自动|DICOM 查看器||||DICOM Viewer+||
+|413|1619982017|自动|五笔拆字||||五笔拆字||
+|412|532441535|自动|Presentation Prompter||||Presentation Prompter||
+|411|1153435308|自动|inddPreview||||inddPreview||
+|410|417392270|自动|MDB ACCDB Viewer||||MDB ACCDB Viewer||
+|409|1475051844|自动|Filmage Converter Pro-视频转换&合并||||Filmage Converter Pro-MKV,AVI||
+|408|1441394270|自动|Oka解压专家pro||||Oka Unarchiver Pro - Unzip RAR||
+|407|6711333801|自动|实时加密货币价格、图表||||Live Crypto Prices, Charts||
+|406|1447010168|自动|音乐词典 - 音乐术语与表情术语词典||||Music Dictionary - Music Terms||
+|405|658182498|自动|苹果通讯录/csv转换工具-Address Book to CSV||||Address Book to CSV||
+|404|6465744342|自动|iBoot - StartupDisk shortcut||||iBoot - StartupDisk shortcut||
+|403|1526912781|自动|彩虹文件夹 - 文件夹图标换颜色图片||||Rainbow Folder - Icon changer||
+|402|584393206|自动|心电图 (Cardiograph)||||Cardiograph||
+|401|668331139|自动|Backup Scheduler: Time Editor||||Backup Scheduler: Time Editor||
+|400|1261004863|自动|Data Recovery EX||||Data Recovery EX||
+|399|6738346322|自动|NaturalSpelling-自然拼读音标スペル||||NaturalSpelling-自然拼读音标スペル||
+|398|1607691467|自动|Auto Refresh Page||||Auto Refresh Page||
+|397|6446939328|自动|OmniZip Pro - 全能解压缩专家||||OmniZip Pro||
+|396|877615577|自动|Serial||||Serial||
+|395|432850619|自动|FL Studio Mobile||||FL Studio Mobile||
+|394|1447010168|自动|音乐词典 - 音乐术语与表情术语词典||||Music Dictionary - Music Terms||
+|393|1325456420|自动|音乐格式互换 --- NCM转换器，MP3转码器||||Music Format Converter HQ||
+|392|514840980|自动|超级转霸:视频音乐格式转换工厂||||Total Video Converter||
+|391|1643033301|自动|MIDIRMX||||MIDIRMX||
+|390|1584154464|自动|MIDI Router||||MIDI Router||
+|389|1204268874|自动|歌词编辑器||||Lyrics Editor||
+|388|874418479|自动|音乐转换工厂||||Audio Convert Factory||
+|387|963571828|自动|音频合并与分割||||Audio Merge & Split||
+|386|1178295426|自动|Colibri||||Colibri||
+|385|1532597159|自动|Mp3tag||||Mp3tag||
+|384|554883654|自动|Metadatics||||Metadatics||
+|383|1506457515|自动|Stage Plot Maker X||||Stage Plot Maker X||
+|382|1567204629|自动|Ringtone Maker -Easy ringtone!||||Ringtone Maker -Easy ringtone!||
+|381|963573437|自动|音频转换、合并与分割||||Audio Convert、Merge & Split||
+|380|6458546013|自动|HI-Player||||HI-Player||
+|379|6443536652|自动|万能音频格式转换大师—支持M4A，FLAC，AMR等格式||||Audio Convertor - M4A,FLAC,M4R||
+|378|447726582|自动|iAudioConverter||||iAudioConverter||
+|377|808285143|自动|myTuner Radio Pro 全球最火FM电台收音机||||myTuner Radio Pro||
+|376|405537804|自动|Sound Studio||||Sound Studio||
+|375|1036029895|自动|Music Convert-Audio Converter||||Music Convert-Audio Converter||
+|374|492478362|自动|MidiKey||||MidiKey||
+|373|402437824|自动|Ringer - Ringtone Maker||||Ringer - Ringtone Maker||
+|372|1486434332|自动|文本音乐 - 简谱快速记谱||||TextMusic - Music Notation||
+|371|797275229|自动|AudioTunes - FLAC, APE, WMA Converter||||AudioTunes - FLAC, APE, WMA Converter||
+|370|1062190398|自动|Drummy - 节奏工作室||||Drummy - Ultimate Beat Maker||
+|369|412675054|自动|Tunesify||||Tunesify||
+|368|468990782|自动|Music Converter Pro||||Music Converter Pro||
+|367|522349879|自动|DM1 - The Drum Machine||||DM1 - The Drum Machine||
+|366|1661522614|自动|简谱记谱||||JianPu Editor||
+|365|1517312650|自动|Notify for Spotify||||Notify for Spotify||
+|364|455545700|自动|BitPerfect||||BitPerfect||
+|363|929166131|自动|傻瓜演奏家||||easyMusic||
+|362|991729082|自动|Radio||||Radio||
+|361|673906093|自动|歌曲音量调节器Audio Normalizer||||Audio Normalizer - Mp3 Gain||
+|360|1174330003|自动|Fine Chromatic Tuner||||Fine Chromatic Tuner||
+|359|1538268059|自动|开心果节拍器 - 节拍器 纯净无广告||||Metronome - Metronome Pro||
+|358|984332192|自动|Audio Edit Pro-Audio Editor||||Audio Edit Pro-Audio Editor||
+|357|851766802|自动|SuperMidi - Midi音乐转换播放器||||Super Midi Convert & Play||
+|356|660027017|自动|简易录音机||||Easy Audio Recorder||
+|355|798738112|自动|MetroGnome||||MetroGnome||
+|354|975152825|自动|Audio Edit Studio - Editor||||Audio Edit Studio - Editor||
+|353|558317092|自动|Meta — Music Tag Editor||||Meta — Music Tag Editor||
+|352|813546051|自动|Music Speed Changer||||Music Speed Changer||
+|351|1489887480|自动|听音 - 练耳。视唱练习。||||Hearing: ear training. Piano.||
+|350|444696268|自动|TunesArt||||TunesArt||
+|349|972934780|自动|Audio Convert-Music Converter||||Audio Convert-Music Converter||
+|348|438292371|自动|Amadeus Pro||||Amadeus Pro||
+|347|568052099|自动|AmpKit - guitar amp & effects||||AmpKit - guitar amp & effects||
+|346|978234147|自动|CD Burn Pro - Music CD||||CD Burn Pro - Music CD||
+|345|910469258|自动|Amazing Slow Downer||||Amazing Slow Downer||
+|344|1468259834|自动|miRack||||miRack||
+|343|548947732|自动|Guitar Jam Tracks - 音阶教练和练习伙伴||||Guitar Jam Tracks - Scale Trainer & Practice Buddy||
+|342|940526959|自动|insTuner - Chromatic Tuner for Guitar, Ukulele and String Instruments||||insTuner - Chromatic Tuner for Guitar, Ukulele and String Instruments||
+|341|417725762|自动|Cross DJ||||Cross DJ||
+|340|1441635265|自动|Easy MP3 Converter||||Easy MP3 Converter||
+|339|1329435840|自动|Guitar Gravitas: Total ed.||||Guitar Gravitas: Total ed.||
+|338|1451247572|自动|音符大师：学习音符。||||Solfa: learn musical notes||
+|337|633262839|自动|FLAC转换器||||Any FLAC Converter||
+|336|709019909|自动|Flac to Any Pro||||Flac to Any Pro||
+|335|678772226|自动|Audio Cutter - Cut and Split Music Files||||Audio Cutter - Cut and Split Music Files||
+|334|463687032|自动|MP3-Converter||||MP3-Converter||
+|333|1322360459|自动|Drum Beats Metronome||||Drum Beats Metronome||
+|332|416135376|自动|Fidelia||||Fidelia||
+|331|975790852|自动|Audio Trim Split-Audio Editor||||Audio Trim Split-Audio Editor||
+|330|425086676|自动|Decibel||||Decibel||
+|329|829431988|自动|DSD Master||||DSD Master||
+|328|1255792493|自动|Guitar Tabs X||||Guitar Tabs X||
+|327|1188564124|自动|Master Class - Guides for Audacity||||Master Class - Guides for Audacity||
+|326|1207009001|自动|Tone Generator||||Tone Generator||
+|325|1313982113|自动|BPM Tap Tempo||||BPM Tap Tempo||
+|324|1157672888|自动|Tempomate||||Tempomate||
+|323|1357379892|自动|Menu Bar Controller for Sonos||||Menu Bar Controller for Sonos||
+|322|594731639|自动|超级MP3格式转换器||||Super MP3 Converter||
+|321|506232966|自动|Tag||||Tag||
+|320|562799291|自动|Drum Beats+ (Rhythm Metronome, Loops & Grooves Machine)||||Drum Beats+ (Rhythm Metronome, Loops & Grooves Machine)||
+|319|435040864|自动|NoSleep||||NoSleep||
+|318|1661929636|自动|五线谱记谱||||Staff Editor||
+|317|832335884|自动|Piano Notes Finder||||Piano Notes Finder||
+|316|912509512|自动|SignalSpy - Audio Oscilloscope, Frequency Spectrum Analyzer, and more||||SignalSpy - Audio Oscilloscope, Frequency Spectrum Analyzer, and more||
+|315|498787769|自动|General MIDI Player||||General MIDI Player||
+|314|1464643583|自动|Audio Voice Changer||||Audio Voice Changer||
+|313|886882234|自动|Tag Editor||||Tag Editor||
+|312|698196505|自动|Audio Converter Pro||||Audio Converter Pro||
+|311|1126098076|自动|Silenz||||Silenz||
+|310|880764359|自动|Export for iTunes||||Export for iTunes||
+|309|1061524108|自动|Muse: Music Player for YouTube||||Muse: Music Player for YouTube||
+|308|915342927|自动|NetRadio Italy||||NetRadio Italy||
+|307|1048950608|自动|Convert to Mp3 Pro - Converter||||Convert to Mp3 Pro - Converter||
+|306|639386679|自动|Vector 3 - Record & Edit Audio||||Vector 3 - Record & Edit Audio||
+|305|432769658|自动|TabView||||TabView||
+|304|1136096513|自动|MP3音乐转换器 -  Aiseesoft||||MP3 Music Converter - Aisee||
+|303|586172415|自动|Tipard 音乐转换器||||Tipard All Music Converter||
+|302|571673359|自动|Tray Player||||Tray Player||
+|301|1021162460|自动|Chords Compass||||Chords Compass||
+|300|577400737|自动|Easy Guitar Tuner||||Easy Guitar Tuner||
+|299|409957696|自动|MP3 Encoder||||MP3 Encoder||
+|298|1423295407|自动|Ampado PRO - Audio Player||||Ampado PRO - Audio Player||
+|297|1259223205|自动|TunesMechanic for iTunes||||TunesMechanic for iTunes||
+|296|450527929|自动|djay - DJ 应用&混音器||||djay - DJ App & AI Mixer||
+|295|1070455587|自动|万能MP3音频转换器：视频音乐格式工厂||||MP3 Converter - Audio Convert||
+|294|1575723133|自动|音频剪辑-音频提取器&音乐剪辑mp3转换||||Audio Editor Ringtone Maker||
+|293|1612790003|自动|Mp3转换器 - 音频转换器||||Audio Converter - One Click||
+|292|1339124759|自动|音频剪辑 – 手机铃声制作&mp3音乐剪辑||||Audio Editor & Music Mixer||
+|291|461369673|自动|VOX: MP3 & FLAC Music Player||||VOX: MP3 & FLAC Music Player||
+|290|1496955576|自动|SpeakerAmp:Booster & Equalizer||||SpeakerAmp:Booster & Equalizer||
+|289|1171417699|自动|吉他调音器 吉他谱 :: Guitar Gravitas||||Guitar Gravitas: Chords Scales||
+|288|1594027432|自动|Flacbox||||Flacbox||
+|287|1057051963|自动|Music Transfer for iTunes||||Music Transfer for iTunes||
+|286|1027093462|自动|Visual Cue 无损音乐播放器 离线 flac m4a||||Visual Cue FLAC DMX MP3 Player||
+|285|1594027661|自动|Evertag||||Evertag||
+|284|1058801458|自动|Remixlive - Make Music & Beats||||Remixlive - Make Music & Beats||
+|283|1233048948|自动|Boom3D: Volume Booster and EQ||||Boom3D: Volume Booster and EQ||
+|282|1492991594|自动|EarMaster 7||||EarMaster 7||
+|281|511170796|自动|Music Tag Editor||||Music Tag Editor||
+|280|984278082|自动|Tag Editor Lite||||Tag Editor Lite||
+|279|1482460738|自动|LRC Editor||||LRC Editor||
+|278|982124349|自动|FLAC MP3格式转换器||||FLAC MP3 Converter||
+|277|1564384601|自动|Evermusic||||Evermusic||
+|276|1602757597|自动|unMix: AI Vocal Remover||||unMix: AI Vocal Remover||
+|275|446363299|自动|N 音轨工作室DAW||||n-Track Studio DAW||
+|274|1527105121|自动|Neural Mix Pro||||Neural Mix Pro||
+|273|797590911|自动|MIDI 乐谱||||MIDI Score||
+|272|1473448052|自动|钢琴伴侣：音乐和弦和规模||||Piano Companion: Chords,Scales||
+|271|970044455|自动|WavePad Audio Editor||||WavePad Audio Editor||
+|270|6670775367|自动|LioMusic - 音乐编辑和制作||||LioMusic - Music Editor||
+|269|1437556716|自动|Mapcasts - 无广告||||Mapcasts - No Advertisement||
+|268|412198565|自动|打嗝放屁弹钢琴||||Burp And Fart Piano||
+|267|733258444|自动|MusicFans||||MusicFans||
+|266|1049212349|自动|音频频谱检测仪 — 专业声音分析仪和分贝仪||||Spectrum Analyzer: Sound Meter||
+|265|936243210|自动|MiniPlay for Spotify & iTunes||||MiniPlay for Spotify & iTunes||
+|264|444425546|自动|BarTunes||||BarTunes||
+|263|1128271725|自动|Keyboard Keyboard||||Keyboard Keyboard||
+|262|1483373320|自动|歌词制作--创作、编辑器||||Lyrics Production Editor||
+|261|1005227156|自动|future.dj pro - mix everything||||future.dj pro - mix everything||
+|260|1229106549|自动|Music Tag Editor Pro||||Music Tag Editor Pro||
+|259|1446942851|自动|radio NED+||||radio NED+||
+|258|1550581532|自动|Vythm JR - 音乐可视化 VJ & DJ||||Vythm VJ - Music Visualizer DJ||
+|257|1550403011|自动|超级右键专业版||||iRightMouse Pro||
+|256|1611347086|自动|iShot Pro-专业的截图贴图录屏录音OCR翻译取色工具||||iShot Pro-ScreenShot Recording||
+|255|494500492|自动|倒数日 · Days Matter for Desktop||||倒数日 · Days Matter for Desktop||
+|254|1469774098|自动|QSpace||||QSpace||
+|253|1567442612|自动|Qmenu||||Qmenu||
+|252|1544655904|自动|OmniReader Pro - 全能阅读管理专家||||OmniReader Pro - AI Reader||
+|251|430798174|自动|HazeOver • 干扰调节器||||HazeOver • Distraction Dimmer™||
+|250|1218171533|自动|Marklist 妙记 - 稍后阅读、笔记、待办、搜索和收藏||||Marklist - Manage Later Things||
+|249|1310686187|自动|Scrivener 3||||Scrivener 3||
+|248|1482490089|自动|Tampermonkey Classic||||Tampermonkey Classic||
+|247|1535623374|自动|RenameBest-文件批量重命名||||RenameBest: Rename in Batch||
+|246|1114272557|自动|小历 - 小而美的日历||||小历 - 小而美的日历||
+|245|1340697163|自动|Record It Pro - HD高清录制,视频录制||||Record It Pro-Screen Recorder||
+|244|904280696|自动|Things 3||||Things 3||
+|243|1269984974|自动|Markdown - 专注写作||||Markdown - Enjoy writing||
+|242|876540291|自动|Copy 'Em||||Copy 'Em||
+|241|1384206666|自动|DemoPro - Screen Annotation||||DemoPro - Screen Annotation||
+|240|6670793258|自动|LaTeX 编辑器专业版||||LaTeX Editor Pro||
+|239|417375580|自动|BetterSnapTool||||BetterSnapTool||
+|238|1403919533|自动|MWeb Pro||||MWeb Pro||
+|237|775737590|自动|iA Writer||||iA Writer||
+|236|1313164484|自动|距离和面积测量||||Distance and Area Measure||
+|235|1607691467|自动|Auto Refresh Page||||Auto Refresh Page||
+|234|6446939328|自动|OmniZip Pro - 全能解压缩专家||||OmniZip Pro||
+|233|1541983985|自动|Sketch 3D: Make 3D Easily||||Sketch 3D: Make 3D Easily||
+|232|1639698270|自动|校准猫 (CalibCat Display) 显示器伽马控制||||CalibCat Display Gamma Control||
+|231|1528890965|自动|TextSniper - OCR, Copy & Paste||||TextSniper - OCR, Copy & Paste||
+|230|420212497|自动|Byword||||Byword||
+|229|725408432|自动|PDF Professional Suite||||PDF Professional Suite||
+|228|1441958036|自动|SideNotes - Thoughts & Tasks||||SideNotes - Thoughts & Tasks||
+|227|434808346|自动|SimpleMind Pro||||SimpleMind Pro||
+|226|407412840|自动|DataGraph||||DataGraph||
+|225|950512380|自动|Notepad+ - 简单，方便，快速地编辑.TXT文件||||Notepad+ - Simple Document and Quick Note||
+|224|1368905598|自动|Screencast – Screen Recorder||||Screencast – Screen Recorder||
+|223|1166066070|自动|Bumpr||||Bumpr||
+|222|6466263582|自动|MouseXY||||MouseXY||
+|221|6563146670|自动|文字喵探 专业版||||Miaotracer pro||
+|220|866773894|自动|Quiver - take better notes||||Quiver - take better notes||
+|219|1414457383|自动|ToMenu - 搬文工||||ToMenu - New&Move File Quickly||
+|218|1105814268|自动|番茄钟 - 最好用的番茄工作法计时工具||||Focus Timer：Focus mind on work||
+|217|1156402585|自动|Light Browser||||Light Browser||
+|216|1519213509|自动|iPreview - 强大好用的Quick Look扩展程序||||iPreview - Powerful Quick Look||
+|215|1472854234|自动|Copy+ 剪贴板历史记录管理器、私人数据收藏夹||||Copy+ Manage clipboard history||
+|214|1488905707|自动|Noteshelf - 2||||Noteshelf - 2||
+|213|1505869474|自动|Pro Mouse||||Pro Mouse||
+|212|6738089759|自动|隐藏鼠标光标||||Hide Mouse Cursor||
+|211|902351149|自动|Zip Password Recovery||||Zip Password Recovery||
+|210|6450966627|自动|Final Draft 13||||Final Draft 13||
+|209|1272114820|自动|Lock Pro||||Lock Pro||
+|208|1181766626|自动|Adware Zap - Malware Cleaner||||Adware Zap - Malware Cleaner||
+|207|1609752330|自动|Surfingkeys||||Surfingkeys||
+|206|796275163|自动|文件管理器Total Manager - Files Commander||||Total Manager: Files Commander & Ftp Remote Client||
+|205|1277179284|自动|FSNotes||||FSNotes||
+|204|577085396|自动|Unclutter||||Unclutter||
+|203|468406330|自动|WPXO||||WPXO||
+|202|568020055|自动|Scapple||||Scapple||
+|201|990588172|自动|Gestimer (Legacy)||||Gestimer (Legacy)||
+|200|1185528129|自动|互联网翻译专业 .||||Internet Translator Pro .||
+|199|552664144|自动|PDF Max Pro||||PDF Max Pro||
+|198|632455315|自动|为专业Excel模板||||Templates for Excel Pro||
+|197|1143437985|自动|GoodTask||||GoodTask||
+|196|1459987506|自动|清理精灵 - 垃圾清理大师||||Cleaner X - clear cache||
+|195|895264364|自动|DjVu Reader Pro||||DjVu Reader Pro||
+|194|686459498|自动|PaperShip - Mendeley & Zotero||||PaperShip - Mendeley & Zotero||
+|193|695406827|自动|Dropzone 3||||Dropzone 3||
+|192|702816521|自动|Unibox||||Unibox||
+|191|412347921|自动|OmmWriter||||OmmWriter||
+|190|1093111311|自动|3D CAD Graphic Modeling Design||||3D CAD Graphic Modeling Design||
+|189|970502923|自动|Typeeto: remote BT keyboard||||Typeeto: remote BT keyboard||
+|188|493057152|自动|DB-Text||||DB-Text||
+|187|454347770|自动|iCircuit||||iCircuit||
+|186|1286489308|自动|Flat Tomato||||Flat Tomato||
+|185|477670270|自动|2Do||||2Do||
+|184|1445040281|自动|Translate for Safari||||Translate for Safari||
+|183|524373870|自动|Due ～ 快速提醒、定时器||||Due — Reminders & Timers||
+|182|974929595|自动|Notions||||Notions||
+|181|1507246666|自动|Presentify - Screen Annotation||||Presentify - Screen Annotation||
+|180|686398447|自动|茄子文字||||Cheese Writer||
+|179|570384149|自动|JPG转PDF转换器||||JPG to PDF Converter||
+|178|418926501|自动|Timer by Ten||||Timer by Ten||
+|177|1489287299|自动|PDF转Word||||PDF To Word Helper||
+|176|685953216|自动|Instashare - Transfer files||||Instashare - Transfer files||
+|175|995838410|自动|Browser Ninja||||Browser Ninja||
+|174|1482778901|自动|Hungrymark||||Hungrymark||
+|173|408975584|自动|Todo||||Todo||
+|172|1178801474|自动|Translator & Voice Collection||||Translator & Voice Collection||
+|171|1115551582|自动|Doc Mate: for MS Office||||Doc Mate: for MS Office||
+|170|566210419|自动|PDF to Word +||||PDF to Word +||
+|169|1088311275|自动|Easy Guide For Microsoft Excel||||Easy Guide For Microsoft Excel||
+|168|409222199|自动|Cyberduck||||Cyberduck||
+|167|890031187|自动|Marked 2 - Markdown Preview||||Marked 2 - Markdown Preview||
+|166|1175751480|自动|语言学家：立即翻译||||Translate Now: Linguist||
+|165|1448026988|自动|便笺板||||Memo Board||
+|164|735128047|自动|PDF Reader Pro: 编辑、转换PDF文档||||PDF Reader Pro: Edit & Convert||
+|163|1265723161|自动|Podcast Soundboard||||Podcast Soundboard||
+|162|1460795742|自动|小便签 - 计时器、倒计时、待办事项||||iNote -Sticky Notes &Countdown||
+|161|778813618|自动|语音备忘录||||Voice Memos+||
+|160|1128242453|自动|ProTranslate - 翻译官||||Pro Translate - translator app||
+|159|547166701|自动|百度网盘||||百度网盘||
+|158|6741096204|自动|Deep Think AI：询问 AI 聊天机器人||||Think AI: Ask Chatbot Anything||
+|157|1327661892|自动|Xmind：思维导图||||Xmind: Mind Map||
+|156|1570349123|自动|Openly for Chrome and Firefox||||Openly for Chrome and Firefox||
+|155|491854842|自动|网易有道翻译||||Youdao Translate||
+|154|1247341465|自动|同花顺-股票炒股软件||||同花顺-股票炒股软件||
+|153|1484905765|自动|CAD快速看图 - 天正全专业||||Fast CAD Reader||
+|152|747648890|自动|Telegram||||Telegram||
+|151|6450939701|自动|Chat One - DeepSeek AI 聊天写作助手||||Chat One - AI Chat Box||
+|150|1565629813|自动|FastZip - 专业的 RAR 7Z ZIP 解压缩工具||||FastZip - RAR 7Z ZIP UnZip||
+|149|1592987853|自动|录屏专家Omi-屏幕录制编辑软件||||Screen Recorder by Omi||
+|148|1488071784|自动|壁纸精灵 - 桌面壁纸，4k高清||||Wallpapers X - 4K Wallpaper||
+|147|1181028777|自动|翻页时钟 - 全屏数字悬浮显示待机时间锁屏桌面小组件||||Flip Clock - digital widgets||
+|146|1485844094|自动|iShot-优秀的截图贴图录屏录音OCR翻译取色标注工具||||iShot-ScreenShot Recording OCR||
+|145|6503169843|自动|人工 智能 AI Chatbot : AI 聊天 助手||||AI Chatbot : Ask AI Assistant||
+|144|1552826194|自动|我的壁纸 - 良心动态壁纸||||iWallpaper - Live Wallpaper||
+|143|6511220682|自动|CleanMyApp - 应用程序卸载助手||||CleanMyApp - Uninstaller||
+|142|966085870|自动|滴答清单: 专注、日历、提醒事项和时间管理番茄钟||||TickTick:To-Do List, Calendar||
+|141|1144400433|自动|东方财富经典版-股票开户证券炒股理财||||东方财富经典版-股票开户证券炒股理财||
+|140|1497428978|自动|超级右键-iRightMouse||||iRightMouse||
+|139|886103288|自动|虎牙直播HD-游戏互动直播平台||||虎牙直播HD-游戏互动直播平台||
+|138|1541571038|自动|NTFS磁盘读写 - 赤友NTFS助手||||NTFS Read&Write -iBoysoft NTFS||
+|137|1594288016|自动|Wink - 画质修复||||Wink: Video Enhancer & Editor||
+|136|1600668116|自动|有道云笔记-笔记效率办公||||有道云笔记-笔记效率办公||
+|135|6443843900|自动|iBar-强大的菜单栏图标管理工具||||iBar-Menubar icon control tool||
+|134|1442745175|自动|快帆加速器-海外回国音乐视频加速器||||快帆加速器-海外回国音乐视频加速器||
+|133|1518518216|自动|Paper 壁纸 - 超高清4K动态壁纸, 桌面壁纸||||Paper - Live Wallpapers||
+|132|1659622164|自动|VidHub - 高清影片视频播放器，快速播放云盘网盘||||VidHub -Video Library & Player||
+|131|1570563588|自动|日历清单 - 拒绝拖延 效率人生||||CalendarTask - Efficient life||
+|130|734383760|自动|每日英语听力 - 英语听力的最佳途径||||每日英语听力 - 英语听力的最佳途径||
+|129|1507782672|自动|Pixea||||Pixea||
+|128|1259223205|自动|TunesMechanic for iTunes||||TunesMechanic for iTunes||
+|127|1630034110|自动|Bob - 翻译和 OCR 工具||||Bob - 翻译和 OCR 工具||
+|126|1221250572|自动|Xnip -  截图 & 标注||||Xnip - Screenshot & Annotation||
+|125|1575178082|自动|Max NTFS - NTFS磁盘读写助手||||Max NTFS - NTFS Disk Helper||
+|124|1619925971|自动|UPDF - 新一代 AI 智能 PDF 编辑器||||UPDF - PDF Editor with AI||
+|123|1395152179|自动|奇游加速器 - 全球游戏畅玩||||奇游加速器 - 全球游戏畅玩||
+|122|503039729|自动|Fotor图片编辑器||||Fotor: AI Photo Editor, Design||
+|121|1476545828|自动|MacDroid - 安卓版管理器||||MacDroid - Manager for Android||
+|120|6449164812|自动|打字通 - 打字练习软件||||打字通 - 打字练习软件||
+|119|1536071582|自动|Omni Converter 全能视频音频格式转换器||||Omni Converter - Video & Audio||
+|118|1456235760|自动|花見动态壁纸 - 4K超高清||||Live Wallpaper - 4K UHD||
+|117|1599191594|自动|超级的右键助手 - 赤友右键超人||||iBoysoft MagicMenu||
+|116|1665341561|自动|flomo浮墨笔记 - AI 加持的便签备忘||||flomo浮墨笔记 - AI 加持的便签备忘||
+|115|1133028347|自动|Cleaner One Pro - Uninstaller||||Cleaner One Pro - Uninstaller||
+|114|1514073011|自动|QuickFox-海外回国加速器追剧听歌游戏留学生必备||||QuickFox-海外回国加速器追剧听歌游戏留学生必备||
+|113|1345035954|自动|穿梭Transocks-海外华人回国加速器||||穿梭Transocks-海外华人回国加速器||
+|112|1176074088|自动|Termius — Modern SSH Client||||Termius — Modern SSH Client||
+|111|1335335588|自动|全能视频播放器 - 高清音频视频播放器||||Final Video Player - MKV & MP4||
+|110|1044549675|自动|Elmedia Video Player||||Elmedia Video Player||
+|109|1453504509|自动|动态壁纸引擎Dynamic Wallpaper Engine||||Dynamic Wallpaper Engine||
+|108|1449438542|自动|解优专业版 - 专业的 RAR 7Z ZIP 解压缩工具||||BestZip Pro - Unzip RAR&Zip&7z||
+|107|470158793|自动|Keka||||Keka||
+|106|1550403011|自动|超级右键专业版||||iRightMouse Pro||
+|105|1611347086|自动|iShot Pro-专业的截图贴图录屏录音OCR翻译取色工具||||iShot Pro-ScreenShot Recording||
+|104|6737150304|自动|iBar Pro-强大的菜单栏图标隐藏显示管理工具||||iBar Pro-Menubar control tool||
+|103|647505820|自动|RAR Extractor - Unarchiver Pro||||RAR Extractor - Unarchiver Pro||
+|102|6740171321|自动|FastZipPro-专业RAR 7Z ZIP解压缩软件||||FastZipPro- RAR 7Z ZIP UnZip||
+|101|6742392236|自动|ClashX Pro :Service Monitoring||||ClashX Pro :Service Monitoring||
+|100|1343182480|自动|东方财富领先版-股票开户证券炒股理财||||东方财富领先版-股票开户证券炒股理财||
+|99|6741806831|自动|ClashX Pro - Dashboard manager||||ClashX Pro - Dashboard manager||
+|98|494500492|自动|倒数日 · Days Matter for Desktop||||倒数日 · Days Matter for Desktop||
+|97|951718596|自动|CAD迷你画图||||FoxCAD||
+|96|1551531632|自动|自动切换输入法专业版||||AutoSwitchInput Pro||
+|95|6738742748|自动|益智蜘蛛纸牌||||Puzzle Spider Solitaire.||
+|94|1469774098|自动|QSpace||||QSpace||
+|93|1459028801|自动|爱五笔 - 五笔编码拆字大全||||爱五笔 - 五笔编码拆字大全||
+|92|1567442612|自动|Qmenu||||Qmenu||
+|91|1544655904|自动|OmniReader Pro - 全能阅读管理专家||||OmniReader Pro - AI Reader||
+|90|411643860|自动|DaisyDisk||||DaisyDisk||
+|89|1486274102|自动|MPlayer X Pro||||MPlayer X Pro||
+|88|461788075|自动|Movist||||Movist||
+|87|1218171533|自动|Marklist 妙记 - 稍后阅读、笔记、待办、搜索和收藏||||Marklist - Manage Later Things||
+|86|6474505156|自动|照片处理工具 - 公务员考试报名确认照片审核||||照片处理工具 - 公务员考试报名确认照片审核||
+|85|510620098|自动|MediaInfo||||MediaInfo||
+|84|432850619|自动|FL Studio Mobile||||FL Studio Mobile||
+|83|1642304143|自动|串口(网络)调试助手 Pro||||SerialPort Debug Assistant Pro||
+|82|430798174|自动|HazeOver • 干扰调节器||||HazeOver • Distraction Dimmer™||
+|81|457622435|自动|Yoink - 拖放也可以轻松自如||||Yoink - Better Drag and Drop||
+|80|1606275031|自动|Picture View: 图片浏览器||||Picture View: Image browser||
+|79|1555844307|自动|右键助手专业版||||MouseBoost Pro||
+|78|402380914|自动|Eudic 欧路词典 增强版||||Eudic 欧路词典 增强版||
+|77|6738715418|自动|STEP 和 IGES 文件查看器||||STEP and IGES File Viewer||
+|76|977949232|自动|Daygram - 密码日记 / 很简单时间记录日记||||Daygram : My Secret Diary||
+|75|847259925|自动|SnailSVN 专业版：与访达集成的 SVN 客户端||||SnailSVN: SVN for Finder||
+|74|389083586|自动|MDict||||MDict||
+|73|1516451072|自动|Another Desktop Manager||||Another Desktop Manager||
+|72|1482490089|自动|Tampermonkey Classic||||Tampermonkey Classic||
+|71|6502828594|自动|Template for Adobe illustrator||||Template for Adobe illustrator||
+|70|1622138166|自动|Change Video Speed for Safari||||Change Video Speed for Safari||
+|69|1058266292|自动|妖股助手HD-优选短线强势股票||||妖股助手HD-优选短线强势股票||
+|68|1478540997|自动|zClock - 置顶时钟, 倒计时, 网速显示||||zClock - Clock & Countdown.||
+|67|1451273814|自动|nPlayer||||nPlayer||
+|66|1533946416|自动|MyZip Pro-7z zip rar多线程极速压缩工具||||MyZip Pro-7z zip rar多线程极速压缩工具||
+|65|476566660|自动|三维地球||||Earth 3D||
+|64|1325456420|自动|音乐格式互换 --- NCM转换器，MP3转码器||||Music Format Converter HQ||
+|63|668609870|自动|Rar解压利器||||Rar Sharp||
+|62|1381028448|自动|百读不厌 - 听书、看书神器||||百读不厌 - 听书、看书神器||
+|61|1269984974|自动|Markdown - 专注写作||||Markdown - Enjoy writing||
+|60|991247047|自动|流程图编辑器高级版||||Flowchart Designer Premium||
+|59|689176796|自动|Python Runner||||Python Runner||
+|58|1265704574|自动|Bandizip: 压缩和解压缩||||Bandizip: Archiver||
+|57|1199716810|自动|五子棋打谱软件||||五子棋打谱软件||
+|56|1385628859|自动|Highlighter for Safari||||Highlighter for Safari||
+|55|1521805728|自动|隐藏文件保险柜 iVault  - 私密文件夹||||iVault - secure your files||
+|54|1632395174|自动|CleanMyMac X Multi-License||||CleanMyMac X Multi-License||
+|53|775050502|自动|American Sign Language||||American Sign Language||
+|52|904280696|自动|Things 3||||Things 3||
+|51|1384206666|自动|DemoPro - Screen Annotation||||DemoPro - Screen Annotation||
+|50|464050545|自动|Algodoo Physics||||Algodoo Physics||
+|49|808501572|自动|Backgrounds||||Backgrounds||
+|48|1576064082|自动|DeviceMirror Pro -无线有线手机投屏||||DeviceMirror -Screen Mirroring||
+|47|6670793258|自动|LaTeX 编辑器专业版||||LaTeX Editor Pro||
+|46|6474615359|自动|MathCapture - 可视化公式编辑器||||MathCapture - Equation Editor||
+|45|1535623374|自动|RenameBest-文件批量重命名||||RenameBest: Rename in Batch||
+|44|1459663647|自动|虚拟定位||||Virtual Location||
+|43|1214761683|自动|iWall-动态壁纸，动态桌面引擎||||iWall-Dynamic Desktop Engine||
+|42|796608673|自动|动物打字||||Animal Typing||
+|41|966457795|自动|超级抠图 Super PhotoCut||||Super PhotoCut||
+|40|1561303442|自动|人生必读百本书||||人生必读百本书||
+|39|453164367|自动|系统助手||||SystemPal||
+|38|1425997715|自动|解压助手专业版 - RAR ZIP Unarchiver||||RAR Extractor Pro - Unzip||
+|37|431224317|自动|Disk Drill Media Recovery||||Disk Drill Media Recovery||
+|36|1415704056|自动|超级应用锁 - 密码加密||||The App Locker -Best Lock Apps||
+|35|1204268874|自动|歌词编辑器||||Lyrics Editor||
+|34|609649363|自动|3D地球和世界地图||||Earth 3D - World Atlas||
+|33|1162194131|自动|Easy New File||||Easy New File||
+|32|6474506915|自动|便签 - 桌面便利贴||||Sticker - Desktop Notepad||
+|31|1403919533|自动|MWeb Pro||||MWeb Pro||
+|30|6472813601|自动|NinjaMouse - 鼠标加速神器||||NinjaMouse - Your mouse master||
+|29|775737590|自动|iA Writer||||iA Writer||
+|28|1028838684|自动|Artpaper：每日新壁纸||||Artpaper: New Wallpapers Daily||
+|27|1102242042|自动|Subtitler for fcpxml||||Subtitler for fcpxml||
+|26|1445268016|自动|清理重复文件||||Duplicate Cleaner||
+|25|937759555|自动|Elmedia:universal video player||||Elmedia:universal video player||
+|24|1313164484|自动|距离和面积测量||||Distance and Area Measure||
+|23|1494552451|自动|小说大全||||小说大全||
+|22|1273980573|自动|Best Data Recovery||||Best Data Recovery||
+|21|522706442|自动|Sync Folders Pro||||Sync Folders Pro||
+|20|6736433415|自动|DICOM 查看器||||DICOM Viewer+||
+|19|1619982017|自动|五笔拆字||||五笔拆字||
+|18|532441535|自动|Presentation Prompter||||Presentation Prompter||
+|17|1153435308|自动|inddPreview||||inddPreview||
+|16|417392270|自动|MDB ACCDB Viewer||||MDB ACCDB Viewer||
+|15|1475051844|自动|Filmage Converter Pro-视频转换&合并||||Filmage Converter Pro-MKV,AVI||
+|14|1441394270|自动|Oka解压专家pro||||Oka Unarchiver Pro - Unzip RAR||
+|13|6711333801|自动|实时加密货币价格、图表||||Live Crypto Prices, Charts||
+|12|1447010168|自动|音乐词典 - 音乐术语与表情术语词典||||Music Dictionary - Music Terms||
+|11|658182498|自动|苹果通讯录/csv转换工具-Address Book to CSV||||Address Book to CSV||
+|10|6465744342|自动|iBoot - StartupDisk shortcut||||iBoot - StartupDisk shortcut||
+|9|1526912781|自动|彩虹文件夹 - 文件夹图标换颜色图片||||Rainbow Folder - Icon changer||
+|8|584393206|自动|心电图 (Cardiograph)||||Cardiograph||
+|7|668331139|自动|Backup Scheduler: Time Editor||||Backup Scheduler: Time Editor||
+|6|1261004863|自动|Data Recovery EX||||Data Recovery EX||
+|5|6738346322|自动|NaturalSpelling-自然拼读音标スペル||||NaturalSpelling-自然拼读音标スペル||
+|4|1607691467|自动|Auto Refresh Page||||Auto Refresh Page||
+|3|6446939328|自动|OmniZip Pro - 全能解压缩专家||||OmniZip Pro||
+|2|877615577|自动|Serial||||Serial||
+|1|1448326351|自动|数据恢复||||❌||
 
 # 运行机制及流程
 整个机制依赖于 `GitHub Actions` 提供的定时任务，每隔 `60分钟` 执行一次，整体流程如下：
