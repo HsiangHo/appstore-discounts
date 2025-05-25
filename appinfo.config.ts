@@ -69,4108 +69,4108 @@ export const regionTimezoneMap: Record<Region, string> = {
 export const appConfig: AppConfig[] = [
   {
     id: 1453504509,
-    name: "Dynamic Wallpaper Engine",
-    addType: "auto"
+    name: 'Dynamic Wallpaper Engine',
+    addType: 'auto'
   },
   {
     id: 470158793,
-    name: "Keka",
-    addType: "auto"
+    name: 'Keka',
+    addType: 'auto'
   },
   {
     id: 1449438542,
-    name: "BestZip Pro - Unzip RAR&Zip&7z",
-    addType: "auto"
+    name: 'BestZip Pro - Unzip RAR&Zip&7z',
+    addType: 'auto'
   },
   {
     id: 6737150304,
-    name: "iBar Pro-Menubar control tool",
-    addType: "auto"
+    name: 'iBar Pro-Menubar control tool',
+    addType: 'auto'
   },
   {
     id: 647505820,
-    name: "RAR Extractor - Unarchiver Pro",
-    addType: "auto"
+    name: 'RAR Extractor - Unarchiver Pro',
+    addType: 'auto'
   },
   {
     id: 6740171321,
-    name: "FastZipPro- RAR 7Z ZIP UnZip",
-    addType: "auto"
+    name: 'FastZipPro- RAR 7Z ZIP UnZip',
+    addType: 'auto'
   },
   {
     id: 1551531632,
-    name: "AutoSwitchInput Pro",
-    addType: "auto"
+    name: 'AutoSwitchInput Pro',
+    addType: 'auto'
   },
   {
     id: 1459028801,
-    name: "爱五笔 - 五笔编码拆字大全",
-    addType: "auto"
+    name: '爱五笔 - 五笔编码拆字大全',
+    addType: 'auto'
   },
   {
     id: 6474505156,
-    name: "照片处理工具 - 公务员考试报名确认照片审核",
-    addType: "auto"
+    name: '照片处理工具 - 公务员考试报名确认照片审核',
+    addType: 'auto'
   },
   {
     id: 510620098,
-    name: "MediaInfo",
-    addType: "auto"
+    name: 'MediaInfo',
+    addType: 'auto'
   },
   {
     id: 411643860,
-    name: "DaisyDisk",
-    addType: "auto"
+    name: 'DaisyDisk',
+    addType: 'auto'
   },
   {
     id: 1533946416,
-    name: "MyZip Pro-7z zip rar多线程极速压缩工具",
-    addType: "auto"
+    name: 'MyZip Pro-7z zip rar多线程极速压缩工具',
+    addType: 'auto'
   },
   {
     id: 457622435,
-    name: "Yoink - Better Drag and Drop",
-    addType: "auto"
+    name: 'Yoink - Better Drag and Drop',
+    addType: 'auto'
   },
   {
     id: 1555844307,
-    name: "MouseBoost Pro",
-    addType: "auto"
+    name: 'MouseBoost Pro',
+    addType: 'auto'
   },
   {
     id: 1425997715,
-    name: "RAR Extractor Pro - Unzip",
-    addType: "auto"
+    name: 'RAR Extractor Pro - Unzip',
+    addType: 'auto'
   },
   {
     id: 6474506915,
-    name: "Sticker - Desktop Notepad",
-    addType: "auto"
+    name: 'Sticker - Desktop Notepad',
+    addType: 'auto'
   },
   {
     id: 1524202457,
-    name: "TimeCapsule2",
-    addType: "auto"
+    name: 'TimeCapsule2',
+    addType: 'auto'
   },
   {
     id: 1616792360,
-    name: "SQLiteExplorer",
-    addType: "auto"
+    name: 'SQLiteExplorer',
+    addType: 'auto'
   },
   {
     id: 1622138166,
-    name: "Change Video Speed for Safari",
-    addType: "auto"
+    name: 'Change Video Speed for Safari',
+    addType: 'auto'
   },
   {
     id: 1478540997,
-    name: "zClock - Clock & Countdown.",
-    addType: "auto"
+    name: 'zClock - Clock & Countdown.',
+    addType: 'auto'
   },
   {
     id: 1450345160,
-    name: "Color Folder Master",
-    addType: "auto"
+    name: 'Color Folder Master',
+    addType: 'auto'
   },
   {
     id: 1612054963,
-    name: "AppUninstaller-Uninstall Apps",
-    addType: "auto"
+    name: 'AppUninstaller-Uninstall Apps',
+    addType: 'auto'
   },
   {
     id: 1298871299,
-    name: "电子印章制作大师企业版",
-    addType: "auto"
+    name: '电子印章制作大师企业版',
+    addType: 'auto'
   },
   {
     id: 1644030069,
-    name: "Folder by Color Pro - Folder",
-    addType: "auto"
+    name: 'Folder by Color Pro - Folder',
+    addType: 'auto'
   },
   {
     id: 668609870,
-    name: "Rar Sharp",
-    addType: "auto"
+    name: 'Rar Sharp',
+    addType: 'auto'
   },
   {
     id: 1381028448,
-    name: "百读不厌 - 听书、看书神器",
-    addType: "auto"
+    name: '百读不厌 - 听书、看书神器',
+    addType: 'auto'
   },
   {
     id: 1500167033,
-    name: "AClock - Digital Flip Clock",
-    addType: "auto"
+    name: 'AClock - Digital Flip Clock',
+    addType: 'auto'
   },
   {
     id: 1387780159,
-    name: "Network & Battery",
-    addType: "auto"
+    name: 'Network & Battery',
+    addType: 'auto'
   },
   {
     id: 6502931430,
-    name: "DocFlex - Document conversion",
-    addType: "auto"
+    name: 'DocFlex - Document conversion',
+    addType: 'auto'
   },
   {
     id: 6445882848,
-    name: "Boom3D-5.1 Audio for Netflix",
-    addType: "auto"
+    name: 'Boom3D-5.1 Audio for Netflix',
+    addType: 'auto'
   },
   {
     id: 1265704574,
-    name: "Bandizip: Archiver",
-    addType: "auto"
+    name: 'Bandizip: Archiver',
+    addType: 'auto'
   },
   {
     id: 1214639260,
-    name: "SmallImage-Smart Compression",
-    addType: "auto"
+    name: 'SmallImage-Smart Compression',
+    addType: 'auto'
   },
   {
     id: 1385628859,
-    name: "Highlighter for Safari",
-    addType: "auto"
+    name: 'Highlighter for Safari',
+    addType: 'auto'
   },
   {
     id: 1521805728,
-    name: "iVault - secure your files",
-    addType: "auto"
+    name: 'iVault - secure your files',
+    addType: 'auto'
   },
   {
     id: 697942581,
-    name: "Disk Graph",
-    addType: "auto"
+    name: 'Disk Graph',
+    addType: 'auto'
   },
   {
     id: 1435568266,
-    name: "HiSerialPort",
-    addType: "auto"
+    name: 'HiSerialPort',
+    addType: 'auto'
   },
   {
     id: 420874236,
-    name: "PDFOutliner",
-    addType: "auto"
+    name: 'PDFOutliner',
+    addType: 'auto'
   },
   {
     id: 6472044044,
-    name: "Toolbox for Safari",
-    addType: "auto"
+    name: 'Toolbox for Safari',
+    addType: 'auto'
   },
   {
     id: 1632395174,
-    name: "CleanMyMac X Multi-License",
-    addType: "auto"
+    name: 'CleanMyMac X Multi-License',
+    addType: 'auto'
   },
   {
     id: 1126745697,
-    name: "System utility. monitor status",
-    addType: "auto"
+    name: 'System utility. monitor status',
+    addType: 'auto'
   },
   {
     id: 1214761683,
-    name: "iWall-Dynamic Desktop Engine",
-    addType: "auto"
+    name: 'iWall-Dynamic Desktop Engine',
+    addType: 'auto'
   },
   {
     id: 453164367,
-    name: "SystemPal",
-    addType: "auto"
+    name: 'SystemPal',
+    addType: 'auto'
   },
   {
     id: 431224317,
-    name: "Disk Drill Media Recovery",
-    addType: "auto"
+    name: 'Disk Drill Media Recovery',
+    addType: 'auto'
   },
   {
     id: 1415704056,
-    name: "The App Locker -Best Lock Apps",
-    addType: "auto"
+    name: 'The App Locker -Best Lock Apps',
+    addType: 'auto'
   },
   {
     id: 1162194131,
-    name: "Easy New File",
-    addType: "auto"
+    name: 'Easy New File',
+    addType: 'auto'
   },
   {
     id: 6472813601,
-    name: "NinjaMouse - Your mouse master",
-    addType: "auto"
+    name: 'NinjaMouse - Your mouse master',
+    addType: 'auto'
   },
   {
     id: 1445268016,
-    name: "Duplicate Cleaner",
-    addType: "auto"
+    name: 'Duplicate Cleaner',
+    addType: 'auto'
   },
   {
     id: 1494552451,
-    name: "小说大全",
-    addType: "auto"
+    name: '小说大全',
+    addType: 'auto'
   },
   {
     id: 1273980573,
-    name: "Best Data Recovery",
-    addType: "auto"
+    name: 'Best Data Recovery',
+    addType: 'auto'
   },
   {
     id: 1619982017,
-    name: "五笔拆字",
-    addType: "auto"
+    name: '五笔拆字',
+    addType: 'auto'
   },
   {
     id: 1153435308,
-    name: "inddPreview",
-    addType: "auto"
+    name: 'inddPreview',
+    addType: 'auto'
   },
   {
     id: 1475051844,
-    name: "Filmage Converter Pro-MKV,AVI",
-    addType: "auto"
+    name: 'Filmage Converter Pro-MKV,AVI',
+    addType: 'auto'
   },
   {
     id: 1441394270,
-    name: "Oka Unarchiver Pro - Unzip RAR",
-    addType: "auto"
+    name: 'Oka Unarchiver Pro - Unzip RAR',
+    addType: 'auto'
   },
   {
     id: 6711333801,
-    name: "Live Crypto Prices, Charts",
-    addType: "auto"
+    name: 'Live Crypto Prices, Charts',
+    addType: 'auto'
   },
   {
     id: 658182498,
-    name: "Address Book to CSV",
-    addType: "auto"
+    name: 'Address Book to CSV',
+    addType: 'auto'
   },
   {
     id: 6465744342,
-    name: "iBoot - StartupDisk shortcut",
-    addType: "auto"
+    name: 'iBoot - StartupDisk shortcut',
+    addType: 'auto'
   },
   {
     id: 1526912781,
-    name: "Rainbow Folder - Icon changer",
-    addType: "auto"
+    name: 'Rainbow Folder - Icon changer',
+    addType: 'auto'
   },
   {
     id: 668331139,
-    name: "Backup Scheduler: Time Editor",
-    addType: "auto"
+    name: 'Backup Scheduler: Time Editor',
+    addType: 'auto'
   },
   {
     id: 1261004863,
-    name: "Data Recovery EX",
-    addType: "auto"
+    name: 'Data Recovery EX',
+    addType: 'auto'
   },
   {
     id: 877615577,
-    name: "Serial",
-    addType: "auto"
+    name: 'Serial',
+    addType: 'auto'
   },
   {
     id: 6739523960,
-    name: "Allow Right Click for Safari",
-    addType: "auto"
+    name: 'Allow Right Click for Safari',
+    addType: 'auto'
   },
   {
     id: 6444238780,
-    name: "Countdown Desktop",
-    addType: "auto"
+    name: 'Countdown Desktop',
+    addType: 'auto'
   },
   {
     id: 6739428883,
-    name: "TTSLite",
-    addType: "auto"
+    name: 'TTSLite',
+    addType: 'auto'
   },
   {
     id: 402569179,
-    name: "Find Any File (FAF)",
-    addType: "auto"
+    name: 'Find Any File (FAF)',
+    addType: 'auto'
   },
   {
     id: 6745083093,
-    name: "Coolmuster HEIC Converter",
-    addType: "auto"
+    name: 'Coolmuster HEIC Converter',
+    addType: 'auto'
   },
   {
     id: 1602821771,
-    name: "Renamer",
-    addType: "auto"
+    name: 'Renamer',
+    addType: 'auto'
   },
   {
     id: 471561604,
-    name: "Mr. Zipper - 7Z RAR 7ZIP",
-    addType: "auto"
+    name: 'Mr. Zipper - 7Z RAR 7ZIP',
+    addType: 'auto'
   },
   {
     id: 1025822138,
-    name: "iStatistica",
-    addType: "auto"
+    name: 'iStatistica',
+    addType: 'auto'
   },
   {
     id: 524576324,
-    name: "Smart Zipper Pro: Rar, 7z, Zip",
-    addType: "auto"
+    name: 'Smart Zipper Pro: Rar, 7z, Zip',
+    addType: 'auto'
   },
   {
     id: 919005729,
-    name: "Burn",
-    addType: "auto"
+    name: 'Burn',
+    addType: 'auto'
   },
   {
     id: 823528286,
-    name: "Folx GO+",
-    addType: "auto"
+    name: 'Folx GO+',
+    addType: 'auto'
   },
   {
     id: 6444789815,
-    name: "记事本++",
-    addType: "auto"
+    name: '记事本++',
+    addType: 'auto'
   },
   {
     id: 884018914,
-    name: "Zoоm",
-    addType: "auto"
+    name: 'Zoоm',
+    addType: 'auto'
   },
   {
     id: 406178496,
-    name: "KPlayer",
-    addType: "auto"
+    name: 'KPlayer',
+    addType: 'auto'
   },
   {
     id: 1589912595,
-    name: "JY Subtitle SRT Export Lite",
-    addType: "auto"
+    name: 'JY Subtitle SRT Export Lite',
+    addType: 'auto'
   },
   {
     id: 1181029289,
-    name: "Flip Clock Pro - time widgets",
-    addType: "auto"
+    name: 'Flip Clock Pro - time widgets',
+    addType: 'auto'
   },
   {
     id: 815333099,
-    name: "Foldery",
-    addType: "auto"
+    name: 'Foldery',
+    addType: 'auto'
   },
   {
     id: 779114299,
-    name: "CAD Viewer 3D",
-    addType: "auto"
+    name: 'CAD Viewer 3D',
+    addType: 'auto'
   },
   {
     id: 736168905,
-    name: "DBFView",
-    addType: "auto"
+    name: 'DBFView',
+    addType: 'auto'
   },
   {
     id: 1357413437,
-    name: "LightApp-轻应用浏览器",
-    addType: "auto"
+    name: 'LightApp-轻应用浏览器',
+    addType: 'auto'
   },
   {
     id: 1540733755,
-    name: "Find Device - bluetooth finder",
-    addType: "auto"
+    name: 'Find Device - bluetooth finder',
+    addType: 'auto'
   },
   {
     id: 1328847392,
-    name: "Process Monitor",
-    addType: "auto"
+    name: 'Process Monitor',
+    addType: 'auto'
   },
   {
     id: 1593045116,
-    name: "Focus & ADHD Reading - Glide",
-    addType: "auto"
+    name: 'Focus & ADHD Reading - Glide',
+    addType: 'auto'
   },
   {
     id: 1463966933,
-    name: "iStats X: CPU & Memory",
-    addType: "auto"
+    name: 'iStats X: CPU & Memory',
+    addType: 'auto'
   },
   {
     id: 1447778660,
-    name: "iStatistica Pro",
-    addType: "auto"
+    name: 'iStatistica Pro',
+    addType: 'auto'
   },
   {
     id: 1568840488,
-    name: "AutoClicker - Assist click",
-    addType: "auto"
+    name: 'AutoClicker - Assist click',
+    addType: 'auto'
   },
   {
     id: 1538700349,
-    name: "The Extractor Master",
-    addType: "auto"
+    name: 'The Extractor Master',
+    addType: 'auto'
   },
   {
     id: 419330170,
-    name: "Moom Classic",
-    addType: "auto"
+    name: 'Moom Classic',
+    addType: 'auto'
   },
   {
     id: 486626129,
-    name: "Folder Tidy",
-    addType: "auto"
+    name: 'Folder Tidy',
+    addType: 'auto'
   },
   {
     id: 1389745743,
-    name: "Everything Downloader",
-    addType: "auto"
+    name: 'Everything Downloader',
+    addType: 'auto'
   },
   {
     id: 1595306197,
-    name: "Macaque",
-    addType: "auto"
+    name: 'Macaque',
+    addType: 'auto'
   },
   {
     id: 445512770,
-    name: "Disk Diet",
-    addType: "auto"
+    name: 'Disk Diet',
+    addType: 'auto'
   },
   {
     id: 456609775,
-    name: "Window Tidy",
-    addType: "auto"
+    name: 'Window Tidy',
+    addType: 'auto'
   },
   {
     id: 6450939701,
-    name: "Chat One - AI Chat Box",
-    addType: "auto"
+    name: 'Chat One - AI Chat Box',
+    addType: 'auto'
   },
   {
     id: 1565629813,
-    name: "FastZip - RAR 7Z ZIP UnZip",
-    addType: "auto"
+    name: 'FastZip - RAR 7Z ZIP UnZip',
+    addType: 'auto'
   },
   {
     id: 1181028777,
-    name: "Flip Clock - digital widgets",
-    addType: "auto"
+    name: 'Flip Clock - digital widgets',
+    addType: 'auto'
   },
   {
     id: 1488071784,
-    name: "Wallpapers X - 4K Wallpaper",
-    addType: "auto"
+    name: 'Wallpapers X - 4K Wallpaper',
+    addType: 'auto'
   },
   {
     id: 1552826194,
-    name: "iWallpaper - Live Wallpaper",
-    addType: "auto"
+    name: 'iWallpaper - Live Wallpaper',
+    addType: 'auto'
   },
   {
     id: 6511220682,
-    name: "CleanMyApp - Uninstaller",
-    addType: "auto"
+    name: 'CleanMyApp - Uninstaller',
+    addType: 'auto'
   },
   {
     id: 1497428978,
-    name: "iRightMouse",
-    addType: "auto"
+    name: 'iRightMouse',
+    addType: 'auto'
   },
   {
     id: 1541571038,
-    name: "NTFS Read&Write -iBoysoft NTFS",
-    addType: "auto"
+    name: 'NTFS Read&Write -iBoysoft NTFS',
+    addType: 'auto'
   },
   {
     id: 1518518216,
-    name: "Paper - Live Wallpapers",
-    addType: "auto"
+    name: 'Paper - Live Wallpapers',
+    addType: 'auto'
   },
   {
     id: 6443843900,
-    name: "iBar-Menubar icon control tool",
-    addType: "auto"
+    name: 'iBar-Menubar icon control tool',
+    addType: 'auto'
   },
   {
     id: 1442745175,
-    name: "快帆加速器-海外回国音乐视频加速器",
-    addType: "auto"
+    name: '快帆加速器-海外回国音乐视频加速器',
+    addType: 'auto'
   },
   {
     id: 1630034110,
-    name: "Bob - 翻译和 OCR 工具",
-    addType: "auto"
+    name: 'Bob - 翻译和 OCR 工具',
+    addType: 'auto'
   },
   {
     id: 1395152179,
-    name: "奇游加速器 - 全球游戏畅玩",
-    addType: "auto"
+    name: '奇游加速器 - 全球游戏畅玩',
+    addType: 'auto'
   },
   {
     id: 1575178082,
-    name: "Max NTFS - NTFS Disk Helper",
-    addType: "auto"
+    name: 'Max NTFS - NTFS Disk Helper',
+    addType: 'auto'
   },
   {
     id: 1476545828,
-    name: "MacDroid - Manager for Android",
-    addType: "auto"
+    name: 'MacDroid - Manager for Android',
+    addType: 'auto'
   },
   {
     id: 1456235760,
-    name: "Live Wallpaper - 4K UHD",
-    addType: "auto"
+    name: 'Live Wallpaper - 4K UHD',
+    addType: 'auto'
   },
   {
     id: 1599191594,
-    name: "iBoysoft MagicMenu",
-    addType: "auto"
+    name: 'iBoysoft MagicMenu',
+    addType: 'auto'
   },
   {
     id: 1514073011,
-    name: "QuickFox-海外回国加速器追剧听歌游戏留学生必备",
-    addType: "auto"
+    name: 'QuickFox-海外回国加速器追剧听歌游戏留学生必备',
+    addType: 'auto'
   },
   {
     id: 1133028347,
-    name: "Cleaner One Pro - Uninstaller",
-    addType: "auto"
+    name: 'Cleaner One Pro - Uninstaller',
+    addType: 'auto'
   },
   {
     id: 6450397515,
-    name: "Transcribe & Speech to text",
-    addType: "auto"
+    name: 'Transcribe & Speech to text',
+    addType: 'auto'
   },
   {
     id: 1598771178,
-    name: "DeviceMirror Lite -Screen Cast",
-    addType: "auto"
+    name: 'DeviceMirror Lite -Screen Cast',
+    addType: 'auto'
   },
   {
     id: 1669005649,
-    name: "TXT Reader + AI Assistant",
-    addType: "auto"
+    name: 'TXT Reader + AI Assistant',
+    addType: 'auto'
   },
   {
     id: 1525349531,
-    name: "Snap Screenshot - Snip & Paste",
-    addType: "auto"
+    name: 'Snap Screenshot - Snip & Paste',
+    addType: 'auto'
   },
   {
     id: 646295438,
-    name: "RAR Extractor - Unarchiver",
-    addType: "auto"
+    name: 'RAR Extractor - Unarchiver',
+    addType: 'auto'
   },
   {
     id: 6452726154,
-    name: "Ultra VPN - VPN and Wifi Proxy",
-    addType: "auto"
+    name: 'Ultra VPN - VPN and Wifi Proxy',
+    addType: 'auto'
   },
   {
     id: 1521133201,
-    name: "Speed Player for Safari",
-    addType: "auto"
+    name: 'Speed Player for Safari',
+    addType: 'auto'
   },
   {
     id: 1298486723,
-    name: "FileZilla Pro - FTP and Cloud",
-    addType: "auto"
+    name: 'FileZilla Pro - FTP and Cloud',
+    addType: 'auto'
   },
   {
     id: 1081480270,
-    name: "The Audio Converter",
-    addType: "auto"
+    name: 'The Audio Converter',
+    addType: 'auto'
   },
   {
     id: 1244625890,
-    name: "ApowerMirror- Screen Mirroring",
-    addType: "auto"
+    name: 'ApowerMirror- Screen Mirroring',
+    addType: 'auto'
   },
   {
     id: 1068435535,
-    name: "Antivirus One - Virus Cleaner",
-    addType: "auto"
+    name: 'Antivirus One - Virus Cleaner',
+    addType: 'auto'
   },
   {
     id: 1576794157,
-    name: "飞火动态壁纸-4k超清视频桌面主题壁纸引擎",
-    addType: "auto"
+    name: '飞火动态壁纸-4k超清视频桌面主题壁纸引擎',
+    addType: 'auto'
   },
   {
     id: 1455463454,
-    name: "WiFi Speed Test Tools",
-    addType: "auto"
+    name: 'WiFi Speed Test Tools',
+    addType: 'auto'
   },
   {
     id: 1441507725,
-    name: "Oka Unarchiver - Unzip ZIP RAR",
-    addType: "auto"
+    name: 'Oka Unarchiver - Unzip ZIP RAR',
+    addType: 'auto'
   },
   {
     id: 1535136051,
-    name: "RAR Extractor - Unzip File",
-    addType: "auto"
+    name: 'RAR Extractor - Unzip File',
+    addType: 'auto'
   },
   {
     id: 1500706402,
-    name: "PhDDNS",
-    addType: "auto"
+    name: 'PhDDNS',
+    addType: 'auto'
   },
   {
     id: 1486294815,
-    name: "Aliyun Network Client",
-    addType: "auto"
+    name: 'Aliyun Network Client',
+    addType: 'auto'
   },
   {
     id: 1637557903,
-    name: "Video Converter X2",
-    addType: "auto"
+    name: 'Video Converter X2',
+    addType: 'auto'
   },
   {
     id: 6737146353,
-    name: "FoxVPN – Fast & World NetWork",
-    addType: "auto"
+    name: 'FoxVPN – Fast & World NetWork',
+    addType: 'auto'
   },
   {
     id: 1543649099,
-    name: "Clone My Data-Sync&Backup Data",
-    addType: "auto"
+    name: 'Clone My Data-Sync&Backup Data',
+    addType: 'auto'
   },
   {
     id: 1485671150,
-    name: "VPN -  快滚 全球网络加速",
-    addType: "auto"
+    name: 'VPN -  快滚 全球网络加速',
+    addType: 'auto'
   },
   {
     id: 1570653446,
-    name: "Focus Video - Video Converter",
-    addType: "auto"
+    name: 'Focus Video - Video Converter',
+    addType: 'auto'
   },
   {
     id: 740355970,
-    name: "Data Recovery Expert",
-    addType: "auto"
+    name: 'Data Recovery Expert',
+    addType: 'auto'
   },
   {
     id: 1606741874,
-    name: "AConverter - Audio Converter",
-    addType: "auto"
+    name: 'AConverter - Audio Converter',
+    addType: 'auto'
   },
   {
     id: 6475027113,
-    name: "Deep Think智能助手： AI智能助理",
-    addType: "auto"
+    name: 'Deep Think智能助手： AI智能助理',
+    addType: 'auto'
   },
   {
     id: 1018301773,
-    name: "AdBlock Pro for Safari",
-    addType: "auto"
+    name: 'AdBlock Pro for Safari',
+    addType: 'auto'
   },
   {
     id: 1551462255,
-    name: "MouseBoost",
-    addType: "auto"
+    name: 'MouseBoost',
+    addType: 'auto'
   },
   {
     id: 1466014165,
-    name: "RecMaster Screen Recorder",
-    addType: "auto"
+    name: 'RecMaster Screen Recorder',
+    addType: 'auto'
   },
   {
     id: 1613340764,
-    name: "PixelsTester - Test Monitors",
-    addType: "auto"
+    name: 'PixelsTester - Test Monitors',
+    addType: 'auto'
   },
   {
     id: 1502255391,
-    name: "Color Folder - Custom Icons",
-    addType: "auto"
+    name: 'Color Folder - Custom Icons',
+    addType: 'auto'
   },
   {
     id: 1467607774,
-    name: "Smart Audio Editor - ID3",
-    addType: "auto"
+    name: 'Smart Audio Editor - ID3',
+    addType: 'auto'
   },
   {
     id: 1478202069,
-    name: "Screen Mirroring: LetsView",
-    addType: "auto"
+    name: 'Screen Mirroring: LetsView',
+    addType: 'auto'
   },
   {
     id: 6448913901,
-    name: "全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理",
-    addType: "auto"
+    name: '全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理',
+    addType: 'auto'
   },
   {
     id: 1476640331,
-    name: "读写客",
-    addType: "auto"
+    name: '读写客',
+    addType: 'auto'
   },
   {
     id: 787142064,
-    name: "VSD Viewer & VSD Converter",
-    addType: "auto"
+    name: 'VSD Viewer & VSD Converter',
+    addType: 'auto'
   },
   {
     id: 1499250688,
-    name: "Wallpaper - HD Wallpapers",
-    addType: "auto"
+    name: 'Wallpaper - HD Wallpapers',
+    addType: 'auto'
   },
   {
     id: 1642304143,
-    name: "SerialPort Debug Assistant Pro",
-    addType: "auto"
+    name: 'SerialPort Debug Assistant Pro',
+    addType: 'auto'
   },
   {
     id: 1516451072,
-    name: "Another Desktop Manager",
-    addType: "auto"
+    name: 'Another Desktop Manager',
+    addType: 'auto'
   },
   {
     id: 847259925,
-    name: "SnailSVN: SVN for Finder",
-    addType: "auto"
+    name: 'SnailSVN: SVN for Finder',
+    addType: 'auto'
   },
   {
     id: 689176796,
-    name: "Python Runner",
-    addType: "auto"
+    name: 'Python Runner',
+    addType: 'auto'
   },
   {
     id: 1459663647,
-    name: "Virtual Location",
-    addType: "auto"
+    name: 'Virtual Location',
+    addType: 'auto'
   },
   {
     id: 417392270,
-    name: "MDB ACCDB Viewer",
-    addType: "auto"
+    name: 'MDB ACCDB Viewer',
+    addType: 'auto'
   },
   {
     id: 847260112,
-    name: "SnailGit: Git for Finder",
-    addType: "auto"
+    name: 'SnailGit: Git for Finder',
+    addType: 'auto'
   },
   {
     id: 498370702,
-    name: "RegExRX",
-    addType: "auto"
+    name: 'RegExRX',
+    addType: 'auto'
   },
   {
     id: 1236813619,
-    name: "Context Menu",
-    addType: "auto"
+    name: 'Context Menu',
+    addType: 'auto'
   },
   {
     id: 955297617,
-    name: "CodeRunner 4",
-    addType: "auto"
+    name: 'CodeRunner 4',
+    addType: 'auto'
   },
   {
     id: 1400977081,
-    name: "IPYNB Viewer + Editor",
-    addType: "auto"
+    name: 'IPYNB Viewer + Editor',
+    addType: 'auto'
   },
   {
     id: 948079084,
-    name: "FlashFTP - Swift FTP/SFTP Client",
-    addType: "auto"
+    name: 'FlashFTP - Swift FTP/SFTP Client',
+    addType: 'auto'
   },
   {
     id: 6504210872,
-    name: "DartShell - SSH & SFTP",
-    addType: "auto"
+    name: 'DartShell - SSH & SFTP',
+    addType: 'auto'
   },
   {
     id: 1063631769,
-    name: "Medis - GUI for Redis",
-    addType: "auto"
+    name: 'Medis - GUI for Redis',
+    addType: 'auto'
   },
   {
     id: 507135296,
-    name: "IconKit",
-    addType: "auto"
+    name: 'IconKit',
+    addType: 'auto'
   },
   {
     id: 429449079,
-    name: "Patterns - The Regex App",
-    addType: "auto"
+    name: 'Patterns - The Regex App',
+    addType: 'auto'
   },
   {
     id: 6446094097,
-    name: "AI File Translator (1 to >100)",
-    addType: "auto"
+    name: 'AI File Translator (1 to >100)',
+    addType: 'auto'
   },
   {
     id: 1054575495,
-    name: "JavaPoint",
-    addType: "auto"
+    name: 'JavaPoint',
+    addType: 'auto'
   },
   {
     id: 841285201,
-    name: "Haskell",
-    addType: "auto"
+    name: 'Haskell',
+    addType: 'auto'
   },
   {
     id: 567740330,
-    name: "JSON Editor",
-    addType: "auto"
+    name: 'JSON Editor',
+    addType: 'auto'
   },
   {
     id: 1157491961,
-    name: "PLIST Editor",
-    addType: "auto"
+    name: 'PLIST Editor',
+    addType: 'auto'
   },
   {
     id: 913158085,
-    name: "Expressions",
-    addType: "auto"
+    name: 'Expressions',
+    addType: 'auto'
   },
   {
     id: 1105845111,
-    name: "Xversion",
-    addType: "auto"
+    name: 'Xversion',
+    addType: 'auto'
   },
   {
     id: 641027709,
-    name: "Color Picker",
-    addType: "auto"
+    name: 'Color Picker',
+    addType: 'auto'
   },
   {
     id: 823961613,
-    name: "SSH Copy",
-    addType: "auto"
+    name: 'SSH Copy',
+    addType: 'auto'
   },
   {
     id: 1067646949,
-    name: "New Terminal Here",
-    addType: "auto"
+    name: 'New Terminal Here',
+    addType: 'auto'
   },
   {
     id: 595177179,
-    name: "icns Tool",
-    addType: "auto"
+    name: 'icns Tool',
+    addType: 'auto'
   },
   {
     id: 490499048,
-    name: "bmGlyph",
-    addType: "auto"
+    name: 'bmGlyph',
+    addType: 'auto'
   },
   {
     id: 556381974,
-    name: "IconFly",
-    addType: "auto"
+    name: 'IconFly',
+    addType: 'auto'
   },
   {
     id: 499768540,
-    name: "Power JSON Editor",
-    addType: "auto"
+    name: 'Power JSON Editor',
+    addType: 'auto'
   },
   {
     id: 1554235898,
-    name: "Peek — A Quick Look Extension",
-    addType: "auto"
+    name: 'Peek — A Quick Look Extension',
+    addType: 'auto'
   },
   {
     id: 1224934068,
-    name: "iTer - IT learning",
-    addType: "auto"
+    name: 'iTer - IT learning',
+    addType: 'auto'
   },
   {
     id: 1615269303,
-    name: "iCon - Create And Resize Icons",
-    addType: "auto"
+    name: 'iCon - Create And Resize Icons',
+    addType: 'auto'
   },
   {
     id: 686855602,
-    name: "PHP Runner",
-    addType: "auto"
+    name: 'PHP Runner',
+    addType: 'auto'
   },
   {
     id: 1511935951,
-    name: "BetterJSON for Safari",
-    addType: "auto"
+    name: 'BetterJSON for Safari',
+    addType: 'auto'
   },
   {
     id: 1106867065,
-    name: "Svgsus",
-    addType: "auto"
+    name: 'Svgsus',
+    addType: 'auto'
   },
   {
     id: 945397020,
-    name: "Run Python",
-    addType: "auto"
+    name: 'Run Python',
+    addType: 'auto'
   },
   {
     id: 536559203,
-    name: "FlashCode - SWF to HTML5 and Objective-C converter",
-    addType: "auto"
+    name: 'FlashCode - SWF to HTML5 and Objective-C converter',
+    addType: 'auto'
   },
   {
     id: 1485436674,
-    name: "A Companion for SwiftUI",
-    addType: "auto"
+    name: 'A Companion for SwiftUI',
+    addType: 'auto'
   },
   {
     id: 875264768,
-    name: "Node.js HandBook",
-    addType: "auto"
+    name: 'Node.js HandBook',
+    addType: 'auto'
   },
   {
     id: 1360203022,
-    name: "Socket-tcp/udp tool",
-    addType: "auto"
+    name: 'Socket-tcp/udp tool',
+    addType: 'auto'
   },
   {
     id: 417074533,
-    name: "Synalyze It!",
-    addType: "auto"
+    name: 'Synalyze It!',
+    addType: 'auto'
   },
   {
     id: 513995545,
-    name: "MDB Tool - For Microsoft Access",
-    addType: "auto"
+    name: 'MDB Tool - For Microsoft Access',
+    addType: 'auto'
   },
   {
     id: 1400050251,
-    name: "Pythonic",
-    addType: "auto"
+    name: 'Pythonic',
+    addType: 'auto'
   },
   {
     id: 906185173,
-    name: "PacketSender",
-    addType: "auto"
+    name: 'PacketSender',
+    addType: 'auto'
   },
   {
     id: 719577577,
-    name: "JarPackager",
-    addType: "auto"
+    name: 'JarPackager',
+    addType: 'auto'
   },
   {
     id: 803736440,
-    name: "Hex Edit Pro",
-    addType: "auto"
+    name: 'Hex Edit Pro',
+    addType: 'auto'
   },
   {
     id: 1410608230,
-    name: "SQLiteMaster",
-    addType: "auto"
+    name: 'SQLiteMaster',
+    addType: 'auto'
   },
   {
     id: 685191052,
-    name: "SVN Server",
-    addType: "auto"
+    name: 'SVN Server',
+    addType: 'auto'
   },
   {
     id: 1104615718,
-    name: "HelloWeb",
-    addType: "auto"
+    name: 'HelloWeb',
+    addType: 'auto'
   },
   {
     id: 1024903185,
-    name: "TextLab",
-    addType: "auto"
+    name: 'TextLab',
+    addType: 'auto'
   },
   {
     id: 946677126,
-    name: "PDF to XLSX Master",
-    addType: "auto"
+    name: 'PDF to XLSX Master',
+    addType: 'auto'
   },
   {
     id: 414234859,
-    name: "DropDMG",
-    addType: "auto"
+    name: 'DropDMG',
+    addType: 'auto'
   },
   {
     id: 734258109,
-    name: "Watchdog for Xcode",
-    addType: "auto"
+    name: 'Watchdog for Xcode',
+    addType: 'auto'
   },
   {
     id: 535348544,
-    name: "Folder Compare",
-    addType: "auto"
+    name: 'Folder Compare',
+    addType: 'auto'
   },
   {
     id: 1268616588,
-    name: "Localizable - translation file",
-    addType: "auto"
+    name: 'Localizable - translation file',
+    addType: 'auto'
   },
   {
     id: 822334407,
-    name: "TCP Client",
-    addType: "auto"
+    name: 'TCP Client',
+    addType: 'auto'
   },
   {
     id: 415087689,
-    name: "PHP Code Tester",
-    addType: "auto"
+    name: 'PHP Code Tester',
+    addType: 'auto'
   },
   {
     id: 1148208665,
-    name: "ThemeInstaller",
-    addType: "auto"
+    name: 'ThemeInstaller',
+    addType: 'auto'
   },
   {
     id: 478570084,
-    name: "CompareMerge",
-    addType: "auto"
+    name: 'CompareMerge',
+    addType: 'auto'
   },
   {
     id: 1159371870,
-    name: "Code School for Xcode PRO - Learn Coding for iOS",
-    addType: "auto"
+    name: 'Code School for Xcode PRO - Learn Coding for iOS',
+    addType: 'auto'
   },
   {
     id: 1579236127,
-    name: "UMLBoard",
-    addType: "auto"
+    name: 'UMLBoard',
+    addType: 'auto'
   },
   {
     id: 1054670022,
-    name: "Adaptivity (A)",
-    addType: "auto"
+    name: 'Adaptivity (A)',
+    addType: 'auto'
   },
   {
     id: 1458267370,
-    name: "HTTP Server - LAN Debug Tool",
-    addType: "auto"
+    name: 'HTTP Server - LAN Debug Tool',
+    addType: 'auto'
   },
   {
     id: 1434151360,
-    name: "PowerRightMenu - Fast New File",
-    addType: "auto"
+    name: 'PowerRightMenu - Fast New File',
+    addType: 'auto'
   },
   {
     id: 574356166,
-    name: "CrossFTP Pro - FTP Client",
-    addType: "auto"
+    name: 'CrossFTP Pro - FTP Client',
+    addType: 'auto'
   },
   {
     id: 640034674,
-    name: "AnyMP4 AVCHD Converter Player",
-    addType: "auto"
+    name: 'AnyMP4 AVCHD Converter Player',
+    addType: 'auto'
   },
   {
     id: 689184215,
-    name: "JRunner for Java",
-    addType: "auto"
+    name: 'JRunner for Java',
+    addType: 'auto'
   },
   {
     id: 670032670,
-    name: "JS King",
-    addType: "auto"
+    name: 'JS King',
+    addType: 'auto'
   },
   {
     id: 1589635432,
-    name: "EasyPlantUML",
-    addType: "auto"
+    name: 'EasyPlantUML',
+    addType: 'auto'
   },
   {
     id: 1567045405,
-    name: "Golog",
-    addType: "auto"
+    name: 'Golog',
+    addType: 'auto'
   },
   {
     id: 689183220,
-    name: "JS Runner",
-    addType: "auto"
+    name: 'JS Runner',
+    addType: 'auto'
   },
   {
     id: 1516154713,
-    name: "Push Notification - Tester",
-    addType: "auto"
+    name: 'Push Notification - Tester',
+    addType: 'auto'
   },
   {
     id: 467620393,
-    name: "JavaScript Condenser",
-    addType: "auto"
+    name: 'JavaScript Condenser',
+    addType: 'auto'
   },
   {
     id: 689178925,
-    name: "Perl Runner",
-    addType: "auto"
+    name: 'Perl Runner',
+    addType: 'auto'
   },
   {
     id: 1396408074,
-    name: "PrettyJSON for Xcode",
-    addType: "auto"
+    name: 'PrettyJSON for Xcode',
+    addType: 'auto'
   },
   {
     id: 1244392031,
-    name: "CL!ng",
-    addType: "auto"
+    name: 'CL!ng',
+    addType: 'auto'
   },
   {
     id: 1137451860,
-    name: "App Preview Video Converter",
-    addType: "auto"
+    name: 'App Preview Video Converter',
+    addType: 'auto'
   },
   {
     id: 1013592748,
-    name: "C Sharp",
-    addType: "auto"
+    name: 'C Sharp',
+    addType: 'auto'
   },
   {
     id: 775920262,
-    name: "unRAR Pro",
-    addType: "auto"
+    name: 'unRAR Pro',
+    addType: 'auto'
   },
   {
     id: 1576144037,
-    name: "mSocket - Transfer large files",
-    addType: "auto"
+    name: 'mSocket - Transfer large files',
+    addType: 'auto'
   },
   {
     id: 689175950,
-    name: "Node Runner",
-    addType: "auto"
+    name: 'Node Runner',
+    addType: 'auto'
   },
   {
     id: 552407238,
-    name: "myPoint Coordinates",
-    addType: "auto"
+    name: 'myPoint Coordinates',
+    addType: 'auto'
   },
   {
     id: 402383384,
-    name: "Base - SQLite Editor",
-    addType: "auto"
+    name: 'Base - SQLite Editor',
+    addType: 'auto'
   },
   {
     id: 433586919,
-    name: "CSVEdit",
-    addType: "auto"
+    name: 'CSVEdit',
+    addType: 'auto'
   },
   {
     id: 1076110314,
-    name: "Smart JSON Viewer",
-    addType: "auto"
+    name: 'Smart JSON Viewer',
+    addType: 'auto'
   },
   {
     id: 1134593405,
-    name: "EncryptTools",
-    addType: "auto"
+    name: 'EncryptTools',
+    addType: 'auto'
   },
   {
     id: 475193367,
-    name: "Synalyze It! Pro",
-    addType: "auto"
+    name: 'Synalyze It! Pro',
+    addType: 'auto'
   },
   {
     id: 1167060791,
-    name: "Import",
-    addType: "auto"
+    name: 'Import',
+    addType: 'auto'
   },
   {
     id: 1128674367,
-    name: "MySQL Database Optimizer",
-    addType: "auto"
+    name: 'MySQL Database Optimizer',
+    addType: 'auto'
   },
   {
     id: 1604145760,
-    name: "Picture Compresser",
-    addType: "auto"
+    name: 'Picture Compresser',
+    addType: 'auto'
   },
   {
     id: 1367025713,
-    name: "Sprite 1-2-3",
-    addType: "auto"
+    name: 'Sprite 1-2-3',
+    addType: 'auto'
   },
   {
     id: 1070488538,
-    name: "Icons Maker",
-    addType: "auto"
+    name: 'Icons Maker',
+    addType: 'auto'
   },
   {
     id: 413612688,
-    name: "Icons",
-    addType: "auto"
+    name: 'Icons',
+    addType: 'auto'
   },
   {
     id: 913523893,
-    name: "QuartzCode",
-    addType: "auto"
+    name: 'QuartzCode',
+    addType: 'auto'
   },
   {
     id: 477163052,
-    name: "Linguan",
-    addType: "auto"
+    name: 'Linguan',
+    addType: 'auto'
   },
   {
     id: 1565766176,
-    name: "Power YAML Editor",
-    addType: "auto"
+    name: 'Power YAML Editor',
+    addType: 'auto'
   },
   {
     id: 1479641484,
-    name: "Fireworks - Effects Editor",
-    addType: "auto"
+    name: 'Fireworks - Effects Editor',
+    addType: 'auto'
   },
   {
     id: 1176074088,
-    name: "Termius — Modern SSH Client",
-    addType: "auto"
+    name: 'Termius — Modern SSH Client',
+    addType: 'auto'
   },
   {
     id: 1102004240,
-    name: "iHosts - /etc/hosts editor",
-    addType: "auto"
+    name: 'iHosts - /etc/hosts editor',
+    addType: 'auto'
   },
   {
     id: 1507890049,
-    name: "Pixeur - Screen Color Picker",
-    addType: "auto"
+    name: 'Pixeur - Screen Color Picker',
+    addType: 'auto'
   },
   {
     id: 6504274426,
-    name: "termcc - SSH & SFTP Client",
-    addType: "auto"
+    name: 'termcc - SSH & SFTP Client',
+    addType: 'auto'
   },
   {
     id: 1491764008,
-    name: "Red 2 - UI for Redis",
-    addType: "auto"
+    name: 'Red 2 - UI for Redis',
+    addType: 'auto'
   },
   {
     id: 985614903,
-    name: "SQLPro Studio",
-    addType: "auto"
+    name: 'SQLPro Studio',
+    addType: 'auto'
   },
   {
     id: 1459748650,
-    name: "CompareMerge2",
-    addType: "auto"
+    name: 'CompareMerge2',
+    addType: 'auto'
   },
   {
     id: 1475741280,
-    name: "SSH Client - Terminal, Telnet",
-    addType: "auto"
+    name: 'SSH Client - Terminal, Telnet',
+    addType: 'auto'
   },
   {
     id: 828466809,
-    name: "SQLPro for MSSQL",
-    addType: "auto"
+    name: 'SQLPro for MSSQL',
+    addType: 'auto'
   },
   {
     id: 1547933097,
-    name: "Socket Debugger",
-    addType: "auto"
+    name: 'Socket Debugger',
+    addType: 'auto'
   },
   {
     id: 1516553045,
-    name: "Colorsip",
-    addType: "auto"
+    name: 'Colorsip',
+    addType: 'auto'
   },
   {
     id: 1502044457,
-    name: "Whisk",
-    addType: "auto"
+    name: 'Whisk',
+    addType: 'auto'
   },
   {
     id: 1533756032,
-    name: "DevUtils.app",
-    addType: "auto"
+    name: 'DevUtils.app',
+    addType: 'auto'
   },
   {
     id: 1147023879,
-    name: "App Image Kit",
-    addType: "auto"
+    name: 'App Image Kit',
+    addType: 'auto'
   },
   {
     id: 1469182443,
-    name: "SnipperApp 2",
-    addType: "auto"
+    name: 'SnipperApp 2',
+    addType: 'auto'
   },
   {
     id: 1570789972,
-    name: "ESP32 WiFi OTA",
-    addType: "auto"
+    name: 'ESP32 WiFi OTA',
+    addType: 'auto'
   },
   {
     id: 1584637545,
-    name: "Translate APP-Project Localize",
-    addType: "auto"
+    name: 'Translate APP-Project Localize',
+    addType: 'auto'
   },
   {
     id: 1516378834,
-    name: "Push Notification - Client",
-    addType: "auto"
+    name: 'Push Notification - Client',
+    addType: 'auto'
   },
   {
     id: 547166701,
-    name: "百度网盘",
-    addType: "auto"
+    name: '百度网盘',
+    addType: 'auto'
   },
   {
     id: 1014945607,
-    name: "优酷视频-嘘国王在冬眠 全网独播",
-    addType: "auto"
+    name: '优酷视频-嘘国王在冬眠 全网独播',
+    addType: 'auto'
   },
   {
     id: 1231336508,
-    name: "腾讯视频-折腰 全网独播",
-    addType: "auto"
+    name: '腾讯视频-折腰 全网独播',
+    addType: 'auto'
   },
   {
     id: 6741096204,
-    name: "Think AI: Ask Chatbot Anything",
-    addType: "auto"
+    name: 'Think AI: Ask Chatbot Anything',
+    addType: 'auto'
   },
   {
     id: 1012296988,
-    name: "爱奇艺-人生若如初见 全网独播",
-    addType: "auto"
+    name: '爱奇艺-人生若如初见 全网独播',
+    addType: 'auto'
   },
   {
     id: 1327661892,
-    name: "Xmind: Mind Map",
-    addType: "auto"
+    name: 'Xmind: Mind Map',
+    addType: 'auto'
   },
   {
     id: 1588231633,
-    name: "Meitu-AI Photo Editor & Design",
-    addType: "auto"
+    name: 'Meitu-AI Photo Editor & Design',
+    addType: 'auto'
   },
   {
     id: 1450246547,
-    name: "BestZip - Unarchive RAR&7Z&ZIP",
-    addType: "auto"
+    name: 'BestZip - Unarchive RAR&7Z&ZIP',
+    addType: 'auto'
   },
   {
     id: 1570349123,
-    name: "Openly for Chrome and Firefox",
-    addType: "auto"
+    name: 'Openly for Chrome and Firefox',
+    addType: 'auto'
   },
   {
     id: 491854842,
-    name: "Youdao Translate",
-    addType: "auto"
+    name: 'Youdao Translate',
+    addType: 'auto'
   },
   {
     id: 1247341465,
-    name: "同花顺-股票炒股软件",
-    addType: "auto"
+    name: '同花顺-股票炒股软件',
+    addType: 'auto'
   },
   {
     id: 1484905765,
-    name: "Fast CAD Reader",
-    addType: "auto"
+    name: 'Fast CAD Reader',
+    addType: 'auto'
   },
   {
     id: 747648890,
-    name: "Telegram",
-    addType: "auto"
+    name: 'Telegram',
+    addType: 'auto'
   },
   {
     id: 6450939701,
-    name: "Chat One - AI Chat Box",
-    addType: "auto"
+    name: 'Chat One - AI Chat Box',
+    addType: 'auto'
   },
   {
     id: 1565629813,
-    name: "FastZip - RAR 7Z ZIP UnZip",
-    addType: "auto"
+    name: 'FastZip - RAR 7Z ZIP UnZip',
+    addType: 'auto'
   },
   {
     id: 1592987853,
-    name: "Screen Recorder by Omi",
-    addType: "auto"
+    name: 'Screen Recorder by Omi',
+    addType: 'auto'
   },
   {
     id: 1488071784,
-    name: "Wallpapers X - 4K Wallpaper",
-    addType: "auto"
+    name: 'Wallpapers X - 4K Wallpaper',
+    addType: 'auto'
   },
   {
     id: 1181028777,
-    name: "Flip Clock - digital widgets",
-    addType: "auto"
+    name: 'Flip Clock - digital widgets',
+    addType: 'auto'
   },
   {
     id: 1485844094,
-    name: "iShot-ScreenShot Recording OCR",
-    addType: "auto"
+    name: 'iShot-ScreenShot Recording OCR',
+    addType: 'auto'
   },
   {
     id: 6503169843,
-    name: "AI Chatbot : Ask AI Assistant",
-    addType: "auto"
+    name: 'AI Chatbot : Ask AI Assistant',
+    addType: 'auto'
   },
   {
     id: 1552826194,
-    name: "iWallpaper - Live Wallpaper",
-    addType: "auto"
+    name: 'iWallpaper - Live Wallpaper',
+    addType: 'auto'
   },
   {
     id: 6511220682,
-    name: "CleanMyApp - Uninstaller",
-    addType: "auto"
+    name: 'CleanMyApp - Uninstaller',
+    addType: 'auto'
   },
   {
     id: 966085870,
-    name: "TickTick:To-Do List, Calendar",
-    addType: "auto"
+    name: 'TickTick:To-Do List, Calendar',
+    addType: 'auto'
   },
   {
     id: 1144400433,
-    name: "东方财富经典版-股票开户证券炒股理财",
-    addType: "auto"
+    name: '东方财富经典版-股票开户证券炒股理财',
+    addType: 'auto'
   },
   {
     id: 1497428978,
-    name: "iRightMouse",
-    addType: "auto"
+    name: 'iRightMouse',
+    addType: 'auto'
   },
   {
     id: 886103288,
-    name: "虎牙直播HD-游戏互动直播平台",
-    addType: "auto"
+    name: '虎牙直播HD-游戏互动直播平台',
+    addType: 'auto'
   },
   {
     id: 1541571038,
-    name: "NTFS Read&Write -iBoysoft NTFS",
-    addType: "auto"
+    name: 'NTFS Read&Write -iBoysoft NTFS',
+    addType: 'auto'
   },
   {
     id: 1594288016,
-    name: "Wink: Video Enhancer & Editor",
-    addType: "auto"
+    name: 'Wink: Video Enhancer & Editor',
+    addType: 'auto'
   },
   {
     id: 1600668116,
-    name: "有道云笔记-笔记效率办公",
-    addType: "auto"
+    name: '有道云笔记-笔记效率办公',
+    addType: 'auto'
   },
   {
     id: 6443843900,
-    name: "iBar-Menubar icon control tool",
-    addType: "auto"
+    name: 'iBar-Menubar icon control tool',
+    addType: 'auto'
   },
   {
     id: 1442745175,
-    name: "快帆加速器-海外回国音乐视频加速器",
-    addType: "auto"
+    name: '快帆加速器-海外回国音乐视频加速器',
+    addType: 'auto'
   },
   {
     id: 1518518216,
-    name: "Paper - Live Wallpapers",
-    addType: "auto"
+    name: 'Paper - Live Wallpapers',
+    addType: 'auto'
   },
   {
     id: 1659622164,
-    name: "VidHub -Video Library & Player",
-    addType: "auto"
+    name: 'VidHub -Video Library & Player',
+    addType: 'auto'
   },
   {
     id: 1570563588,
-    name: "CalendarTask - Efficient life",
-    addType: "auto"
+    name: 'CalendarTask - Efficient life',
+    addType: 'auto'
   },
   {
     id: 734383760,
-    name: "每日英语听力 - 英语听力的最佳途径",
-    addType: "auto"
+    name: '每日英语听力 - 英语听力的最佳途径',
+    addType: 'auto'
   },
   {
     id: 1507782672,
-    name: "Pixea",
-    addType: "auto"
+    name: 'Pixea',
+    addType: 'auto'
   },
   {
     id: 1259223205,
-    name: "TunesMechanic for iTunes",
-    addType: "auto"
+    name: 'TunesMechanic for iTunes',
+    addType: 'auto'
   },
   {
     id: 1630034110,
-    name: "Bob - 翻译和 OCR 工具",
-    addType: "auto"
+    name: 'Bob - 翻译和 OCR 工具',
+    addType: 'auto'
   },
   {
     id: 1221250572,
-    name: "Xnip - Screenshot & Annotation",
-    addType: "auto"
+    name: 'Xnip - Screenshot & Annotation',
+    addType: 'auto'
   },
   {
     id: 1575178082,
-    name: "Max NTFS - NTFS Disk Helper",
-    addType: "auto"
+    name: 'Max NTFS - NTFS Disk Helper',
+    addType: 'auto'
   },
   {
     id: 1619925971,
-    name: "UPDF - PDF Editor with AI",
-    addType: "auto"
+    name: 'UPDF - PDF Editor with AI',
+    addType: 'auto'
   },
   {
     id: 1395152179,
-    name: "奇游加速器 - 全球游戏畅玩",
-    addType: "auto"
+    name: '奇游加速器 - 全球游戏畅玩',
+    addType: 'auto'
   },
   {
     id: 503039729,
-    name: "Fotor: AI Photo Editor, Design",
-    addType: "auto"
+    name: 'Fotor: AI Photo Editor, Design',
+    addType: 'auto'
   },
   {
     id: 1476545828,
-    name: "MacDroid - Manager for Android",
-    addType: "auto"
+    name: 'MacDroid - Manager for Android',
+    addType: 'auto'
   },
   {
     id: 6449164812,
-    name: "打字通 - 打字练习软件",
-    addType: "auto"
+    name: '打字通 - 打字练习软件',
+    addType: 'auto'
   },
   {
     id: 1536071582,
-    name: "Omni Converter - Video & Audio",
-    addType: "auto"
+    name: 'Omni Converter - Video & Audio',
+    addType: 'auto'
   },
   {
     id: 1456235760,
-    name: "Live Wallpaper - 4K UHD",
-    addType: "auto"
+    name: 'Live Wallpaper - 4K UHD',
+    addType: 'auto'
   },
   {
     id: 1599191594,
-    name: "iBoysoft MagicMenu",
-    addType: "auto"
+    name: 'iBoysoft MagicMenu',
+    addType: 'auto'
   },
   {
     id: 1665341561,
-    name: "flomo浮墨笔记 - AI 加持的便签备忘",
-    addType: "auto"
+    name: 'flomo浮墨笔记 - AI 加持的便签备忘',
+    addType: 'auto'
   },
   {
     id: 1133028347,
-    name: "Cleaner One Pro - Uninstaller",
-    addType: "auto"
+    name: 'Cleaner One Pro - Uninstaller',
+    addType: 'auto'
   },
   {
     id: 1514073011,
-    name: "QuickFox-海外回国加速器追剧听歌游戏留学生必备",
-    addType: "auto"
+    name: 'QuickFox-海外回国加速器追剧听歌游戏留学生必备',
+    addType: 'auto'
   },
   {
     id: 1345035954,
-    name: "穿梭Transocks-海外华人回国加速器",
-    addType: "auto"
+    name: '穿梭Transocks-海外华人回国加速器',
+    addType: 'auto'
   },
   {
     id: 1176074088,
-    name: "Termius — Modern SSH Client",
-    addType: "auto"
+    name: 'Termius — Modern SSH Client',
+    addType: 'auto'
   },
   {
     id: 1335335588,
-    name: "Final Video Player - MKV & MP4",
-    addType: "auto"
+    name: 'Final Video Player - MKV & MP4',
+    addType: 'auto'
   },
   {
     id: 1044549675,
-    name: "Elmedia Video Player",
-    addType: "auto"
+    name: 'Elmedia Video Player',
+    addType: 'auto'
   },
   {
     id: 1453504509,
-    name: "Dynamic Wallpaper Engine",
-    addType: "auto"
+    name: 'Dynamic Wallpaper Engine',
+    addType: 'auto'
   },
   {
     id: 1449438542,
-    name: "BestZip Pro - Unzip RAR&Zip&7z",
-    addType: "auto"
+    name: 'BestZip Pro - Unzip RAR&Zip&7z',
+    addType: 'auto'
   },
   {
     id: 470158793,
-    name: "Keka",
-    addType: "auto"
+    name: 'Keka',
+    addType: 'auto'
   },
   {
     id: 1550403011,
-    name: "iRightMouse Pro",
-    addType: "auto"
+    name: 'iRightMouse Pro',
+    addType: 'auto'
   },
   {
     id: 1611347086,
-    name: "iShot Pro-ScreenShot Recording",
-    addType: "auto"
+    name: 'iShot Pro-ScreenShot Recording',
+    addType: 'auto'
   },
   {
     id: 6737150304,
-    name: "iBar Pro-Menubar control tool",
-    addType: "auto"
+    name: 'iBar Pro-Menubar control tool',
+    addType: 'auto'
   },
   {
     id: 647505820,
-    name: "RAR Extractor - Unarchiver Pro",
-    addType: "auto"
+    name: 'RAR Extractor - Unarchiver Pro',
+    addType: 'auto'
   },
   {
     id: 6740171321,
-    name: "FastZipPro- RAR 7Z ZIP UnZip",
-    addType: "auto"
+    name: 'FastZipPro- RAR 7Z ZIP UnZip',
+    addType: 'auto'
   },
   {
     id: 6742392236,
-    name: "ClashX Pro :Service Monitoring",
-    addType: "auto"
+    name: 'ClashX Pro :Service Monitoring',
+    addType: 'auto'
   },
   {
     id: 1343182480,
-    name: "东方财富领先版-股票开户证券炒股理财",
-    addType: "auto"
+    name: '东方财富领先版-股票开户证券炒股理财',
+    addType: 'auto'
   },
   {
     id: 6741806831,
-    name: "ClashX Pro - Dashboard manager",
-    addType: "auto"
+    name: 'ClashX Pro - Dashboard manager',
+    addType: 'auto'
   },
   {
     id: 494500492,
-    name: "倒数日 · Days Matter for Desktop",
-    addType: "auto"
+    name: '倒数日 · Days Matter for Desktop',
+    addType: 'auto'
   },
   {
     id: 951718596,
-    name: "FoxCAD",
-    addType: "auto"
+    name: 'FoxCAD',
+    addType: 'auto'
   },
   {
     id: 1551531632,
-    name: "AutoSwitchInput Pro",
-    addType: "auto"
+    name: 'AutoSwitchInput Pro',
+    addType: 'auto'
   },
   {
     id: 6738742748,
-    name: "Puzzle Spider Solitaire.",
-    addType: "auto"
+    name: 'Puzzle Spider Solitaire.',
+    addType: 'auto'
   },
   {
     id: 1469774098,
-    name: "QSpace",
-    addType: "auto"
+    name: 'QSpace',
+    addType: 'auto'
   },
   {
     id: 1459028801,
-    name: "爱五笔 - 五笔编码拆字大全",
-    addType: "auto"
+    name: '爱五笔 - 五笔编码拆字大全',
+    addType: 'auto'
   },
   {
     id: 1567442612,
-    name: "Qmenu",
-    addType: "auto"
+    name: 'Qmenu',
+    addType: 'auto'
   },
   {
     id: 1544655904,
-    name: "OmniReader Pro - AI Reader",
-    addType: "auto"
+    name: 'OmniReader Pro - AI Reader',
+    addType: 'auto'
   },
   {
     id: 411643860,
-    name: "DaisyDisk",
-    addType: "auto"
+    name: 'DaisyDisk',
+    addType: 'auto'
   },
   {
     id: 1486274102,
-    name: "MPlayer X Pro",
-    addType: "auto"
+    name: 'MPlayer X Pro',
+    addType: 'auto'
   },
   {
     id: 461788075,
-    name: "Movist",
-    addType: "auto"
+    name: 'Movist',
+    addType: 'auto'
   },
   {
     id: 1218171533,
-    name: "Marklist - Manage Later Things",
-    addType: "auto"
+    name: 'Marklist - Manage Later Things',
+    addType: 'auto'
   },
   {
     id: 6474505156,
-    name: "照片处理工具 - 公务员考试报名确认照片审核",
-    addType: "auto"
+    name: '照片处理工具 - 公务员考试报名确认照片审核',
+    addType: 'auto'
   },
   {
     id: 510620098,
-    name: "MediaInfo",
-    addType: "auto"
+    name: 'MediaInfo',
+    addType: 'auto'
   },
   {
     id: 432850619,
-    name: "FL Studio Mobile",
-    addType: "auto"
+    name: 'FL Studio Mobile',
+    addType: 'auto'
   },
   {
     id: 1642304143,
-    name: "SerialPort Debug Assistant Pro",
-    addType: "auto"
+    name: 'SerialPort Debug Assistant Pro',
+    addType: 'auto'
   },
   {
     id: 430798174,
-    name: "HazeOver • Distraction Dimmer™",
-    addType: "auto"
+    name: 'HazeOver • Distraction Dimmer™',
+    addType: 'auto'
   },
   {
     id: 457622435,
-    name: "Yoink - Better Drag and Drop",
-    addType: "auto"
+    name: 'Yoink - Better Drag and Drop',
+    addType: 'auto'
   },
   {
     id: 1606275031,
-    name: "Picture View: Image browser",
-    addType: "auto"
+    name: 'Picture View: Image browser',
+    addType: 'auto'
   },
   {
     id: 1555844307,
-    name: "MouseBoost Pro",
-    addType: "auto"
+    name: 'MouseBoost Pro',
+    addType: 'auto'
   },
   {
     id: 402380914,
-    name: "Eudic 欧路词典 增强版",
-    addType: "auto"
+    name: 'Eudic 欧路词典 增强版',
+    addType: 'auto'
   },
   {
     id: 6738715418,
-    name: "STEP and IGES File Viewer",
-    addType: "auto"
+    name: 'STEP and IGES File Viewer',
+    addType: 'auto'
   },
   {
     id: 977949232,
-    name: "Daygram : My Secret Diary",
-    addType: "auto"
+    name: 'Daygram : My Secret Diary',
+    addType: 'auto'
   },
   {
     id: 847259925,
-    name: "SnailSVN: SVN for Finder",
-    addType: "auto"
+    name: 'SnailSVN: SVN for Finder',
+    addType: 'auto'
   },
   {
     id: 389083586,
-    name: "MDict",
-    addType: "auto"
+    name: 'MDict',
+    addType: 'auto'
   },
   {
     id: 1516451072,
-    name: "Another Desktop Manager",
-    addType: "auto"
+    name: 'Another Desktop Manager',
+    addType: 'auto'
   },
   {
     id: 1482490089,
-    name: "Tampermonkey Classic",
-    addType: "auto"
+    name: 'Tampermonkey Classic',
+    addType: 'auto'
   },
   {
     id: 6502828594,
-    name: "Template for Adobe illustrator",
-    addType: "auto"
+    name: 'Template for Adobe illustrator',
+    addType: 'auto'
   },
   {
     id: 1622138166,
-    name: "Change Video Speed for Safari",
-    addType: "auto"
+    name: 'Change Video Speed for Safari',
+    addType: 'auto'
   },
   {
     id: 1058266292,
-    name: "妖股助手HD-优选短线强势股票",
-    addType: "auto"
+    name: '妖股助手HD-优选短线强势股票',
+    addType: 'auto'
   },
   {
     id: 1478540997,
-    name: "zClock - Clock & Countdown.",
-    addType: "auto"
+    name: 'zClock - Clock & Countdown.',
+    addType: 'auto'
   },
   {
     id: 1451273814,
-    name: "nPlayer",
-    addType: "auto"
+    name: 'nPlayer',
+    addType: 'auto'
   },
   {
     id: 1533946416,
-    name: "MyZip Pro-7z zip rar多线程极速压缩工具",
-    addType: "auto"
+    name: 'MyZip Pro-7z zip rar多线程极速压缩工具',
+    addType: 'auto'
   },
   {
     id: 476566660,
-    name: "Earth 3D",
-    addType: "auto"
+    name: 'Earth 3D',
+    addType: 'auto'
   },
   {
     id: 1325456420,
-    name: "Music Format Converter HQ",
-    addType: "auto"
+    name: 'Music Format Converter HQ',
+    addType: 'auto'
   },
   {
     id: 668609870,
-    name: "Rar Sharp",
-    addType: "auto"
+    name: 'Rar Sharp',
+    addType: 'auto'
   },
   {
     id: 1381028448,
-    name: "百读不厌 - 听书、看书神器",
-    addType: "auto"
+    name: '百读不厌 - 听书、看书神器',
+    addType: 'auto'
   },
   {
     id: 1269984974,
-    name: "Markdown - Enjoy writing",
-    addType: "auto"
+    name: 'Markdown - Enjoy writing',
+    addType: 'auto'
   },
   {
     id: 991247047,
-    name: "Flowchart Designer Premium",
-    addType: "auto"
+    name: 'Flowchart Designer Premium',
+    addType: 'auto'
   },
   {
     id: 689176796,
-    name: "Python Runner",
-    addType: "auto"
+    name: 'Python Runner',
+    addType: 'auto'
   },
   {
     id: 1265704574,
-    name: "Bandizip: Archiver",
-    addType: "auto"
+    name: 'Bandizip: Archiver',
+    addType: 'auto'
   },
   {
     id: 1199716810,
-    name: "五子棋打谱软件",
-    addType: "auto"
+    name: '五子棋打谱软件',
+    addType: 'auto'
   },
   {
     id: 1385628859,
-    name: "Highlighter for Safari",
-    addType: "auto"
+    name: 'Highlighter for Safari',
+    addType: 'auto'
   },
   {
     id: 1521805728,
-    name: "iVault - secure your files",
-    addType: "auto"
+    name: 'iVault - secure your files',
+    addType: 'auto'
   },
   {
     id: 1632395174,
-    name: "CleanMyMac X Multi-License",
-    addType: "auto"
+    name: 'CleanMyMac X Multi-License',
+    addType: 'auto'
   },
   {
     id: 775050502,
-    name: "American Sign Language",
-    addType: "auto"
+    name: 'American Sign Language',
+    addType: 'auto'
   },
   {
     id: 904280696,
-    name: "Things 3",
-    addType: "auto"
+    name: 'Things 3',
+    addType: 'auto'
   },
   {
     id: 1384206666,
-    name: "DemoPro - Screen Annotation",
-    addType: "auto"
+    name: 'DemoPro - Screen Annotation',
+    addType: 'auto'
   },
   {
     id: 464050545,
-    name: "Algodoo Physics",
-    addType: "auto"
+    name: 'Algodoo Physics',
+    addType: 'auto'
   },
   {
     id: 808501572,
-    name: "Backgrounds",
-    addType: "auto"
+    name: 'Backgrounds',
+    addType: 'auto'
   },
   {
     id: 1576064082,
-    name: "DeviceMirror -Screen Mirroring",
-    addType: "auto"
+    name: 'DeviceMirror -Screen Mirroring',
+    addType: 'auto'
   },
   {
     id: 6670793258,
-    name: "LaTeX Editor Pro",
-    addType: "auto"
+    name: 'LaTeX Editor Pro',
+    addType: 'auto'
   },
   {
     id: 6474615359,
-    name: "MathCapture - Equation Editor",
-    addType: "auto"
+    name: 'MathCapture - Equation Editor',
+    addType: 'auto'
   },
   {
     id: 1535623374,
-    name: "RenameBest: Rename in Batch",
-    addType: "auto"
+    name: 'RenameBest: Rename in Batch',
+    addType: 'auto'
   },
   {
     id: 1459663647,
-    name: "Virtual Location",
-    addType: "auto"
+    name: 'Virtual Location',
+    addType: 'auto'
   },
   {
     id: 1214761683,
-    name: "iWall-Dynamic Desktop Engine",
-    addType: "auto"
+    name: 'iWall-Dynamic Desktop Engine',
+    addType: 'auto'
   },
   {
     id: 796608673,
-    name: "Animal Typing",
-    addType: "auto"
+    name: 'Animal Typing',
+    addType: 'auto'
   },
   {
     id: 966457795,
-    name: "Super PhotoCut",
-    addType: "auto"
+    name: 'Super PhotoCut',
+    addType: 'auto'
   },
   {
     id: 1561303442,
-    name: "人生必读百本书",
-    addType: "auto"
+    name: '人生必读百本书',
+    addType: 'auto'
   },
   {
     id: 453164367,
-    name: "SystemPal",
-    addType: "auto"
+    name: 'SystemPal',
+    addType: 'auto'
   },
   {
     id: 1425997715,
-    name: "RAR Extractor Pro - Unzip",
-    addType: "auto"
+    name: 'RAR Extractor Pro - Unzip',
+    addType: 'auto'
   },
   {
     id: 431224317,
-    name: "Disk Drill Media Recovery",
-    addType: "auto"
+    name: 'Disk Drill Media Recovery',
+    addType: 'auto'
   },
   {
     id: 1415704056,
-    name: "The App Locker -Best Lock Apps",
-    addType: "auto"
+    name: 'The App Locker -Best Lock Apps',
+    addType: 'auto'
   },
   {
     id: 1204268874,
-    name: "Lyrics Editor",
-    addType: "auto"
+    name: 'Lyrics Editor',
+    addType: 'auto'
   },
   {
     id: 609649363,
-    name: "Earth 3D - World Atlas",
-    addType: "auto"
+    name: 'Earth 3D - World Atlas',
+    addType: 'auto'
   },
   {
     id: 1162194131,
-    name: "Easy New File",
-    addType: "auto"
+    name: 'Easy New File',
+    addType: 'auto'
   },
   {
     id: 6474506915,
-    name: "Sticker - Desktop Notepad",
-    addType: "auto"
+    name: 'Sticker - Desktop Notepad',
+    addType: 'auto'
   },
   {
     id: 1403919533,
-    name: "MWeb Pro",
-    addType: "auto"
+    name: 'MWeb Pro',
+    addType: 'auto'
   },
   {
     id: 6472813601,
-    name: "NinjaMouse - Your mouse master",
-    addType: "auto"
+    name: 'NinjaMouse - Your mouse master',
+    addType: 'auto'
   },
   {
     id: 775737590,
-    name: "iA Writer",
-    addType: "auto"
+    name: 'iA Writer',
+    addType: 'auto'
   },
   {
     id: 1028838684,
-    name: "Artpaper: New Wallpapers Daily",
-    addType: "auto"
+    name: 'Artpaper: New Wallpapers Daily',
+    addType: 'auto'
   },
   {
     id: 1102242042,
-    name: "Subtitler for fcpxml",
-    addType: "auto"
+    name: 'Subtitler for fcpxml',
+    addType: 'auto'
   },
   {
     id: 1445268016,
-    name: "Duplicate Cleaner",
-    addType: "auto"
+    name: 'Duplicate Cleaner',
+    addType: 'auto'
   },
   {
     id: 937759555,
-    name: "Elmedia:universal video player",
-    addType: "auto"
+    name: 'Elmedia:universal video player',
+    addType: 'auto'
   },
   {
     id: 1313164484,
-    name: "Distance and Area Measure",
-    addType: "auto"
+    name: 'Distance and Area Measure',
+    addType: 'auto'
   },
   {
     id: 1494552451,
-    name: "小说大全",
-    addType: "auto"
+    name: '小说大全',
+    addType: 'auto'
   },
   {
     id: 1273980573,
-    name: "Best Data Recovery",
-    addType: "auto"
+    name: 'Best Data Recovery',
+    addType: 'auto'
   },
   {
     id: 522706442,
-    name: "Sync Folders Pro",
-    addType: "auto"
+    name: 'Sync Folders Pro',
+    addType: 'auto'
   },
   {
     id: 6736433415,
-    name: "DICOM Viewer+",
-    addType: "auto"
+    name: 'DICOM Viewer+',
+    addType: 'auto'
   },
   {
     id: 1619982017,
-    name: "五笔拆字",
-    addType: "auto"
+    name: '五笔拆字',
+    addType: 'auto'
   },
   {
     id: 532441535,
-    name: "Presentation Prompter",
-    addType: "auto"
+    name: 'Presentation Prompter',
+    addType: 'auto'
   },
   {
     id: 1153435308,
-    name: "inddPreview",
-    addType: "auto"
+    name: 'inddPreview',
+    addType: 'auto'
   },
   {
     id: 417392270,
-    name: "MDB ACCDB Viewer",
-    addType: "auto"
+    name: 'MDB ACCDB Viewer',
+    addType: 'auto'
   },
   {
     id: 1475051844,
-    name: "Filmage Converter Pro-MKV,AVI",
-    addType: "auto"
+    name: 'Filmage Converter Pro-MKV,AVI',
+    addType: 'auto'
   },
   {
     id: 1441394270,
-    name: "Oka Unarchiver Pro - Unzip RAR",
-    addType: "auto"
+    name: 'Oka Unarchiver Pro - Unzip RAR',
+    addType: 'auto'
   },
   {
     id: 6711333801,
-    name: "Live Crypto Prices, Charts",
-    addType: "auto"
+    name: 'Live Crypto Prices, Charts',
+    addType: 'auto'
   },
   {
     id: 1447010168,
-    name: "Music Dictionary - Music Terms",
-    addType: "auto"
+    name: 'Music Dictionary - Music Terms',
+    addType: 'auto'
   },
   {
     id: 658182498,
-    name: "Address Book to CSV",
-    addType: "auto"
+    name: 'Address Book to CSV',
+    addType: 'auto'
   },
   {
     id: 6465744342,
-    name: "iBoot - StartupDisk shortcut",
-    addType: "auto"
+    name: 'iBoot - StartupDisk shortcut',
+    addType: 'auto'
   },
   {
     id: 1526912781,
-    name: "Rainbow Folder - Icon changer",
-    addType: "auto"
+    name: 'Rainbow Folder - Icon changer',
+    addType: 'auto'
   },
   {
     id: 584393206,
-    name: "Cardiograph",
-    addType: "auto"
+    name: 'Cardiograph',
+    addType: 'auto'
   },
   {
     id: 668331139,
-    name: "Backup Scheduler: Time Editor",
-    addType: "auto"
+    name: 'Backup Scheduler: Time Editor',
+    addType: 'auto'
   },
   {
     id: 1261004863,
-    name: "Data Recovery EX",
-    addType: "auto"
+    name: 'Data Recovery EX',
+    addType: 'auto'
   },
   {
     id: 6738346322,
-    name: "NaturalSpelling-自然拼读音标スペル",
-    addType: "auto"
+    name: 'NaturalSpelling-自然拼读音标スペル',
+    addType: 'auto'
   },
   {
     id: 1607691467,
-    name: "Auto Refresh Page",
-    addType: "auto"
+    name: 'Auto Refresh Page',
+    addType: 'auto'
   },
   {
     id: 6446939328,
-    name: "OmniZip Pro",
-    addType: "auto"
+    name: 'OmniZip Pro',
+    addType: 'auto'
   },
   {
     id: 877615577,
-    name: "Serial",
-    addType: "auto"
+    name: 'Serial',
+    addType: 'auto'
   },
   {
     id: 432850619,
-    name: "FL Studio Mobile",
-    addType: "auto"
+    name: 'FL Studio Mobile',
+    addType: 'auto'
   },
   {
     id: 1447010168,
-    name: "Music Dictionary - Music Terms",
-    addType: "auto"
+    name: 'Music Dictionary - Music Terms',
+    addType: 'auto'
   },
   {
     id: 1325456420,
-    name: "Music Format Converter HQ",
-    addType: "auto"
+    name: 'Music Format Converter HQ',
+    addType: 'auto'
   },
   {
     id: 514840980,
-    name: "Total Video Converter",
-    addType: "auto"
+    name: 'Total Video Converter',
+    addType: 'auto'
   },
   {
     id: 1643033301,
-    name: "MIDIRMX",
-    addType: "auto"
+    name: 'MIDIRMX',
+    addType: 'auto'
   },
   {
     id: 1584154464,
-    name: "MIDI Router",
-    addType: "auto"
+    name: 'MIDI Router',
+    addType: 'auto'
   },
   {
     id: 1204268874,
-    name: "Lyrics Editor",
-    addType: "auto"
+    name: 'Lyrics Editor',
+    addType: 'auto'
   },
   {
     id: 874418479,
-    name: "Audio Convert Factory",
-    addType: "auto"
+    name: 'Audio Convert Factory',
+    addType: 'auto'
   },
   {
     id: 963571828,
-    name: "Audio Merge & Split",
-    addType: "auto"
+    name: 'Audio Merge & Split',
+    addType: 'auto'
   },
   {
     id: 1178295426,
-    name: "Colibri",
-    addType: "auto"
+    name: 'Colibri',
+    addType: 'auto'
   },
   {
     id: 1532597159,
-    name: "Mp3tag",
-    addType: "auto"
+    name: 'Mp3tag',
+    addType: 'auto'
   },
   {
     id: 554883654,
-    name: "Metadatics",
-    addType: "auto"
+    name: 'Metadatics',
+    addType: 'auto'
   },
   {
     id: 1506457515,
-    name: "Stage Plot Maker X",
-    addType: "auto"
+    name: 'Stage Plot Maker X',
+    addType: 'auto'
   },
   {
     id: 1567204629,
-    name: "Ringtone Maker -Easy ringtone!",
-    addType: "auto"
+    name: 'Ringtone Maker -Easy ringtone!',
+    addType: 'auto'
   },
   {
     id: 963573437,
-    name: "Audio Convert、Merge & Split",
-    addType: "auto"
+    name: 'Audio Convert、Merge & Split',
+    addType: 'auto'
   },
   {
     id: 6458546013,
-    name: "HI-Player",
-    addType: "auto"
+    name: 'HI-Player',
+    addType: 'auto'
   },
   {
     id: 6443536652,
-    name: "Audio Convertor - M4A,FLAC,M4R",
-    addType: "auto"
+    name: 'Audio Convertor - M4A,FLAC,M4R',
+    addType: 'auto'
   },
   {
     id: 447726582,
-    name: "iAudioConverter",
-    addType: "auto"
+    name: 'iAudioConverter',
+    addType: 'auto'
   },
   {
     id: 808285143,
-    name: "myTuner Radio Pro",
-    addType: "auto"
+    name: 'myTuner Radio Pro',
+    addType: 'auto'
   },
   {
     id: 405537804,
-    name: "Sound Studio",
-    addType: "auto"
+    name: 'Sound Studio',
+    addType: 'auto'
   },
   {
     id: 1036029895,
-    name: "Music Convert-Audio Converter",
-    addType: "auto"
+    name: 'Music Convert-Audio Converter',
+    addType: 'auto'
   },
   {
     id: 492478362,
-    name: "MidiKey",
-    addType: "auto"
+    name: 'MidiKey',
+    addType: 'auto'
   },
   {
     id: 402437824,
-    name: "Ringer - Ringtone Maker",
-    addType: "auto"
+    name: 'Ringer - Ringtone Maker',
+    addType: 'auto'
   },
   {
     id: 1486434332,
-    name: "TextMusic - Music Notation",
-    addType: "auto"
+    name: 'TextMusic - Music Notation',
+    addType: 'auto'
   },
   {
     id: 797275229,
-    name: "AudioTunes - FLAC, APE, WMA Converter",
-    addType: "auto"
+    name: 'AudioTunes - FLAC, APE, WMA Converter',
+    addType: 'auto'
   },
   {
     id: 1062190398,
-    name: "Drummy - Ultimate Beat Maker",
-    addType: "auto"
+    name: 'Drummy - Ultimate Beat Maker',
+    addType: 'auto'
   },
   {
     id: 412675054,
-    name: "Tunesify",
-    addType: "auto"
+    name: 'Tunesify',
+    addType: 'auto'
   },
   {
     id: 468990782,
-    name: "Music Converter Pro",
-    addType: "auto"
+    name: 'Music Converter Pro',
+    addType: 'auto'
   },
   {
     id: 522349879,
-    name: "DM1 - The Drum Machine",
-    addType: "auto"
+    name: 'DM1 - The Drum Machine',
+    addType: 'auto'
   },
   {
     id: 1661522614,
-    name: "JianPu Editor",
-    addType: "auto"
+    name: 'JianPu Editor',
+    addType: 'auto'
   },
   {
     id: 1517312650,
-    name: "Notify for Spotify",
-    addType: "auto"
+    name: 'Notify for Spotify',
+    addType: 'auto'
   },
   {
     id: 455545700,
-    name: "BitPerfect",
-    addType: "auto"
+    name: 'BitPerfect',
+    addType: 'auto'
   },
   {
     id: 929166131,
-    name: "easyMusic",
-    addType: "auto"
+    name: 'easyMusic',
+    addType: 'auto'
   },
   {
     id: 991729082,
-    name: "Radio",
-    addType: "auto"
+    name: 'Radio',
+    addType: 'auto'
   },
   {
     id: 673906093,
-    name: "Audio Normalizer - Mp3 Gain",
-    addType: "auto"
+    name: 'Audio Normalizer - Mp3 Gain',
+    addType: 'auto'
   },
   {
     id: 1174330003,
-    name: "Fine Chromatic Tuner",
-    addType: "auto"
+    name: 'Fine Chromatic Tuner',
+    addType: 'auto'
   },
   {
     id: 1538268059,
-    name: "Metronome - Metronome Pro",
-    addType: "auto"
+    name: 'Metronome - Metronome Pro',
+    addType: 'auto'
   },
   {
     id: 984332192,
-    name: "Audio Edit Pro-Audio Editor",
-    addType: "auto"
+    name: 'Audio Edit Pro-Audio Editor',
+    addType: 'auto'
   },
   {
     id: 851766802,
-    name: "Super Midi Convert & Play",
-    addType: "auto"
+    name: 'Super Midi Convert & Play',
+    addType: 'auto'
   },
   {
     id: 660027017,
-    name: "Easy Audio Recorder",
-    addType: "auto"
+    name: 'Easy Audio Recorder',
+    addType: 'auto'
   },
   {
     id: 798738112,
-    name: "MetroGnome",
-    addType: "auto"
+    name: 'MetroGnome',
+    addType: 'auto'
   },
   {
     id: 975152825,
-    name: "Audio Edit Studio - Editor",
-    addType: "auto"
+    name: 'Audio Edit Studio - Editor',
+    addType: 'auto'
   },
   {
     id: 558317092,
-    name: "Meta — Music Tag Editor",
-    addType: "auto"
+    name: 'Meta — Music Tag Editor',
+    addType: 'auto'
   },
   {
     id: 813546051,
-    name: "Music Speed Changer",
-    addType: "auto"
+    name: 'Music Speed Changer',
+    addType: 'auto'
   },
   {
     id: 1489887480,
-    name: "Hearing: ear training. Piano.",
-    addType: "auto"
+    name: 'Hearing: ear training. Piano.',
+    addType: 'auto'
   },
   {
     id: 444696268,
-    name: "TunesArt",
-    addType: "auto"
+    name: 'TunesArt',
+    addType: 'auto'
   },
   {
     id: 972934780,
-    name: "Audio Convert-Music Converter",
-    addType: "auto"
+    name: 'Audio Convert-Music Converter',
+    addType: 'auto'
   },
   {
     id: 438292371,
-    name: "Amadeus Pro",
-    addType: "auto"
+    name: 'Amadeus Pro',
+    addType: 'auto'
   },
   {
     id: 568052099,
-    name: "AmpKit - guitar amp & effects",
-    addType: "auto"
+    name: 'AmpKit - guitar amp & effects',
+    addType: 'auto'
   },
   {
     id: 978234147,
-    name: "CD Burn Pro - Music CD",
-    addType: "auto"
+    name: 'CD Burn Pro - Music CD',
+    addType: 'auto'
   },
   {
     id: 910469258,
-    name: "Amazing Slow Downer",
-    addType: "auto"
+    name: 'Amazing Slow Downer',
+    addType: 'auto'
   },
   {
     id: 1468259834,
-    name: "miRack",
-    addType: "auto"
+    name: 'miRack',
+    addType: 'auto'
   },
   {
     id: 548947732,
-    name: "Guitar Jam Tracks - Scale Trainer & Practice Buddy",
-    addType: "auto"
+    name: 'Guitar Jam Tracks - Scale Trainer & Practice Buddy',
+    addType: 'auto'
   },
   {
     id: 940526959,
-    name: "insTuner - Chromatic Tuner for Guitar, Ukulele and String Instruments",
-    addType: "auto"
+    name: 'insTuner - Chromatic Tuner for Guitar, Ukulele and String Instruments',
+    addType: 'auto'
   },
   {
     id: 417725762,
-    name: "Cross DJ",
-    addType: "auto"
+    name: 'Cross DJ',
+    addType: 'auto'
   },
   {
     id: 1441635265,
-    name: "Easy MP3 Converter",
-    addType: "auto"
+    name: 'Easy MP3 Converter',
+    addType: 'auto'
   },
   {
     id: 1329435840,
-    name: "Guitar Gravitas: Total ed.",
-    addType: "auto"
+    name: 'Guitar Gravitas: Total ed.',
+    addType: 'auto'
   },
   {
     id: 1451247572,
-    name: "Solfa: learn musical notes",
-    addType: "auto"
+    name: 'Solfa: learn musical notes',
+    addType: 'auto'
   },
   {
     id: 633262839,
-    name: "Any FLAC Converter",
-    addType: "auto"
+    name: 'Any FLAC Converter',
+    addType: 'auto'
   },
   {
     id: 709019909,
-    name: "Flac to Any Pro",
-    addType: "auto"
+    name: 'Flac to Any Pro',
+    addType: 'auto'
   },
   {
     id: 678772226,
-    name: "Audio Cutter - Cut and Split Music Files",
-    addType: "auto"
+    name: 'Audio Cutter - Cut and Split Music Files',
+    addType: 'auto'
   },
   {
     id: 463687032,
-    name: "MP3-Converter",
-    addType: "auto"
+    name: 'MP3-Converter',
+    addType: 'auto'
   },
   {
     id: 1322360459,
-    name: "Drum Beats Metronome",
-    addType: "auto"
+    name: 'Drum Beats Metronome',
+    addType: 'auto'
   },
   {
     id: 416135376,
-    name: "Fidelia",
-    addType: "auto"
+    name: 'Fidelia',
+    addType: 'auto'
   },
   {
     id: 975790852,
-    name: "Audio Trim Split-Audio Editor",
-    addType: "auto"
+    name: 'Audio Trim Split-Audio Editor',
+    addType: 'auto'
   },
   {
     id: 425086676,
-    name: "Decibel",
-    addType: "auto"
+    name: 'Decibel',
+    addType: 'auto'
   },
   {
     id: 829431988,
-    name: "DSD Master",
-    addType: "auto"
+    name: 'DSD Master',
+    addType: 'auto'
   },
   {
     id: 1255792493,
-    name: "Guitar Tabs X",
-    addType: "auto"
+    name: 'Guitar Tabs X',
+    addType: 'auto'
   },
   {
     id: 1188564124,
-    name: "Master Class - Guides for Audacity",
-    addType: "auto"
+    name: 'Master Class - Guides for Audacity',
+    addType: 'auto'
   },
   {
     id: 1207009001,
-    name: "Tone Generator",
-    addType: "auto"
+    name: 'Tone Generator',
+    addType: 'auto'
   },
   {
     id: 1313982113,
-    name: "BPM Tap Tempo",
-    addType: "auto"
+    name: 'BPM Tap Tempo',
+    addType: 'auto'
   },
   {
     id: 1157672888,
-    name: "Tempomate",
-    addType: "auto"
+    name: 'Tempomate',
+    addType: 'auto'
   },
   {
     id: 1357379892,
-    name: "Menu Bar Controller for Sonos",
-    addType: "auto"
+    name: 'Menu Bar Controller for Sonos',
+    addType: 'auto'
   },
   {
     id: 594731639,
-    name: "Super MP3 Converter",
-    addType: "auto"
+    name: 'Super MP3 Converter',
+    addType: 'auto'
   },
   {
     id: 506232966,
-    name: "Tag",
-    addType: "auto"
+    name: 'Tag',
+    addType: 'auto'
   },
   {
     id: 562799291,
-    name: "Drum Beats+ (Rhythm Metronome, Loops & Grooves Machine)",
-    addType: "auto"
+    name: 'Drum Beats+ (Rhythm Metronome, Loops & Grooves Machine)',
+    addType: 'auto'
   },
   {
     id: 435040864,
-    name: "NoSleep",
-    addType: "auto"
+    name: 'NoSleep',
+    addType: 'auto'
   },
   {
     id: 1661929636,
-    name: "Staff Editor",
-    addType: "auto"
+    name: 'Staff Editor',
+    addType: 'auto'
   },
   {
     id: 832335884,
-    name: "Piano Notes Finder",
-    addType: "auto"
+    name: 'Piano Notes Finder',
+    addType: 'auto'
   },
   {
     id: 912509512,
-    name: "SignalSpy - Audio Oscilloscope, Frequency Spectrum Analyzer, and more",
-    addType: "auto"
+    name: 'SignalSpy - Audio Oscilloscope, Frequency Spectrum Analyzer, and more',
+    addType: 'auto'
   },
   {
     id: 498787769,
-    name: "General MIDI Player",
-    addType: "auto"
+    name: 'General MIDI Player',
+    addType: 'auto'
   },
   {
     id: 1464643583,
-    name: "Audio Voice Changer",
-    addType: "auto"
+    name: 'Audio Voice Changer',
+    addType: 'auto'
   },
   {
     id: 886882234,
-    name: "Tag Editor",
-    addType: "auto"
+    name: 'Tag Editor',
+    addType: 'auto'
   },
   {
     id: 698196505,
-    name: "Audio Converter Pro",
-    addType: "auto"
+    name: 'Audio Converter Pro',
+    addType: 'auto'
   },
   {
     id: 1126098076,
-    name: "Silenz",
-    addType: "auto"
+    name: 'Silenz',
+    addType: 'auto'
   },
   {
     id: 880764359,
-    name: "Export for iTunes",
-    addType: "auto"
+    name: 'Export for iTunes',
+    addType: 'auto'
   },
   {
     id: 1061524108,
-    name: "Muse: Music Player for YouTube",
-    addType: "auto"
+    name: 'Muse: Music Player for YouTube',
+    addType: 'auto'
   },
   {
     id: 915342927,
-    name: "NetRadio Italy",
-    addType: "auto"
+    name: 'NetRadio Italy',
+    addType: 'auto'
   },
   {
     id: 1048950608,
-    name: "Convert to Mp3 Pro - Converter",
-    addType: "auto"
+    name: 'Convert to Mp3 Pro - Converter',
+    addType: 'auto'
   },
   {
     id: 639386679,
-    name: "Vector 3 - Record & Edit Audio",
-    addType: "auto"
+    name: 'Vector 3 - Record & Edit Audio',
+    addType: 'auto'
   },
   {
     id: 432769658,
-    name: "TabView",
-    addType: "auto"
+    name: 'TabView',
+    addType: 'auto'
   },
   {
     id: 1136096513,
-    name: "MP3 Music Converter - Aisee",
-    addType: "auto"
+    name: 'MP3 Music Converter - Aisee',
+    addType: 'auto'
   },
   {
     id: 586172415,
-    name: "Tipard All Music Converter",
-    addType: "auto"
+    name: 'Tipard All Music Converter',
+    addType: 'auto'
   },
   {
     id: 571673359,
-    name: "Tray Player",
-    addType: "auto"
+    name: 'Tray Player',
+    addType: 'auto'
   },
   {
     id: 1021162460,
-    name: "Chords Compass",
-    addType: "auto"
+    name: 'Chords Compass',
+    addType: 'auto'
   },
   {
     id: 577400737,
-    name: "Easy Guitar Tuner",
-    addType: "auto"
+    name: 'Easy Guitar Tuner',
+    addType: 'auto'
   },
   {
     id: 409957696,
-    name: "MP3 Encoder",
-    addType: "auto"
+    name: 'MP3 Encoder',
+    addType: 'auto'
   },
   {
     id: 1423295407,
-    name: "Ampado PRO - Audio Player",
-    addType: "auto"
+    name: 'Ampado PRO - Audio Player',
+    addType: 'auto'
   },
   {
     id: 1259223205,
-    name: "TunesMechanic for iTunes",
-    addType: "auto"
+    name: 'TunesMechanic for iTunes',
+    addType: 'auto'
   },
   {
     id: 450527929,
-    name: "djay - DJ App & AI Mixer",
-    addType: "auto"
+    name: 'djay - DJ App & AI Mixer',
+    addType: 'auto'
   },
   {
     id: 1070455587,
-    name: "MP3 Converter - Audio Convert",
-    addType: "auto"
+    name: 'MP3 Converter - Audio Convert',
+    addType: 'auto'
   },
   {
     id: 1575723133,
-    name: "Audio Editor Ringtone Maker",
-    addType: "auto"
+    name: 'Audio Editor Ringtone Maker',
+    addType: 'auto'
   },
   {
     id: 1612790003,
-    name: "Audio Converter - One Click",
-    addType: "auto"
+    name: 'Audio Converter - One Click',
+    addType: 'auto'
   },
   {
     id: 1339124759,
-    name: "Audio Editor & Music Mixer",
-    addType: "auto"
+    name: 'Audio Editor & Music Mixer',
+    addType: 'auto'
   },
   {
     id: 461369673,
-    name: "VOX: MP3 & FLAC Music Player",
-    addType: "auto"
+    name: 'VOX: MP3 & FLAC Music Player',
+    addType: 'auto'
   },
   {
     id: 1496955576,
-    name: "SpeakerAmp:Booster & Equalizer",
-    addType: "auto"
+    name: 'SpeakerAmp:Booster & Equalizer',
+    addType: 'auto'
   },
   {
     id: 1171417699,
-    name: "Guitar Gravitas: Chords Scales",
-    addType: "auto"
+    name: 'Guitar Gravitas: Chords Scales',
+    addType: 'auto'
   },
   {
     id: 1594027432,
-    name: "Flacbox",
-    addType: "auto"
+    name: 'Flacbox',
+    addType: 'auto'
   },
   {
     id: 1057051963,
-    name: "Music Transfer for iTunes",
-    addType: "auto"
+    name: 'Music Transfer for iTunes',
+    addType: 'auto'
   },
   {
     id: 1027093462,
-    name: "Visual Cue FLAC DMX MP3 Player",
-    addType: "auto"
+    name: 'Visual Cue FLAC DMX MP3 Player',
+    addType: 'auto'
   },
   {
     id: 1594027661,
-    name: "Evertag",
-    addType: "auto"
+    name: 'Evertag',
+    addType: 'auto'
   },
   {
     id: 1058801458,
-    name: "Remixlive - Make Music & Beats",
-    addType: "auto"
+    name: 'Remixlive - Make Music & Beats',
+    addType: 'auto'
   },
   {
     id: 1233048948,
-    name: "Boom3D: Volume Booster and EQ",
-    addType: "auto"
+    name: 'Boom3D: Volume Booster and EQ',
+    addType: 'auto'
   },
   {
     id: 1492991594,
-    name: "EarMaster 7",
-    addType: "auto"
+    name: 'EarMaster 7',
+    addType: 'auto'
   },
   {
     id: 511170796,
-    name: "Music Tag Editor",
-    addType: "auto"
+    name: 'Music Tag Editor',
+    addType: 'auto'
   },
   {
     id: 984278082,
-    name: "Tag Editor Lite",
-    addType: "auto"
+    name: 'Tag Editor Lite',
+    addType: 'auto'
   },
   {
     id: 1482460738,
-    name: "LRC Editor",
-    addType: "auto"
+    name: 'LRC Editor',
+    addType: 'auto'
   },
   {
     id: 982124349,
-    name: "FLAC MP3 Converter",
-    addType: "auto"
+    name: 'FLAC MP3 Converter',
+    addType: 'auto'
   },
   {
     id: 1564384601,
-    name: "Evermusic",
-    addType: "auto"
+    name: 'Evermusic',
+    addType: 'auto'
   },
   {
     id: 1602757597,
-    name: "unMix: AI Vocal Remover",
-    addType: "auto"
+    name: 'unMix: AI Vocal Remover',
+    addType: 'auto'
   },
   {
     id: 446363299,
-    name: "n-Track Studio DAW",
-    addType: "auto"
+    name: 'n-Track Studio DAW',
+    addType: 'auto'
   },
   {
     id: 1527105121,
-    name: "Neural Mix Pro",
-    addType: "auto"
+    name: 'Neural Mix Pro',
+    addType: 'auto'
   },
   {
     id: 797590911,
-    name: "MIDI Score",
-    addType: "auto"
+    name: 'MIDI Score',
+    addType: 'auto'
   },
   {
     id: 1473448052,
-    name: "Piano Companion: Chords,Scales",
-    addType: "auto"
+    name: 'Piano Companion: Chords,Scales',
+    addType: 'auto'
   },
   {
     id: 970044455,
-    name: "WavePad Audio Editor",
-    addType: "auto"
+    name: 'WavePad Audio Editor',
+    addType: 'auto'
   },
   {
     id: 6670775367,
-    name: "LioMusic - Music Editor",
-    addType: "auto"
+    name: 'LioMusic - Music Editor',
+    addType: 'auto'
   },
   {
     id: 1437556716,
-    name: "Mapcasts - No Advertisement",
-    addType: "auto"
+    name: 'Mapcasts - No Advertisement',
+    addType: 'auto'
   },
   {
     id: 412198565,
-    name: "Burp And Fart Piano",
-    addType: "auto"
+    name: 'Burp And Fart Piano',
+    addType: 'auto'
   },
   {
     id: 733258444,
-    name: "MusicFans",
-    addType: "auto"
+    name: 'MusicFans',
+    addType: 'auto'
   },
   {
     id: 1049212349,
-    name: "Spectrum Analyzer: Sound Meter",
-    addType: "auto"
+    name: 'Spectrum Analyzer: Sound Meter',
+    addType: 'auto'
   },
   {
     id: 936243210,
-    name: "MiniPlay for Spotify & iTunes",
-    addType: "auto"
+    name: 'MiniPlay for Spotify & iTunes',
+    addType: 'auto'
   },
   {
     id: 444425546,
-    name: "BarTunes",
-    addType: "auto"
+    name: 'BarTunes',
+    addType: 'auto'
   },
   {
     id: 1128271725,
-    name: "Keyboard Keyboard",
-    addType: "auto"
+    name: 'Keyboard Keyboard',
+    addType: 'auto'
   },
   {
     id: 1483373320,
-    name: "Lyrics Production Editor",
-    addType: "auto"
+    name: 'Lyrics Production Editor',
+    addType: 'auto'
   },
   {
     id: 1005227156,
-    name: "future.dj pro - mix everything",
-    addType: "auto"
+    name: 'future.dj pro - mix everything',
+    addType: 'auto'
   },
   {
     id: 1229106549,
-    name: "Music Tag Editor Pro",
-    addType: "auto"
+    name: 'Music Tag Editor Pro',
+    addType: 'auto'
   },
   {
     id: 1446942851,
-    name: "radio NED+",
-    addType: "auto"
+    name: 'radio NED+',
+    addType: 'auto'
   },
   {
     id: 1550581532,
-    name: "Vythm VJ - Music Visualizer DJ",
-    addType: "auto"
+    name: 'Vythm VJ - Music Visualizer DJ',
+    addType: 'auto'
   },
   {
     id: 1550403011,
-    name: "iRightMouse Pro",
-    addType: "auto"
+    name: 'iRightMouse Pro',
+    addType: 'auto'
   },
   {
     id: 1611347086,
-    name: "iShot Pro-ScreenShot Recording",
-    addType: "auto"
+    name: 'iShot Pro-ScreenShot Recording',
+    addType: 'auto'
   },
   {
     id: 494500492,
-    name: "倒数日 · Days Matter for Desktop",
-    addType: "auto"
+    name: '倒数日 · Days Matter for Desktop',
+    addType: 'auto'
   },
   {
     id: 1469774098,
-    name: "QSpace",
-    addType: "auto"
+    name: 'QSpace',
+    addType: 'auto'
   },
   {
     id: 1567442612,
-    name: "Qmenu",
-    addType: "auto"
+    name: 'Qmenu',
+    addType: 'auto'
   },
   {
     id: 1544655904,
-    name: "OmniReader Pro - AI Reader",
-    addType: "auto"
+    name: 'OmniReader Pro - AI Reader',
+    addType: 'auto'
   },
   {
     id: 430798174,
-    name: "HazeOver • Distraction Dimmer™",
-    addType: "auto"
+    name: 'HazeOver • Distraction Dimmer™',
+    addType: 'auto'
   },
   {
     id: 1218171533,
-    name: "Marklist - Manage Later Things",
-    addType: "auto"
+    name: 'Marklist - Manage Later Things',
+    addType: 'auto'
   },
   {
     id: 1310686187,
-    name: "Scrivener 3",
-    addType: "auto"
+    name: 'Scrivener 3',
+    addType: 'auto'
   },
   {
     id: 1482490089,
-    name: "Tampermonkey Classic",
-    addType: "auto"
+    name: 'Tampermonkey Classic',
+    addType: 'auto'
   },
   {
     id: 1535623374,
-    name: "RenameBest: Rename in Batch",
-    addType: "auto"
+    name: 'RenameBest: Rename in Batch',
+    addType: 'auto'
   },
   {
     id: 1114272557,
-    name: "小历 - 小而美的日历",
-    addType: "auto"
+    name: '小历 - 小而美的日历',
+    addType: 'auto'
   },
   {
     id: 1340697163,
-    name: "Record It Pro-Screen Recorder",
-    addType: "auto"
+    name: 'Record It Pro-Screen Recorder',
+    addType: 'auto'
   },
   {
     id: 904280696,
-    name: "Things 3",
-    addType: "auto"
+    name: 'Things 3',
+    addType: 'auto'
   },
   {
     id: 1269984974,
-    name: "Markdown - Enjoy writing",
-    addType: "auto"
+    name: 'Markdown - Enjoy writing',
+    addType: 'auto'
   },
   {
     id: 876540291,
-    name: "Copy 'Em",
-    addType: "auto"
+    name: 'Copy Em',
+    addType: 'auto'
   },
   {
     id: 1384206666,
-    name: "DemoPro - Screen Annotation",
-    addType: "auto"
+    name: 'DemoPro - Screen Annotation',
+    addType: 'auto'
   },
   {
     id: 6670793258,
-    name: "LaTeX Editor Pro",
-    addType: "auto"
+    name: 'LaTeX Editor Pro',
+    addType: 'auto'
   },
   {
     id: 417375580,
-    name: "BetterSnapTool",
-    addType: "auto"
+    name: 'BetterSnapTool',
+    addType: 'auto'
   },
   {
     id: 1403919533,
-    name: "MWeb Pro",
-    addType: "auto"
+    name: 'MWeb Pro',
+    addType: 'auto'
   },
   {
     id: 775737590,
-    name: "iA Writer",
-    addType: "auto"
+    name: 'iA Writer',
+    addType: 'auto'
   },
   {
     id: 1313164484,
-    name: "Distance and Area Measure",
-    addType: "auto"
+    name: 'Distance and Area Measure',
+    addType: 'auto'
   },
   {
     id: 1607691467,
-    name: "Auto Refresh Page",
-    addType: "auto"
+    name: 'Auto Refresh Page',
+    addType: 'auto'
   },
   {
     id: 6446939328,
-    name: "OmniZip Pro",
-    addType: "auto"
+    name: 'OmniZip Pro',
+    addType: 'auto'
   },
   {
     id: 1541983985,
-    name: "Sketch 3D: Make 3D Easily",
-    addType: "auto"
+    name: 'Sketch 3D: Make 3D Easily',
+    addType: 'auto'
   },
   {
     id: 1639698270,
-    name: "CalibCat Display Gamma Control",
-    addType: "auto"
+    name: 'CalibCat Display Gamma Control',
+    addType: 'auto'
   },
   {
     id: 1528890965,
-    name: "TextSniper - OCR, Copy & Paste",
-    addType: "auto"
+    name: 'TextSniper - OCR, Copy & Paste',
+    addType: 'auto'
   },
   {
     id: 420212497,
-    name: "Byword",
-    addType: "auto"
+    name: 'Byword',
+    addType: 'auto'
   },
   {
     id: 725408432,
-    name: "PDF Professional Suite",
-    addType: "auto"
+    name: 'PDF Professional Suite',
+    addType: 'auto'
   },
   {
     id: 1441958036,
-    name: "SideNotes - Thoughts & Tasks",
-    addType: "auto"
+    name: 'SideNotes - Thoughts & Tasks',
+    addType: 'auto'
   },
   {
     id: 434808346,
-    name: "SimpleMind Pro",
-    addType: "auto"
+    name: 'SimpleMind Pro',
+    addType: 'auto'
   },
   {
     id: 407412840,
-    name: "DataGraph",
-    addType: "auto"
+    name: 'DataGraph',
+    addType: 'auto'
   },
   {
     id: 950512380,
-    name: "Notepad+ - Simple Document and Quick Note",
-    addType: "auto"
+    name: 'Notepad+ - Simple Document and Quick Note',
+    addType: 'auto'
   },
   {
     id: 1368905598,
-    name: "Screencast – Screen Recorder",
-    addType: "auto"
+    name: 'Screencast – Screen Recorder',
+    addType: 'auto'
   },
   {
     id: 1166066070,
-    name: "Bumpr",
-    addType: "auto"
+    name: 'Bumpr',
+    addType: 'auto'
   },
   {
     id: 6466263582,
-    name: "MouseXY",
-    addType: "auto"
+    name: 'MouseXY',
+    addType: 'auto'
   },
   {
     id: 6563146670,
-    name: "Miaotracer pro",
-    addType: "auto"
+    name: 'Miaotracer pro',
+    addType: 'auto'
   },
   {
     id: 866773894,
-    name: "Quiver - take better notes",
-    addType: "auto"
+    name: 'Quiver - take better notes',
+    addType: 'auto'
   },
   {
     id: 1414457383,
-    name: "ToMenu - New&Move File Quickly",
-    addType: "auto"
+    name: 'ToMenu - New&Move File Quickly',
+    addType: 'auto'
   },
   {
     id: 1105814268,
-    name: "Focus Timer：Focus mind on work",
-    addType: "auto"
+    name: 'Focus Timer：Focus mind on work',
+    addType: 'auto'
   },
   {
     id: 1156402585,
-    name: "Light Browser",
-    addType: "auto"
+    name: 'Light Browser',
+    addType: 'auto'
   },
   {
     id: 1519213509,
-    name: "iPreview - Powerful Quick Look",
-    addType: "auto"
+    name: 'iPreview - Powerful Quick Look',
+    addType: 'auto'
   },
   {
     id: 1472854234,
-    name: "Copy+ Manage clipboard history",
-    addType: "auto"
+    name: 'Copy+ Manage clipboard history',
+    addType: 'auto'
   },
   {
     id: 1488905707,
-    name: "Noteshelf - 2",
-    addType: "auto"
+    name: 'Noteshelf - 2',
+    addType: 'auto'
   },
   {
     id: 1505869474,
-    name: "Pro Mouse",
-    addType: "auto"
+    name: 'Pro Mouse',
+    addType: 'auto'
   },
   {
     id: 6738089759,
-    name: "Hide Mouse Cursor",
-    addType: "auto"
+    name: 'Hide Mouse Cursor',
+    addType: 'auto'
   },
   {
     id: 902351149,
-    name: "Zip Password Recovery",
-    addType: "auto"
+    name: 'Zip Password Recovery',
+    addType: 'auto'
   },
   {
     id: 6450966627,
-    name: "Final Draft 13",
-    addType: "auto"
+    name: 'Final Draft 13',
+    addType: 'auto'
   },
   {
     id: 1272114820,
-    name: "Lock Pro",
-    addType: "auto"
+    name: 'Lock Pro',
+    addType: 'auto'
   },
   {
     id: 1181766626,
-    name: "Adware Zap - Malware Cleaner",
-    addType: "auto"
+    name: 'Adware Zap - Malware Cleaner',
+    addType: 'auto'
   },
   {
     id: 1609752330,
-    name: "Surfingkeys",
-    addType: "auto"
+    name: 'Surfingkeys',
+    addType: 'auto'
   },
   {
     id: 796275163,
-    name: "Total Manager: Files Commander & Ftp Remote Client",
-    addType: "auto"
+    name: 'Total Manager: Files Commander & Ftp Remote Client',
+    addType: 'auto'
   },
   {
     id: 1277179284,
-    name: "FSNotes",
-    addType: "auto"
+    name: 'FSNotes',
+    addType: 'auto'
   },
   {
     id: 577085396,
-    name: "Unclutter",
-    addType: "auto"
+    name: 'Unclutter',
+    addType: 'auto'
   },
   {
     id: 468406330,
-    name: "WPXO",
-    addType: "auto"
+    name: 'WPXO',
+    addType: 'auto'
   },
   {
     id: 568020055,
-    name: "Scapple",
-    addType: "auto"
+    name: 'Scapple',
+    addType: 'auto'
   },
   {
     id: 990588172,
-    name: "Gestimer (Legacy)",
-    addType: "auto"
+    name: 'Gestimer (Legacy)',
+    addType: 'auto'
   },
   {
     id: 1185528129,
-    name: "Internet Translator Pro .",
-    addType: "auto"
+    name: 'Internet Translator Pro .',
+    addType: 'auto'
   },
   {
     id: 552664144,
-    name: "PDF Max Pro",
-    addType: "auto"
+    name: 'PDF Max Pro',
+    addType: 'auto'
   },
   {
     id: 632455315,
-    name: "Templates for Excel Pro",
-    addType: "auto"
+    name: 'Templates for Excel Pro',
+    addType: 'auto'
   },
   {
     id: 1143437985,
-    name: "GoodTask",
-    addType: "auto"
+    name: 'GoodTask',
+    addType: 'auto'
   },
   {
     id: 1459987506,
-    name: "Cleaner X - clear cache",
-    addType: "auto"
+    name: 'Cleaner X - clear cache',
+    addType: 'auto'
   },
   {
     id: 895264364,
-    name: "DjVu Reader Pro",
-    addType: "auto"
+    name: 'DjVu Reader Pro',
+    addType: 'auto'
   },
   {
     id: 686459498,
-    name: "PaperShip - Mendeley & Zotero",
-    addType: "auto"
+    name: 'PaperShip - Mendeley & Zotero',
+    addType: 'auto'
   },
   {
     id: 695406827,
-    name: "Dropzone 3",
-    addType: "auto"
+    name: 'Dropzone 3',
+    addType: 'auto'
   },
   {
     id: 702816521,
-    name: "Unibox",
-    addType: "auto"
+    name: 'Unibox',
+    addType: 'auto'
   },
   {
     id: 412347921,
-    name: "OmmWriter",
-    addType: "auto"
+    name: 'OmmWriter',
+    addType: 'auto'
   },
   {
     id: 1093111311,
-    name: "3D CAD Graphic Modeling Design",
-    addType: "auto"
+    name: '3D CAD Graphic Modeling Design',
+    addType: 'auto'
   },
   {
     id: 970502923,
-    name: "Typeeto: remote BT keyboard",
-    addType: "auto"
+    name: 'Typeeto: remote BT keyboard',
+    addType: 'auto'
   },
   {
     id: 493057152,
-    name: "DB-Text",
-    addType: "auto"
+    name: 'DB-Text',
+    addType: 'auto'
   },
   {
     id: 454347770,
-    name: "iCircuit",
-    addType: "auto"
+    name: 'iCircuit',
+    addType: 'auto'
   },
   {
     id: 1286489308,
-    name: "Flat Tomato",
-    addType: "auto"
+    name: 'Flat Tomato',
+    addType: 'auto'
   },
   {
     id: 477670270,
-    name: "2Do",
-    addType: "auto"
+    name: '2Do',
+    addType: 'auto'
   },
   {
     id: 1445040281,
-    name: "Translate for Safari",
-    addType: "auto"
+    name: 'Translate for Safari',
+    addType: 'auto'
   },
   {
     id: 524373870,
-    name: "Due — Reminders & Timers",
-    addType: "auto"
+    name: 'Due — Reminders & Timers',
+    addType: 'auto'
   },
   {
     id: 974929595,
-    name: "Notions",
-    addType: "auto"
+    name: 'Notions',
+    addType: 'auto'
   },
   {
     id: 1507246666,
-    name: "Presentify - Screen Annotation",
-    addType: "auto"
+    name: 'Presentify - Screen Annotation',
+    addType: 'auto'
   },
   {
     id: 686398447,
-    name: "Cheese Writer",
-    addType: "auto"
+    name: 'Cheese Writer',
+    addType: 'auto'
   },
   {
     id: 570384149,
-    name: "JPG to PDF Converter",
-    addType: "auto"
+    name: 'JPG to PDF Converter',
+    addType: 'auto'
   },
   {
     id: 418926501,
-    name: "Timer by Ten",
-    addType: "auto"
+    name: 'Timer by Ten',
+    addType: 'auto'
   },
   {
     id: 1489287299,
-    name: "PDF To Word Helper",
-    addType: "auto"
+    name: 'PDF To Word Helper',
+    addType: 'auto'
   },
   {
     id: 685953216,
-    name: "Instashare - Transfer files",
-    addType: "auto"
+    name: 'Instashare - Transfer files',
+    addType: 'auto'
   },
   {
     id: 995838410,
-    name: "Browser Ninja",
-    addType: "auto"
+    name: 'Browser Ninja',
+    addType: 'auto'
   },
   {
     id: 1482778901,
-    name: "Hungrymark",
-    addType: "auto"
+    name: 'Hungrymark',
+    addType: 'auto'
   },
   {
     id: 408975584,
-    name: "Todo",
-    addType: "auto"
+    name: 'Todo',
+    addType: 'auto'
   },
   {
     id: 1178801474,
-    name: "Translator & Voice Collection",
-    addType: "auto"
+    name: 'Translator & Voice Collection',
+    addType: 'auto'
   },
   {
     id: 1115551582,
-    name: "Doc Mate: for MS Office",
-    addType: "auto"
+    name: 'Doc Mate: for MS Office',
+    addType: 'auto'
   },
   {
     id: 566210419,
-    name: "PDF to Word +",
-    addType: "auto"
+    name: 'PDF to Word +',
+    addType: 'auto'
   },
   {
     id: 1088311275,
-    name: "Easy Guide For Microsoft Excel",
-    addType: "auto"
+    name: 'Easy Guide For Microsoft Excel',
+    addType: 'auto'
   },
   {
     id: 409222199,
-    name: "Cyberduck",
-    addType: "auto"
+    name: 'Cyberduck',
+    addType: 'auto'
   },
   {
     id: 890031187,
-    name: "Marked 2 - Markdown Preview",
-    addType: "auto"
+    name: 'Marked 2 - Markdown Preview',
+    addType: 'auto'
   },
   {
     id: 1175751480,
-    name: "Translate Now: Linguist",
-    addType: "auto"
+    name: 'Translate Now: Linguist',
+    addType: 'auto'
   },
   {
     id: 1448026988,
-    name: "Memo Board",
-    addType: "auto"
+    name: 'Memo Board',
+    addType: 'auto'
   },
   {
     id: 735128047,
-    name: "PDF Reader Pro: Edit & Convert",
-    addType: "auto"
+    name: 'PDF Reader Pro: Edit & Convert',
+    addType: 'auto'
   },
   {
     id: 1265723161,
-    name: "Podcast Soundboard",
-    addType: "auto"
+    name: 'Podcast Soundboard',
+    addType: 'auto'
   },
   {
     id: 1460795742,
-    name: "iNote -Sticky Notes &Countdown",
-    addType: "auto"
+    name: 'iNote -Sticky Notes &Countdown',
+    addType: 'auto'
   },
   {
     id: 778813618,
-    name: "Voice Memos+",
-    addType: "auto"
+    name: 'Voice Memos+',
+    addType: 'auto'
   },
   {
     id: 1128242453,
-    name: "Pro Translate - translator app",
-    addType: "auto"
+    name: 'Pro Translate - translator app',
+    addType: 'auto'
   },
   {
     id: 547166701,
-    name: "百度网盘",
-    addType: "auto"
+    name: '百度网盘',
+    addType: 'auto'
   },
   {
     id: 6741096204,
-    name: "Think AI: Ask Chatbot Anything",
-    addType: "auto"
+    name: 'Think AI: Ask Chatbot Anything',
+    addType: 'auto'
   },
   {
     id: 1327661892,
-    name: "Xmind: Mind Map",
-    addType: "auto"
+    name: 'Xmind: Mind Map',
+    addType: 'auto'
   },
   {
     id: 1570349123,
-    name: "Openly for Chrome and Firefox",
-    addType: "auto"
+    name: 'Openly for Chrome and Firefox',
+    addType: 'auto'
   },
   {
     id: 491854842,
-    name: "Youdao Translate",
-    addType: "auto"
+    name: 'Youdao Translate',
+    addType: 'auto'
   },
   {
     id: 1247341465,
-    name: "同花顺-股票炒股软件",
-    addType: "auto"
+    name: '同花顺-股票炒股软件',
+    addType: 'auto'
   },
   {
     id: 1484905765,
-    name: "Fast CAD Reader",
-    addType: "auto"
+    name: 'Fast CAD Reader',
+    addType: 'auto'
   },
   {
     id: 747648890,
-    name: "Telegram",
-    addType: "auto"
+    name: 'Telegram',
+    addType: 'auto'
   },
   {
     id: 6450939701,
-    name: "Chat One - AI Chat Box",
-    addType: "auto"
+    name: 'Chat One - AI Chat Box',
+    addType: 'auto'
   },
   {
     id: 1565629813,
-    name: "FastZip - RAR 7Z ZIP UnZip",
-    addType: "auto"
+    name: 'FastZip - RAR 7Z ZIP UnZip',
+    addType: 'auto'
   },
   {
     id: 1592987853,
-    name: "Screen Recorder by Omi",
-    addType: "auto"
+    name: 'Screen Recorder by Omi',
+    addType: 'auto'
   },
   {
     id: 1488071784,
-    name: "Wallpapers X - 4K Wallpaper",
-    addType: "auto"
+    name: 'Wallpapers X - 4K Wallpaper',
+    addType: 'auto'
   },
   {
     id: 1181028777,
-    name: "Flip Clock - digital widgets",
-    addType: "auto"
+    name: 'Flip Clock - digital widgets',
+    addType: 'auto'
   },
   {
     id: 1485844094,
-    name: "iShot-ScreenShot Recording OCR",
-    addType: "auto"
+    name: 'iShot-ScreenShot Recording OCR',
+    addType: 'auto'
   },
   {
     id: 6503169843,
-    name: "AI Chatbot : Ask AI Assistant",
-    addType: "auto"
+    name: 'AI Chatbot : Ask AI Assistant',
+    addType: 'auto'
   },
   {
     id: 1552826194,
-    name: "iWallpaper - Live Wallpaper",
-    addType: "auto"
+    name: 'iWallpaper - Live Wallpaper',
+    addType: 'auto'
   },
   {
     id: 6511220682,
-    name: "CleanMyApp - Uninstaller",
-    addType: "auto"
+    name: 'CleanMyApp - Uninstaller',
+    addType: 'auto'
   },
   {
     id: 966085870,
-    name: "TickTick:To-Do List, Calendar",
-    addType: "auto"
+    name: 'TickTick:To-Do List, Calendar',
+    addType: 'auto'
   },
   {
     id: 1144400433,
-    name: "东方财富经典版-股票开户证券炒股理财",
-    addType: "auto"
+    name: '东方财富经典版-股票开户证券炒股理财',
+    addType: 'auto'
   },
   {
     id: 1497428978,
-    name: "iRightMouse",
-    addType: "auto"
+    name: 'iRightMouse',
+    addType: 'auto'
   },
   {
     id: 886103288,
-    name: "虎牙直播HD-游戏互动直播平台",
-    addType: "auto"
+    name: '虎牙直播HD-游戏互动直播平台',
+    addType: 'auto'
   },
   {
     id: 1541571038,
-    name: "NTFS Read&Write -iBoysoft NTFS",
-    addType: "auto"
+    name: 'NTFS Read&Write -iBoysoft NTFS',
+    addType: 'auto'
   },
   {
     id: 1594288016,
-    name: "Wink: Video Enhancer & Editor",
-    addType: "auto"
+    name: 'Wink: Video Enhancer & Editor',
+    addType: 'auto'
   },
   {
     id: 1600668116,
-    name: "有道云笔记-笔记效率办公",
-    addType: "auto"
+    name: '有道云笔记-笔记效率办公',
+    addType: 'auto'
   },
   {
     id: 6443843900,
-    name: "iBar-Menubar icon control tool",
-    addType: "auto"
+    name: 'iBar-Menubar icon control tool',
+    addType: 'auto'
   },
   {
     id: 1442745175,
-    name: "快帆加速器-海外回国音乐视频加速器",
-    addType: "auto"
+    name: '快帆加速器-海外回国音乐视频加速器',
+    addType: 'auto'
   },
   {
     id: 1518518216,
-    name: "Paper - Live Wallpapers",
-    addType: "auto"
+    name: 'Paper - Live Wallpapers',
+    addType: 'auto'
   },
   {
     id: 1659622164,
-    name: "VidHub -Video Library & Player",
-    addType: "auto"
+    name: 'VidHub -Video Library & Player',
+    addType: 'auto'
   },
   {
     id: 1570563588,
-    name: "CalendarTask - Efficient life",
-    addType: "auto"
+    name: 'CalendarTask - Efficient life',
+    addType: 'auto'
   },
   {
     id: 734383760,
-    name: "每日英语听力 - 英语听力的最佳途径",
-    addType: "auto"
+    name: '每日英语听力 - 英语听力的最佳途径',
+    addType: 'auto'
   },
   {
     id: 1507782672,
-    name: "Pixea",
-    addType: "auto"
+    name: 'Pixea',
+    addType: 'auto'
   },
   {
     id: 1259223205,
-    name: "TunesMechanic for iTunes",
-    addType: "auto"
+    name: 'TunesMechanic for iTunes',
+    addType: 'auto'
   },
   {
     id: 1630034110,
-    name: "Bob - 翻译和 OCR 工具",
-    addType: "auto"
+    name: 'Bob - 翻译和 OCR 工具',
+    addType: 'auto'
   },
   {
     id: 1221250572,
-    name: "Xnip - Screenshot & Annotation",
-    addType: "auto"
+    name: 'Xnip - Screenshot & Annotation',
+    addType: 'auto'
   },
   {
     id: 1575178082,
-    name: "Max NTFS - NTFS Disk Helper",
-    addType: "auto"
+    name: 'Max NTFS - NTFS Disk Helper',
+    addType: 'auto'
   },
   {
     id: 1619925971,
-    name: "UPDF - PDF Editor with AI",
-    addType: "auto"
+    name: 'UPDF - PDF Editor with AI',
+    addType: 'auto'
   },
   {
     id: 1395152179,
-    name: "奇游加速器 - 全球游戏畅玩",
-    addType: "auto"
+    name: '奇游加速器 - 全球游戏畅玩',
+    addType: 'auto'
   },
   {
     id: 503039729,
-    name: "Fotor: AI Photo Editor, Design",
-    addType: "auto"
+    name: 'Fotor: AI Photo Editor, Design',
+    addType: 'auto'
   },
   {
     id: 1476545828,
-    name: "MacDroid - Manager for Android",
-    addType: "auto"
+    name: 'MacDroid - Manager for Android',
+    addType: 'auto'
   },
   {
     id: 6449164812,
-    name: "打字通 - 打字练习软件",
-    addType: "auto"
+    name: '打字通 - 打字练习软件',
+    addType: 'auto'
   },
   {
     id: 1536071582,
-    name: "Omni Converter - Video & Audio",
-    addType: "auto"
+    name: 'Omni Converter - Video & Audio',
+    addType: 'auto'
   },
   {
     id: 1456235760,
-    name: "Live Wallpaper - 4K UHD",
-    addType: "auto"
+    name: 'Live Wallpaper - 4K UHD',
+    addType: 'auto'
   },
   {
     id: 1599191594,
-    name: "iBoysoft MagicMenu",
-    addType: "auto"
+    name: 'iBoysoft MagicMenu',
+    addType: 'auto'
   },
   {
     id: 1665341561,
-    name: "flomo浮墨笔记 - AI 加持的便签备忘",
-    addType: "auto"
+    name: 'flomo浮墨笔记 - AI 加持的便签备忘',
+    addType: 'auto'
   },
   {
     id: 1133028347,
-    name: "Cleaner One Pro - Uninstaller",
-    addType: "auto"
+    name: 'Cleaner One Pro - Uninstaller',
+    addType: 'auto'
   },
   {
     id: 1514073011,
-    name: "QuickFox-海外回国加速器追剧听歌游戏留学生必备",
-    addType: "auto"
+    name: 'QuickFox-海外回国加速器追剧听歌游戏留学生必备',
+    addType: 'auto'
   },
   {
     id: 1345035954,
-    name: "穿梭Transocks-海外华人回国加速器",
-    addType: "auto"
+    name: '穿梭Transocks-海外华人回国加速器',
+    addType: 'auto'
   },
   {
     id: 1176074088,
-    name: "Termius — Modern SSH Client",
-    addType: "auto"
+    name: 'Termius — Modern SSH Client',
+    addType: 'auto'
   },
   {
     id: 1335335588,
-    name: "Final Video Player - MKV & MP4",
-    addType: "auto"
+    name: 'Final Video Player - MKV & MP4',
+    addType: 'auto'
   },
   {
     id: 1044549675,
-    name: "Elmedia Video Player",
-    addType: "auto"
+    name: 'Elmedia Video Player',
+    addType: 'auto'
   },
   {
     id: 1453504509,
-    name: "Dynamic Wallpaper Engine",
-    addType: "auto"
+    name: 'Dynamic Wallpaper Engine',
+    addType: 'auto'
   },
   {
     id: 1449438542,
-    name: "BestZip Pro - Unzip RAR&Zip&7z",
-    addType: "auto"
+    name: 'BestZip Pro - Unzip RAR&Zip&7z',
+    addType: 'auto'
   },
   {
     id: 470158793,
-    name: "Keka",
-    addType: "auto"
+    name: 'Keka',
+    addType: 'auto'
   },
   {
     id: 1550403011,
-    name: "iRightMouse Pro",
-    addType: "auto"
+    name: 'iRightMouse Pro',
+    addType: 'auto'
   },
   {
     id: 1611347086,
-    name: "iShot Pro-ScreenShot Recording",
-    addType: "auto"
+    name: 'iShot Pro-ScreenShot Recording',
+    addType: 'auto'
   },
   {
     id: 6737150304,
-    name: "iBar Pro-Menubar control tool",
-    addType: "auto"
+    name: 'iBar Pro-Menubar control tool',
+    addType: 'auto'
   },
   {
     id: 647505820,
-    name: "RAR Extractor - Unarchiver Pro",
-    addType: "auto"
+    name: 'RAR Extractor - Unarchiver Pro',
+    addType: 'auto'
   },
   {
     id: 6740171321,
-    name: "FastZipPro- RAR 7Z ZIP UnZip",
-    addType: "auto"
+    name: 'FastZipPro- RAR 7Z ZIP UnZip',
+    addType: 'auto'
   },
   {
     id: 6742392236,
-    name: "ClashX Pro :Service Monitoring",
-    addType: "auto"
+    name: 'ClashX Pro :Service Monitoring',
+    addType: 'auto'
   },
   {
     id: 1343182480,
-    name: "东方财富领先版-股票开户证券炒股理财",
-    addType: "auto"
+    name: '东方财富领先版-股票开户证券炒股理财',
+    addType: 'auto'
   },
   {
     id: 6741806831,
-    name: "ClashX Pro - Dashboard manager",
-    addType: "auto"
+    name: 'ClashX Pro - Dashboard manager',
+    addType: 'auto'
   },
   {
     id: 494500492,
-    name: "倒数日 · Days Matter for Desktop",
-    addType: "auto"
+    name: '倒数日 · Days Matter for Desktop',
+    addType: 'auto'
   },
   {
     id: 951718596,
-    name: "FoxCAD",
-    addType: "auto"
+    name: 'FoxCAD',
+    addType: 'auto'
   },
   {
     id: 1551531632,
-    name: "AutoSwitchInput Pro",
-    addType: "auto"
+    name: 'AutoSwitchInput Pro',
+    addType: 'auto'
   },
   {
     id: 6738742748,
-    name: "Puzzle Spider Solitaire.",
-    addType: "auto"
+    name: 'Puzzle Spider Solitaire.',
+    addType: 'auto'
   },
   {
     id: 1469774098,
-    name: "QSpace",
-    addType: "auto"
+    name: 'QSpace',
+    addType: 'auto'
   },
   {
     id: 1459028801,
-    name: "爱五笔 - 五笔编码拆字大全",
-    addType: "auto"
+    name: '爱五笔 - 五笔编码拆字大全',
+    addType: 'auto'
   },
   {
     id: 1567442612,
-    name: "Qmenu",
-    addType: "auto"
+    name: 'Qmenu',
+    addType: 'auto'
   },
   {
     id: 1544655904,
-    name: "OmniReader Pro - AI Reader",
-    addType: "auto"
+    name: 'OmniReader Pro - AI Reader',
+    addType: 'auto'
   },
   {
     id: 411643860,
-    name: "DaisyDisk",
-    addType: "auto"
+    name: 'DaisyDisk',
+    addType: 'auto'
   },
   {
     id: 1486274102,
-    name: "MPlayer X Pro",
-    addType: "auto"
+    name: 'MPlayer X Pro',
+    addType: 'auto'
   },
   {
     id: 461788075,
-    name: "Movist",
-    addType: "auto"
+    name: 'Movist',
+    addType: 'auto'
   },
   {
     id: 1218171533,
-    name: "Marklist - Manage Later Things",
-    addType: "auto"
+    name: 'Marklist - Manage Later Things',
+    addType: 'auto'
   },
   {
     id: 6474505156,
-    name: "照片处理工具 - 公务员考试报名确认照片审核",
-    addType: "auto"
+    name: '照片处理工具 - 公务员考试报名确认照片审核',
+    addType: 'auto'
   },
   {
     id: 510620098,
-    name: "MediaInfo",
-    addType: "auto"
+    name: 'MediaInfo',
+    addType: 'auto'
   },
   {
     id: 432850619,
-    name: "FL Studio Mobile",
-    addType: "auto"
+    name: 'FL Studio Mobile',
+    addType: 'auto'
   },
   {
     id: 1642304143,
-    name: "SerialPort Debug Assistant Pro",
-    addType: "auto"
+    name: 'SerialPort Debug Assistant Pro',
+    addType: 'auto'
   },
   {
     id: 430798174,
-    name: "HazeOver • Distraction Dimmer™",
-    addType: "auto"
+    name: 'HazeOver • Distraction Dimmer™',
+    addType: 'auto'
   },
   {
     id: 457622435,
-    name: "Yoink - Better Drag and Drop",
-    addType: "auto"
+    name: 'Yoink - Better Drag and Drop',
+    addType: 'auto'
   },
   {
     id: 1606275031,
-    name: "Picture View: Image browser",
-    addType: "auto"
+    name: 'Picture View: Image browser',
+    addType: 'auto'
   },
   {
     id: 1555844307,
-    name: "MouseBoost Pro",
-    addType: "auto"
+    name: 'MouseBoost Pro',
+    addType: 'auto'
   },
   {
     id: 402380914,
-    name: "Eudic 欧路词典 增强版",
-    addType: "auto"
+    name: 'Eudic 欧路词典 增强版',
+    addType: 'auto'
   },
   {
     id: 6738715418,
-    name: "STEP and IGES File Viewer",
-    addType: "auto"
+    name: 'STEP and IGES File Viewer',
+    addType: 'auto'
   },
   {
     id: 977949232,
-    name: "Daygram : My Secret Diary",
-    addType: "auto"
+    name: 'Daygram : My Secret Diary',
+    addType: 'auto'
   },
   {
     id: 847259925,
-    name: "SnailSVN: SVN for Finder",
-    addType: "auto"
+    name: 'SnailSVN: SVN for Finder',
+    addType: 'auto'
   },
   {
     id: 389083586,
-    name: "MDict",
-    addType: "auto"
+    name: 'MDict',
+    addType: 'auto'
   },
   {
     id: 1516451072,
-    name: "Another Desktop Manager",
-    addType: "auto"
+    name: 'Another Desktop Manager',
+    addType: 'auto'
   },
   {
     id: 1482490089,
-    name: "Tampermonkey Classic",
-    addType: "auto"
+    name: 'Tampermonkey Classic',
+    addType: 'auto'
   },
   {
     id: 6502828594,
-    name: "Template for Adobe illustrator",
-    addType: "auto"
+    name: 'Template for Adobe illustrator',
+    addType: 'auto'
   },
   {
     id: 1622138166,
-    name: "Change Video Speed for Safari",
-    addType: "auto"
+    name: 'Change Video Speed for Safari',
+    addType: 'auto'
   },
   {
     id: 1058266292,
-    name: "妖股助手HD-优选短线强势股票",
-    addType: "auto"
+    name: '妖股助手HD-优选短线强势股票',
+    addType: 'auto'
   },
   {
     id: 1478540997,
-    name: "zClock - Clock & Countdown.",
-    addType: "auto"
+    name: 'zClock - Clock & Countdown.',
+    addType: 'auto'
   },
   {
     id: 1451273814,
-    name: "nPlayer",
-    addType: "auto"
+    name: 'nPlayer',
+    addType: 'auto'
   },
   {
     id: 1533946416,
-    name: "MyZip Pro-7z zip rar多线程极速压缩工具",
-    addType: "auto"
+    name: 'MyZip Pro-7z zip rar多线程极速压缩工具',
+    addType: 'auto'
   },
   {
     id: 476566660,
-    name: "Earth 3D",
-    addType: "auto"
+    name: 'Earth 3D',
+    addType: 'auto'
   },
   {
     id: 1325456420,
-    name: "Music Format Converter HQ",
-    addType: "auto"
+    name: 'Music Format Converter HQ',
+    addType: 'auto'
   },
   {
     id: 668609870,
-    name: "Rar Sharp",
-    addType: "auto"
+    name: 'Rar Sharp',
+    addType: 'auto'
   },
   {
     id: 1381028448,
-    name: "百读不厌 - 听书、看书神器",
-    addType: "auto"
+    name: '百读不厌 - 听书、看书神器',
+    addType: 'auto'
   },
   {
     id: 1269984974,
-    name: "Markdown - Enjoy writing",
-    addType: "auto"
+    name: 'Markdown - Enjoy writing',
+    addType: 'auto'
   },
   {
     id: 991247047,
-    name: "Flowchart Designer Premium",
-    addType: "auto"
+    name: 'Flowchart Designer Premium',
+    addType: 'auto'
   },
   {
     id: 689176796,
-    name: "Python Runner",
-    addType: "auto"
+    name: 'Python Runner',
+    addType: 'auto'
   },
   {
     id: 1265704574,
-    name: "Bandizip: Archiver",
-    addType: "auto"
+    name: 'Bandizip: Archiver',
+    addType: 'auto'
   },
   {
     id: 1199716810,
-    name: "五子棋打谱软件",
-    addType: "auto"
+    name: '五子棋打谱软件',
+    addType: 'auto'
   },
   {
     id: 1385628859,
-    name: "Highlighter for Safari",
-    addType: "auto"
+    name: 'Highlighter for Safari',
+    addType: 'auto'
   },
   {
     id: 1521805728,
-    name: "iVault - secure your files",
-    addType: "auto"
+    name: 'iVault - secure your files',
+    addType: 'auto'
   },
   {
     id: 1632395174,
-    name: "CleanMyMac X Multi-License",
-    addType: "auto"
+    name: 'CleanMyMac X Multi-License',
+    addType: 'auto'
   },
   {
     id: 775050502,
-    name: "American Sign Language",
-    addType: "auto"
+    name: 'American Sign Language',
+    addType: 'auto'
   },
   {
     id: 904280696,
-    name: "Things 3",
-    addType: "auto"
+    name: 'Things 3',
+    addType: 'auto'
   },
   {
     id: 1384206666,
-    name: "DemoPro - Screen Annotation",
-    addType: "auto"
+    name: 'DemoPro - Screen Annotation',
+    addType: 'auto'
   },
   {
     id: 464050545,
-    name: "Algodoo Physics",
-    addType: "auto"
+    name: 'Algodoo Physics',
+    addType: 'auto'
   },
   {
     id: 808501572,
-    name: "Backgrounds",
-    addType: "auto"
+    name: 'Backgrounds',
+    addType: 'auto'
   },
   {
     id: 1576064082,
-    name: "DeviceMirror -Screen Mirroring",
-    addType: "auto"
+    name: 'DeviceMirror -Screen Mirroring',
+    addType: 'auto'
   },
   {
     id: 6670793258,
-    name: "LaTeX Editor Pro",
-    addType: "auto"
+    name: 'LaTeX Editor Pro',
+    addType: 'auto'
   },
   {
     id: 6474615359,
-    name: "MathCapture - Equation Editor",
-    addType: "auto"
+    name: 'MathCapture - Equation Editor',
+    addType: 'auto'
   },
   {
     id: 1535623374,
-    name: "RenameBest: Rename in Batch",
-    addType: "auto"
+    name: 'RenameBest: Rename in Batch',
+    addType: 'auto'
   },
   {
     id: 1459663647,
-    name: "Virtual Location",
-    addType: "auto"
+    name: 'Virtual Location',
+    addType: 'auto'
   },
   {
     id: 1214761683,
-    name: "iWall-Dynamic Desktop Engine",
-    addType: "auto"
+    name: 'iWall-Dynamic Desktop Engine',
+    addType: 'auto'
   },
   {
     id: 796608673,
-    name: "Animal Typing",
-    addType: "auto"
+    name: 'Animal Typing',
+    addType: 'auto'
   },
   {
     id: 966457795,
-    name: "Super PhotoCut",
-    addType: "auto"
+    name: 'Super PhotoCut',
+    addType: 'auto'
   },
   {
     id: 1561303442,
-    name: "人生必读百本书",
-    addType: "auto"
+    name: '人生必读百本书',
+    addType: 'auto'
   },
   {
     id: 453164367,
-    name: "SystemPal",
-    addType: "auto"
+    name: 'SystemPal',
+    addType: 'auto'
   },
   {
     id: 1425997715,
-    name: "RAR Extractor Pro - Unzip",
-    addType: "auto"
+    name: 'RAR Extractor Pro - Unzip',
+    addType: 'auto'
   },
   {
     id: 431224317,
-    name: "Disk Drill Media Recovery",
-    addType: "auto"
+    name: 'Disk Drill Media Recovery',
+    addType: 'auto'
   },
   {
     id: 1415704056,
-    name: "The App Locker -Best Lock Apps",
-    addType: "auto"
+    name: 'The App Locker -Best Lock Apps',
+    addType: 'auto'
   },
   {
     id: 1204268874,
-    name: "Lyrics Editor",
-    addType: "auto"
+    name: 'Lyrics Editor',
+    addType: 'auto'
   },
   {
     id: 609649363,
-    name: "Earth 3D - World Atlas",
-    addType: "auto"
+    name: 'Earth 3D - World Atlas',
+    addType: 'auto'
   },
   {
     id: 1162194131,
-    name: "Easy New File",
-    addType: "auto"
+    name: 'Easy New File',
+    addType: 'auto'
   },
   {
     id: 6474506915,
-    name: "Sticker - Desktop Notepad",
-    addType: "auto"
+    name: 'Sticker - Desktop Notepad',
+    addType: 'auto'
   },
   {
     id: 1403919533,
-    name: "MWeb Pro",
-    addType: "auto"
+    name: 'MWeb Pro',
+    addType: 'auto'
   },
   {
     id: 6472813601,
-    name: "NinjaMouse - Your mouse master",
-    addType: "auto"
+    name: 'NinjaMouse - Your mouse master',
+    addType: 'auto'
   },
   {
     id: 775737590,
-    name: "iA Writer",
-    addType: "auto"
+    name: 'iA Writer',
+    addType: 'auto'
   },
   {
     id: 1028838684,
-    name: "Artpaper: New Wallpapers Daily",
-    addType: "auto"
+    name: 'Artpaper: New Wallpapers Daily',
+    addType: 'auto'
   },
   {
     id: 1102242042,
-    name: "Subtitler for fcpxml",
-    addType: "auto"
+    name: 'Subtitler for fcpxml',
+    addType: 'auto'
   },
   {
     id: 1445268016,
-    name: "Duplicate Cleaner",
-    addType: "auto"
+    name: 'Duplicate Cleaner',
+    addType: 'auto'
   },
   {
     id: 937759555,
-    name: "Elmedia:universal video player",
-    addType: "auto"
+    name: 'Elmedia:universal video player',
+    addType: 'auto'
   },
   {
     id: 1313164484,
-    name: "Distance and Area Measure",
-    addType: "auto"
+    name: 'Distance and Area Measure',
+    addType: 'auto'
   },
   {
     id: 1494552451,
-    name: "小说大全",
-    addType: "auto"
+    name: '小说大全',
+    addType: 'auto'
   },
   {
     id: 1273980573,
-    name: "Best Data Recovery",
-    addType: "auto"
+    name: 'Best Data Recovery',
+    addType: 'auto'
   },
   {
     id: 522706442,
-    name: "Sync Folders Pro",
-    addType: "auto"
+    name: 'Sync Folders Pro',
+    addType: 'auto'
   },
   {
     id: 6736433415,
-    name: "DICOM Viewer+",
-    addType: "auto"
+    name: 'DICOM Viewer+',
+    addType: 'auto'
   },
   {
     id: 1619982017,
-    name: "五笔拆字",
-    addType: "auto"
+    name: '五笔拆字',
+    addType: 'auto'
   },
   {
     id: 532441535,
-    name: "Presentation Prompter",
-    addType: "auto"
+    name: 'Presentation Prompter',
+    addType: 'auto'
   },
   {
     id: 1153435308,
-    name: "inddPreview",
-    addType: "auto"
+    name: 'inddPreview',
+    addType: 'auto'
   },
   {
     id: 417392270,
-    name: "MDB ACCDB Viewer",
-    addType: "auto"
+    name: 'MDB ACCDB Viewer',
+    addType: 'auto'
   },
   {
     id: 1475051844,
-    name: "Filmage Converter Pro-MKV,AVI",
-    addType: "auto"
+    name: 'Filmage Converter Pro-MKV,AVI',
+    addType: 'auto'
   },
   {
     id: 1441394270,
-    name: "Oka Unarchiver Pro - Unzip RAR",
-    addType: "auto"
+    name: 'Oka Unarchiver Pro - Unzip RAR',
+    addType: 'auto'
   },
   {
     id: 6711333801,
-    name: "Live Crypto Prices, Charts",
-    addType: "auto"
+    name: 'Live Crypto Prices, Charts',
+    addType: 'auto'
   },
   {
     id: 1447010168,
-    name: "Music Dictionary - Music Terms",
-    addType: "auto"
+    name: 'Music Dictionary - Music Terms',
+    addType: 'auto'
   },
   {
     id: 658182498,
-    name: "Address Book to CSV",
-    addType: "auto"
+    name: 'Address Book to CSV',
+    addType: 'auto'
   },
   {
     id: 6465744342,
-    name: "iBoot - StartupDisk shortcut",
-    addType: "auto"
+    name: 'iBoot - StartupDisk shortcut',
+    addType: 'auto'
   },
   {
     id: 1526912781,
-    name: "Rainbow Folder - Icon changer",
-    addType: "auto"
+    name: 'Rainbow Folder - Icon changer',
+    addType: 'auto'
   },
   {
     id: 584393206,
-    name: "Cardiograph",
-    addType: "auto"
+    name: 'Cardiograph',
+    addType: 'auto'
   },
   {
     id: 668331139,
-    name: "Backup Scheduler: Time Editor",
-    addType: "auto"
+    name: 'Backup Scheduler: Time Editor',
+    addType: 'auto'
   },
   {
     id: 1261004863,
-    name: "Data Recovery EX",
-    addType: "auto"
+    name: 'Data Recovery EX',
+    addType: 'auto'
   },
   {
     id: 6738346322,
-    name: "NaturalSpelling-自然拼读音标スペル",
-    addType: "auto"
+    name: 'NaturalSpelling-自然拼读音标スペル',
+    addType: 'auto'
   },
   {
     id: 1607691467,
-    name: "Auto Refresh Page",
-    addType: "auto"
+    name: 'Auto Refresh Page',
+    addType: 'auto'
   },
   {
     id: 6446939328,
-    name: "OmniZip Pro",
-    addType: "auto"
+    name: 'OmniZip Pro',
+    addType: 'auto'
   },
   {
     id: 877615577,
-    name: "Serial",
-    addType: "auto"
+    name: 'Serial',
+    addType: 'auto'
   },
   {
     id: 1448326351,
