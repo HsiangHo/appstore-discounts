@@ -8750,7 +8750,16 @@
       "Editor Pro - Monthly Plan.cn": "¥58.00",
       "Pro discount - Monthly Plan": "¥58.00",
       "FotorPro+ - Annual Plan": "¥578.00",
-      "Pro discount - Annual Plan": "¥298.00"
+      "Pro discount - Annual Plan": "¥298.00",
+      "Fotor Pro Annual Special Offer": "¥238.00",
+      "Fotor Pro - Recommend Offer": "¥328.00",
+      "Fotor Pro - Special Offer": "¥298.00",
+      "avatar rich package 80": "¥148.00",
+      "avatar rich package 40": "¥98.00",
+      "avatar normal package 80": "¥88.00",
+      "avatar rich package 20": "¥68.00",
+      "avatar normal package 40": "¥52.00",
+      "avatar normal package 20": "¥32.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -8764,10 +8773,36 @@
       "Editor Pro - Monthly Plan.cn": "¥58.00",
       "Pro discount - Monthly Plan": "¥58.00",
       "FotorPro+ - Annual Plan": "¥578.00",
-      "Pro discount - Annual Plan": "¥298.00"
+      "Pro discount - Annual Plan": "¥298.00",
+      "Fotor Pro Annual Special Offer": "¥238.00",
+      "Fotor Pro - Recommend Offer": "¥328.00",
+      "Fotor Pro - Special Offer": "¥298.00",
+      "avatar rich package 80": "¥148.00",
+      "avatar rich package 40": "¥98.00",
+      "avatar normal package 80": "¥88.00",
+      "avatar rich package 20": "¥68.00",
+      "avatar normal package 40": "¥52.00",
+      "avatar normal package 20": "¥32.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1748204278884,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Fotor Pro Annual Special Offer": "¥238.00",
+            "Fotor Pro - Recommend Offer": "¥328.00",
+            "Fotor Pro - Special Offer": "¥298.00",
+            "avatar rich package 80": "¥148.00",
+            "avatar rich package 40": "¥98.00",
+            "avatar normal package 80": "¥88.00",
+            "avatar rich package 20": "¥68.00",
+            "avatar normal package 40": "¥52.00",
+            "avatar normal package 20": "¥32.00",
+            "Pro - Annual Plan.cn.2024": "¥298.00"
+          }
+        },
         {
           "timestamp": 1748191896014,
           "price": 0,
