@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1406710800,
+    name: {
+      us: 'Stardew Valley',
+    },
+    addType: 'auto',
+  },
+  {
     id: 294934058,
     name: {
       us: 'HotSchedules',
