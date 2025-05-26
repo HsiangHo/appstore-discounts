@@ -58,6 +58,13 @@
       "price": 5,
       "inAppPurchase": {}
     },
+    "1339124759": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "月度会员": 1
+      }
+    },
     "1344655035": {
       "all": 1,
       "price": 0,
