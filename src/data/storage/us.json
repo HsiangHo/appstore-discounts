@@ -62517,6 +62517,20 @@
     "history": [
       [
         {
+          "timestamp": 1748229310744,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "一个月会员": "$0.99",
+            "新1年会员": "$5.99",
+            "三个月会员": "$2.99",
+            "一年会员": "$7.99",
+            "5张壁纸券": "$3.99",
+            "1张壁纸券": "$0.99",
+            "20张壁纸券": "$7.99"
+          }
+        },
+        {
           "timestamp": 1748222766980,
           "price": 0,
           "formattedPrice": "Free",
@@ -77702,10 +77716,18 @@
       "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 0.99,
+      "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748229310744,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -83146,8 +83168,8 @@
   "6739523960": {
     "name": "Allow Right Click for Safari",
     "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "Free"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -83155,6 +83177,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748229310744,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1748191896014,
           "price": 0,
@@ -83761,8 +83789,8 @@
   "6738715418": {
     "name": "STEP and IGES File Viewer",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 12.99,
+      "formattedPrice": "$12.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -83770,6 +83798,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748229310744,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1748191896014,
           "price": 0.99,
@@ -84024,8 +84058,8 @@
   "6738089759": {
     "name": "Hide Mouse Cursor",
     "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "Free"
+      "price": 0.99,
+      "formattedPrice": "$0.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -84033,6 +84067,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748229310744,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1748191896014,
           "price": 0,

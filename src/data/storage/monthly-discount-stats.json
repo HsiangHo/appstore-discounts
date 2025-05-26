@@ -13,6 +13,13 @@
         "DVSA Driving essential skills": 1
       }
     },
+    "491854842": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "有道词典超级会员": 1
+      }
+    },
     "510249014": {
       "all": 1,
       "price": 1,
@@ -874,6 +881,11 @@
       "inAppPurchase": {}
     },
     "6466296603": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6740349666": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
