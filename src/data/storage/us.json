@@ -10429,7 +10429,8 @@
       "50万字符加量包": "$3.99",
       "6充值币": "$0.99",
       "10万字符加量包": "$0.99",
-      "30充值币": "$3.99"
+      "30充值币": "$3.99",
+      "有道词典超级会员1年": "$59.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -10440,9 +10441,26 @@
       "50万字符加量包": "$3.99",
       "6充值币": "$0.99",
       "10万字符加量包": "$0.99",
-      "30充值币": "$3.99"
+      "30充值币": "$3.99",
+      "有道词典超级会员1年": "$59.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748266075020,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "有道词典会员连续包月": "$3.99",
+            "有道词典超级会员": "$14.99",
+            "有道词典超级会员1个月": "$5.99",
+            "50万字符加量包": "$3.99",
+            "6充值币": "$0.99",
+            "10万字符加量包": "$0.99",
+            "有道词典超级会员1年": "$59.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -10731,7 +10749,8 @@
       "Pro discount - Annual Plan": "$47.99",
       "Fotor Pro - Recommend Offer": "$47.99",
       "avatar rich package 20": "$9.99",
-      "Editor Pro - Monthly Plan.cn": "$8.99"
+      "Editor Pro - Monthly Plan.cn": "$8.99",
+      "Pro - Annual Plan.cn.2024": "$47.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -10745,9 +10764,29 @@
       "Pro discount - Annual Plan": "$47.99",
       "Fotor Pro - Recommend Offer": "$47.99",
       "avatar rich package 20": "$9.99",
-      "Editor Pro - Monthly Plan.cn": "$8.99"
+      "Editor Pro - Monthly Plan.cn": "$8.99",
+      "Pro - Annual Plan.cn.2024": "$47.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748266075020,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Editor Pro - Annual Plan": "$47.99",
+            "Editor Pro - Monthly Plan": "$8.99",
+            "Editor Pro - Annual Plan.2024": "$47.99",
+            "FotorPro+ - Monthly Plan": "$19.99",
+            "Pro discount - Monthly Plan": "$8.99",
+            "FotorPro+ - Annual Plan": "$89.99",
+            "Pro discount - Annual Plan": "$47.99",
+            "Fotor Pro - Recommend Offer": "$47.99",
+            "Pro - Annual Plan.cn.2024": "$47.99",
+            "Editor Pro - Monthly Plan.cn": "$8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
