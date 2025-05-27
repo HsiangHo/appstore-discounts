@@ -5745,6 +5745,25 @@
     "history": [
       [
         {
+          "timestamp": 1748319844810,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Synth Lead": "$1.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Synth Plucks": "$1.99",
+            "Groove Machine Synth": "$0.00",
+            "Transistor Bass": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747725460059,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -19705,7 +19724,8 @@
       "750 Telegram Stars": "$14.99",
       "1500 Telegram Stars": "$29.99",
       "2500 Telegram Stars": "$50.90",
-      "350 Telegram Stars": "$7.09"
+      "350 Telegram Stars": "$7.09",
+      "100 Telegram Stars": "$1.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -19727,9 +19747,29 @@
       "750 Telegram Stars": "$14.99",
       "1500 Telegram Stars": "$29.99",
       "2500 Telegram Stars": "$50.90",
-      "350 Telegram Stars": "$7.09"
+      "350 Telegram Stars": "$7.09",
+      "100 Telegram Stars": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748319844810,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Telegram Premium": "$4.99",
+            "250 Telegram Stars": "$5.09",
+            "500 Telegram Stars": "$9.99",
+            "Telegram Premium Annual": "$34.99",
+            "1x Premium (3 Months)": "$14.99",
+            "75 Telegram Stars": "$1.59",
+            "1000 Telegram Stars": "$19.99",
+            "Telegram Premium (3-Month)": "$14.99",
+            "1x Premium (1 Year)": "$35.99",
+            "100 Telegram Stars": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748204278884,
