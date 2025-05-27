@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-05-27T03:15:02.769Z</updated>
+    <updated>2025-05-27T15:25:03.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-27T03:15:02.770Z</updated>
+        <updated>2025-05-27T15:25:03.756Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 27 May 2025 03:15:02 GMT</id>
+        <id>rankingusTue, 27 May 2025 15:25:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-27T03:15:02.770Z</updated>
+        <updated>2025-05-27T15:25:03.756Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -413,6 +413,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>16</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1068435535">Antivirus One - Virus Cleaner</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Upgrade to Pro</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>17</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1118115766">Bloons TD 6</a>
       </td>
       <td>
@@ -427,7 +450,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1230231705">The Witness</a>
@@ -444,7 +467,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1248033433">Kingdom Rush Vengeance TD Game</a>
@@ -479,7 +502,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1291429551">60 Parsecs!</a>
@@ -496,7 +519,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1389752090">Dead Cells</a>
@@ -513,7 +536,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -530,7 +553,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1435461053">This Is the Police</a>
@@ -547,7 +570,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1439262206">Root Board Game</a>
@@ -576,7 +599,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1439881811">RadarOmega</a>
@@ -599,7 +622,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1449020025">不玩手机-自律习惯养成记</a>
@@ -616,7 +639,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1453318714">Vostok — Story Maker</a>
@@ -633,7 +656,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1474716211">60 Seconds! Reatomized</a>
@@ -650,7 +673,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1481181827">Aces of the Luftwaffe Squadron</a>
@@ -667,7 +690,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1497120981">LUCH: Photo Effects & Filters</a>
@@ -684,7 +707,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1512751689">The Game of Life 2</a>
@@ -707,7 +730,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1538124245">where I put it</a>
@@ -724,7 +747,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1567658979">SkySafari 7 Pro</a>
@@ -741,7 +764,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
@@ -758,7 +781,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
@@ -781,7 +804,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1620883955">Little Nightmares</a>
@@ -798,7 +821,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1642733080">DungeonSquad</a>
@@ -815,7 +838,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -832,7 +855,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6479307181">Ghostly Detector</a>
@@ -849,7 +872,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6737987084">CatLight Pro: Selfie Light Cam</a>
@@ -866,7 +889,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6451376191">Dumb Phone: Minimal Launcher</a>
@@ -883,7 +906,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6446178861">PlayNav - No ads in videos!</a>
@@ -900,7 +923,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6449251957">Motorsport Manager 4</a>
@@ -917,7 +940,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6505058041">QUAKELINE</a>
@@ -934,7 +957,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -951,7 +974,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6458144503">Skul: The Hero Slayer</a>
@@ -968,7 +991,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6471947612">召喚騎士團</a>
@@ -985,7 +1008,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6743459503">逐鹿</a>
@@ -1002,7 +1025,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6466296603">The Last Game</a>
@@ -1019,7 +1042,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6740349666">Backyard Baseball '97</a>
@@ -1045,6 +1068,75 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antivirus One - Virus Cleaner]]></title>
+        <id>Antivirus One - Virus Cleaner-us-1748359183604</id>
+        <link href="https://apps.apple.com/us/app/antivirus-one-virus-cleaner/id1068435535?mt=12&amp;uo=4"/>
+        <updated>2025-05-27T15:19:43.604Z</updated>
+        <summary type="html"><![CDATA[Upgrade to Pro: $19.99 → $2.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/antivirus-one-virus-cleaner/id1068435535?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/45/8a/f2458a80-bd15-2169-91f1-f74706cc7c84/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Upgrade to Pro：</strong><span>$19.99</span> → <b>
+  <strong>$2.99</strong>
+</b><span>[$2.99 ~ $19.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Keep your digital wallets and keychains safe with Antivirus One, your personal cyber security expert.
+
+Antivirus One offers live antivirus monitoring to protect your Mac from adware, ransomware, spyware and all kinds of malware attacks.
+
+Download now and say goodbye to pop-up scams, spyware and viruses! 
+ 
+Developed exclusively by the world’s largest antivirus and spyware active monitoring lab at Trend Micro. Secure your Mac with these powerful Antivirus One protection features:
+
+1. Real Time Detection
+Live malware detector on the go. Protect your Mac against all threats 24/7.
+
+2. Virus Scanner
+Quick scan, deep scan or customize scan locations to safeguard every part of your disk.
+
+3. Virus Cleaner (In-App Purchase required)
+Automatically remove viruses completely for the security of your system and privacy.
+
+4. Adware Cleaner
+Get rid of pop-ups, adware, and browser hijackers so you can browse at peace.
+
+5. Privacy Cleaner
+Customize your online transparency. Turn invisible without leaving a trace in your browser.
+
+6. Safe Search
+Flag safety ratings of every Google search result.
+
+7. Web Threat Protection
+Prevents users from visiting phishing websites.
+
+We highly recommend full disk scanning using Antivirus One on a regular basis to keep your Mac safe from security threats.
+
+We offer two auto-renewing subscription options:
+— Monthly: as low as $2.99
+— Yearly: as low as $19.99
+Price may vary by location.
+ 
+Subscriptions will auto-renew unless canceled.
+— Payment will be charged to iTunes Account at confirmation of purchase
+— Subscription may be managed by the user and auto-renewal may be turned off by going to the user’s Account Setting after purchase.
+— No cancellation of the current subscription is allowed during active subscription period.
+— Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+— Your account will be charged for renewal for the amount of your current subscription within 24-hours prior to the end of the current period. All cost for subscriptions are mentioned above.
+
+We value your feedback, it helps us to improve Antivirus One to better serve you! Please send us your comments or suggestions in the App Store or by the feedback page inside Antivirus One.
+ 
+Privacy Policy and Terms of Use
+http://gr.trendmicro.com/GREntry/NonPayment?Target=AntivirusOne&OS=&SP=&PID=DS10&FunID=PrivacyPolicy&VID=&Locale=EN-US
+http://gr.trendmicro.com/GREntry/NonPayment?Target=AntivirusOne&OS=&SP=&PID=DS10&FunID=LicenseAgreement&VID=&Locale=EN-US
+
+Contact support: mac_support@trendmicro.com
+
+Please be advised that this app is only offered in English in this country.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fe/66/ea/fe66ea73-00d5-e896-118b-e100975d701c/fef617ed-c9c5-4cf8-beb9-55212d0e43ca_EN_01.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d4/ec/e2/d4ece2dc-3764-6337-30f1-89cadd295fe2/1f53872e-eed6-47e1-b2a6-4a880e357f55_EN_02.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b3/f0/b7/b3f0b750-dee9-2742-5ec1-0a4c5a20002d/5c5da793-a7b4-40c0-a269-1fc17bc7cbf8_EN_03.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/07/fb/f5/07fbf5f9-af25-59c4-7a9c-cae83e97535d/fa392ba7-3ace-4575-ac2f-b41374dc693c_EN_04.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/38/d3/bd/38d3bd34-bf58-986e-54bc-8856c02e2159/7085872b-3c40-4e66-bde9-26f41e215f1e_EN_05.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audio Normalizer - Mp3 Gain]]></title>
@@ -1210,172 +1302,5 @@ Play solo or with others in local co-op, with up to 4 people! Combine character 
 
 Please note that extra controllers are required to play with others.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/3b/ca/ba3bcace-81b0-2a13-0141-80205587bf58/e1e110da-3633-487a-b1df-51016e22552d_iphone55_screen1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/a3/a0/37a3a0be-4ddd-4747-d7ce-94186eafcc58/4bb0d605-c3d0-43f1-ab38-8ac646714e8d_iphone55_screen2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/ae/ad/39aead27-2de5-dbd2-4bb1-0e58ba696cfd/7ce9436e-a34b-4180-b2df-c54b5b1dd67e_iphone55_screen3.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/41/0a/03410a81-48fd-acf1-0513-05704f089e94/aae86430-8c6b-4829-a61a-6c06735cff85_iphone55_screen4.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/25/d6/ae25d640-25fc-c938-bb19-c01901892ec6/b22fc099-ca21-4cd2-b7b2-0b0e8cb8fb11_ipad_screen1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/28/2a/d9282a6d-2907-25fe-251e-688b906090bc/fa659acd-6af4-4fb5-981c-b0ef8d9f1c40_ipad_screen2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/97/24/9e97240b-cb0f-f1b2-8875-c1a24879df17/8ae8684e-ea8f-4fc0-befe-17b58c34ef2e_ipad_screen3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/cb/fe/1dcbfecb-ffee-e378-2595-fa3b6334dc72/21af871b-3b61-409c-8594-6e40ba97e73d_ipad_screen4.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SkySafari 7 Pro]]></title>
-        <id>SkySafari 7 Pro-us-1748096071962</id>
-        <link href="https://apps.apple.com/us/app/skysafari-7-pro/id1567658979?uo=4"/>
-        <updated>2025-05-24T14:14:31.962Z</updated>
-        <summary type="html"><![CDATA[Price: $29.99 → $12.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/skysafari-7-pro/id1567658979?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/d7/8e/dfd78eb6-7768-fddc-ab46-01a22f91dca7/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$29.99</span> → <b>
-  <strong>$12.99</strong>
-</b><span>[$12.99 ~ $29.99]</span>）
-</h2><h2>Application Description</h2><p>
-  SkySafari makes stargazing a simple pleasure. It has the largest database of any astronomy app, includes every comet, asteroid, satellite & solar system object ever discovered, offers unparalleled accuracy, advanced planning and logging tools, flawless telescope control, and provides the very best experience under the stars when you depend on it. Don’t postpone joy. Discover why SkySafari is the #1 recommended astronomy app for serious amateur astronomers since 2009.
-
-Here's what’s new in version 7:
-
-+ Complete support for iOS 18 and iPhone 16. Version 7 brings a new and immersive stargazing experience.
-
-+ Events Finder - go to the new Events section to unlock a powerful search engine that finds astronomical events visible tonight and far into the future. The finder dynamically generates a listing of moon phases, eclipses, planetary moon events, meteor showers and planetary phenomenon such as conjunctions, elongations and oppositions.
-
-+ Notifications - the notifications section has been completely revamped to allow you to customize and manage which events trigger an alert notification on your device.
-
-+ Telescope Support - telescope control is at the heart of SkySafari.  Version 7 takes a giant leap forward by supporting ASCOM Alpaca, INDI & StarSense Explorer.  These next generation control protocols allow you to effortlessly connect to hundreds of compatible astronomical devices.
-
-SkySafari 7 brings social stargazing to mobile devices with two new features to help you connect with other like minded people.
-
-OneSky - allows you to see what other users are observing, in real time.  This feature highlights objects in the sky chart and indicates with a number how many users are observing a particular object.
-
-SkyCast - allows you to guide a friend or group around the night sky through their own copy of SkySafari. After initiating SkyCast, you can generate a link and conveniently share it with other SkySafari users via text message, apps or social media accounts.
-
-+ Sky Tonight -  jump to the new Tonight section to see what’s visible in your sky tonight.  Expanded information has been designed to help plan your night and includes  Moon & Sun info, calendar curations, events and the best positioned deep sky and solar system objects.
-
-+ Improved Observation Tools - SkySafari is the perfect tool to help you plan, record and organize your observations.  New workflows make it easier to add, search, filter and sort data.
-
-+ Home Screen and Lock Screen Widgets  keep your favorite astro information at your fingertips.
-
-The Small Touches:
-
-+ You can now edit the Jupiter GRS Longitude Value in the Settings.
-+ Better Moon Age calculation.
-+ New grid & reference options allow you to display Solstice and Equinox markers, Orbit + Node markers for all solar system objects, and tick marks and labels for the Ecliptic, Meridian, and Equator reference lines.
-+ Previous In-app Purchases are Now Free -  this includes the H-R diagram, 3D Galaxy view, and the PGC galaxy and GAIA star catalogs. Enjoy.
-+ Many more.
-
-If you haven't used SkySafari 7 Pro before, here's what you can do with it:
-
-+ Hold your device up, and SkySafari 7 Pro will find stars, constellations, planets, and more!
-
-+ Simulate the night sky up to 5MM years in the past or future! Animate meteor showers, conjunctions, eclipses, and other celestial events.
-
-+ Control your telescope, log and plan your observations.
-
-+ Optionally backup all of your observing data in our secure cloud storage and make it easily accessible to multiple devices as well as from our new web interface, LiveSky.com.
-
-+ Augmented Reality (AR) mode
-
-+ Night Vision.
-
-+ Orbit Mode. Leave the Earth’s surface behind, and fly through our solar system.
-
-+ Galaxy View shows the position of deep sky objects in our Milky Way!
-
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-
-https://www.livesky.com/privacy.html
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/4b/66/ec4b6627-9e7a-4d7b-9e59-9dc3c22b2444/fc114c40-4a86-4151-acf1-135348f90def_01_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/41/c8/3441c8a2-9ddb-0ba4-54a2-7d9c33d55819/7d3c5a19-ce1e-493a-b97e-ac44bfe1e3e2_02_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/3b/25/823b255b-d6de-2865-4001-54ae3b77ca74/9477ad0f-a87f-48fe-87df-b7d86cfddf29_03_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/3f/6f/973f6fc6-a487-a6d7-d84e-83bcd67eb617/f41d04a7-f92a-4bf8-8326-44a5624d4c52_04_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/33/a6/e733a6c5-9983-9cce-de47-91f52ce960f5/9b64ba56-4005-424b-9ac4-4adc03e276a6_10_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/29/a9/3729a943-c485-0530-a9fe-699afd5b40a1/0bcedd32-ad40-475d-8c85-564a3ca8994b_08_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/11/87/ee1187f7-9aa6-a26e-6044-d64a7d862df3/bb8fb1c7-f236-4a78-8eb8-8da51ea5170d_09_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/4a/46/754a46a6-9c84-cfd7-19bd-95f14a12c20f/6d960956-086f-4094-9879-148483841975_06_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/4f/e3/bb4fe39e-0ac2-3e00-a123-f53195ee038a/c3b22f39-5c7a-46cf-bd83-588d1912b4ea_05_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/47/dc/0547dc56-d76f-05e9-a76b-3d645d075327/b1f682b8-1c05-484a-a311-89c284bdbd28_07_SS7_Screenshot_iPhone.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/2a/01/0c2a01fe-e47e-4cc9-b47a-a110a57d01ea/4042e357-ab43-48ad-bb08-c52c04846921_01_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/cf/1d/fdcf1d78-831e-20e5-8bd5-8226e0de2a1d/a7a0b6ff-94fb-41f8-a3d4-3000abeb9896_02_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/3b/07/813b07ea-0be7-9738-35c5-1334ce61cd23/8a9e5258-db74-4b4e-96a5-b788f79dabe8_03_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/c6/78/61c678e7-4d03-8256-6665-9f6cb4ef8fe1/377933b2-01c1-4478-bf01-cfb3687a0c19_04_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/59/e8/bb59e8b6-04aa-55ec-f994-f71e4418a0fa/a8a7bedb-8c9d-4b5e-ad17-4b2430958800_05_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/08/4a/99084abd-62bc-7ee8-584b-a050da479c70/d861049c-217c-49c1-9e9c-c44984660491_06_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/82/39/9e823931-4754-0559-429d-16d381d79ade/385be8d6-bd03-4f58-b9da-f4aba2986b18_07_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/ea/88/edea8817-3658-c7e7-de0c-5f6b7e5eb266/81645ccf-a042-4217-9666-a4d5cc811000_08_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/5d/54/cd5d546d-62e3-cf9c-6103-edb6dcd6ab94/edecb9b2-ea7b-43be-a335-28f63ab96a71_09_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/ce/64/a3ce64f7-e854-18de-2bcf-32569ab49314/27ed81ef-4682-4c8b-8ade-92250d6dfbb4_10_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Greedy Cave]]></title>
-        <id>The Greedy Cave-us-1748070922743</id>
-        <link href="https://apps.apple.com/us/app/the-greedy-cave/id1028950091?uo=4"/>
-        <updated>2025-05-24T07:15:22.743Z</updated>
-        <summary type="html"><![CDATA[Coupon of the Greedy Cave: $3.99 → $2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/the-greedy-cave/id1028950091?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/25/c4/e525c49e-ab0e-e37e-ed0a-5012404bc7d3/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Coupon of the Greedy Cave：</strong><span>$3.99</span> → <b>
-  <strong>$2.99</strong>
-</b><span>[$0.99 ~ $3.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  In a land far, far away there once was a vast continent called Milton. It was a land where the power of rule came by the sword and the arcane, where Men who devoted themselves to the blade or to magecraft, could become the finest warriors, wisest wizards or the greatest adventurers. In this land, there are several kingdoms divided by borders but united through history. Countless stories of alliances, upheaval, and moments of peace bedeck this tapestry, but that is a tale for another day. 
-
-Our story begins in a remote kingdom to the north, Iblis, an obscure and oft-forgotten place. It is a wild and barren land, a place where its people scrape a living from the earth, mining minerals for the lords of the south. On occasion, adventurers would stop by for the night but never linger. Until one day, a fledgling adventurer lost his way and stumbled into a hole. The story might have ended then had he not come back, but return he did, with sacks of gold and glittering treasure. 
-
-Like a fierce gale from the north, news of his fame and fortune fanned across the kingdoms overnight, and kings sent their bravest warriors and adventurers to clear the cavern of monsters in search of treasure. Even peasants wanting a part of this newfound wealth partook in these expeditions. In no time at all, a bustling town had sprung up in this forgotten place. People set up camps, and formed their own groups to explore the cave. Clever merchants not missing this opportunity, built taverns and shops near the cave, selling equipment and potions to eager adventurers. At first, everything seemed fine. As explorers delved into the caves, they encountered new creatures and discovered new treasures. Mysteries continued to pour forth from the cave, yet nobody knew where the source of the secrets lay. However, as the explorations continued, the balance of wealth beyond the cave began to waver, and cracks appeared among those adventurers who had previously worked arm-in-arm. The latecomers or weak, limited to wandering the upper levels of the cave, could only watch as the veteran adventurers brought treasure after treasure from the deep. They began harboring dark thoughts as they watched the veteran adventurers grow arrogant from their largesse, ordering people around, hoarding secrets from the rest. The place became a festering pool of suspicions and greed, mired in a jealous rage. 
-
-It started with an adventurer disappearing in the cave. Rumors circulated he had found some legendary treasure and hoarded it for himself. Others said he had been guided to another world by some mysterious magic force in the cave. Still, the unspoken belief was that he had been murdered by a rival party and was buried somewhere beneath the caverns. Nobody knows exactly what happened, but people have continued to disappear ever since. As more people have gone missing, some adventurers have called it quits, others cling to hope, and a few continue to wait and see. Which brings us to you, an ordinary young man, coming into this extraordinary circumstance with purposes unknown to others. May you find what you seek in ...
-
---------------------------------------------------------
-In " The Greedy Cave", you are a brave adventurer tasked with exploring a mysterious cave and battling all kinds of monsters.
-
-Use your wits to defeat them, learn different skills, gain mighty equipment, challenge evil monster bosses, and decipher the mystery surrounding this cave...
-
-Game Features
-·Randomly generated cave levels provide a different game experience every time!                     
-·Hundreds of monsters to defeat!
-·Hundreds of equipment to collect!
-·Hundreds of quests and achievements to conquer!
-·Enchant/Reform/Level up/Gold collecting, and more abundant systems to explore!
-
-Contact us
-cs.thegreedycave@avalongames.com
-https://www.facebook.com/greedycave/
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d8/82/80/d8828029-b4ad-d826-3477-2ef28fab831b/3fe518d5-97e2-47b7-9726-3f8537303757_1242x2208bb.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/3c/7b/27/3c7b2770-1da5-973c-601d-5126a080086c/0d0f8b31-e3b8-415c-9298-731a9e04ba17_1242x2208bb__U00281_U0029.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3d/16/5c/3d165c74-7c41-79c9-cb89-fa61498a1765/84f61603-c557-47fb-a32c-50fe07aadb37_1242x2208bb__U00282_U0029.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/5a/1e/57/5a1e5738-0143-f680-6c33-4e3a5bbe53b0/1bba7ce0-8a29-43be-a954-33623d955331_1242x2208bb__U00283_U0029.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/65/a3/c8/65a3c84c-03c4-6a2e-750b-52e8f7a75531/b29142cf-39ed-4921-a207-bac4de93715a_1242x2208bb__U00284_U0029.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/40/30/67/403067b0-2cf8-17fb-8cf3-654f5f18947e/4097713c-e632-4cf1-b79d-cd1cd68bf79b_2048x2732bb.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/50/14/3e/50143e10-1086-9a17-0d37-37487a198792/2500cb7b-fab2-4690-b303-61a3d676c2d2_2048x2732bb__U00281_U0029.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/61/76/d3/6176d382-b6f0-a650-b081-d098e7864fa6/3ac1f178-06bd-4653-a6b9-b67e6ee45b12_2048x2732bb__U00282_U0029.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/80/de/85/80de85df-71f7-9c60-5c46-cd5eb42aff04/dd752b98-76af-49ad-98b2-58fc62bdf6d4_2048x2732bb__U00283_U0029.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/cc/b2/56/ccb25637-0099-a2c4-71a2-60f242eaf284/8ab99853-a1fc-4a7d-8bd7-97c8afc3d7a4_2048x2732bb__U00284_U0029.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goodnotes 6: AI Notes & Docs]]></title>
-        <id>Goodnotes 6: AI Notes &amp; Docs-us-1748063801599</id>
-        <link href="https://apps.apple.com/us/app/goodnotes-6-ai-notes-docs/id1444383602?uo=4"/>
-        <updated>2025-05-24T05:16:41.599Z</updated>
-        <summary type="html"><![CDATA[Marketplace Content: $6.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/goodnotes-6-ai-notes-docs/id1444383602?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/aa/7e/c2aa7e1e-dc84-15a4-d2ea-0bbe8f94306f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Marketplace Content：</strong><span>$6.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $10.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Ever wish your notes could do more? With Goodnotes 6, they can! Step into the future of note-taking with Goodnotes 6, the best AI notebook for iPad. Write notes, convert handwriting to text, annotate PDFs, and use AI tools for study and productivity. 
-
-Boost Professional Efficiency and Productivity
-• Use Ask Goodnotes to summarize, translate, and extract key insights from your notes, PDFs, and documents—perfect for your next important meeting.
-• Import, annotate, and organize PDFs, documents, and meeting notes.
-• Transcribe audio recordings from meetings so you never miss a detail.
-• Present like a pro, with a built-in laser pointer that is perfect for meetings and presentations.
-• Export and share notes via email, print, PDF, or images for easy collaboration.
-• Send files directly to your unique Goodnotes email for quick access on all devices.
-• New pen gestures like Scribble to Erase let you erase by scribbling, while Circle to Select helps you quickly select and edit notes—all without switching tools.
-• Convert handwriting to text for quick and clean professional notes.
-• Sync your notes across all devices with cloud sync through iCloud, Google Drive, OneDrive, Dropbox, and WebDAV.
-
-Powerful Digital Notes and Study Tools
-• Use AI-powered study tools help you learn faster and retain more information.
-• Use Ask Goodnotes to generate practice quizzes, summarize text, or answer questions, directly from your handwriting.
-• Powered by our in-house AI technology, Math Assist, converts handwriting to text on iPad and solves handwritten equations instantly.
-• Convert equations to LaTeX format for easy use in reports and presentations.
-• Memorize vocabulary and key concepts with AI-powered Study Sets using active recall and spaced repetition.
-• No more flipping through pages: Handwriting search makes all your notes instantly searchable, even handwritten ones.
-• Collaborate in real time with classmates by working on the same document for group projects and study sessions
-• Record audio with live transcription while taking notes, so you never miss a detail. Easily edit, search, and remove text from the transcript to review key points faster.
-
-Enhance Creative Digital Planning
-• Design fully customizable notebooks, templates, and covers to fit your style.
-• Mix handwriting, text, stickers, images, and drawings in a single notebook.
-• Stay focused with Smart Timer, and boost your productivity.
-• Browse the in-app Marketplace for stickers, washi tape patterns, as well as stylish templates, educational materials, and planners.
-• Organize your notes with unlimited folders and advanced search.
-• Get exclusive monthly downloads every month with a paid subscription.
-• Use creative tools like pencil, tape, lasso tool, layering, eyedropper, and image cropping to make your planner truly yours.
-
-Experience the best AI note app for students, professionals, and planners. Join millions of users who have transformed their workflow with Goodnotes 6, the best note-taking app for iPad. Download Goodnotes 6 for free and create your first notebook today.
-
-Website: www.goodnotes.com 
-X: @goodnotesapp 
-Instagram: @goodnotes.app 
-Pinterest: @goodnotesapp 
-TikTok: @goodnotesapp 
-
-Privacy policy: https://www.goodnotes.com/privacy-policy 
-Terms and Conditions: https://www.goodnotes.com/terms-and-conditions
-</p>]]></content>
     </entry>
 </feed>
