@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-05-26T09:49:02.844Z</updated>
+    <updated>2025-05-27T03:15:02.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-26T09:49:02.845Z</updated>
+        <updated>2025-05-27T03:15:02.770Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusMon, 26 May 2025 09:49:02 GMT</id>
+        <id>rankingusTue, 27 May 2025 03:15:02 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-26T09:49:02.845Z</updated>
+        <updated>2025-05-27T03:15:02.770Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -50,13 +50,13 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>843</b>
+        <b>844</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>843</b>
+        <b>844</b>
       </td>
       <td>
         <b></b>
@@ -67,13 +67,13 @@ feedId:49753370488353792+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>837</b>
+        <b>838</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>837</b>
+        <b>838</b>
       </td>
       <td>
         <b></b>
@@ -346,6 +346,23 @@ feedId:49753370488353792+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id673906093">Audio Normalizer - Mp3 Gain</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>14</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id916976066">Phraseboard Keyboard</a>
       </td>
       <td>
@@ -370,7 +387,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1038014543">Day R Premium: last world war</a>
@@ -393,7 +410,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1118115766">Bloons TD 6</a>
@@ -410,7 +427,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1230231705">The Witness</a>
@@ -427,7 +444,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1248033433">Kingdom Rush Vengeance TD Game</a>
@@ -462,7 +479,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1291429551">60 Parsecs!</a>
@@ -479,7 +496,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1389752090">Dead Cells</a>
@@ -496,7 +513,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -513,7 +530,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1435461053">This Is the Police</a>
@@ -530,7 +547,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1439262206">Root Board Game</a>
@@ -559,7 +576,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1439881811">RadarOmega</a>
@@ -582,7 +599,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1449020025">不玩手机-自律习惯养成记</a>
@@ -599,7 +616,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1453318714">Vostok — Story Maker</a>
@@ -616,7 +633,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1474716211">60 Seconds! Reatomized</a>
@@ -633,7 +650,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1481181827">Aces of the Luftwaffe Squadron</a>
@@ -650,7 +667,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1497120981">LUCH: Photo Effects & Filters</a>
@@ -667,7 +684,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1512751689">The Game of Life 2</a>
@@ -690,7 +707,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1538124245">where I put it</a>
@@ -707,7 +724,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1567658979">SkySafari 7 Pro</a>
@@ -724,7 +741,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
@@ -741,7 +758,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
@@ -764,7 +781,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1620883955">Little Nightmares</a>
@@ -781,7 +798,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1642733080">DungeonSquad</a>
@@ -798,7 +815,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -815,7 +832,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6479307181">Ghostly Detector</a>
@@ -832,7 +849,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6737987084">CatLight Pro: Selfie Light Cam</a>
@@ -849,7 +866,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6451376191">Dumb Phone: Minimal Launcher</a>
@@ -866,7 +883,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6446178861">PlayNav - No ads in videos!</a>
@@ -883,7 +900,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6449251957">Motorsport Manager 4</a>
@@ -900,7 +917,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6505058041">QUAKELINE</a>
@@ -917,7 +934,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -934,7 +951,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6458144503">Skul: The Hero Slayer</a>
@@ -951,7 +968,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6471947612">召喚騎士團</a>
@@ -968,7 +985,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6743459503">逐鹿</a>
@@ -985,7 +1002,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6466296603">The Last Game</a>
@@ -1002,7 +1019,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6740349666">Backyard Baseball '97</a>
@@ -1028,6 +1045,37 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audio Normalizer - Mp3 Gain]]></title>
+        <id>Audio Normalizer - Mp3 Gain-us-1748315377312</id>
+        <link href="https://apps.apple.com/us/app/audio-normalizer-mp3-gain/id673906093?mt=12&amp;uo=4"/>
+        <updated>2025-05-27T03:09:37.312Z</updated>
+        <summary type="html"><![CDATA[Price: $19.99 → $4.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/audio-normalizer-mp3-gain/id673906093?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/28/49/5f/28495f47-cbeb-d61b-fa1b-8b23f91c9e2a/Icon.png/60x60bb.png" />
+</a><h2>
+  Discount Information（Price：<span>$19.99</span> → <b>
+  <strong>$4.99</strong>
+</b><span>[$4.99 ~ $19.99]</span>）
+</h2><h2>Application Description</h2><p>
+  Audio Normalizer provides a batch normalizing feature that helps users to balance all the music and audio files to equal volume in the most popular audio formats like MP3, M4A, WAV, AAC, FLAC, WMA, AIFF, AMR, AC3, MP2, OGG, M4R, AU etc with high accuracy and at maximum speed with a single click.  
+
+Is it annoying to adjust the volume of each file individually? Download Audio Normalizer for Mac now. 
+
+Audio Normalizer Features:
+1 Equalize multi-audio files to the same volume with a single click.
+2 Leveling the volume of MP3, M4A, WAV files directly losslessly. 
+3 Supports many popular audio formats: MP3, M4A, WAV, AAC, FLAC, WMA, AIFF, AMR, AC3, MP2, OGG, M4R, AU files.
+4 Supports batch processing.
+5 You can custom volume level.
+6 Awesome Usability: Easy to use through a modern and clear user interface.
+
+Please note that volume of DRM-protected files can not be analyzed and adjusted.
+
+Audio Normalizer Feedback:
+Any suggestion will be appreciated, email us at: market@effectmatrix.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/54/e5/21/54e52136-aedd-7be7-401c-1b0d57167876/mzl.slwgpxzg.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/81/1b/a2/811ba285-ce2a-0bbf-4471-5c16141f4493/mzl.bxrizfzd.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/0e/0b/b3/0e0bb301-860d-715c-ff63-8b5466a78619/mzl.fporlniz.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wink: Video Enhancer & Editor]]></title>
@@ -1329,94 +1377,5 @@ TikTok: @goodnotesapp
 Privacy policy: https://www.goodnotes.com/privacy-policy 
 Terms and Conditions: https://www.goodnotes.com/terms-and-conditions
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Classic Maze Game for Watch]]></title>
-        <id>Classic Maze Game for Watch-us-1748055865646</id>
-        <link href="https://apps.apple.com/us/app/classic-maze-game-for-watch/id6740471827?uo=4"/>
-        <updated>2025-05-24T03:04:25.646Z</updated>
-        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/classic-maze-game-for-watch/id6740471827?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/9e/3b/ce9e3bbb-4f79-a61f-7e66-68d02617d17f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$0.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $0.99]</span>）
-</h2><h2>Application Description</h2><p>Classic Maze game is a classic puzzle game, perfect for training your brain during a short break. It is designed as a very simple single player game played by sliding through fun retro mazes. Play a quick game and challenge 500 mazes to become the maze king.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Official DVSA Theory Test Kit]]></title>
-        <id>Official DVSA Theory Test Kit-us-1748003740620</id>
-        <link href="https://apps.apple.com/us/app/official-dvsa-theory-test-kit/id463295925?uo=4"/>
-        <updated>2025-05-23T12:35:40.620Z</updated>
-        <summary type="html"><![CDATA[DVSA Driving essential skills: $9.99 → $4.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/official-dvsa-theory-test-kit/id463295925?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/5a/40/0a5a4017-b2dd-d646-3485-3d6697e9f141/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>DVSA Driving essential skills：</strong><span>$9.99</span> → <b>
-  <strong>$4.99</strong>
-</b><span>[$4.99 ~ $9.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  The Driver and Vehicle Standards Agency (DVSA) are the people who set the tests and this app is by their official publisher, The Stationery Office (TSO). It’s regularly updated and covers everything you need to know to pass your theory test, drive safely and improve your road safety awareness! 
-
-Our app is for CAR DRIVERS in Great Britain and Northern Ireland. 
-
-This app can be used offline so that you can practise anytime and anywhere. 
-
-KEY HIGHLIGHTS
-• Over 770+  practice theory questions.
-• Custom mock tests.
-• 36 interactive CGI hazard perception clips.
-• Free access to The Highway Code.
-• Exclusive access to one of the 3 source materials for the theory test: ‘The Official DVSA Guide to Driving – the essential skills’ (additional purchase required).
-• Progress tracking.
-• Advanced search tool.
-• Voiceover features.
-
-TEST YOURSELF
-• Take unlimited quick and timed mock tests. Build a custom practice set or take a timed mock test with 50 questions – just like the real thing. 
-• Your progress will also be monitored and visualised in graphs, so you can see how far you’ve come and when you are ready to pass.
-
-STUDY AND PRACTISE
-• Read the exclusive study content to increase your knowledge of all theory test topics and test your understanding by answering practice questions (including all official questions, over 770+!).
-• You can also select specific question sets from areas you may be struggling with. Got a question wrong? See the correct answer, note the explanation and find out more with references to The Highway Code and other official DVSA guides!
-
-VIDEO CASE STUDIES
-• 9 bonus case studies so that you can practise multiple choice questions about a short video clip. 
-
-PROGRESS GAUGE
-• Backed by learning science, use the progress gauge to measure your test readiness, providing you with confidence that you’re ready to pass your theory test. 
-
-THE HIGHWAY CODE
-• To support your study, we’ve included a free copy of The Official Highway Code to revise from.
-
-EXCLUSIVE CONTENT
-• This is the only app to offer ‘The Official DVSA Guide to Driving – the essential skills’, one of the 3 key source materials that the multiple choice questions in the theory test are based on. Study these to learn the rules and skills you’ll be tested on (additional purchase required). 
-
-SEARCH FEATURE
-• Do you want to learn about airbags, stopping distances, or yellow lines, or practise questions on road markings? Use our advanced search tool to find the content you need.
-
-ENGLISH VOICEOVER
-• If you have reading difficulties (such as dyslexia), or prefer to learn by listening, use our voiceover feature within the test section to support you. 
-
-USEFUL LINKS AND SUPPLIER ZONE
-• Navigate through useful resources to support your learning, including the Safe Driving for Life website – a one-stop information resource featuring helpful blogs with lots of tips to help you pass. 
-• Passed your test? Use our supplier zone to help you with the next steps in your driving journey. 
-• Ready to Pass? links to DVSA’s official resources to help you understand what it takes to be ready for your driving test. Give yourself the best possible chance of passing by learning vital skills, managing your nerves and taking mock tests. 
-
-FEEDBACK
-• Let us know what you’d like to see. We’d love to hear from you with any comments or suggestions about this app. 
-
-AWARDS AND RECOGNITION
-• Produced by the official publishers of DVSA (TSO).
-• Over 4+ million downloads.
-• Featured on Apple’s Top Education Apps.
-• Nominated for App of the Year (FirstCar).
-
-SUPPORT
-• Contact our UK-based team at feedback@williamslea.com  or +44 (0)333 202 5070. We listen and respond to your feedback by updating the app and adding new features.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/94/70/ce94702b-5a6e-2f00-f10b-2d040f1550e8/d7ca487a-57a5-48e5-a1dd-6e96ea957df1_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_01.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/55/93/505593d4-5477-9d76-6df1-362a59cef95b/cfc7b785-5746-4ddc-a686-311c6a944948_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_02.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/ff/3b/01ff3b5a-7c08-78a4-382a-4a403e978fbc/2faa28df-3720-4f67-a289-5591a5b33421_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_03.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/43/03/e143033a-1df8-9baa-0294-9e84d6655cea/a1156d76-b93b-459a-8258-20654803ecaa_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_04.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/c8/80/42c880ca-ae10-3813-e797-24275a6c9878/d12467a3-6088-403e-bb15-093f0831cdf6_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_05.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/b3/d8/edb3d8e4-5dd0-2943-01fe-9b5f67aee038/57797f11-c4b8-4f76-9fd7-77ad455d1b3a_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_06.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/87/39/508739ba-1e9d-5f95-f689-25c63bc51a63/1def1fe4-3ac7-4d66-81fd-b6afa2b272e6_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_07.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/4b/45/c44b4521-db85-1ecd-00c8-a18bd93b08d0/8fd9c835-e7b5-48d6-894e-f942e2a2d29c_12343_DVSA_iPhone_5.5_inch_1242x2208_TTK_App_Store_images_08.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/bd/10/9abd1031-ddd3-55d6-03be-766f101b384d/fb5346aa-a16f-4359-955c-1efbcbbe1d93_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_01.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/51/ba/b651baa4-1d5b-f24f-6f10-dc5e43a3c688/a498df04-3673-4342-82a8-189e78c82488_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_02.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/0d/6f/e60d6f08-cca4-b87b-cd93-fe3cad3e4b10/24e3ac6f-753e-4b81-bc6d-396429572d23_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_03.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/94/31/34943156-c954-afec-7c19-0b2b4843a836/e5633a70-c190-4398-9451-5fa98be4a325_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_04.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/c2/a9/ccc2a907-8952-4da2-4f4b-d1c81da8ff7e/ff6fff8e-5df1-45b6-b5ac-e7b9c87e7274_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_05.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/54/20/565420c7-8622-22c2-73e0-5d4413b4c545/0d7276cb-2280-421a-b073-a52a313dd62d_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_06.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/94/16/0a941602-ba4e-da2f-79c1-7a2b960ddee2/d98f7cd7-cda0-4100-b9a5-465ff7bb18f1_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/0a/e9/890ae959-b56a-9229-8533-88daba9980fc/6d490d1c-1710-4775-8c4d-a407a00c9cd6_12343_DVSA_iPad_12.9_inch_2048x2732_TTK_App_Store_images_08.png/576x768bb.png" />]]></content>
     </entry>
 </feed>

@@ -17853,10 +17853,18 @@
       "formattedPrice": "$19.99"
     },
     "minPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "$19.99"
+      "price": 4.99,
+      "formattedPrice": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748315377312,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -38940,6 +38948,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748315377312,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Xmind Pro (Annually)": "$59.00",
+            "Desktop + Mobile (Monthly)": "$10.00",
+            "Desktop + Mobile (6 Months)": "$39.99",
+            "Xmind Premium (Annually)": "$99.00",
+            "All Platforms Quarterly": "$29.00",
+            "All Platforms Yearly": "$59.00",
+            "Xmind Premium (Monthly)": "$15.00",
+            "Desktop (6 Months)": "$34.99",
+            "Desktop (Annually)": "$54.99",
+            "Mobile (6 Months)": "$9.99"
+          }
+        },
         {
           "timestamp": 1748308999597,
           "price": 0,
@@ -77845,6 +77870,14 @@
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748315377312,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748229310744,

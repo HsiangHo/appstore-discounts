@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 866450515,
+    name: {
+      cn: 'Forest 专注森林 - 番茄钟学习计时器',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1406710800,
     name: {
       us: 'Stardew Valley',
