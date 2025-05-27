@@ -14471,6 +14471,23 @@
     "history": [
       [
         {
+          "timestamp": 1748355463084,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Telegram Premium": "¥33.00",
+            "Telegram Premium Annual": "¥268.00",
+            "Telegram Premium (3-Month)": "¥98.00",
+            "1x Premium (3 Months)": "¥98.00",
+            "1x Premium (1 Year)": "¥268.00",
+            "1x Premium (6 Months)": "¥148.00",
+            "Telegram Premium (1 Year)": "¥298.00",
+            "250 Telegram Stars": "¥41.80",
+            "Telegram Premium (6 month)": "¥168.00",
+            "75 Telegram Stars": "¥12.80"
+          }
+        },
+        {
           "timestamp": 1748352638170,
           "price": 0,
           "formattedPrice": "免费",
