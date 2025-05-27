@@ -34778,7 +34778,8 @@
       "该付费商品": "$0.99",
       "3个月腾讯视频VIP": "$9.99",
       "该影片": "$3.99",
-      "1年腾讯视频VIP": "$39.99"
+      "1年腾讯视频VIP": "$39.99",
+      "单点商品": "$0.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -34788,9 +34789,24 @@
       "该付费商品": "$0.99",
       "3个月腾讯视频VIP": "$9.99",
       "该影片": "$3.99",
-      "1年腾讯视频VIP": "$39.99"
+      "1年腾讯视频VIP": "$39.99",
+      "单点商品": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748384196960,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "1个月腾讯视频VIP": "$3.99",
+            "付费商品": "$1.99",
+            "该付费商品": "$0.99",
+            "3个月腾讯视频VIP": "$9.99",
+            "单点商品": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748233439132,
@@ -64067,6 +64083,21 @@
       "3-Time AI Effects": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748384196960,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- 25 Credits": "$7.99",
+            "Wink- 100 Credits": "$24.99",
+            "10-second AI animation": "$1.99",
+            "Monthly SVIP": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748252626759,
