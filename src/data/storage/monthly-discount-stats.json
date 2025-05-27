@@ -162,6 +162,14 @@
         "限时礼包": 1
       }
     },
+    "1619925971": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "永久授权": 1,
+        "UPDF Pro + AI 无限": 1
+      }
+    },
     "1624326561": {
       "all": 4,
       "price": 0,
@@ -679,6 +687,13 @@
         "Ultimate Access": 1
       }
     },
+    "1014945607": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "优酷视频点播": 1
+      }
+    },
     "1028950091": {
       "all": 2,
       "price": 0,
@@ -706,10 +721,11 @@
       }
     },
     "1068435535": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Upgrade to Pro": 1
+        "Upgrade to Pro": 1,
+        "Upgrade To Pro": 1
       }
     },
     "1118115766": {

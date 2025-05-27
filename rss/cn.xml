@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-05-26T23:22:34.793Z</updated>
+    <updated>2025-05-27T16:29:03.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-26T23:22:34.794Z</updated>
+        <updated>2025-05-27T16:29:03.748Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnMon, 26 May 2025 23:22:34 GMT</id>
+        <id>rankingcnTue, 27 May 2025 16:29:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-26T23:22:34.794Z</updated>
+        <updated>2025-05-27T16:29:03.748Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -50,13 +50,13 @@ feedId:49753297431966720+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>843</b>
+        <b>844</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>843</b>
+        <b>844</b>
       </td>
       <td>
         <b></b>
@@ -67,13 +67,13 @@ feedId:49753297431966720+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>833</b>
+        <b>834</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>833</b>
+        <b>834</b>
       </td>
       <td>
         <b></b>
@@ -694,14 +694,22 @@ feedId:49753297431966720+userId:73658201673997312
         <b>31</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1659316190">钢铁战队(R)</a>
+        <a href="https://apps.apple.com/cn/app/id1619925971">UPDF - 新一代 AI 智能 PDF 编辑器</a>
       </td>
       <td>
         <ul>
           <li>
             <span>总次数</span>：<b>1</b>
           </li><li>
-            <span>价格</span>：<b>1</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>永久授权</i>：<b>1</b>
+              </li><li>
+                <i>UPDF Pro + AI 无限</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -711,7 +719,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>32</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6447693393">灵感卡片 - 创意笔记</a>
+        <a href="https://apps.apple.com/cn/app/id1659316190">钢铁战队(R)</a>
       </td>
       <td>
         <ul>
@@ -728,7 +736,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>33</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6737987084">小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</a>
+        <a href="https://apps.apple.com/cn/app/id6447693393">灵感卡片 - 创意笔记</a>
       </td>
       <td>
         <ul>
@@ -745,7 +753,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>34</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6742129099">群英打三国-超休闲国风放置卡牌巅峰巨作</a>
+        <a href="https://apps.apple.com/cn/app/id6737987084">小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</a>
       </td>
       <td>
         <ul>
@@ -762,7 +770,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>35</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6451376191">Dumb Phone: 简约主屏幕</a>
+        <a href="https://apps.apple.com/cn/app/id6742129099">群英打三国-超休闲国风放置卡牌巅峰巨作</a>
       </td>
       <td>
         <ul>
@@ -779,7 +787,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>36</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6446178861">PlayNav - 影片内无广告！</a>
+        <a href="https://apps.apple.com/cn/app/id6451376191">Dumb Phone: 简约主屏幕</a>
       </td>
       <td>
         <ul>
@@ -796,7 +804,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>37</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6449930220">手表浏览器  Wafari</a>
+        <a href="https://apps.apple.com/cn/app/id6446178861">PlayNav - 影片内无广告！</a>
       </td>
       <td>
         <ul>
@@ -813,7 +821,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>38</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
+        <a href="https://apps.apple.com/cn/app/id6449930220">手表浏览器  Wafari</a>
       </td>
       <td>
         <ul>
@@ -830,7 +838,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>39</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6744311159">魔王终局</a>
+        <a href="https://apps.apple.com/cn/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
       </td>
       <td>
         <ul>
@@ -847,7 +855,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>40</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6742396803">DaDaDaDa - 空气枪</a>
+        <a href="https://apps.apple.com/cn/app/id6744311159">魔王终局</a>
       </td>
       <td>
         <ul>
@@ -864,7 +872,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>41</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6473332700">逐鹿 - 历史沙盘战棋</a>
+        <a href="https://apps.apple.com/cn/app/id6742396803">DaDaDaDa - 空气枪</a>
       </td>
       <td>
         <ul>
@@ -881,7 +889,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>42</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6450877530">花园之间</a>
+        <a href="https://apps.apple.com/cn/app/id6473332700">逐鹿 - 历史沙盘战棋</a>
       </td>
       <td>
         <ul>
@@ -896,6 +904,23 @@ feedId:49753297431966720+userId:73658201673997312
     <tr>
       <td>
         <b>43</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6450877530">花园之间</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6443786927">全面憨憨战争模拟器</a>
@@ -921,6 +946,110 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UPDF - 新一代 AI 智能 PDF 编辑器]]></title>
+        <id>UPDF - 新一代 AI 智能 PDF 编辑器-cn-1748362981135</id>
+        <link href="https://apps.apple.com/cn/app/updf-%E6%96%B0%E4%B8%80%E4%BB%A3-ai-%E6%99%BA%E8%83%BD-pdf-%E7%BC%96%E8%BE%91%E5%99%A8/id1619925971?mt=12&amp;uo=4"/>
+        <updated>2025-05-27T16:23:01.135Z</updated>
+        <summary type="html"><![CDATA[永久授权: ¥268.00 → ¥238.00<br/>UPDF Pro + AI 无限: ¥468.00 → ¥428.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/updf-%E6%96%B0%E4%B8%80%E4%BB%A3-ai-%E6%99%BA%E8%83%BD-pdf-%E7%BC%96%E8%BE%91%E5%99%A8/id1619925971?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/a7/4d/5ca74ddf-94f1-797f-adc4-5f4d16bf3316/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>永久授权：</strong><span>¥268.00</span> → <b>
+  <strong>¥238.00</strong>
+</b><span>[¥238.00 ~ ¥268.00]</span>
+  </li><li>
+    <strong>UPDF Pro + AI 无限：</strong><span>¥468.00</span> → <b>
+  <strong>¥428.00</strong>
+</b><span>[¥428.00 ~ ¥468.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  UPDF 是一款全球化的 PDF 编辑器，支持 AI，阅读，编辑，注释、云同步、转换、加密、裁剪、拆分、在线分享 PDF 文档等。1 个账号付费，全平台都可以使用（电脑 + 手机 + iPad），更重要的是，UPDF 不同于市场上大多数商务设计风的 PDF 软件，它更具年轻化高颜值的界面设计让你拥有一个愉快轻松的阅读和办公体验。
+
+主要功能：
+
+1. 编辑 PDF
+- 你可以添加或者删除文本，编辑文本属性和格式，比如字体，颜色，大小等。
+- UPDF 也支持通过修改文本的对齐方式使您的文档看起来更整洁。
+- 对于 PDF 里的图片，你可以进行裁剪，旋转，替换，提取，删除等操作。
+- 你可以直接通过拖拽添加和替换图片。
+- 支持添加、删除、和编辑水印、背景、以及页眉页脚。
+
+2. AI 功能
+- 对 PDF 文档进行总结。
+- 对 PDF 文档进行翻译。
+- 对 PDF 文档进行解释，润色或编写。
+- 与 UPDF AI 自由对话。
+- 支持与图片进行自由问答。
+- 支持将文档总结生成思维导图。
+
+3. 注释 PDF
+- 在阅读 PDF 文档的过程中，你可以对文档内容添加注释，比如高亮，下划线，删除线来标注突出重点内容。
+- 你也可以通过添加图形和文本框来注释你的 PDF 文档。
+- 如果需要对某些内容进行注解，你可以在文档任意位置添加便签来输入笔记或者审批意见等。
+- 你可以在文档中添加并旋转各种各样的签章和贴纸用以注释和评论。
+- 若需要在文档里签名，你也可以直接快速地创建你的签名。
+- 通过注释列表一键查看或删除所有注释内容。
+
+4. OCR（光学字符识别）（仅适用于官网下载的版本）
+- 将扫描的 PDF 转换为可搜索和可编辑的 PDF。
+- 支持可根据选择检测的 38 种语言。
+- 将可搜索和可编辑的 PDF 转换为纯图像 PDF。
+
+5. 转换 PDF
+- 你可以将 PDF 转换为 Word, Excel, PowerPoint, Image, HTML, Text, CSV, XML, PDF/A 等格式。
+- 转换之后的文档会保持原文档格式不变。
+
+6. 云同步
+- 支持上传文档至 UPDF Cloud，实现 PC + 移动端全平台同步。
+
+7. 管理 PDF 页面
+- UPDF 使你可以根据你的需要轻松快速地管理 PDF 页面。
+- 对于页面布局，你可以通过旋转调整页面方向，通过拖拽页面调整页面顺序。
+- 如果你需要文档中的某些页面，你可以直接提取它们；另外，当你不需要某个页面时，也可以直接删除它。
+- 你可以添加空白页或者从其他文件中添加页面。
+- 你也可以快速替换文档中的页面。
+- 快速根据页码拆分一个 PDF 文档为多个文档。
+- 根据需要自定义裁剪页面大小。
+
+8. 浏览和定位 PDF 文档
+- 你可以放大或缩小页面，清晰地浏览文档内容。
+- 通过在页面添加书签，快速定位找到需要的页面。
+- 如果你需要同时查看多个 PDF 文档，不用在另外的窗口打开阅览它们，你可以在同一窗口多个标签打开预览，这样更简单快捷。
+- 想要快速找到某文本内容，可以一键搜索查找定位文本。
+- 快速通过缩略图旋转，删除，旋转和打印 PDF 页面。
+- 通过幻灯片的形式播放 PDF 文档。
+
+9. 保护文档
+- 可添加文档打开密码防止未经授权的用户打开。
+- 可设置文档功能权限控制密码，限制其他用户打印、编辑、复制 PDF 文档等。
+
+10. 创建 PDF
+- 创建空白页。
+- 从选区、窗口、或屏幕捕捉创建 PDF。
+
+11. 扁平化 PDF
+- 快速扁平化 PDF, 压平文档中的图层。
+
+12. 分享 PDF 文档
+- 你可以直接在线分享或者通过邮件直接分享文档。
+- 通过电子邮件将您的文档作为附件共享。
+
+应用内购包含的功能
+- 无水印保存修改的文档。 
+- 无限制的转换文档。 （免费试用版每天最多可转换 2 个文档）
+
+一个会员账号适用于所有平台。
+
+需要帮助？如果你有任何问题，可以邮件联系我们：support@superace.com.
+你也可以通过关注我们的官方公众号获取更多有用的信息。
+微信公众号：UPDF
+微博：赛博爱思UPDF
+
+如果你觉得这个 App 对你是有帮助的，可以在 App Store 留下你的评价，谢谢！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/4b/3d/964b3dff-c006-febe-0e21-372d2a151be0/fa8d5479-c4d3-4219-91f2-0382ffbb8774_CN0.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/f3/f8/6af3f8a3-a03f-9e4e-fdc3-f2f602b8e75a/617ec69b-30ae-4525-93fb-79bdd81bc0fa_CN1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/fb/d4/94fbd4eb-ae71-bdd2-02de-27400cc12a78/b96f45c5-c8d0-4cbf-8eb7-ce1f2b3ea83a_CN2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/69/cb/b469cb70-a837-5c03-fb3a-0427bce786a9/306bafc1-3fce-4a68-8bce-5a2690fef894_CN3.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/a8/1f/4fa81fd5-8107-c1e6-f3e7-4d911da44cb4/07f7df31-2ba0-4a49-b8fb-53a7242c6ae0_CN4.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/bc/08/92bc08dc-1f24-7abe-97e0-ab968aa86498/ea873055-31c4-4bf3-8bc7-22e2c45fa5fc_CN5.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/cc/83/2fcc83d2-6bef-4d0a-8da7-ad618a7197eb/0d06e493-52bc-48b0-afa0-71bb1c6add48_CN6.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/fc/6d/dffc6d74-547a-905d-c3af-1cb072cbe02a/c0dd350d-f3a1-42bd-86f2-7fcdb07ff2c5_CN7.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/49/9f/f6499f19-e191-e697-653a-4a1b7733e799/d4e20b87-8de3-47d3-b688-db06ffc98701_CN8.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/dc/7c/36dc7c1c-fbc6-8ff3-9e72-e077d3832594/4cece87d-ac66-46ad-a5a5-1578854dc268_CN9.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[网易有道翻译]]></title>
@@ -1345,73 +1474,5 @@ Filca旨在优化您的快照体验。
 -宠物相伴 一起冒险
 全新上线宠物系统，冒险之旅不再孤独！在冒险的旅途中，你将会在不同的际遇下，遇上这些宠物。它们各具特色，也有专属自己的独特能力，带上它们一起去冒险吧！
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/21/d6/5d/21d65de2-2ecb-b335-0bc7-4847ce63abd3/eba6035c-b4f0-409b-9377-a58fafc6b71a_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/bf/49/31/bf4931cf-15c2-7169-8b1c-0fd4b2e0d92d/681ea451-dfab-4f92-862f-96aa2dd08b84_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/84/7b/15/847b1500-0212-a581-9adf-0882a09daa09/2f2ec185-38b1-43c8-b5c8-867e814fb1ff_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a4/67/44/a46744b3-9dc1-ced3-c07f-b901d575e0ed/78892d63-bbb6-4729-ac1b-e7a2be916cb0_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/fa/8e/d1/fa8ed130-fcde-b758-3469-9a3ce45ed62e/5e7248b4-5caf-4144-9016-03ca8e813fe9_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/84/ee/d5/84eed573-05b4-f9e3-cf67-bb03fe7f61d8/94aa25cc-2af9-43e9-8d61-3cac02b9becc_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/bc/96/54/bc965473-de7c-1bc4-d1e4-f4c702d6ee44/c5e84ffb-00da-486d-adb1-d95294c54863_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/64/9a/98/649a98fe-b69a-ad08-57ab-457fd1fc7ebf/eed1cb00-bb13-432a-92de-b93fc14ecaea_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f0/c9/bb/f0c9bb84-6cd4-7abf-6789-18375667befd/9dd381e4-0b41-47c1-b89d-2109f04321b9_4.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/9b/35/ef/9b35ef5c-8286-b2b0-47be-df8080807b4d/aa4b6a56-3d5f-409a-b6cd-feed3679791d_5.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SkySafari 7 Pro]]></title>
-        <id>SkySafari 7 Pro-cn-1748096071962</id>
-        <link href="https://apps.apple.com/cn/app/skysafari-7-pro/id1567658979?uo=4"/>
-        <updated>2025-05-24T14:14:31.962Z</updated>
-        <summary type="html"><![CDATA[价格: ¥198.00 → ¥88.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/skysafari-7-pro/id1567658979?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/d7/8e/dfd78eb6-7768-fddc-ab46-01a22f91dca7/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥198.00</span> → <b>
-  <strong>¥88.00</strong>
-</b><span>[¥88.00 ~ ¥198.00]</span>）
-</h2><h2>应用描述</h2><p>
-  SkySafari makes stargazing a simple pleasure. It has the largest database of any astronomy app, includes every comet, asteroid, satellite & solar system object ever discovered, offers unparalleled accuracy, advanced planning and logging tools, flawless telescope control, and provides the very best experience under the stars when you depend on it. Don’t postpone joy. Discover why SkySafari is the #1 recommended astronomy app for serious amateur astronomers since 2009.
-
-Here's what’s new in version 7:
-
-+ Complete support for iOS 18 and iPhone 16. Version 7 brings a new and immersive stargazing experience.
-
-+ Events Finder - go to the new Events section to unlock a powerful search engine that finds astronomical events visible tonight and far into the future. The finder dynamically generates a listing of moon phases, eclipses, planetary moon events, meteor showers and planetary phenomenon such as conjunctions, elongations and oppositions.
-
-+ Notifications - the notifications section has been completely revamped to allow you to customize and manage which events trigger an alert notification on your device.
-
-+ Telescope Support - telescope control is at the heart of SkySafari.  Version 7 takes a giant leap forward by supporting ASCOM Alpaca, INDI & StarSense Explorer.  These next generation control protocols allow you to effortlessly connect to hundreds of compatible astronomical devices.
-
-SkySafari 7 brings social stargazing to mobile devices with two new features to help you connect with other like minded people.
-
-OneSky - allows you to see what other users are observing, in real time.  This feature highlights objects in the sky chart and indicates with a number how many users are observing a particular object.
-
-SkyCast - allows you to guide a friend or group around the night sky through their own copy of SkySafari. After initiating SkyCast, you can generate a link and conveniently share it with other SkySafari users via text message, apps or social media accounts.
-
-+ Sky Tonight -  jump to the new Tonight section to see what’s visible in your sky tonight.  Expanded information has been designed to help plan your night and includes  Moon & Sun info, calendar curations, events and the best positioned deep sky and solar system objects.
-
-+ Improved Observation Tools - SkySafari is the perfect tool to help you plan, record and organize your observations.  New workflows make it easier to add, search, filter and sort data.
-
-+ Home Screen and Lock Screen Widgets  keep your favorite astro information at your fingertips.
-
-The Small Touches:
-
-+ You can now edit the Jupiter GRS Longitude Value in the Settings.
-+ Better Moon Age calculation.
-+ New grid & reference options allow you to display Solstice and Equinox markers, Orbit + Node markers for all solar system objects, and tick marks and labels for the Ecliptic, Meridian, and Equator reference lines.
-+ Previous In-app Purchases are Now Free -  this includes the H-R diagram, 3D Galaxy view, and the PGC galaxy and GAIA star catalogs. Enjoy.
-+ Many more.
-
-If you haven't used SkySafari 7 Pro before, here's what you can do with it:
-
-+ Hold your device up, and SkySafari 7 Pro will find stars, constellations, planets, and more!
-
-+ Simulate the night sky up to 5MM years in the past or future! Animate meteor showers, conjunctions, eclipses, and other celestial events.
-
-+ Control your telescope, log and plan your observations.
-
-+ Optionally backup all of your observing data in our secure cloud storage and make it easily accessible to multiple devices as well as from our new web interface, LiveSky.com.
-
-+ Augmented Reality (AR) mode
-
-+ Night Vision.
-
-+ Orbit Mode. Leave the Earth’s surface behind, and fly through our solar system.
-
-+ Galaxy View shows the position of deep sky objects in our Milky Way!
-
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-
-https://www.livesky.com/privacy.html
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/4b/66/ec4b6627-9e7a-4d7b-9e59-9dc3c22b2444/fc114c40-4a86-4151-acf1-135348f90def_01_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/41/c8/3441c8a2-9ddb-0ba4-54a2-7d9c33d55819/7d3c5a19-ce1e-493a-b97e-ac44bfe1e3e2_02_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/3b/25/823b255b-d6de-2865-4001-54ae3b77ca74/9477ad0f-a87f-48fe-87df-b7d86cfddf29_03_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/3f/6f/973f6fc6-a487-a6d7-d84e-83bcd67eb617/f41d04a7-f92a-4bf8-8326-44a5624d4c52_04_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/33/a6/e733a6c5-9983-9cce-de47-91f52ce960f5/9b64ba56-4005-424b-9ac4-4adc03e276a6_10_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/29/a9/3729a943-c485-0530-a9fe-699afd5b40a1/0bcedd32-ad40-475d-8c85-564a3ca8994b_08_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/11/87/ee1187f7-9aa6-a26e-6044-d64a7d862df3/bb8fb1c7-f236-4a78-8eb8-8da51ea5170d_09_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/4a/46/754a46a6-9c84-cfd7-19bd-95f14a12c20f/6d960956-086f-4094-9879-148483841975_06_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/4f/e3/bb4fe39e-0ac2-3e00-a123-f53195ee038a/c3b22f39-5c7a-46cf-bd83-588d1912b4ea_05_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/47/dc/0547dc56-d76f-05e9-a76b-3d645d075327/b1f682b8-1c05-484a-a311-89c284bdbd28_07_SS7_Screenshot_iPhone.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/2a/01/0c2a01fe-e47e-4cc9-b47a-a110a57d01ea/4042e357-ab43-48ad-bb08-c52c04846921_01_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/cf/1d/fdcf1d78-831e-20e5-8bd5-8226e0de2a1d/a7a0b6ff-94fb-41f8-a3d4-3000abeb9896_02_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/3b/07/813b07ea-0be7-9738-35c5-1334ce61cd23/8a9e5258-db74-4b4e-96a5-b788f79dabe8_03_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/c6/78/61c678e7-4d03-8256-6665-9f6cb4ef8fe1/377933b2-01c1-4478-bf01-cfb3687a0c19_04_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/59/e8/bb59e8b6-04aa-55ec-f994-f71e4418a0fa/a8a7bedb-8c9d-4b5e-ad17-4b2430958800_05_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/08/4a/99084abd-62bc-7ee8-584b-a050da479c70/d861049c-217c-49c1-9e9c-c44984660491_06_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/82/39/9e823931-4754-0559-429d-16d381d79ade/385be8d6-bd03-4f58-b9da-f4aba2986b18_07_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/ea/88/edea8817-3658-c7e7-de0c-5f6b7e5eb266/81645ccf-a042-4217-9666-a4d5cc811000_08_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/5d/54/cd5d546d-62e3-cf9c-6103-edb6dcd6ab94/edecb9b2-ea7b-43be-a335-28f63ab96a71_09_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/ce/64/a3ce64f7-e854-18de-2bcf-32569ab49314/27ed81ef-4682-4c8b-8ade-92250d6dfbb4_10_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" />]]></content>
     </entry>
 </feed>

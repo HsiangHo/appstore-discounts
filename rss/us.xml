@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-05-27T15:25:03.755Z</updated>
+    <updated>2025-05-27T16:29:03.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-27T15:25:03.756Z</updated>
+        <updated>2025-05-27T16:29:03.765Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 27 May 2025 15:25:03 GMT</id>
+        <id>rankingusTue, 27 May 2025 16:29:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-27T15:25:03.756Z</updated>
+        <updated>2025-05-27T16:29:03.765Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -215,14 +215,22 @@ feedId:49753370488353792+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1519571900">Luwian</a>
+        <a href="https://apps.apple.com/us/app/id1068435535">Antivirus One - Virus Cleaner</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>2</b>
           </li><li>
-            <span>Price</span>：<b>2</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Upgrade to Pro</i>：<b>1</b>
+              </li><li>
+                <i>Upgrade To Pro</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -232,7 +240,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1523146826">Everybody's RPG: Reboot</a>
+        <a href="https://apps.apple.com/us/app/id1519571900">Luwian</a>
       </td>
       <td>
         <ul>
@@ -249,7 +257,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6740471827">Classic Maze Game for Watch</a>
+        <a href="https://apps.apple.com/us/app/id1523146826">Everybody's RPG: Reboot</a>
       </td>
       <td>
         <ul>
@@ -266,7 +274,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6467822375">Auto Redial App</a>
+        <a href="https://apps.apple.com/us/app/id6740471827">Classic Maze Game for Watch</a>
       </td>
       <td>
         <ul>
@@ -281,6 +289,23 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>
         <b>10</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6467822375">Auto Redial App</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id406541444">8mm Vintage Camera</a>
@@ -303,7 +328,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id463295925">Official DVSA Theory Test Kit</a>
@@ -326,7 +351,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id510249014">Level HD.</a>
@@ -343,7 +368,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id673906093">Audio Normalizer - Mp3 Gain</a>
@@ -360,7 +385,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id916976066">Phraseboard Keyboard</a>
@@ -387,7 +412,30 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1014945607">优酷视频-嘘国王在冬眠 全网独播</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>优酷视频点播</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1038014543">Day R Premium: last world war</a>
@@ -410,30 +458,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1068435535">Antivirus One - Virus Cleaner</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Upgrade to Pro</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1118115766">Bloons TD 6</a>
@@ -450,7 +475,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1230231705">The Witness</a>
@@ -467,7 +492,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1248033433">Kingdom Rush Vengeance TD Game</a>
@@ -502,7 +527,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1291429551">60 Parsecs!</a>
@@ -519,7 +544,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1389752090">Dead Cells</a>
@@ -536,7 +561,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -553,7 +578,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1435461053">This Is the Police</a>
@@ -570,7 +595,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1439262206">Root Board Game</a>
@@ -599,7 +624,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1439881811">RadarOmega</a>
@@ -622,7 +647,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1449020025">不玩手机-自律习惯养成记</a>
@@ -639,7 +664,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1453318714">Vostok — Story Maker</a>
@@ -656,7 +681,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1474716211">60 Seconds! Reatomized</a>
@@ -673,7 +698,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1481181827">Aces of the Luftwaffe Squadron</a>
@@ -690,7 +715,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1497120981">LUCH: Photo Effects & Filters</a>
@@ -707,7 +732,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1512751689">The Game of Life 2</a>
@@ -730,7 +755,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1538124245">where I put it</a>
@@ -747,7 +772,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1567658979">SkySafari 7 Pro</a>
@@ -764,7 +789,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
@@ -781,7 +806,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
@@ -804,7 +829,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1620883955">Little Nightmares</a>
@@ -821,7 +846,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1642733080">DungeonSquad</a>
@@ -838,7 +863,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -855,7 +880,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6479307181">Ghostly Detector</a>
@@ -872,7 +897,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6737987084">CatLight Pro: Selfie Light Cam</a>
@@ -889,7 +914,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6451376191">Dumb Phone: Minimal Launcher</a>
@@ -906,7 +931,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6446178861">PlayNav - No ads in videos!</a>
@@ -923,7 +948,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6449251957">Motorsport Manager 4</a>
@@ -940,7 +965,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6505058041">QUAKELINE</a>
@@ -957,7 +982,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -974,7 +999,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6458144503">Skul: The Hero Slayer</a>
@@ -991,7 +1016,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6471947612">召喚騎士團</a>
@@ -1008,7 +1033,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6743459503">逐鹿</a>
@@ -1025,7 +1050,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6466296603">The Last Game</a>
@@ -1042,7 +1067,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6740349666">Backyard Baseball '97</a>
@@ -1068,6 +1093,96 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antivirus One - Virus Cleaner]]></title>
+        <id>Antivirus One - Virus Cleaner-us-1748362981135</id>
+        <link href="https://apps.apple.com/us/app/antivirus-one-virus-cleaner/id1068435535?mt=12&amp;uo=4"/>
+        <updated>2025-05-27T16:23:01.135Z</updated>
+        <summary type="html"><![CDATA[Upgrade To Pro: $29.99 → $19.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/antivirus-one-virus-cleaner/id1068435535?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/45/8a/f2458a80-bd15-2169-91f1-f74706cc7c84/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Upgrade To Pro：</strong><span>$29.99</span> → <b>
+  <strong>$19.99</strong>
+</b><span>[$19.99 ~ $29.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Keep your digital wallets and keychains safe with Antivirus One, your personal cyber security expert.
+
+Antivirus One offers live antivirus monitoring to protect your Mac from adware, ransomware, spyware and all kinds of malware attacks.
+
+Download now and say goodbye to pop-up scams, spyware and viruses! 
+ 
+Developed exclusively by the world’s largest antivirus and spyware active monitoring lab at Trend Micro. Secure your Mac with these powerful Antivirus One protection features:
+
+1. Real Time Detection
+Live malware detector on the go. Protect your Mac against all threats 24/7.
+
+2. Virus Scanner
+Quick scan, deep scan or customize scan locations to safeguard every part of your disk.
+
+3. Virus Cleaner (In-App Purchase required)
+Automatically remove viruses completely for the security of your system and privacy.
+
+4. Adware Cleaner
+Get rid of pop-ups, adware, and browser hijackers so you can browse at peace.
+
+5. Privacy Cleaner
+Customize your online transparency. Turn invisible without leaving a trace in your browser.
+
+6. Safe Search
+Flag safety ratings of every Google search result.
+
+7. Web Threat Protection
+Prevents users from visiting phishing websites.
+
+We highly recommend full disk scanning using Antivirus One on a regular basis to keep your Mac safe from security threats.
+
+We offer two auto-renewing subscription options:
+— Monthly: as low as $2.99
+— Yearly: as low as $19.99
+Price may vary by location.
+ 
+Subscriptions will auto-renew unless canceled.
+— Payment will be charged to iTunes Account at confirmation of purchase
+— Subscription may be managed by the user and auto-renewal may be turned off by going to the user’s Account Setting after purchase.
+— No cancellation of the current subscription is allowed during active subscription period.
+— Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+— Your account will be charged for renewal for the amount of your current subscription within 24-hours prior to the end of the current period. All cost for subscriptions are mentioned above.
+
+We value your feedback, it helps us to improve Antivirus One to better serve you! Please send us your comments or suggestions in the App Store or by the feedback page inside Antivirus One.
+ 
+Privacy Policy and Terms of Use
+http://gr.trendmicro.com/GREntry/NonPayment?Target=AntivirusOne&OS=&SP=&PID=DS10&FunID=PrivacyPolicy&VID=&Locale=EN-US
+http://gr.trendmicro.com/GREntry/NonPayment?Target=AntivirusOne&OS=&SP=&PID=DS10&FunID=LicenseAgreement&VID=&Locale=EN-US
+
+Contact support: mac_support@trendmicro.com
+
+Please be advised that this app is only offered in English in this country.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fe/66/ea/fe66ea73-00d5-e896-118b-e100975d701c/fef617ed-c9c5-4cf8-beb9-55212d0e43ca_EN_01.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d4/ec/e2/d4ece2dc-3764-6337-30f1-89cadd295fe2/1f53872e-eed6-47e1-b2a6-4a880e357f55_EN_02.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b3/f0/b7/b3f0b750-dee9-2742-5ec1-0a4c5a20002d/5c5da793-a7b4-40c0-a269-1fc17bc7cbf8_EN_03.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/07/fb/f5/07fbf5f9-af25-59c4-7a9c-cae83e97535d/fa392ba7-3ace-4575-ac2f-b41374dc693c_EN_04.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/38/d3/bd/38d3bd34-bf58-986e-54bc-8856c02e2159/7085872b-3c40-4e66-bde9-26f41e215f1e_EN_05.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[优酷视频-嘘国王在冬眠 全网独播]]></title>
+        <id>优酷视频-嘘国王在冬眠 全网独播-us-1748362981135</id>
+        <link href="https://apps.apple.com/us/app/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91-%E5%98%98%E5%9B%BD%E7%8E%8B%E5%9C%A8%E5%86%AC%E7%9C%A0-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1014945607?mt=12&amp;uo=4"/>
+        <updated>2025-05-27T16:23:01.135Z</updated>
+        <summary type="html"><![CDATA[优酷视频点播: $5.99 → $0.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91-%E5%98%98%E5%9B%BD%E7%8E%8B%E5%9C%A8%E5%86%AC%E7%9C%A0-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1014945607?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/ca/f6/afcaf62c-52c9-f8ae-5817-e4ef8e8e05c8/icon.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>优酷视频点播：</strong><span>$5.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $5.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  优酷Mac客户端，聚焦全网精品内容，提供电影、电视剧、综艺、动漫、少儿等海量高清视频在线观看
+提供优质Mac本地视频播放器，同时支持优酷缓存视频和电脑本地视频播放
+支持4K画质，畅享极致视觉盛宴
+支持优酷账号及第三方登录，视频云记录，多屏同步看
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/4f/67/cd4f67e5-652e-3291-cfcc-61108e59a326/1280_U002a800-p1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/03/79/700379d4-5e0c-b64d-9118-5598426638d6/1280_U002a800-p2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/c9/48/7ec9485b-3ae7-eee3-dc9a-04da21cb21c2/1280_U002a800-p3.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Antivirus One - Virus Cleaner]]></title>

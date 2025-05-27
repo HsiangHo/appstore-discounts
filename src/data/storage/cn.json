@@ -4729,6 +4729,25 @@
     "history": [
       [
         {
+          "timestamp": 1748362981135,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "Acoustic Guitars": "¥8.00",
+            "Tuned 808 Bass": "¥8.00",
+            "Voices": "¥8.00",
+            "Varazdin Orchestral Mobile": "¥28.00",
+            "Amped Guitar & Bass": "¥22.00",
+            "Synth Lead": "¥15.00",
+            "Groove Machine Synth": "¥0.00",
+            "Sliced Beats": "¥8.00",
+            "Synth Plucks": "¥15.00",
+            "Chill-Lo-Fi Mobile": "¥15.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1747974056302,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -53205,15 +53224,31 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "永久授权": "¥268.00",
+      "永久授权": "¥238.00",
       "年度订阅": "¥168.00",
       "UPDF AI 标准版": "¥69.00",
-      "UPDF Pro + AI 无限": "¥468.00",
+      "UPDF Pro + AI 无限": "¥428.00",
       "UPDF AI 无限版": "¥268.00",
       "季度订阅": "¥88.00",
       "UPDF Pro + UPDF AI 标准版": "¥288.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748362981135,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "永久授权": "¥238.00",
+            "年度订阅": "¥168.00",
+            "UPDF AI 标准版": "¥69.00",
+            "UPDF Pro + AI 无限": "¥428.00",
+            "UPDF AI 无限版": "¥268.00",
+            "季度订阅": "¥88.00",
+            "UPDF Pro + UPDF AI 标准版": "¥288.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
