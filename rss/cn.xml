@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-05-27T21:23:09.255Z</updated>
+    <updated>2025-05-28T08:30:04.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-27T21:23:09.257Z</updated>
+        <updated>2025-05-28T08:30:04.751Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnTue, 27 May 2025 21:23:09 GMT</id>
+        <id>rankingcnWed, 28 May 2025 08:30:04 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-27T21:23:09.257Z</updated>
+        <updated>2025-05-28T08:30:04.751Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -50,13 +50,13 @@ feedId:49753297431966720+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>844</b>
+        <b>845</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>844</b>
+        <b>845</b>
       </td>
       <td>
         <b></b>
@@ -67,13 +67,13 @@ feedId:49753297431966720+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>834</b>
+        <b>835</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>834</b>
+        <b>835</b>
       </td>
       <td>
         <b></b>
@@ -588,7 +588,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>25</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1497120981">LUCH: Photo Effects & Filters</a>
+        <a href="https://apps.apple.com/cn/app/id1486274102">MPlayer X Pro</a>
       </td>
       <td>
         <ul>
@@ -605,7 +605,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>26</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1538124245">哪里哪里</a>
+        <a href="https://apps.apple.com/cn/app/id1497120981">LUCH: Photo Effects & Filters</a>
       </td>
       <td>
         <ul>
@@ -622,7 +622,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>27</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1544190466">避难所：生存</a>
+        <a href="https://apps.apple.com/cn/app/id1538124245">哪里哪里</a>
       </td>
       <td>
         <ul>
@@ -639,7 +639,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>28</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1551596643">模拟地铁</a>
+        <a href="https://apps.apple.com/cn/app/id1544190466">避难所：生存</a>
       </td>
       <td>
         <ul>
@@ -656,7 +656,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>29</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1567658979">SkySafari 7 Pro</a>
+        <a href="https://apps.apple.com/cn/app/id1551596643">模拟地铁</a>
       </td>
       <td>
         <ul>
@@ -671,6 +671,23 @@ feedId:49753297431966720+userId:73658201673997312
     <tr>
       <td>
         <b>30</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id1567658979">SkySafari 7 Pro</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1603421749">传奇高爆99999% 攻速9999倍PC同款三职业:战无不胜</a>
@@ -693,7 +710,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1619925971">UPDF - 新一代 AI 智能 PDF 编辑器</a>
@@ -718,7 +735,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1659316190">钢铁战队(R)</a>
@@ -735,7 +752,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -752,7 +769,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737987084">小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</a>
@@ -769,7 +786,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742129099">群英打三国-超休闲国风放置卡牌巅峰巨作</a>
@@ -786,7 +803,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6451376191">Dumb Phone: 简约主屏幕</a>
@@ -803,7 +820,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6446178861">PlayNav - 影片内无广告！</a>
@@ -820,7 +837,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6449930220">手表浏览器  Wafari</a>
@@ -837,7 +854,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -854,7 +871,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6744311159">魔王终局</a>
@@ -871,7 +888,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742396803">DaDaDaDa - 空气枪</a>
@@ -888,7 +905,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6473332700">逐鹿 - 历史沙盘战棋</a>
@@ -905,7 +922,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6450877530">花园之间</a>
@@ -922,7 +939,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6443786927">全面憨憨战争模拟器</a>
@@ -948,6 +965,32 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MPlayer X Pro]]></title>
+        <id>MPlayer X Pro-cn-1748420668910</id>
+        <link href="https://apps.apple.com/cn/app/mplayer-x-pro/id1486274102?mt=12&amp;uo=4"/>
+        <updated>2025-05-28T08:24:28.910Z</updated>
+        <summary type="html"><![CDATA[价格: ¥6.00 → ¥1.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/mplayer-x-pro/id1486274102?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/bd/e8/48bde811-4dec-1005-e407-b2e2184b832b/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png" />
+</a><h2>
+  优惠信息（价格：<span>¥6.00</span> → <b>
+  <strong>¥1.00</strong>
+</b><span>[¥1.00 ~ ¥6.00]</span>）
+</h2><h2>应用描述</h2><p>
+  强大的视频播放器，具有高级硬件加速和字幕支持。
+
+它播放大多数本地视频和音频文件。
+
+-支持视频文件：MP4，MOV，M4V，MKV，WMV，RMVB，FLV，AVI，3GP，TS，ASF，ASX，DAT，DIVX，F4V，M3U8，MPG，MTS，OGM等
+
+-支持音频文件：MP3，WAV，WMA，FLAC，APE，Wavpack，MPEG Layer 1/2，Vorbis，AC3-A / 52，E-AC-3，MLP / TrueHD> 3，DTS，ALAC，Speex，Musepack / MPC，ATRAC 3，Mod，TrueAudio，Real Audio，Alaw / µlaw，AMR（3GPP），MIDI，LPCM，ADPCM，QCELP，DV Audio，QDM2 / QDMC，MACE等
+
+-支持字幕文件：DVD，DVB，SMI，SRT，SSA / ASS，IDX，SUB，IDX，MPL，TXT，TELETEXT，LRC，PJS，SUP，VTT，MLP2，文本文件（MicroDVD，SubRIP，SubViewer，SSA1- 5，SAMI，VPlayer），隐藏式字幕，Vobsub，通用字幕格式（USF），SVCD / CVD，OGM，CMML，Kate等。
+
+-支持播放列表文件：CUE，M3U，ASM，PLS，WPL
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6c/47/55/6c47552d-4689-d347-6598-555f196e0615/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/05/69/c0/0569c08f-fc02-f691-0125-b9cd197f3f00/pr_source.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[音频剪辑 – 手机铃声制作&mp3音乐剪辑]]></title>
@@ -1406,68 +1449,5 @@ https://www.mixvibes.com/privacy
 微信：有道翻译
 官方网站：fanyi.youdao.com/download
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/19/b3/4719b3f0-95d5-28de-cb95-f7fd4d31c78f/4089b4b1-ef3b-4b54-9544-04b77dd0aafe_1440_900.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/12/77/25127735-75e4-a792-79c9-aa9275deefa7/01ca9f69-7245-430e-af80-aa9e9407dab7_2_mac__U5e94_U7528_U622a_U56fe__U9996_U9875.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/7d/1d/6b7d1d50-1ce2-780f-dc79-3caf005238be/1a4e8a66-453e-42fa-99e1-1a14b49df97f_3_mac__U5e94_U7528_U622a_U56fe_AI_U6587_U6863_U7ffb_U8bd1_U00b7_U95ee_U7b54.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/86/92/c7869296-9928-151f-789a-a571ad49eff0/07e3275c-bc25-4940-a861-d8b1551763e0_6_mac__U5e94_U7528_U622a_U56fe_AIBox_U8de8_U8f6f_U4ef6_U5de5_U5177.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/4a/17/184a1762-0b9b-b20d-b8ca-055467912e53/1cf1e7e9-1170-44dc-b397-2109f2e9f41b_4_mac__U5e94_U7528_U622a_U56fe_AI_U622a_U56fe.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/ca/3a/f0ca3a8c-a9bf-0451-2845-2161009ef5b3/3e21f929-1003-4ddb-98f0-e7590fc22a23_5_mac__U5e94_U7528_U622a_U56fe_AI_U5212_U8bcd.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/17/9c/d3179c8d-a16b-346a-40e3-5f3f3569ed5e/a7692139-eb7c-45c5-8643-602dd2a63bf4_7_mac__U5e94_U7528_U622a_U56fe_AI_U5199_U4f5c.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/49/76/d249765c-73d8-efa7-26eb-0422f57dec93/b6dbca02-0d72-4118-bd1c-442e37befe38_8_mac__U5e94_U7528_U622a_U56fe_AI_U4e00_U952e_U521b_U4f5cPPT.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FILCA - SLR Film Camera]]></title>
-        <id>FILCA - SLR Film Camera-cn-1748143103294</id>
-        <link href="https://apps.apple.com/cn/app/filca-slr-film-camera/id1436429074?uo=4"/>
-        <updated>2025-05-25T03:18:23.294Z</updated>
-        <summary type="html"><![CDATA[UPGRADE PRO: ¥298.00 → ¥45.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/filca-slr-film-camera/id1436429074?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/ae/12/cbae125f-00d8-4adf-a035-2081a5c21ab5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>UPGRADE PRO：</strong><span>¥298.00</span> → <b>
-  <strong>¥45.00</strong>
-</b><span>[¥45.00 ~ ¥298.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Filca 是一款单反胶卷相机。
-35种胶卷滤镜和电影效果让您的照片栩栩如生。
-
-@veteranUser
-"没有Filca，你只是在收集时刻，
-有了Filca，你在保存记忆。"
-
-使用Filca的专家级手动控制精通您的拍摄。
-
-■ 手动模式下的快门速度、ISO、白平衡控制
-■ 来自业界领导者如Kodak、Fuji、Agfa的35mm胶卷滤镜
-
-Filca旨在优化您的快照体验。
-非常适合拍摄人物、自拍、夜景以及捕捉日常生活的微妙美丽。
-应用我们的滤镜，以实现真正的模拟胶片外观。
-
-主要特性：
-
-- 带35mm胶卷滤镜的自动模式相机
-- 手动模式（曝光和对焦）
-- 对快门速度、ISO的完全控制
-- 各种宽高比：4:3、3:2、16:9、1:1
-- 数字变焦可放大至8倍
-- 手动对焦控制（微距、风景）
-- 来自Fuji、Kodak、Agfa的35mm胶卷滤镜（包括黑白滤镜）
-- 胶片颗粒效果
-- 胶片日期打印效果
-- 光学图像稳定
-- 低功耗模式
-- 自拍模式
-- EXIF数据存储（包括位置数据）
-- 人像增强
-- 全分辨率照片
-- 定时器和闪光灯功能
-- 网格模式视图
-- 专业特性：
-
-白平衡调整功能
-日期打印功能
-在Instagram上使用#filca分享您的照片，我们期待展示您的作品。
-关注我们的Instagram: https://www.instagram.com/filca.app/
-
-使用条款：https://han.gl/HCCwV
-隐私政策：https://han.gl/Wclkw
-
-让我们与Filca一起提升您的摄影旅程。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/ae/5a/0fae5a63-e3d7-35bf-fa70-c3aa442b4975/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/86/91/bb869155-de4e-528a-1e6f-6a08986c65f3/mzl.trctbulf.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/54/7f/fd547f0a-d8ca-5df0-2215-6a600bebd576/mzl.jkpydgtk.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/1b/c3/9e1bc308-ff88-a45a-9151-22cf10e581aa/mzl.iuujtrpe.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/92/39/9c9239fd-ec3d-cb12-161e-e85fa660d723/mzl.bunfhsqq.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/62/15/7762157d-28cc-3871-bd0e-53f6789d8c86/mzl.tueratuw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/ad/da/b8adda13-13d6-1ab5-cb9b-12e847d6d3b4/mzl.xuagyzrc.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/13/47/4113470f-bea4-4ff8-eb89-bb7f1bf256b1/mzl.xgdowtok.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/3e/df/3a3edf46-1eb1-146d-46a8-f1fccd619a74/mzl.pmxuzxfw.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/d2/54/37d25435-2d99-fb29-0428-8f5a813b4509/mzl.rtuimiiz.jpg/406x228bb.jpg" />]]></content>
     </entry>
 </feed>
