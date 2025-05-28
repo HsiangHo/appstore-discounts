@@ -35207,7 +35207,11 @@
       "Buy 3yr membership, get 3 free": "$59.99",
       "Yearly VIP": "$12.99",
       "Monthly VIP": "$29.99",
-      "Personal 2 Years (Buy 1 get 1)": "$49.99"
+      "Personal 2 Years (Buy 1 get 1)": "$49.99",
+      "Lifetime Membership": "$69.99",
+      "ApowerMirror Personal (Weekly)": "$15.99",
+      "傲软投屏个人版（季度订阅）": "$29.99",
+      "云投屏时长（1800分钟）": "$12.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -35220,9 +35224,30 @@
       "Buy 3yr membership, get 3 free": "$59.99",
       "Yearly VIP": "$12.99",
       "Monthly VIP": "$29.99",
-      "Personal 2 Years (Buy 1 get 1)": "$49.99"
+      "Personal 2 Years (Buy 1 get 1)": "$49.99",
+      "Lifetime Membership": "$69.99",
+      "ApowerMirror Personal (Weekly)": "$15.99",
+      "傲软投屏个人版（季度订阅）": "$29.99",
+      "云投屏时长（1800分钟）": "$12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748456656105,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime Membership": "$69.99",
+            "ApowerMirror Personal (Weekly)": "$15.99",
+            "Buy 3yr membership, get 3 free": "$59.99",
+            "傲软投屏个人版（季度订阅）": "$29.99",
+            "ApowerMirror Personal (Yearly)": "$39.99",
+            "ApowerMirror Personal(Monthly)": "$19.99",
+            "Personal 2 Years (Buy 1 get 1)": "$49.99",
+            "云投屏时长（1800分钟）": "$12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
