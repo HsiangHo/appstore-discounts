@@ -5745,6 +5745,25 @@
     "history": [
       [
         {
+          "timestamp": 1748406168220,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Synth Lead": "$1.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Synth Plucks": "$1.99",
+            "Groove Machine Synth": "$0.00",
+            "Transistor Bass": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748352638170,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -6592,7 +6611,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Full Access to PRO": "$6.99",
+      "Full Access to PRO": "$29.99",
       "Unlock Upgrade Features": "$0.00"
     },
     "minPriceInfo": {
@@ -6602,6 +6621,17 @@
       "Unlock Upgrade Features": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748406168220,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Full Access to PRO": "$29.99",
+            "Unlock Upgrade Features": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -10481,6 +10511,22 @@
       "有道词典超级会员1年": "$59.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748406168220,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "有道词典会员连续包月": "$3.99",
+            "有道词典超级会员": "$14.99",
+            "有道词典超级会员1个月": "$5.99",
+            "6充值币": "$0.99",
+            "10万字符加量包": "$0.99",
+            "50万字符加量包": "$3.99",
+            "30充值币": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748266075020,
@@ -34793,6 +34839,20 @@
       "单点商品": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748406168220,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "1个月腾讯视频VIP": "$3.99",
+            "付费商品": "$1.99",
+            "该付费商品": "$0.99",
+            "3个月腾讯视频VIP": "$9.99",
+            "1年腾讯视频VIP": "$39.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748384196960,
@@ -64083,6 +64143,21 @@
       "3-Time AI Effects": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748406168220,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- 25 Credits": "$7.99",
+            "Wink- 100 Credits": "$24.99",
+            "10-second AI animation": "$1.99",
+            "Wink- 5 Credits": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748384196960,
