@@ -59,10 +59,10 @@
       "inAppPurchase": {}
     },
     "1339124759": {
-      "all": 2,
+      "all": 3,
       "price": 0,
       "inAppPurchase": {
-        "月度会员": 1,
+        "月度会员": 2,
         "永久会员": 1
       }
     },
@@ -657,6 +657,13 @@
       "price": 0,
       "inAppPurchase": {
         "8mm Pro": 1
+      }
+    },
+    "450527929": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Full Access to PRO": 1
       }
     },
     "463295925": {
