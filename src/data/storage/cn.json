@@ -13227,6 +13227,14 @@
     "history": [
       [
         {
+          "timestamp": 1748441930598,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748269070169,
           "price": 38,
           "formattedPrice": "¥38.00",
@@ -53404,15 +53412,29 @@
       "price": 0,
       "formattedPrice": "免费",
       "永久授权": "¥238.00",
-      "年度订阅": "¥168.00",
+      "年度订阅": "¥148.00",
       "UPDF AI 标准版": "¥69.00",
       "UPDF Pro + AI 无限": "¥428.00",
-      "UPDF AI 无限版": "¥268.00",
+      "UPDF AI 无限版": "¥238.00",
       "季度订阅": "¥88.00",
-      "UPDF Pro + UPDF AI 标准版": "¥288.00"
+      "UPDF Pro + UPDF AI 标准版": "¥238.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1748441930598,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "永久授权": "¥238.00",
+            "年度订阅": "¥148.00",
+            "UPDF AI 标准版": "¥69.00",
+            "UPDF Pro + AI 无限": "¥428.00",
+            "UPDF AI 无限版": "¥238.00",
+            "季度订阅": "¥88.00",
+            "UPDF Pro + UPDF AI 标准版": "¥238.00"
+          }
+        },
         {
           "timestamp": 1748362981135,
           "price": 0,

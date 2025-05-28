@@ -25,6 +25,11 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "673906093": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "829581836": {
       "all": 1,
       "price": 0,
@@ -169,11 +174,14 @@
       }
     },
     "1619925971": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
         "永久授权": 1,
-        "UPDF Pro + AI 无限": 1
+        "UPDF Pro + AI 无限": 1,
+        "年度订阅": 1,
+        "UPDF AI 无限版": 1,
+        "UPDF Pro + UPDF AI 标准版": 1
       }
     },
     "1624326561": {
