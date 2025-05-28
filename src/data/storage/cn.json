@@ -21079,6 +21079,24 @@
     "history": [
       [
         {
+          "timestamp": 1748449306893,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Trap": "¥22.00",
+            "Remixlive Premium (Monthly)": "¥68.00",
+            "Electro": "¥22.00",
+            "Drum & Bass": "¥22.00",
+            "Deep House": "¥22.00",
+            "Hip-Hop": "¥22.00",
+            "Dubstep": "¥22.00",
+            "Future Beat": "¥22.00",
+            "Full Access to PRO": "¥198.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748319844810,
           "price": 0,
           "formattedPrice": "免费",
@@ -51523,6 +51541,21 @@
       "AI 春节玩法 - 3次": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748449306893,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Wink VIP连续包月": "¥18.00",
+            "Wink VIP 连续包年": "¥168.00",
+            "保存本次画质修复结果": "¥12.00",
+            "70美豆": "¥10.00",
+            "252美豆": "¥36.00",
+            "476美豆": "¥68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748406168220,
