@@ -33394,7 +33394,8 @@
       "All Chords": "$5.99",
       "All Scales": "$5.99",
       "All Arpeggios": "$5.99",
-      "Lesson Pack": "$4.99"
+      "Lesson Pack": "$5.99",
+      "All Chords, Scales & Arpeggios": "$9.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -33402,11 +33403,28 @@
       "All Current Content": "$9.99",
       "All Chords, Scales and Arpeggios": "$7.99",
       "All Chords": "$5.99",
-      "All Scales": "$5.99",
+      "All Scales": "$4.99",
       "All Arpeggios": "$5.99",
-      "Lesson Pack": "$4.99"
+      "Lesson Pack": "$4.99",
+      "All Chords, Scales & Arpeggios": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748545962159,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "All Chords": "$5.99",
+            "All Scales": "$4.99",
+            "All Arpeggios": "$5.99",
+            "All Chords, Scales and Arpeggios": "$7.99",
+            "All Chords, Scales & Arpeggios": "$9.99",
+            "Lesson Pack": "$5.99",
+            "All Current Content": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -84105,7 +84123,9 @@
       "Quarterly": "$12.99",
       "年会员": "$24.99",
       "周会员": "$0.99",
-      "月会员": "$2.99"
+      "月会员": "$2.99",
+      "Year VIP": "$59.99",
+      "月卡": "$4.39"
     },
     "minPriceInfo": {
       "price": 0,
@@ -84119,9 +84139,30 @@
       "Quarterly": "$12.99",
       "年会员": "$24.99",
       "周会员": "$0.99",
-      "月会员": "$2.99"
+      "月会员": "$2.99",
+      "Year VIP": "$59.99",
+      "月卡": "$4.39"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748545962159,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Year VIP": "$59.99",
+            "月卡": "$4.39",
+            "周卡": "$1.99",
+            "月会员": "$2.99",
+            "周会员": "$0.99",
+            "年会员": "$24.99",
+            "Monthly": "$4.99",
+            "Quarterly": "$12.99",
+            "连续周卡": "$0.99",
+            "半年卡": "$32.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,

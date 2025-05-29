@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-05-28T13:37:03.524Z</updated>
+    <updated>2025-05-29T19:18:05.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-28T13:37:03.524Z</updated>
+        <updated>2025-05-29T19:18:05.831Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusWed, 28 May 2025 13:37:03 GMT</id>
+        <id>rankingusThu, 29 May 2025 19:18:05 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-28T13:37:03.524Z</updated>
+        <updated>2025-05-29T19:18:05.831Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -50,13 +50,13 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>845</b>
+        <b>846</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>845</b>
+        <b>846</b>
       </td>
       <td>
         <b></b>
@@ -67,13 +67,13 @@ feedId:49753370488353792+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>838</b>
+        <b>839</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>838</b>
+        <b>839</b>
       </td>
       <td>
         <b></b>
@@ -501,6 +501,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>20</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1171417699">Guitar Gravitas: Chords Scales</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>All Scales</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>21</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1230231705">The Witness</a>
       </td>
       <td>
@@ -515,7 +538,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1248033433">Kingdom Rush Vengeance TD Game</a>
@@ -550,7 +573,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1291429551">60 Parsecs!</a>
@@ -567,7 +590,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1389752090">Dead Cells</a>
@@ -584,7 +607,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -601,7 +624,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1435461053">This Is the Police</a>
@@ -618,7 +641,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1439262206">Root Board Game</a>
@@ -647,7 +670,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1439881811">RadarOmega</a>
@@ -670,7 +693,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1449020025">不玩手机-自律习惯养成记</a>
@@ -687,7 +710,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1453318714">Vostok — Story Maker</a>
@@ -704,7 +727,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1474716211">60 Seconds! Reatomized</a>
@@ -721,7 +744,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1481181827">Aces of the Luftwaffe Squadron</a>
@@ -738,7 +761,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1497120981">LUCH: Photo Effects & Filters</a>
@@ -755,7 +778,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1512751689">The Game of Life 2</a>
@@ -778,7 +801,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1538124245">where I put it</a>
@@ -795,7 +818,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1567658979">SkySafari 7 Pro</a>
@@ -812,7 +835,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
@@ -829,7 +852,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
@@ -852,7 +875,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1620883955">Little Nightmares</a>
@@ -869,7 +892,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1642733080">DungeonSquad</a>
@@ -886,7 +909,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -903,7 +926,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6479307181">Ghostly Detector</a>
@@ -920,7 +943,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6737987084">CatLight Pro: Selfie Light Cam</a>
@@ -937,7 +960,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6451376191">Dumb Phone: Minimal Launcher</a>
@@ -954,7 +977,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6446178861">PlayNav - No ads in videos!</a>
@@ -971,7 +994,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6449251957">Motorsport Manager 4</a>
@@ -988,7 +1011,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6505058041">QUAKELINE</a>
@@ -1005,7 +1028,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -1022,7 +1045,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6458144503">Skul: The Hero Slayer</a>
@@ -1039,7 +1062,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6471947612">召喚騎士團</a>
@@ -1056,7 +1079,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6743459503">逐鹿</a>
@@ -1073,7 +1096,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6466296603">The Last Game</a>
@@ -1090,7 +1113,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>52</b>
+        <b>53</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6740349666">Backyard Baseball '97</a>
@@ -1116,6 +1139,49 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guitar Gravitas: Chords Scales]]></title>
+        <id>Guitar Gravitas: Chords Scales-us-1748545962159</id>
+        <link href="https://apps.apple.com/us/app/guitar-gravitas-chords-scales/id1171417699?uo=4"/>
+        <updated>2025-05-29T19:12:42.159Z</updated>
+        <summary type="html"><![CDATA[All Scales: $5.99 → $4.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/guitar-gravitas-chords-scales/id1171417699?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/aa/b7/0caab733-4f00-6b2b-78ee-d283cadab019/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>All Scales：</strong><span>$5.99</span> → <b>
+  <strong>$4.99</strong>
+</b><span>[$4.99 ~ $5.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Learn Guitar. Guitar Chords & Scales Libraries, Lessons, Backing Tracks, Tuner, Metronome and much more.
+
+Guitar Gravitas is an inspirational tool for guitar players of all levels (beginner to pro) that offers the most comprehensive, advanced and interactive chord, arpeggio and scale library in the App Store.
+
+• Over 200 chord types including not only a library of 15,000 of the most commonly used chord shapes but also MILLIONS of playable shapes generated by a state-of-the-art algorithm that allows you to select the root note of the chord and also the lowest or highest note.
+
+• Thousands of arpeggios patterns generated on selection from a list of more than 200 chord types.
+
+• Over 1000 different scales from all over the world including thousands of patterns.
+
+• 31 videos with Guitar Lessons, Backing tracks, Tutorials and Support documents on PDF format.
+
+• High Precision Guitar Tuner.
+
+• Metronome.
+
+• More than 200 predefined guitar tunings and the possibility to create your own. 
+
+• Interact to listen to how chords, arpeggios and scales sound.
+
+• :. Guitar Gravitas .: also comes with chord, arpeggio and scale finders where you can select notes on the fretboard and find out what what you are playing is called.
+
+• No matter what chord, arpeggio or scale you are checking out, :. Guitar Gravitas .: allows you to know what chords, arpeggios or scales you could combine it with.
+
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/c1/e2/73c1e273-e38e-de62-daf8-d90d20f6452a/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ba/78/f5/ba78f595-0f21-ab38-3292-f7e592cc700f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/48/c9/f2/48c9f2a3-42ab-3030-6227-60d7ee824a28/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/7a/f8/2f/7af82f32-3109-2a38-72fa-9b01ad557dcc/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c8/b8/da/c8b8da92-9210-e3c4-2483-4699c8ff0a84/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/d1/8a/7a/d18a7a73-0b7e-5d75-da67-5bae4fee63be/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/4e/b6/23/4eb62330-fbc3-afc8-e21d-5ab0e9a316ea/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/8e/78/02/8e780248-7f4a-d304-11be-5d5db9dccfe3/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ce/93/06/ce930649-a180-257a-ccba-076895a9dff1/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ac/9e/f2/ac9ef2e6-05f2-83d7-eeec-9cb16e7e9f17/mzl.lqmszssc.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/95/b4/00/95b40013-26a4-b33d-3cc7-fc817d10683b/mzl.wawqozlc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/16/2e/a1/162ea1f1-f4b7-624a-3283-782e4994ce25/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/7d/c3/c0/7dc3c041-1912-2efc-4022-8df98ff62089/mzl.ewzeqoly.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/2e/bf/40/2ebf402d-b112-8f9d-6b55-07e8190db070/mzl.ynmscdsc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/80/1f/e6/801fe6ce-8e05-998a-3148-994f7f5be9b8/mzl.hebfsjky.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/42/2d/ad/422dad23-a054-fe10-e751-7fba884950a9/mzl.jctrylyt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/b9/a9/a7/b9a9a774-8198-2a1b-0c6c-871ce3d15b50/mzl.bjtnxaan.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c2/98/06/c29806e5-591e-484b-2c16-11a56731b921/mzl.qjgxihxf.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[djay - DJ App & AI Mixer]]></title>
@@ -1404,109 +1470,5 @@ Please note that volume of DRM-protected files can not be analyzed and adjusted.
 Audio Normalizer Feedback:
 Any suggestion will be appreciated, email us at: market@effectmatrix.com
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/54/e5/21/54e52136-aedd-7be7-401c-1b0d57167876/mzl.slwgpxzg.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/81/1b/a2/811ba285-ce2a-0bbf-4471-5c16141f4493/mzl.bxrizfzd.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/0e/0b/b3/0e0bb301-860d-715c-ff63-8b5466a78619/mzl.fporlniz.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wink: Video Enhancer & Editor]]></title>
-        <id>Wink: Video Enhancer &amp; Editor-us-1748252626759</id>
-        <link href="https://apps.apple.com/us/app/wink-video-enhancer-editor/id1594288016?uo=4"/>
-        <updated>2025-05-26T09:43:46.759Z</updated>
-        <summary type="html"><![CDATA[Yearly Auto-renew VIP: $59.99 → $40.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/wink-video-enhancer-editor/id1594288016?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/d9/eb/a3d9eb83-980d-22a9-6163-18ad34b81f87/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Yearly Auto-renew VIP：</strong><span>$59.99</span> → <b>
-  <strong>$40.99</strong>
-</b><span>[$40.99 ~ $59.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Wink 
-l Make any low-quality video & photo into HD/Ultra HD/4K with before/after comparisons.
-l Making video editing easier than ever!
-l Various creative video transition effects enhance final results!
-l Fine-tune your selfies with video retouch tools to highlight your day!
-
-Video ＆ Photo Enhance
-- Video Enhancer: Enhance portraits and selfies to stunning output.
-- 4K Upscaler: AI-powered 4K upscaling for enhanced video quality.
-- Stabilize: Smooth out shaky footage for professional-looking videos. 
-- Noise reduction: Reduce video noise and grain for professional-looking results.
--  AI Color: Give your video a vibrant, fresh look with our easy-to-use color enhancement tool
-
-Video Retouch
-- Manual Face Slimming: Adjust your facial features as you wish
-- Body Shape: Achieve a supermodel physique!
-- Stylish Makeup: Providing a range of natural makeup
-- Face Editor: Remove acne, Face Plump, Skin tone ... and more!
-- Whiten Teeth: Say goodbye to brown teeth and show off your smile!
-
-Video Editing
-- Professional Editing: Color, Crop, Speed, Split, Mirror, Soundtrack and more!
-- Templates: Easily apply to create high-quality vlogs
-- Quality Restoration: Clear AI-enhanced video restoration!
-- Effects: Adds texts, stickers, and transitions to enhance your videos
-- Automatic Subtitle: Utilizes intelligent voice recognition for easy text inputting
-
-
-AI Captions
-- Accurate AI subtitles for your videos in seconds 
-- Support Bilingual: Create dual-language subtitles for your videos
-- Support 8 languages
-
-Wink VIP
-- Access exclusive VIP features
-
-Wink offers a wide range of exclusive VIP features to enhance retouching experience. We are committed to providing you with an improved service. We look forward to your continuing support.
-- Subscriptions
-
-Wink VIP-Monthly Subscription offers a subscription period of one month.
-Wink VIP-Annual subscription entails a 12-month period.
-*The subscription price is determined based on the information provided in the in-app purchase (iAP) application.
-
-- Instructions for Payment and Cancellation
-
-"Payment" will be credited to your iTunes account once you have confirmed and paid for your subscription.
-
-"Renewal" subscriptions for "Monthly/Annual" plans are automatically renewed and will incur charges to your iTunes account following your purchase confirmation. The subscription will be automatically renewed. To cancel it, please disable the automatic renewal at least 24 hours before the subscription period ends. Within 24 hours before the subscription cycle expires, Apple will automatically debit your iTunes account, extending your subscription for a new cycle.
-
-"To cancel your subscription, kindly navigate to the "Settings" section on your iPhone, click on "Apple ID," proceed to the "Subscription" screen, and choose "Wink" to terminate your subscription.
-
-- Agreement
-Terms of Service：https://pro.meitu.com/wink-cut/agreements/common/service-global.html?lang=en
-Privacy Policy：https://pro.meitu.com/wink-cut/agreements/common/policy-global.html?lang=en
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/40/7f/0f407fc6-2cb1-b755-01d9-883601c23713/cc0cb74b-4027-4293-8e2a-df4f486fbc0e_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/7f/ed/1f7fed1f-b4a2-5cbd-e901-79149df5a7e7/ff1797e3-750b-47f1-8943-9e2c4cd1f229_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/27/ec/4c27ec7a-18fb-8793-9060-682107f40a42/d658bac2-fdc2-4543-9fb4-7bc95f07143a_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/e9/5a/d7e95a54-4243-9a7f-06a5-0ad0b4ab7f58/0915dcc4-bb8f-4c6e-a019-8e4654e9ae02_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/e1/73/46e173c2-73f0-7856-6b7c-e987ebe46aa7/49e562c9-d453-45fd-9b3f-86c7f129682b_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/36/fc/e536fc93-fb55-97ea-667b-6ba6c469f3b5/8a0d0133-fd9e-4b64-bf9b-89d53f8bc052_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/10/4d/59104d66-0ce8-fac0-adda-de6b4d41a6d2/944fe9ef-57a7-4cee-b49f-4d9e5d4889f0_7.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/70/15/e7701572-c314-f7a5-c84f-b43eb75a294c/f0c00bb5-97ad-41cf-9c7c-91b9bac7efd0_2048_U00d72732_01__U82f1_U6587.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/e7/73/41e7739c-5397-50d1-74bd-00caa6f5a05e/4d3bb3ff-5177-430e-a6b9-3f9ed17b0cf9_2048_U00d72732_02__U82f1_U6587.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/84/42/6084426c-ca69-f82c-60ed-e7a522479b9e/afdb1a70-008c-4f38-a476-3cc367c88187_2048_U00d72732_03__U82f1_U6587.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/ea/1b/95ea1b1b-ef8e-8dfe-024c-360ae7866899/20c74a76-4bb2-42de-be4d-46ea1bf55a5d_2048_U00d72732_04__U82f1_U6587.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/ed/bf/1eedbfc7-69a9-d2b5-982d-616d55da7190/1395c882-eff8-4505-8134-20357125076a_2048_U00d72732_05__U82f1_U6587.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Backyard Baseball '97]]></title>
-        <id>Backyard Baseball '97-us-1748229310744</id>
-        <link href="https://apps.apple.com/us/app/backyard-baseball-97/id6740349666?uo=4"/>
-        <updated>2025-05-26T03:15:10.744Z</updated>
-        <summary type="html"><![CDATA[Price: $4.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/backyard-baseball-97/id6740349666?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/e6/11/9be611ce-a302-0805-8ac2-b7d478bd0337/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$4.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $4.99]</span>）
-</h2><h2>Application Description</h2><p>
-  Rediscover the joy of the original Backyard Baseball 1997! Build your roster from the iconic cast of 30 characters stacked with charming personalities and witty banter, and get the edge on the competition with power-ups, fireball pitches, super strength, and Pablo Sanchez!
-Play pick-up games, practice batting, and compete in single games or a whole season with simple, intuitive controls that anyone can master!
-Game Modes:
-Random Pick-up: A quick way to jump right in! The computer chooses a random team for you and itself, and the game starts immediately.
-Single Game: You take turns with the computer to choose players from a random pool of characters.
-Season: You create a team and manage it through a 14 game series. The opposing teams are computer generated. At the end of the season the best two teams advance to the BBL playoffs (best of 3). The winner advances to the championship series which consists of the Super Entire Nation Tournament (best of 3) and then the Ultra Grand Championship of the Universe Series (best of 5)!
-Batting Practice: Choose a batter and face Mr. Clanky for some batting practice. This is where you’ll learn just when to click to make your chosen batter hit that ball!
-T-ball - Select T-ball mode for more accessible game play. Simply click to hit, run, and field!
- 
-BACKYARD BASEBALL RULES
-The rules for Backyard Baseball are a hybrid of Pro and Little League rules:
-No leading off
-No Injuries
-Bunting is allowed
-Tagging up is allowed
-Stealing is allowed
- 
-At our core, we are fans first–not just of video games but of the Backyard Sports franchise. Fans have asked for accessible and legal ways to play their original Backyard titles for years, and we are excited to deliver. Without having access to the source code, there are hard limitations on the experience we can create. Backyard Baseball '97 runs buttery smooth for iOS devices, looks better than ever, and creates a new installation for digital preservation within the Backyard Sports catalog that allows the next generation of fans to fall in love with the title that started it all.
-</p>]]></content>
     </entry>
 </feed>
