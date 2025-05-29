@@ -67681,6 +67681,18 @@
     "history": [
       [
         {
+          "timestamp": 1748503057084,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "UPDF Pro + AI Unlimited": "$108.99",
+            "UPDF AI Unlimited": "$79.00",
+            "Perpetual License": "$128.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748191896014,
           "price": 0,
           "formattedPrice": "Free",
