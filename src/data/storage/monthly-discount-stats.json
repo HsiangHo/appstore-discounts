@@ -755,10 +755,11 @@
       "inAppPurchase": {}
     },
     "1171417699": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "All Scales": 1
+        "All Scales": 1,
+        "Lesson Pack": 1
       }
     },
     "1230231705": {

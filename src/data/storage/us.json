@@ -33411,6 +33411,19 @@
     "history": [
       [
         {
+          "timestamp": 1748549986654,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "All Current Content": "$9.99",
+            "All Chords, Scales and Arpeggios": "$7.99",
+            "All Chords": "$5.99",
+            "All Scales": "$5.99",
+            "All Arpeggios": "$5.99",
+            "Lesson Pack": "$4.99"
+          }
+        },
+        {
           "timestamp": 1748545962159,
           "price": 0,
           "formattedPrice": "Free",
@@ -84145,6 +84158,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748549986654,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly": "$4.99",
+            "周卡": "$1.99",
+            "Yearly": "$33.49",
+            "季卡": "$9.99",
+            "半年卡": "$32.49",
+            "连续周卡": "$0.99",
+            "Quarterly": "$12.99",
+            "年会员": "$24.99",
+            "周会员": "$0.99",
+            "月会员": "$2.99"
+          }
+        },
         {
           "timestamp": 1748545962159,
           "price": 0,
