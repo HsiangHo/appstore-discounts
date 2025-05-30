@@ -12717,11 +12717,21 @@
       "Video Format": "¥88.00"
     },
     "minPriceInfo": {
-      "price": 68,
-      "formattedPrice": "¥68.00",
+      "price": 0,
+      "formattedPrice": "免费",
       "Video Format": "¥88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748586346102,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Video Format": "¥88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
