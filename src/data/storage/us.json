@@ -20045,6 +20045,25 @@
     "history": [
       [
         {
+          "timestamp": 1748600325963,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Telegram Premium": "$4.99",
+            "250 Telegram Stars": "$5.09",
+            "500 Telegram Stars": "$9.99",
+            "Telegram Premium Annual": "$34.99",
+            "1x Premium (3 Months)": "$14.99",
+            "75 Telegram Stars": "$1.59",
+            "1000 Telegram Stars": "$19.99",
+            "Telegram Premium (3-Month)": "$14.99",
+            "1x Premium (1 Year)": "$35.99",
+            "1x Premium (6 Months)": "$19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748319844810,
           "price": 0,
           "formattedPrice": "Free",
@@ -64429,7 +64448,8 @@
       "Monthly SVIP": "$19.99",
       "Yearly SVIP": "$99.99",
       "Upgrade to SVIP": "$1.99",
-      "3-Time AI Effects": "$1.99"
+      "3-Time AI Effects": "$1.99",
+      "Save Current Result": "$1.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -64446,10 +64466,24 @@
       "Monthly SVIP": "$19.99",
       "Yearly SVIP": "$99.99",
       "Upgrade to SVIP": "$1.99",
-      "3-Time AI Effects": "$1.99"
+      "3-Time AI Effects": "$1.99",
+      "Save Current Result": "$1.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1748600325963,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- 25 Credits": "$7.99",
+            "Wink- 100 Credits": "$24.99",
+            "10-second AI animation": "$1.99",
+            "Save Current Result": "$1.99"
+          }
+        },
         {
           "timestamp": 1748578950176,
           "price": 0,
