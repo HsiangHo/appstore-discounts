@@ -10630,6 +10630,22 @@
     "history": [
       [
         {
+          "timestamp": 1748643393069,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "有道词典会员连续包月": "$3.99",
+            "有道词典超级会员": "$14.99",
+            "有道词典超级会员1个月": "$5.99",
+            "50万字符加量包": "$3.99",
+            "6充值币": "$0.99",
+            "10万字符加量包": "$0.99",
+            "有道词典超级会员1年": "$59.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748406168220,
           "price": 0,
           "formattedPrice": "Free",
@@ -68019,13 +68035,29 @@
       "formattedPrice": "Free",
       "Annual Subscription": "$39.99",
       "Perpetual License": "$128.99",
-      "UPDF AI Unlimited": "$79.00",
+      "UPDF AI Unlimited": "$29.00",
       "UPDF AI Standard": "$15.00",
       "UPDF Pro + AI Unlimited": "$108.99",
       "Quarterly Subscription": "$19.00",
       "UPDF Pro + AI Standard": "$98.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748643393069,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Annual Subscription": "$39.99",
+            "Perpetual License": "$128.99",
+            "UPDF AI Unlimited": "$29.00",
+            "UPDF AI Standard": "$15.00",
+            "UPDF Pro + AI Unlimited": "$108.99",
+            "Quarterly Subscription": "$19.00",
+            "UPDF Pro + AI Standard": "$98.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748507063207,

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-05-30T19:19:08.445Z</updated>
+    <updated>2025-05-30T22:22:08.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-30T19:19:08.446Z</updated>
+        <updated>2025-05-30T22:22:08.437Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusFri, 30 May 2025 19:19:08 GMT</id>
+        <id>rankingusFri, 30 May 2025 22:22:08 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-30T19:19:08.446Z</updated>
+        <updated>2025-05-30T22:22:08.438Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -50,13 +50,13 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>847</b>
+        <b>848</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>847</b>
+        <b>848</b>
       </td>
       <td>
         <b></b>
@@ -943,14 +943,20 @@ feedId:49753370488353792+userId:73658201673997312
         <b>42</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1620883955">Little Nightmares</a>
+        <a href="https://apps.apple.com/us/app/id1619925971">UPDF - PDF Editor with AI</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>1</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>UPDF AI Unlimited</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -960,7 +966,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>43</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1642733080">DungeonSquad</a>
+        <a href="https://apps.apple.com/us/app/id1620883955">Little Nightmares</a>
       </td>
       <td>
         <ul>
@@ -977,7 +983,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>44</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6447693393">灵感卡片 - 创意笔记</a>
+        <a href="https://apps.apple.com/us/app/id1642733080">DungeonSquad</a>
       </td>
       <td>
         <ul>
@@ -994,7 +1000,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>45</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6479307181">Ghostly Detector</a>
+        <a href="https://apps.apple.com/us/app/id6447693393">灵感卡片 - 创意笔记</a>
       </td>
       <td>
         <ul>
@@ -1011,7 +1017,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>46</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6737987084">CatLight Pro: Selfie Light Cam</a>
+        <a href="https://apps.apple.com/us/app/id6479307181">Ghostly Detector</a>
       </td>
       <td>
         <ul>
@@ -1028,7 +1034,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>47</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6451376191">Dumb Phone: Minimal Launcher</a>
+        <a href="https://apps.apple.com/us/app/id6737987084">CatLight Pro: Selfie Light Cam</a>
       </td>
       <td>
         <ul>
@@ -1045,7 +1051,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>48</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6446178861">PlayNav - No ads in videos!</a>
+        <a href="https://apps.apple.com/us/app/id6451376191">Dumb Phone: Minimal Launcher</a>
       </td>
       <td>
         <ul>
@@ -1062,7 +1068,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>49</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6449251957">Motorsport Manager 4</a>
+        <a href="https://apps.apple.com/us/app/id6446178861">PlayNav - No ads in videos!</a>
       </td>
       <td>
         <ul>
@@ -1079,7 +1085,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>50</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6505058041">QUAKELINE</a>
+        <a href="https://apps.apple.com/us/app/id6449251957">Motorsport Manager 4</a>
       </td>
       <td>
         <ul>
@@ -1096,7 +1102,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>51</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
+        <a href="https://apps.apple.com/us/app/id6505058041">QUAKELINE</a>
       </td>
       <td>
         <ul>
@@ -1113,7 +1119,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>52</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6458144503">Skul: The Hero Slayer</a>
+        <a href="https://apps.apple.com/us/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
       </td>
       <td>
         <ul>
@@ -1130,7 +1136,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>53</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6471947612">召喚騎士團</a>
+        <a href="https://apps.apple.com/us/app/id6458144503">Skul: The Hero Slayer</a>
       </td>
       <td>
         <ul>
@@ -1147,7 +1153,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>54</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6743459503">逐鹿</a>
+        <a href="https://apps.apple.com/us/app/id6471947612">召喚騎士團</a>
       </td>
       <td>
         <ul>
@@ -1164,7 +1170,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>55</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6466296603">The Last Game</a>
+        <a href="https://apps.apple.com/us/app/id6743459503">逐鹿</a>
       </td>
       <td>
         <ul>
@@ -1179,6 +1185,23 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>
         <b>56</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6466296603">The Last Game</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>57</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6740349666">Backyard Baseball '97</a>
@@ -1204,6 +1227,117 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UPDF - PDF Editor with AI]]></title>
+        <id>UPDF - PDF Editor with AI-us-1748643393069</id>
+        <link href="https://apps.apple.com/us/app/updf-pdf-editor-with-ai/id1619925971?mt=12&amp;uo=4"/>
+        <updated>2025-05-30T22:16:33.069Z</updated>
+        <summary type="html"><![CDATA[UPDF AI Unlimited: $79.00 → $29.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/updf-pdf-editor-with-ai/id1619925971?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/a7/4d/5ca74ddf-94f1-797f-adc4-5f4d16bf3316/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>UPDF AI Unlimited：</strong><span>$79.00</span> → <b>
+  <strong>$29.00</strong>
+</b><span>[$29.00 ~ $79.00]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  UPDF is an all-in-one AI-integrated PDF editor toolkit you can use to summarize, translate, read, edit, annotate, organize, convert, OCR, crop, watermark, flatten, secure, share, or print PDF files, convert PDFs to mind maps, and chat with images. Get all the tools you need to manage PDFs in one premier, all-rounder smart app for your Mac. One UPDF license allows you to use it across all platforms, both desktop and mobile.
+
+Key features:
+
+AI Assistant
+- AI chat with your PDF to summarize, translate, explain, and rephrase lengthy PDFs in minutes.
+- Convert PDFs to mind maps.
+- Upload images and ask any questions about the images.
+- Ask any prompts and get answers from AI.
+
+Edit PDFs
+- Add/edit the text, images, and links in PDF.
+- Change the color, font style, size, orientation, and other parameters of the text.
+- Add, crop, resize, extract, replace, rotate, or remove the images.
+- Add, edit, or remove watermarks from PDFs.
+- Set color, image, or document as a background for PDFs.
+- Add, edit, or remove header and footer from PDFs.
+
+Annotate PDFs
+- Highlight, underline, strikethrough, or squiggly the text in PDFs.
+- Add sticky notes, text boxes, text comments, text callouts to PDFs.
+- Add shapes (rectangles, ovals, lines, arrows, hexagons, triangles) to PDFs.
+- Use the pencil and eraser tools for free-hand drawing within a PDF.
+- Add stamps and stickers to PDFs.
+- Add signatures to PDFs.
+- Manage the annotation list.
+
+Compare PDF
+- Find differences between two similar files.
+
+UPDF Cloud
+- Seamlessly access your files across different devices and sync your files across all platforms in real time.
+
+OCR (exclusively available in the program that you download from our website)
+- Convert scanned PDFs or images into searchable and editable PDFs or vice versa.
+- Can recognize 38 languages as per choice.
+
+Convert PDFs
+- Convert PDFs to all major Office formats: DOCX, XLSX, and PPTX.
+- Convert PDFs to major image formats: PNG, JPEG, BMP, TIFF, and GIF.
+- Convert PDFs to other file formats such as TXT, RTF, CSV, HTML, and XML.
+- "Text Recognition (OCR)" feature included converting scanned PDFs to editable formats.
+
+Organize PDF Pages
+- Insert, replace, extract, split, rotate, remove, and reorder the pages in PDFs
+- Crop PDF pages.
+
+Protect PDFs
+- Add an open password to protect PDFs from being opened without authorization.
+- Add a permission password to protect PDFs from copying, editing, and printing.
+- Offers 3 different encryption levels: 128-bit RC4, 128-bit AES, and 256-bit AES.
+- Remove the PDF password from your document.
+
+Read and Print PDFs
+- View PDF in multiple modes: Single Page View/Scrolling, Two Page View/Scrolling.
+- Text to speech.
+- Search and find text.
+- Open and view multiple PDFs in tabs.
+- Slideshow PDF.
+- Support switching to dark mode.
+- Add and manage bookmarks in PDF.
+- Print PDFs.
+
+Create PDFs
+- Create blank PDF or from Word/Excel/PPT/image.
+
+Fill & Sign
+- Create fillable PDF forms.
+- Fill and sign PDF with keyboard, mouse, trackpad, or from images, save to the cloud and use across platforms.
+- Digital signatures.
+
+PDF/A Conversion Supported
+- Save your PDF files in PDF/A format to archive data.
+
+Flatten PDFs
+- Save your PDF files as flattened into a single-layer PDF.
+
+Batch Process PDFs
+- Batch combine, convert, encrypt, create bulk of PDFs or Insert PDF file into multiple PDFs with a click
+
+Pro Features of In-App Purchase
+- Use UPDF across all platforms including desktops and mobiles.
+- Save the new edits without the UPDF watermark.
+- Batch Convert unlimited PDF files ( Batch Convert up to 5 documents in the trial version).
+- Free Users will get 1 GB of Cloud Storage; Paid UPDF users get 10 GB and AI users get 100 GB.
+
+Need help? If you have any questions about this app, please email us at support@superace.com.
+You can follow us on
+Facebook: @superacesoftware
+Twitter: @updfeditor
+Youtube: @updf1337
+Instagram: @updfeditor
+
+If you feel this app is helpful, please rate us on the App Store. Thank you!
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/95/64/dc95646b-911f-9697-c5aa-adb218cec25e/4094e92d-46b4-4525-9e67-fc984d89ac3f_EN0.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/16/05/ee1605e1-ea98-0063-be7e-8235661d7aeb/0d24063e-e027-4be7-866f-49218fa1157a_EN2.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/da/95/32da950e-a4c7-e745-2d77-e02cdf5ccf16/8441b280-608a-4951-89c3-e59979f742ac_EN9.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/66/b3/1966b313-b179-072c-8f99-9fa17992a744/b946736c-c696-4a29-bfca-0bead36302cf_EN3.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/42/7e/e6427e30-57ec-fc47-c418-d88536537557/a6784529-b1ba-4358-a349-c893b61f12fd_EN5.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/c1/fa/12c1fa28-bde6-82e2-3b51-6eae4faaf11c/53b641e5-67c6-4539-a068-5f58a13ae03e_EN4.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/51/32/cb5132bc-c800-956d-1176-1c6e1e4291fb/d340602e-3b81-4726-b566-b09e1434507e_EN1.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/1a/cd/5d1acdf7-f880-41f0-2af9-2db2fd998259/c97ddbca-06be-49f1-b25d-800d656273d8_EN6.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/99/2c/32992cc5-59ba-10c4-a568-2ba0f53f78f4/09271c08-6deb-48fd-86de-fac658bb5cf8_EN7.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/63/09/8863092f-3266-c43b-6127-f0d0117b9c16/1bab7c13-0482-4991-85d6-6cd601f71efb_EN8.jpg/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vythm VJ - Music Visualizer DJ]]></title>

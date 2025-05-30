@@ -1970,6 +1970,95 @@
   ],
   "us": [
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/superace-software-technology-co-ltd/id1595826625?mt=12&uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/a7/4d/5ca74ddf-94f1-797f-adc4-5f4d16bf3316/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/a7/4d/5ca74ddf-94f1-797f-adc4-5f4d16bf3316/AppIcon-0-0-85-220-0-0-5-0-2x.png/100x100bb.png",
+      "kind": "mac-software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/95/64/dc95646b-911f-9697-c5aa-adb218cec25e/4094e92d-46b4-4525-9e67-fc984d89ac3f_EN0.jpg/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/16/05/ee1605e1-ea98-0063-be7e-8235661d7aeb/0d24063e-e027-4be7-866f-49218fa1157a_EN2.jpg/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/da/95/32da950e-a4c7-e745-2d77-e02cdf5ccf16/8441b280-608a-4951-89c3-e59979f742ac_EN9.jpg/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/66/b3/1966b313-b179-072c-8f99-9fa17992a744/b946736c-c696-4a29-bfca-0bead36302cf_EN3.jpg/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/42/7e/e6427e30-57ec-fc47-c418-d88536537557/a6784529-b1ba-4358-a349-c893b61f12fd_EN5.jpg/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/c1/fa/12c1fa28-bde6-82e2-3b51-6eae4faaf11c/53b641e5-67c6-4539-a068-5f58a13ae03e_EN4.jpg/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/51/32/cb5132bc-c800-956d-1176-1c6e1e4291fb/d340602e-3b81-4726-b566-b09e1434507e_EN1.jpg/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/1a/cd/5d1acdf7-f880-41f0-2af9-2db2fd998259/c97ddbca-06be-49f1-b25d-800d656273d8_EN6.jpg/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/99/2c/32992cc5-59ba-10c4-a568-2ba0f53f78f4/09271c08-6deb-48fd-86de-fac658bb5cf8_EN7.jpg/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/63/09/8863092f-3266-c43b-6127-f0d0117b9c16/1bab7c13-0482-4991-85d6-6cd601f71efb_EN8.jpg/800x500bb.jpg"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/a7/4d/5ca74ddf-94f1-797f-adc4-5f4d16bf3316/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png",
+      "trackCensoredName": "UPDF - PDF Editor with AI",
+      "trackViewUrl": "https://apps.apple.com/us/app/updf-pdf-editor-with-ai/id1619925971?mt=12&uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "minimumOsVersion": "10.14.6",
+      "averageUserRatingForCurrentVersion": 0,
+      "artistId": 1595826625,
+      "artistName": "Superace Software Technology Co., Ltd.",
+      "genres": [
+        "Productivity",
+        "Business"
+      ],
+      "price": 0,
+      "releaseNotes": "- Enhance application stability to ensure more stable product usage.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Superace Software Technology Co., Ltd.",
+      "genreIds": [
+        "6007",
+        "6000"
+      ],
+      "bundleId": "com.superace.updf.mac",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "currentVersionReleaseDate": "2025-04-23T05:45:53Z",
+      "trackId": 1619925971,
+      "trackName": "UPDF - PDF Editor with AI",
+      "version": "1.8.11",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "UPDF is an all-in-one AI-integrated PDF editor toolkit you can use to summarize, translate, read, edit, annotate, organize, convert, OCR, crop, watermark, flatten, secure, share, or print PDF files, convert PDFs to mind maps, and chat with images. Get all the tools you need to manage PDFs in one premier, all-rounder smart app for your Mac. One UPDF license allows you to use it across all platforms, both desktop and mobile.\n\nKey features:\n\nAI Assistant\n- AI chat with your PDF to summarize, translate, explain, and rephrase lengthy PDFs in minutes.\n- Convert PDFs to mind maps.\n- Upload images and ask any questions about the images.\n- Ask any prompts and get answers from AI.\n\nEdit PDFs\n- Add/edit the text, images, and links in PDF.\n- Change the color, font style, size, orientation, and other parameters of the text.\n- Add, crop, resize, extract, replace, rotate, or remove the images.\n- Add, edit, or remove watermarks from PDFs.\n- Set color, image, or document as a background for PDFs.\n- Add, edit, or remove header and footer from PDFs.\n\nAnnotate PDFs\n- Highlight, underline, strikethrough, or squiggly the text in PDFs.\n- Add sticky notes, text boxes, text comments, text callouts to PDFs.\n- Add shapes (rectangles, ovals, lines, arrows, hexagons, triangles) to PDFs.\n- Use the pencil and eraser tools for free-hand drawing within a PDF.\n- Add stamps and stickers to PDFs.\n- Add signatures to PDFs.\n- Manage the annotation list.\n\nCompare PDF\n- Find differences between two similar files.\n\nUPDF Cloud\n- Seamlessly access your files across different devices and sync your files across all platforms in real time.\n\nOCR (exclusively available in the program that you download from our website)\n- Convert scanned PDFs or images into searchable and editable PDFs or vice versa.\n- Can recognize 38 languages as per choice.\n\nConvert PDFs\n- Convert PDFs to all major Office formats: DOCX, XLSX, and PPTX.\n- Convert PDFs to major image formats: PNG, JPEG, BMP, TIFF, and GIF.\n- Convert PDFs to other file formats such as TXT, RTF, CSV, HTML, and XML.\n- \"Text Recognition (OCR)\" feature included converting scanned PDFs to editable formats.\n\nOrganize PDF Pages\n- Insert, replace, extract, split, rotate, remove, and reorder the pages in PDFs\n- Crop PDF pages.\n\nProtect PDFs\n- Add an open password to protect PDFs from being opened without authorization.\n- Add a permission password to protect PDFs from copying, editing, and printing.\n- Offers 3 different encryption levels: 128-bit RC4, 128-bit AES, and 256-bit AES.\n- Remove the PDF password from your document.\n\nRead and Print PDFs\n- View PDF in multiple modes: Single Page View/Scrolling, Two Page View/Scrolling.\n- Text to speech.\n- Search and find text.\n- Open and view multiple PDFs in tabs.\n- Slideshow PDF.\n- Support switching to dark mode.\n- Add and manage bookmarks in PDF.\n- Print PDFs.\n\nCreate PDFs\n- Create blank PDF or from Word/Excel/PPT/image.\n\nFill & Sign\n- Create fillable PDF forms.\n- Fill and sign PDF with keyboard, mouse, trackpad, or from images, save to the cloud and use across platforms.\n- Digital signatures.\n\nPDF/A Conversion Supported\n- Save your PDF files in PDF/A format to archive data.\n\nFlatten PDFs\n- Save your PDF files as flattened into a single-layer PDF.\n\nBatch Process PDFs\n- Batch combine, convert, encrypt, create bulk of PDFs or Insert PDF file into multiple PDFs with a click\n\nPro Features of In-App Purchase\n- Use UPDF across all platforms including desktops and mobiles.\n- Save the new edits without the UPDF watermark.\n- Batch Convert unlimited PDF files ( Batch Convert up to 5 documents in the trial version).\n- Free Users will get 1 GB of Cloud Storage; Paid UPDF users get 10 GB and AI users get 100 GB.\n\nNeed help? If you have any questions about this app, please email us at support@superace.com.\nYou can follow us on\nFacebook: @superacesoftware\nTwitter: @updfeditor\nYoutube: @updf1337\nInstagram: @updfeditor\n\nIf you feel this app is helpful, please rate us on the App Store. Thank you!",
+      "sellerUrl": "https://updf.com",
+      "userRatingCountForCurrentVersion": 0,
+      "languageCodesISO2A": [
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "RU",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "fileSizeBytes": "128901687",
+      "formattedPrice": "Free",
+      "trackContentRating": "4+",
+      "releaseDate": "2022-05-03T07:00:00Z",
+      "userRatingCount": 0,
+      "inAppPurchases": {
+        "Annual Subscription": "$39.99",
+        "Perpetual License": "$128.99",
+        "UPDF AI Unlimited": "$29.00",
+        "UPDF AI Standard": "$15.00",
+        "UPDF Pro + AI Unlimited": "$108.99",
+        "Quarterly Subscription": "$19.00",
+        "UPDF Pro + AI Standard": "$98.99"
+      },
+      "timestamp": 1748643393069,
+      "discounts": [
+        {
+          "type": "inAppPurchase",
+          "name": "UPDF AI Unlimited",
+          "from": "$79.00",
+          "to": "$29.00",
+          "range": "[$29.00 ~ $79.00]"
+        }
+      ]
+    },
+    {
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/cf/b6/32cfb6c4-a7ed-d003-57cb-e398e8500472/969b8d5c-328b-4594-adae-d169c8a20d22_iPhone_8_Plus_-_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/8f/c1/348fc1a6-1eb8-312d-342b-9bb91573f8a5/37871899-1163-44b0-9b6b-5c5639aa6f75_iPhone_8_Plus_-_2.jpg/392x696bb.jpg",
