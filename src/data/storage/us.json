@@ -46178,6 +46178,22 @@
     "history": [
       [
         {
+          "timestamp": 1748578950176,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "移动端会员-连续包月": "$1.99",
+            "移动端会员-月卡": "$2.99",
+            "移动端会员-连续包季": "$5.99",
+            "大学生专属特惠季卡": "$2.99",
+            "大学生专属特惠年卡": "$9.99",
+            "移动端会员-年卡": "$14.99",
+            "移动端会员-季卡": "$5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748222766980,
           "price": 0,
           "formattedPrice": "Free",
@@ -64404,6 +64420,21 @@
       "3-Time AI Effects": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748578950176,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- 25 Credits": "$7.99",
+            "Wink- 100 Credits": "$24.99",
+            "10-second AI animation": "$1.99",
+            "Wink- 5 Credits": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748557010817,

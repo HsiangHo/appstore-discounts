@@ -790,6 +790,13 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1395152179": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "移动端会员-连续包月": 1
+      }
+    },
     "1400032769": {
       "all": 1,
       "price": 1,
