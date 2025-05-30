@@ -1,6 +1,95 @@
 {
   "cn": [
     {
+      "artistViewUrl": "https://apps.apple.com/cn/developer/superace-software-technology-co-ltd/id1595826625?mt=12&uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/a7/4d/5ca74ddf-94f1-797f-adc4-5f4d16bf3316/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/a7/4d/5ca74ddf-94f1-797f-adc4-5f4d16bf3316/AppIcon-0-0-85-220-0-0-5-0-2x.png/100x100bb.png",
+      "kind": "mac-software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/4b/3d/964b3dff-c006-febe-0e21-372d2a151be0/fa8d5479-c4d3-4219-91f2-0382ffbb8774_CN0.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/f3/f8/6af3f8a3-a03f-9e4e-fdc3-f2f602b8e75a/617ec69b-30ae-4525-93fb-79bdd81bc0fa_CN1.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/fb/d4/94fbd4eb-ae71-bdd2-02de-27400cc12a78/b96f45c5-c8d0-4cbf-8eb7-ce1f2b3ea83a_CN2.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/69/cb/b469cb70-a837-5c03-fb3a-0427bce786a9/306bafc1-3fce-4a68-8bce-5a2690fef894_CN3.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/a8/1f/4fa81fd5-8107-c1e6-f3e7-4d911da44cb4/07f7df31-2ba0-4a49-b8fb-53a7242c6ae0_CN4.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/bc/08/92bc08dc-1f24-7abe-97e0-ab968aa86498/ea873055-31c4-4bf3-8bc7-22e2c45fa5fc_CN5.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/cc/83/2fcc83d2-6bef-4d0a-8da7-ad618a7197eb/0d06e493-52bc-48b0-afa0-71bb1c6add48_CN6.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/fc/6d/dffc6d74-547a-905d-c3af-1cb072cbe02a/c0dd350d-f3a1-42bd-86f2-7fcdb07ff2c5_CN7.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/49/9f/f6499f19-e191-e697-653a-4a1b7733e799/d4e20b87-8de3-47d3-b688-db06ffc98701_CN8.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/dc/7c/36dc7c1c-fbc6-8ff3-9e72-e077d3832594/4cece87d-ac66-46ad-a5a5-1578854dc268_CN9.png/800x500bb.jpg"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/a7/4d/5ca74ddf-94f1-797f-adc4-5f4d16bf3316/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png",
+      "averageUserRating": 0,
+      "trackCensoredName": "UPDF - 新一代 AI 智能 PDF 编辑器",
+      "trackViewUrl": "https://apps.apple.com/cn/app/updf-%E6%96%B0%E4%B8%80%E4%BB%A3-ai-%E6%99%BA%E8%83%BD-pdf-%E7%BC%96%E8%BE%91%E5%99%A8/id1619925971?mt=12&uo=4",
+      "contentAdvisoryRating": "4+",
+      "currentVersionReleaseDate": "2025-04-23T05:45:53Z",
+      "minimumOsVersion": "10.14.6",
+      "artistId": 1595826625,
+      "artistName": "Superace Software Technology Co., Ltd.",
+      "genres": [
+        "效率",
+        "商务"
+      ],
+      "price": 0,
+      "releaseNotes": "- 提升应用稳定性，确保产品使用更加稳定。",
+      "bundleId": "com.superace.updf.mac",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "releaseDate": "2022-05-03T07:00:00Z",
+      "genreIds": [
+        "6007",
+        "6000"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Superace Software Technology Co., Ltd.",
+      "trackId": 1619925971,
+      "trackName": "UPDF - 新一代 AI 智能 PDF 编辑器",
+      "version": "1.8.11",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "UPDF 是一款全球化的 PDF 编辑器，支持 AI，阅读，编辑，注释、云同步、转换、加密、裁剪、拆分、在线分享 PDF 文档等。1 个账号付费，全平台都可以使用（电脑 + 手机 + iPad），更重要的是，UPDF 不同于市场上大多数商务设计风的 PDF 软件，它更具年轻化高颜值的界面设计让你拥有一个愉快轻松的阅读和办公体验。\n\n主要功能：\n\n1. 编辑 PDF\n- 你可以添加或者删除文本，编辑文本属性和格式，比如字体，颜色，大小等。\n- UPDF 也支持通过修改文本的对齐方式使您的文档看起来更整洁。\n- 对于 PDF 里的图片，你可以进行裁剪，旋转，替换，提取，删除等操作。\n- 你可以直接通过拖拽添加和替换图片。\n- 支持添加、删除、和编辑水印、背景、以及页眉页脚。\n\n2. AI 功能\n- 对 PDF 文档进行总结。\n- 对 PDF 文档进行翻译。\n- 对 PDF 文档进行解释，润色或编写。\n- 与 UPDF AI 自由对话。\n- 支持与图片进行自由问答。\n- 支持将文档总结生成思维导图。\n\n3. 注释 PDF\n- 在阅读 PDF 文档的过程中，你可以对文档内容添加注释，比如高亮，下划线，删除线来标注突出重点内容。\n- 你也可以通过添加图形和文本框来注释你的 PDF 文档。\n- 如果需要对某些内容进行注解，你可以在文档任意位置添加便签来输入笔记或者审批意见等。\n- 你可以在文档中添加并旋转各种各样的签章和贴纸用以注释和评论。\n- 若需要在文档里签名，你也可以直接快速地创建你的签名。\n- 通过注释列表一键查看或删除所有注释内容。\n\n4. OCR（光学字符识别）（仅适用于官网下载的版本）\n- 将扫描的 PDF 转换为可搜索和可编辑的 PDF。\n- 支持可根据选择检测的 38 种语言。\n- 将可搜索和可编辑的 PDF 转换为纯图像 PDF。\n\n5. 转换 PDF\n- 你可以将 PDF 转换为 Word, Excel, PowerPoint, Image, HTML, Text, CSV, XML, PDF/A 等格式。\n- 转换之后的文档会保持原文档格式不变。\n\n6. 云同步\n- 支持上传文档至 UPDF Cloud，实现 PC + 移动端全平台同步。\n\n7. 管理 PDF 页面\n- UPDF 使你可以根据你的需要轻松快速地管理 PDF 页面。\n- 对于页面布局，你可以通过旋转调整页面方向，通过拖拽页面调整页面顺序。\n- 如果你需要文档中的某些页面，你可以直接提取它们；另外，当你不需要某个页面时，也可以直接删除它。\n- 你可以添加空白页或者从其他文件中添加页面。\n- 你也可以快速替换文档中的页面。\n- 快速根据页码拆分一个 PDF 文档为多个文档。\n- 根据需要自定义裁剪页面大小。\n\n8. 浏览和定位 PDF 文档\n- 你可以放大或缩小页面，清晰地浏览文档内容。\n- 通过在页面添加书签，快速定位找到需要的页面。\n- 如果你需要同时查看多个 PDF 文档，不用在另外的窗口打开阅览它们，你可以在同一窗口多个标签打开预览，这样更简单快捷。\n- 想要快速找到某文本内容，可以一键搜索查找定位文本。\n- 快速通过缩略图旋转，删除，旋转和打印 PDF 页面。\n- 通过幻灯片的形式播放 PDF 文档。\n\n9. 保护文档\n- 可添加文档打开密码防止未经授权的用户打开。\n- 可设置文档功能权限控制密码，限制其他用户打印、编辑、复制 PDF 文档等。\n\n10. 创建 PDF\n- 创建空白页。\n- 从选区、窗口、或屏幕捕捉创建 PDF。\n\n11. 扁平化 PDF\n- 快速扁平化 PDF, 压平文档中的图层。\n\n12. 分享 PDF 文档\n- 你可以直接在线分享或者通过邮件直接分享文档。\n- 通过电子邮件将您的文档作为附件共享。\n\n应用内购包含的功能\n- 无水印保存修改的文档。 \n- 无限制的转换文档。 （免费试用版每天最多可转换 2 个文档）\n\n一个会员账号适用于所有平台。\n\n需要帮助？如果你有任何问题，可以邮件联系我们：support@superace.com.\n你也可以通过关注我们的官方公众号获取更多有用的信息。\n微信公众号：UPDF\n微博：赛博爱思UPDF\n\n如果你觉得这个 App 对你是有帮助的，可以在 App Store 留下你的评价，谢谢！",
+      "averageUserRatingForCurrentVersion": 0,
+      "sellerUrl": "https://updf.cn",
+      "languageCodesISO2A": [
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "RU",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "fileSizeBytes": "128901687",
+      "formattedPrice": "免费",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "userRatingCount": 0,
+      "inAppPurchases": {
+        "永久授权": "¥238.00",
+        "年度订阅": "¥148.00",
+        "UPDF AI 标准版": "¥69.00",
+        "UPDF AI 无限版": "¥238.00",
+        "UPDF Pro + AI 无限": "¥428.00",
+        "季度订阅": "¥88.00",
+        "UPDF Pro + UPDF AI 标准版": "¥238.00"
+      },
+      "timestamp": 1748636365805,
+      "discounts": [
+        {
+          "type": "inAppPurchase",
+          "name": "永久授权",
+          "from": "¥338.00",
+          "to": "¥238.00",
+          "range": "[¥238.00 ~ ¥338.00]"
+        }
+      ]
+    },
+    {
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ce/67/1f/ce671f48-1d3f-5c1f-e5af-b7009cf9dead/a894acbc-a48d-4263-b7d5-40bdd1436cdf_1-_U5efa_U7b51_2208X1242.jpg/406x228bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/86/c4/aa/86c4aa54-63e6-0712-2883-59fbe66da9c0/04e5cec4-647b-4278-beb2-7c99d0a098b1_2_U77ff_U8f66_2208x1242.jpg/406x228bb.jpg",
