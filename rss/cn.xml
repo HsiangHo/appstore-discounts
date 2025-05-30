@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-05-30T13:34:02.972Z</updated>
+    <updated>2025-05-30T14:24:02.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-30T13:34:02.973Z</updated>
+        <updated>2025-05-30T14:24:02.726Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnFri, 30 May 2025 13:34:02 GMT</id>
+        <id>rankingcnFri, 30 May 2025 14:24:02 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-30T13:34:02.974Z</updated>
+        <updated>2025-05-30T14:24:02.726Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -505,6 +505,23 @@ feedId:49753297431966720+userId:73658201673997312
         <b>20</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1157863540">泰拉瑞亚</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>21</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1344655035">蜡烛人</a>
       </td>
       <td>
@@ -525,7 +542,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -542,7 +559,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1400652313">冰钓大师</a>
@@ -559,7 +576,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1436429074">FILCA - SLR Film Camera</a>
@@ -582,7 +599,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1437479513">逃脱者：困境突围</a>
@@ -599,7 +616,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1448326351">数据恢复</a>
@@ -616,7 +633,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1449020025">不玩手机-自律习惯养成记</a>
@@ -633,7 +650,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1453318714">Vostok — 创建美丽快拍页面</a>
@@ -650,7 +667,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1486274102">MPlayer X Pro</a>
@@ -667,7 +684,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1497120981">LUCH: Photo Effects & Filters</a>
@@ -684,7 +701,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1538124245">哪里哪里</a>
@@ -701,7 +718,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1544190466">避难所：生存</a>
@@ -718,7 +735,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1551596643">模拟地铁</a>
@@ -735,7 +752,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1567658979">SkySafari 7 Pro</a>
@@ -752,7 +769,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1603421749">传奇高爆99999% 攻速9999倍PC同款三职业:战无不胜</a>
@@ -775,7 +792,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1659316190">钢铁战队(R)</a>
@@ -792,7 +809,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -809,7 +826,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737987084">小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</a>
@@ -826,7 +843,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742129099">群英打三国-超休闲国风放置卡牌巅峰巨作</a>
@@ -843,7 +860,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6451376191">Dumb Phone: 简约主屏幕</a>
@@ -860,7 +877,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6446178861">PlayNav - 影片内无广告！</a>
@@ -877,7 +894,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6449930220">手表浏览器  Wafari</a>
@@ -894,7 +911,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -911,7 +928,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6744311159">魔王终局</a>
@@ -928,7 +945,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742396803">DaDaDaDa - 空气枪</a>
@@ -945,7 +962,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6473332700">逐鹿 - 历史沙盘战棋</a>
@@ -962,7 +979,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6450877530">花园之间</a>
@@ -979,10 +996,78 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6443786927">全面憨憨战争模拟器</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>49</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6445882848">Boom3D-5.1 Audio for Netflix</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>50</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6739523960">允许 Safari 右键单击</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>51</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6738715418">STEP 和 IGES 文件查看器</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>52</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6738089759">隐藏鼠标光标</a>
       </td>
       <td>
         <ul>
@@ -1005,6 +1090,109 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泰拉瑞亚]]></title>
+        <id>泰拉瑞亚-cn-1748614688428</id>
+        <link href="https://apps.apple.com/cn/app/%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A/id1157863540?uo=4"/>
+        <updated>2025-05-30T14:18:08.428Z</updated>
+        <summary type="html"><![CDATA[价格: ¥18.00 → ¥12.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A/id1157863540?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/53/89/3f5389aa-8e5f-1b65-aaf3-ac8db6387b10/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥18.00</span> → <b>
+  <strong>¥12.00</strong>
+</b><span>[¥12.00 ~ ¥18.00]</span>）
+</h2><h2>应用描述</h2><p>
+  挖掘，战斗，探索，建造！在这个动感十足的冒险游戏里没有什么是不可能的。世界是你的画布，地面是你的油漆。
+
+拿起你的工具出发！制造武器和各种各样的敌人作战。前往地下寻找配件，金钱，以及其他有用的东西。收集资源创造你的世界所需要的一切。建造一栋房子，一个堡垒，甚至是一座城堡。人们会搬到那里居住，而或许他们还会卖给你不同的商品来协助你完成旅程。
+
+但要注意，那有很多挑战在等着你……你能完成任务吗？
+
+【拥有完整体验的移动版】
+- 加入最新 1.4.4版本“爱的付出”的全部内容！ (无氪金要素)
+- 支持8人联机（联机功能终于能还给大家了）
+- 国内官方服务器加持 & 匹配功能 （没有朋友555也能找人一起游戏）
+- 买断制（拒绝一刀999）
+- 内置了完整的游戏Wiki（“方便知道自己该干嘛”）
+- 云存档 & 成就功能
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ce/67/1f/ce671f48-1d3f-5c1f-e5af-b7009cf9dead/a894acbc-a48d-4263-b7d5-40bdd1436cdf_1-_U5efa_U7b51_2208X1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/86/c4/aa/86c4aa54-63e6-0712-2883-59fbe66da9c0/04e5cec4-647b-4278-beb2-7c99d0a098b1_2_U77ff_U8f66_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/82/50/40/82504003-8877-d62c-fb68-b7faf2f71425/703e18a3-90d8-4f97-8da1-bf5f9e172a3b_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7a/6f/86/7a6f86de-c6b9-e373-074d-dfb3b53f103e/a5fdcfa3-d1f0-4016-bed2-8b066f77cebd_4-_U5149_U4e4b_U5973_U7687_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1a/0e/18/1a0e18e7-7f42-22d7-b25e-c73eebe66ed1/01497a69-57ac-4f94-ad8c-6e1e2c4d5d64_5-_U5929_U9876_U5251_2208X1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/a8/10/c6a81046-ae87-d399-7d37-78b7f4afc3fc/833514ac-f807-46c6-8121-ebd84c4341f6_6-_U98ce_U7b5d2208x1242.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/51/39/bb/5139bb58-f61c-be58-e2e7-b54316626075/98176f28-defa-4ca9-9bc1-c2e5438fb479_1-_U5efa_U7b51_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/78/7c/94/787c945e-2567-7e52-414c-dc370e52a580/ca4db6f1-67ad-4338-8453-15d5759e266c_2-_U77ff_U8f66_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/b5/24/c1/b524c175-4af7-df23-b206-2a547844562e/95cbe753-ab60-4dbb-a832-2529b8b75ff5_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/b1/5b/dab15b26-5ce2-7b1f-44f8-24c9afa734b5/70fa9930-13e0-40f2-b4de-63cc973fccdf_4-_U5149_U4e4b_U5973_U7687_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/03/1f/a1031fb3-89cb-05af-b71c-6da2c4ce17ba/4df26619-57e4-47de-9193-1c00f7df6983_5-_U5929_U9876_U5251_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/76/0e/61/760e61a0-2a55-8308-bc1f-36edd8bdb70c/7ad1db4d-ee2f-4db3-bbaf-7bb3027bf701_6-_U98ce_U7b5d2732x2048.jpg/552x414bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boom3D-5.1 Audio for Netflix]]></title>
+        <id>Boom3D-5.1 Audio for Netflix-cn-1748614688428</id>
+        <link href="https://apps.apple.com/cn/app/boom3d-5-1-audio-for-netflix/id6445882848?mt=12&amp;uo=4"/>
+        <updated>2025-05-30T14:18:08.428Z</updated>
+        <summary type="html"><![CDATA[价格: ¥15.00 → ¥8.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/boom3d-5-1-audio-for-netflix/id6445882848?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/83/40/9d834067-5d00-83eb-5090-9c5545e215d0/AppIcon-85-220-0-4-2x.png/60x60bb.png" />
+</a><h2>
+  优惠信息（价格：<span>¥15.00</span> → <b>
+  <strong>¥8.00</strong>
+</b><span>[¥8.00 ~ ¥15.00]</span>）
+</h2><h2>应用描述</h2><p>
+  Hey there! We're the team behind Boom 3D, and we've created the ultimate Safari extension to give you an incredible Netflix experience. With our extension, you can enjoy high-quality 5.1 surround sound and 1080p video with compatible content on Netflix. The accompanying Boom3D desktop app will take your sound to a whole new level of immersion and realism with our patented 3D audio technology, and it works with absolutely ANY headphones.
+
+But why is 5.1 surround sound so great? Well, when you're watching a movie or show, you want to feel like you're right in the middle of the action, right? 5.1 surround sound does exactly that. With five separate audio channels plus a subwoofer channel, you get a more realistic and immersive audio experience. You can hear every detail, from subtle whispers to thunderous explosions, and feel like you're right in the middle of the scene.
+
+We created this extension to help you take your Netflix experience to the next level. By enabling 5.1 output, you can enjoy a more immersive and cinematic viewing experience, all from the comfort of your own home.
+
+It's important to note that the 5.1 audio can only be enabled on compatible content. 1080p video can only be enabled on select Netflix plans and require sufficient internet bandwidth.
+
+Overall, we're really excited about the Safari extension, and we hope you are too! So what are you waiting for? 
+Enable the extension and start experiencing your favorite shows and movies like never before.
+
+Disclaimer: The Netflix trademark belongs to Netflix, Inc. This extension has no affiliation or connection to Netflix or any other third-party companies.	
+
+Follow us on:
+•	Twitter: https://twitter.com/boomapp/ 
+•	Facebook: https://facebook.com/boomapp/ 
+•	Instagram: https://www.instagram.com/boomaudioapp 
+•	YouTube: https://www.youtube.com/@BoomAudioApp
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6d/2b/fa/6d2bfa61-526a-45cb-0f84-3a36a93e1762/ca5ee0be-8a50-493c-b495-2b1960dbe86f_Screen-1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/dd/77/83/dd778397-7996-929a-12ca-480a2e5e2001/7337b0ba-13b6-4570-a6ce-03c72e2b957a_Screen-2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/9a/3c/c3/9a3cc3e0-d95e-d651-71eb-b65da952b24d/20abfec7-d589-4ad3-b148-48f14cd48064_Screen-3.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6e/39/68/6e39687a-86ef-210b-aae5-2d5263024dee/e7437cb7-b0ad-400e-8b9e-293982d63ab2_Screen-4.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[允许 Safari 右键单击]]></title>
+        <id>允许 Safari 右键单击-cn-1748614688428</id>
+        <link href="https://apps.apple.com/cn/app/%E5%85%81%E8%AE%B8-safari-%E5%8F%B3%E9%94%AE%E5%8D%95%E5%87%BB/id6739523960?uo=4"/>
+        <updated>2025-05-30T14:18:08.428Z</updated>
+        <summary type="html"><![CDATA[价格: ¥15.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%85%81%E8%AE%B8-safari-%E5%8F%B3%E9%94%AE%E5%8D%95%E5%87%BB/id6739523960?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ea/35/f9ea3591-a3aa-59b0-1a37-183f419f88f2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥15.00</span> → <b>
+  <strong>免费</strong>
+</b><span>[免费 ~ ¥15.00]</span>）
+</h2><h2>应用描述</h2><p>该软件允许在所有网站上使用右键单击、复制、剪切和粘贴功能。它具有简单的界面，易于使用。您可以复制任何内容，无论是文本、图像还是其他媒体。</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STEP 和 IGES 文件查看器]]></title>
+        <id>STEP 和 IGES 文件查看器-cn-1748614688428</id>
+        <link href="https://apps.apple.com/cn/app/step-%E5%92%8C-iges-%E6%96%87%E4%BB%B6%E6%9F%A5%E7%9C%8B%E5%99%A8/id6738715418?mt=12&amp;uo=4"/>
+        <updated>2025-05-30T14:18:08.428Z</updated>
+        <summary type="html"><![CDATA[价格: ¥88.00 → ¥8.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/step-%E5%92%8C-iges-%E6%96%87%E4%BB%B6%E6%9F%A5%E7%9C%8B%E5%99%A8/id6738715418?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/55/f8/ee55f8c1-9e6f-b66e-8745-8fa4073cc1e3/icon.png/60x60bb.png" />
+</a><h2>
+  优惠信息（价格：<span>¥88.00</span> → <b>
+  <strong>¥8.00</strong>
+</b><span>[¥8.00 ~ ¥88.00]</span>）
+</h2><h2>应用描述</h2><p>适用于 STEP/STP、IGES/IGS 和其他 3D 文件格式的专业 3D 查看器。支持轻松打印和转换 3D 文件。</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/84/ec/4984ec88-a04a-e981-64d6-d6fec8d8a2b2/_U65e0_U6807_U989829.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/c7/6d/aec76dd3-5cd8-fe26-ef16-bf4ccf3a72ed/_U65e0_U6807_U9898.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/68/5a/63685a4f-4f46-ce54-b618-f9c0f6c6dada/_U65e0_U6807_U98982.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隐藏鼠标光标]]></title>
+        <id>隐藏鼠标光标-cn-1748614688428</id>
+        <link href="https://apps.apple.com/cn/app/%E9%9A%90%E8%97%8F%E9%BC%A0%E6%A0%87%E5%85%89%E6%A0%87/id6738089759?mt=12&amp;uo=4"/>
+        <updated>2025-05-30T14:18:08.428Z</updated>
+        <summary type="html"><![CDATA[价格: ¥8.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E9%9A%90%E8%97%8F%E9%BC%A0%E6%A0%87%E5%85%89%E6%A0%87/id6738089759?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/3e/95/423e9529-c3a8-daed-aa31-a91b61fc449c/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png" />
+</a><h2>
+  优惠信息（价格：<span>¥8.00</span> → <b>
+  <strong>免费</strong>
+</b><span>[免费 ~ ¥8.00]</span>）
+</h2><h2>应用描述</h2><p>这款应用是一款专为用户隐藏鼠标光标的工具，特别适合全屏演示、视频播放或游戏，让用户能够专注于内容而不受光标的干扰，包括一键隐藏/显示光标、快捷键支持和自定义设置。</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/e7/e9/14e7e980-14b9-dd96-141a-2deecdd1fe0c/Screenshot_2024-11-22_at_5.14.01_U202fPM_copy.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/48/67/b748678b-92ca-24f1-ea97-72ecc7924d6b/Screenshot_2024-11-22_at_5.14.01_U202fPM.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[UPDF - 新一代 AI 智能 PDF 编辑器]]></title>
