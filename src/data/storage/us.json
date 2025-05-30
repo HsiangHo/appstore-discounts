@@ -60640,7 +60640,7 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Vythm PRO": "$9.99",
+      "Vythm PRO": "$3.49",
       "All features and modes": "$44.99",
       "Unlock all (including updates)": "$139.99",
       "Psychedelic mode for mobile": "$4.99",
@@ -60650,6 +60650,22 @@
       "Shapes mode for mobile": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748632432088,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Vythm PRO": "$3.49",
+            "All features and modes": "$44.99",
+            "Unlock all (including updates)": "$139.99",
+            "Psychedelic mode for mobile": "$4.99",
+            "Mandala mode on mobile devices": "$4.99",
+            "Dreaming mode for mobile": "$4.99",
+            "Fluids mode for mobile devices": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,

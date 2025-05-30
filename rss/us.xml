@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-05-30T06:31:03.570Z</updated>
+    <updated>2025-05-30T19:19:08.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-30T06:31:03.570Z</updated>
+        <updated>2025-05-30T19:19:08.446Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusFri, 30 May 2025 06:31:03 GMT</id>
+        <id>rankingusFri, 30 May 2025 19:19:08 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-30T06:31:03.571Z</updated>
+        <updated>2025-05-30T19:19:08.446Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -50,13 +50,13 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>846</b>
+        <b>847</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>846</b>
+        <b>847</b>
       </td>
       <td>
         <b></b>
@@ -863,6 +863,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>38</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1550581532">Vythm VJ - Music Visualizer DJ</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Vythm PRO</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>39</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1567658979">SkySafari 7 Pro</a>
       </td>
       <td>
@@ -877,7 +900,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
@@ -894,7 +917,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
@@ -917,7 +940,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1620883955">Little Nightmares</a>
@@ -934,7 +957,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1642733080">DungeonSquad</a>
@@ -951,7 +974,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6447693393">灵感卡片 - 创意笔记</a>
@@ -968,7 +991,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6479307181">Ghostly Detector</a>
@@ -985,7 +1008,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6737987084">CatLight Pro: Selfie Light Cam</a>
@@ -1002,7 +1025,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6451376191">Dumb Phone: Minimal Launcher</a>
@@ -1019,7 +1042,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6446178861">PlayNav - No ads in videos!</a>
@@ -1036,7 +1059,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6449251957">Motorsport Manager 4</a>
@@ -1053,7 +1076,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6505058041">QUAKELINE</a>
@@ -1070,7 +1093,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6744998205">赛博神医-猜病每日挑战小测验</a>
@@ -1087,7 +1110,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6458144503">Skul: The Hero Slayer</a>
@@ -1104,7 +1127,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>52</b>
+        <b>53</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6471947612">召喚騎士團</a>
@@ -1121,7 +1144,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>53</b>
+        <b>54</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6743459503">逐鹿</a>
@@ -1138,7 +1161,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>54</b>
+        <b>55</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6466296603">The Last Game</a>
@@ -1155,7 +1178,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>55</b>
+        <b>56</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6740349666">Backyard Baseball '97</a>
@@ -1181,6 +1204,55 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vythm VJ - Music Visualizer DJ]]></title>
+        <id>Vythm VJ - Music Visualizer DJ-us-1748632432088</id>
+        <link href="https://apps.apple.com/us/app/vythm-vj-music-visualizer-dj/id1550581532?uo=4"/>
+        <updated>2025-05-30T19:13:52.088Z</updated>
+        <summary type="html"><![CDATA[Vythm PRO: $9.99 → $3.49]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/vythm-vj-music-visualizer-dj/id1550581532?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/4c/1a/4d4c1a8f-6bf6-f4e3-6198-f4c2f5b0efac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Vythm PRO：</strong><span>$9.99</span> → <b>
+  <strong>$3.49</strong>
+</b><span>[$3.49 ~ $9.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  --- Experience Your Music with Vythm ---
+Unlock the potential of music visualization with Vythm! Vythm is a versatile music visualization app that allows you to create visual artworks in harmony with your selected music. It includes a variety of unique visualization modes, including Equalizer, Mandala, Shapes, Fluids, Psychedelic, Dreaming, and more. Choose a background and apply image effects to personalize your visualization completely.
+
+--- Your Vision, Your Visualization ---
+Vythm provides you with numerous options to realize your creative vision:
+- Over 100 carefully selected backgrounds.
+- MIDI input for precise visual control.
+- NDI streaming support for sharing your creations.
+- Real-time image effects like color correction, bloom, chromatic aberration, and more.
+- Size, rotation, and orientation adjustments.
+And much more!
+
+The Equalizer, Rhythm, and Peer modes are available for free, while other modes can be unlocked through a subscription.
+
+--- Input Formats ---
+Select your music from a variety of sources:
+- Import any mp3 or m4a files.
+- Access your iTunes library (Please note that Apple Music is not currently supported).
+- Utilize your device's microphone, with sensitivity adjustments for various use cases.
+- Enjoy three preselected songs for quick inspiration.
+
+--- Record Your Masterpiece ---
+Vythm offers a recording feature that enables you to share or save your creations. Revisit your immersive visual world at your convenience or dazzle your audience with your artistic masterpiece.
+
+--- Share Your Thoughts ---
+Our top priority is to provide you with the best possible experience. If you encounter issues or have ideas for new features, please do not hesitate to contact us at info@mkgames.org.
+
+If you enjoy the app, we would greatly appreciate your feedback and a review! Thank you for choosing Vythm!
+
+Download and experience Vythm (Music Visualization 2024 / Audio Visualizer) today!
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/cf/b6/32cfb6c4-a7ed-d003-57cb-e398e8500472/969b8d5c-328b-4594-adae-d169c8a20d22_iPhone_8_Plus_-_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/8f/c1/348fc1a6-1eb8-312d-342b-9bb91573f8a5/37871899-1163-44b0-9b6b-5c5639aa6f75_iPhone_8_Plus_-_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/0f/34/440f34a7-6b35-7142-6a29-2f7ccaa970f0/a944b2c6-1f21-45b9-91a7-d29c742548de_iPhone_8_Plus_-_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/57/cc/0557cc2a-c016-363b-38da-da705a3323de/2f7d3b6e-de33-416e-8b28-a6e179eb8218_iPhone_8_Plus_-_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/cd/e7/aacde7db-acf2-7ed5-2ca9-1fa26e9fe54c/26ca2506-fa5c-42cf-b48a-2894faac0978_iPhone_8_Plus_-_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/06/b8/a906b850-7573-827a-a0e6-94e98601796a/9cecd023-d9e5-48ad-b562-090d8cd4dcf8_iPad_Pro_12.9__-_1__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/b8/eb/5eb8eb38-3f40-c460-f6fb-71238c38d845/38b748ef-00ec-4f92-ada5-328ddd019b69_iPad_Pro_12.9__-_2__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/ad/d5/a2add544-3f83-3277-879c-c012a5866944/af682f10-d7a2-432f-a21a-ff34c853dc49_iPad_Pro_12.9__-_3__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/2e/37/f82e374f-a4a8-ade7-23f1-b1ace6f49ef1/f9045d4d-cc6a-40d1-bbba-5c2d6c722551_iPad_Pro_12.9__-_4__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/d8/d4/2fd8d494-4e2b-35a7-70af-bc5754407c52/78378f23-5337-4063-b6bc-7065901f41d4_iPad_Pro_12.9__-_5__U00282nd_generation_U0029.jpg/576x768bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Any FLAC Converter]]></title>
@@ -1442,164 +1514,5 @@ The optional PRO subscription allows you to subscribe once and use djay Pro acro
 
 A supported streaming subscription and an internet connection are required to access songs from a streaming service in djay. No recording available for streamed songs. Neural Mix cannot be used when streaming from Apple Music. Specific songs may not be available or accessible on your account or in your country. Streaming service availability and pricing may vary depending on country, currency and service.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/18/8d/58188d45-2533-846f-93e2-f10c2c68d5d2/72028049-230d-4fd4-84dc-6aeb104ba4a6_0_APP_iPHONE_55_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/4a/4f/364a4fdf-0375-bc81-890c-082cf467a1d3/401c2652-0c1b-4ac4-be5e-d362c5849574_1_APP_iPHONE_55_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/31/87/35318772-7caa-4b7d-3820-6d7ffc0a39f2/ef514d61-e459-428f-91a5-9e15e6541712_2_APP_iPHONE_55_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/3d/a5/3c3da563-a29d-3707-ab97-be987d52d545/7f936548-2083-4a9e-9797-1183d1d769a7_3_APP_iPHONE_55_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/1e/26/8e1e26cb-1d13-cb4d-0aac-2e6518cc442b/180b18b5-c1d5-45c9-8c17-c4924ec7a3fa_4_APP_iPHONE_55_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/57/d0/e057d03a-bdea-8894-11f8-1bfb909fe7d8/cf177d5c-8ae7-46eb-b497-91229d9f6766_5_APP_iPHONE_55_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/46/f4/f246f47d-d8f2-97e0-4167-13e46014edd1/8cb24a62-af91-4673-b92d-ae1421ad273a_6_APP_iPHONE_55_6.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/08/ab/6d08abb2-728f-c627-9b6a-de25f81e5715/599e389f-61c5-4616-a7f8-7fd40ac76f67_0_APP_iPAD_0.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/91/15/889115af-9352-3316-e122-df361a054663/0499301f-9c3f-4abf-a6f2-21990643de59_1_APP_iPAD_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/b2/66/44b266a3-bcd8-faa6-f8dc-aeda93efc895/7ddc227a-e333-4fdc-bafc-c45f54379b86_2_APP_iPAD_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/ed/32/99ed32bf-8ab0-9448-81bd-a1959c6a8dc6/3bc320ce-45ea-46c5-ab69-754e4b066129_3_APP_iPAD_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/84/9e/e5849eaf-e70c-9cfe-5f67-610817e5473c/21f4b058-703f-4731-add0-3c072f3258ad_4_APP_iPAD_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/df/9d/6fdf9dd1-64c9-eb81-c1fe-59f2cec780cf/bdb68404-ed0c-4dc9-b911-b2d875876a93_5_APP_iPAD_5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/32/e7/9a32e75a-4a95-e3d0-329e-a29d65507bec/0d2ac403-e1d8-4880-b06d-001cb09f406d_6_APP_iPAD_6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/9d/60/d49d605c-55f2-0162-f399-edf2f0728485/b4760ed0-b57d-4f0e-a6ab-049fd9e50a7c_7_APP_iPAD_7.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antivirus One - Virus Cleaner]]></title>
-        <id>Antivirus One - Virus Cleaner-us-1748362981135</id>
-        <link href="https://apps.apple.com/us/app/antivirus-one-virus-cleaner/id1068435535?mt=12&amp;uo=4"/>
-        <updated>2025-05-27T16:23:01.135Z</updated>
-        <summary type="html"><![CDATA[Upgrade To Pro: $29.99 → $19.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/antivirus-one-virus-cleaner/id1068435535?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/45/8a/f2458a80-bd15-2169-91f1-f74706cc7c84/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Upgrade To Pro：</strong><span>$29.99</span> → <b>
-  <strong>$19.99</strong>
-</b><span>[$19.99 ~ $29.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Keep your digital wallets and keychains safe with Antivirus One, your personal cyber security expert.
-
-Antivirus One offers live antivirus monitoring to protect your Mac from adware, ransomware, spyware and all kinds of malware attacks.
-
-Download now and say goodbye to pop-up scams, spyware and viruses! 
- 
-Developed exclusively by the world’s largest antivirus and spyware active monitoring lab at Trend Micro. Secure your Mac with these powerful Antivirus One protection features:
-
-1. Real Time Detection
-Live malware detector on the go. Protect your Mac against all threats 24/7.
-
-2. Virus Scanner
-Quick scan, deep scan or customize scan locations to safeguard every part of your disk.
-
-3. Virus Cleaner (In-App Purchase required)
-Automatically remove viruses completely for the security of your system and privacy.
-
-4. Adware Cleaner
-Get rid of pop-ups, adware, and browser hijackers so you can browse at peace.
-
-5. Privacy Cleaner
-Customize your online transparency. Turn invisible without leaving a trace in your browser.
-
-6. Safe Search
-Flag safety ratings of every Google search result.
-
-7. Web Threat Protection
-Prevents users from visiting phishing websites.
-
-We highly recommend full disk scanning using Antivirus One on a regular basis to keep your Mac safe from security threats.
-
-We offer two auto-renewing subscription options:
-— Monthly: as low as $2.99
-— Yearly: as low as $19.99
-Price may vary by location.
- 
-Subscriptions will auto-renew unless canceled.
-— Payment will be charged to iTunes Account at confirmation of purchase
-— Subscription may be managed by the user and auto-renewal may be turned off by going to the user’s Account Setting after purchase.
-— No cancellation of the current subscription is allowed during active subscription period.
-— Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
-— Your account will be charged for renewal for the amount of your current subscription within 24-hours prior to the end of the current period. All cost for subscriptions are mentioned above.
-
-We value your feedback, it helps us to improve Antivirus One to better serve you! Please send us your comments or suggestions in the App Store or by the feedback page inside Antivirus One.
- 
-Privacy Policy and Terms of Use
-http://gr.trendmicro.com/GREntry/NonPayment?Target=AntivirusOne&OS=&SP=&PID=DS10&FunID=PrivacyPolicy&VID=&Locale=EN-US
-http://gr.trendmicro.com/GREntry/NonPayment?Target=AntivirusOne&OS=&SP=&PID=DS10&FunID=LicenseAgreement&VID=&Locale=EN-US
-
-Contact support: mac_support@trendmicro.com
-
-Please be advised that this app is only offered in English in this country.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fe/66/ea/fe66ea73-00d5-e896-118b-e100975d701c/fef617ed-c9c5-4cf8-beb9-55212d0e43ca_EN_01.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d4/ec/e2/d4ece2dc-3764-6337-30f1-89cadd295fe2/1f53872e-eed6-47e1-b2a6-4a880e357f55_EN_02.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b3/f0/b7/b3f0b750-dee9-2742-5ec1-0a4c5a20002d/5c5da793-a7b4-40c0-a269-1fc17bc7cbf8_EN_03.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/07/fb/f5/07fbf5f9-af25-59c4-7a9c-cae83e97535d/fa392ba7-3ace-4575-ac2f-b41374dc693c_EN_04.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/38/d3/bd/38d3bd34-bf58-986e-54bc-8856c02e2159/7085872b-3c40-4e66-bde9-26f41e215f1e_EN_05.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[优酷视频-嘘国王在冬眠 全网独播]]></title>
-        <id>优酷视频-嘘国王在冬眠 全网独播-us-1748362981135</id>
-        <link href="https://apps.apple.com/us/app/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91-%E5%98%98%E5%9B%BD%E7%8E%8B%E5%9C%A8%E5%86%AC%E7%9C%A0-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1014945607?mt=12&amp;uo=4"/>
-        <updated>2025-05-27T16:23:01.135Z</updated>
-        <summary type="html"><![CDATA[优酷视频点播: $5.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91-%E5%98%98%E5%9B%BD%E7%8E%8B%E5%9C%A8%E5%86%AC%E7%9C%A0-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1014945607?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/ca/f6/afcaf62c-52c9-f8ae-5817-e4ef8e8e05c8/icon.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>优酷视频点播：</strong><span>$5.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $5.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  优酷Mac客户端，聚焦全网精品内容，提供电影、电视剧、综艺、动漫、少儿等海量高清视频在线观看
-提供优质Mac本地视频播放器，同时支持优酷缓存视频和电脑本地视频播放
-支持4K画质，畅享极致视觉盛宴
-支持优酷账号及第三方登录，视频云记录，多屏同步看
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/4f/67/cd4f67e5-652e-3291-cfcc-61108e59a326/1280_U002a800-p1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/03/79/700379d4-5e0c-b64d-9118-5598426638d6/1280_U002a800-p2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/c9/48/7ec9485b-3ae7-eee3-dc9a-04da21cb21c2/1280_U002a800-p3.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antivirus One - Virus Cleaner]]></title>
-        <id>Antivirus One - Virus Cleaner-us-1748359183604</id>
-        <link href="https://apps.apple.com/us/app/antivirus-one-virus-cleaner/id1068435535?mt=12&amp;uo=4"/>
-        <updated>2025-05-27T15:19:43.604Z</updated>
-        <summary type="html"><![CDATA[Upgrade to Pro: $19.99 → $2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/antivirus-one-virus-cleaner/id1068435535?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/45/8a/f2458a80-bd15-2169-91f1-f74706cc7c84/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Upgrade to Pro：</strong><span>$19.99</span> → <b>
-  <strong>$2.99</strong>
-</b><span>[$2.99 ~ $19.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Keep your digital wallets and keychains safe with Antivirus One, your personal cyber security expert.
-
-Antivirus One offers live antivirus monitoring to protect your Mac from adware, ransomware, spyware and all kinds of malware attacks.
-
-Download now and say goodbye to pop-up scams, spyware and viruses! 
- 
-Developed exclusively by the world’s largest antivirus and spyware active monitoring lab at Trend Micro. Secure your Mac with these powerful Antivirus One protection features:
-
-1. Real Time Detection
-Live malware detector on the go. Protect your Mac against all threats 24/7.
-
-2. Virus Scanner
-Quick scan, deep scan or customize scan locations to safeguard every part of your disk.
-
-3. Virus Cleaner (In-App Purchase required)
-Automatically remove viruses completely for the security of your system and privacy.
-
-4. Adware Cleaner
-Get rid of pop-ups, adware, and browser hijackers so you can browse at peace.
-
-5. Privacy Cleaner
-Customize your online transparency. Turn invisible without leaving a trace in your browser.
-
-6. Safe Search
-Flag safety ratings of every Google search result.
-
-7. Web Threat Protection
-Prevents users from visiting phishing websites.
-
-We highly recommend full disk scanning using Antivirus One on a regular basis to keep your Mac safe from security threats.
-
-We offer two auto-renewing subscription options:
-— Monthly: as low as $2.99
-— Yearly: as low as $19.99
-Price may vary by location.
- 
-Subscriptions will auto-renew unless canceled.
-— Payment will be charged to iTunes Account at confirmation of purchase
-— Subscription may be managed by the user and auto-renewal may be turned off by going to the user’s Account Setting after purchase.
-— No cancellation of the current subscription is allowed during active subscription period.
-— Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
-— Your account will be charged for renewal for the amount of your current subscription within 24-hours prior to the end of the current period. All cost for subscriptions are mentioned above.
-
-We value your feedback, it helps us to improve Antivirus One to better serve you! Please send us your comments or suggestions in the App Store or by the feedback page inside Antivirus One.
- 
-Privacy Policy and Terms of Use
-http://gr.trendmicro.com/GREntry/NonPayment?Target=AntivirusOne&OS=&SP=&PID=DS10&FunID=PrivacyPolicy&VID=&Locale=EN-US
-http://gr.trendmicro.com/GREntry/NonPayment?Target=AntivirusOne&OS=&SP=&PID=DS10&FunID=LicenseAgreement&VID=&Locale=EN-US
-
-Contact support: mac_support@trendmicro.com
-
-Please be advised that this app is only offered in English in this country.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fe/66/ea/fe66ea73-00d5-e896-118b-e100975d701c/fef617ed-c9c5-4cf8-beb9-55212d0e43ca_EN_01.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d4/ec/e2/d4ece2dc-3764-6337-30f1-89cadd295fe2/1f53872e-eed6-47e1-b2a6-4a880e357f55_EN_02.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b3/f0/b7/b3f0b750-dee9-2742-5ec1-0a4c5a20002d/5c5da793-a7b4-40c0-a269-1fc17bc7cbf8_EN_03.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/07/fb/f5/07fbf5f9-af25-59c4-7a9c-cae83e97535d/fa392ba7-3ace-4575-ac2f-b41374dc693c_EN_04.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/38/d3/bd/38d3bd34-bf58-986e-54bc-8856c02e2159/7085872b-3c40-4e66-bde9-26f41e215f1e_EN_05.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>
