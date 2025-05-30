@@ -8899,6 +8899,25 @@
     "history": [
       [
         {
+          "timestamp": 1748608573204,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Fotor Pro Annual Special Offer": "¥238.00",
+            "Fotor Pro - Recommend Offer": "¥328.00",
+            "Fotor Pro - Special Offer": "¥298.00",
+            "avatar rich package 80": "¥148.00",
+            "avatar rich package 40": "¥98.00",
+            "avatar normal package 80": "¥88.00",
+            "avatar rich package 20": "¥68.00",
+            "avatar normal package 40": "¥52.00",
+            "avatar normal package 20": "¥32.00",
+            "Pro - Annual Plan.cn.2024": "¥298.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748207711640,
           "price": 0,
           "formattedPrice": "免费",
@@ -19673,7 +19692,13 @@
       "12奇点": "¥12.00",
       "4奇点": "¥4.00",
       "5奇点": "¥5.00",
-      "黄金会员连续包年": "¥238.00"
+      "黄金会员连续包年": "¥238.00",
+      "基础VIP升级黄金VIP90天": "¥36.00",
+      "白金VIP升级星钻VIP90天": "¥36.00",
+      "连续包年": "¥348.00",
+      "基础VIP升级星钻VIP360天": "¥213.00",
+      "基础VIP升级白金VIP90天": "¥36.00",
+      "黄金VIP升级星钻VIP30天": "¥18.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -19686,9 +19711,30 @@
       "12奇点": "¥12.00",
       "4奇点": "¥4.00",
       "5奇点": "¥5.00",
-      "黄金会员连续包年": "¥238.00"
+      "黄金会员连续包年": "¥238.00",
+      "基础VIP升级黄金VIP90天": "¥36.00",
+      "白金VIP升级星钻VIP90天": "¥36.00",
+      "连续包年": "¥348.00",
+      "基础VIP升级星钻VIP360天": "¥213.00",
+      "基础VIP升级白金VIP90天": "¥36.00",
+      "黄金VIP升级星钻VIP30天": "¥18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748608573204,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "基础VIP升级黄金VIP90天": "¥36.00",
+            "白金VIP升级星钻VIP90天": "¥36.00",
+            "连续包年": "¥348.00",
+            "基础VIP升级星钻VIP360天": "¥213.00",
+            "基础VIP升级白金VIP90天": "¥36.00",
+            "黄金VIP升级星钻VIP30天": "¥18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -53569,13 +53615,14 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "永久授权": "¥268.00",
+      "永久授权": "¥338.00",
       "年度订阅": "¥168.00",
       "UPDF AI 标准版": "¥69.00",
       "UPDF Pro + AI 无限": "¥468.00",
       "UPDF AI 无限版": "¥268.00",
       "季度订阅": "¥88.00",
-      "UPDF Pro + UPDF AI 标准版": "¥288.00"
+      "UPDF Pro + UPDF AI 标准版": "¥288.00",
+      "UPDF Pro + AI 无限版": "¥338.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -53586,9 +53633,24 @@
       "UPDF Pro + AI 无限": "¥428.00",
       "UPDF AI 无限版": "¥238.00",
       "季度订阅": "¥88.00",
-      "UPDF Pro + UPDF AI 标准版": "¥238.00"
+      "UPDF Pro + UPDF AI 标准版": "¥238.00",
+      "UPDF Pro + AI 无限版": "¥338.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748608573204,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "UPDF Pro + AI 无限": "¥428.00",
+            "UPDF AI 无限版": "¥238.00",
+            "UPDF Pro + AI 无限版": "¥338.00",
+            "永久授权": "¥338.00",
+            "UPDF Pro + UPDF AI 标准版": "¥238.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748441930598,

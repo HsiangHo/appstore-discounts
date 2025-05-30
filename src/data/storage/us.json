@@ -29287,7 +29287,17 @@
       "Hip-Hop": "$2.99",
       "Full Access to PRO": "$9.99",
       "Future Beat": "$2.99",
-      "Dubstep": "$2.99"
+      "Dubstep": "$2.99",
+      "Drip Tech House": "$2.99",
+      "Altered Hip-Hop": "$2.99",
+      "Glow Trap": "$2.99",
+      "Phonk": "$2.99",
+      "Indigo Beats": "$2.99",
+      "Voyager Synthwave": "$2.99",
+      "Titanium Bass": "$2.99",
+      "Sphere Electro": "$2.99",
+      "Chill Boom Bap": "$2.99",
+      "Summer Pop House": "$2.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -29300,9 +29310,38 @@
       "Hip-Hop": "$2.99",
       "Full Access to PRO": "$9.99",
       "Future Beat": "$2.99",
-      "Dubstep": "$2.99"
+      "Dubstep": "$2.99",
+      "Drip Tech House": "$2.99",
+      "Altered Hip-Hop": "$2.99",
+      "Glow Trap": "$2.99",
+      "Phonk": "$2.99",
+      "Indigo Beats": "$2.99",
+      "Voyager Synthwave": "$2.99",
+      "Titanium Bass": "$2.99",
+      "Sphere Electro": "$2.99",
+      "Chill Boom Bap": "$2.99",
+      "Summer Pop House": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748608573204,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Drip Tech House": "$2.99",
+            "Altered Hip-Hop": "$2.99",
+            "Glow Trap": "$2.99",
+            "Phonk": "$2.99",
+            "Indigo Beats": "$2.99",
+            "Voyager Synthwave": "$2.99",
+            "Titanium Bass": "$2.99",
+            "Sphere Electro": "$2.99",
+            "Chill Boom Bap": "$2.99",
+            "Summer Pop House": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
