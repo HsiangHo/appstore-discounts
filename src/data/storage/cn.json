@@ -8899,6 +8899,23 @@
     "history": [
       [
         {
+          "timestamp": 1748611708413,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Editor Pro - Annual Plan": "¥328.00",
+            "Editor Pro - Monthly Plan": "¥58.00",
+            "Pro - Annual Plan.cn.2024": "¥298.00",
+            "Editor Pro - Annual Plan CN": "¥328.00",
+            "Editor Pro - Annual Plan.2024": "¥298.00",
+            "FotorPro+ - Monthly Plan": "¥128.00",
+            "Editor Pro - Monthly Plan.cn": "¥58.00",
+            "Pro discount - Monthly Plan": "¥58.00",
+            "FotorPro+ - Annual Plan": "¥578.00",
+            "Pro discount - Annual Plan": "¥298.00"
+          }
+        },
+        {
           "timestamp": 1748608573204,
           "price": 0,
           "formattedPrice": "免费",
@@ -19722,6 +19739,22 @@
     "history": [
       [
         {
+          "timestamp": 1748611708413,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "黄金会员连续包月": "¥25.00",
+            "6奇点": "¥6.00",
+            "月卡": "¥30.00",
+            "连续包月": "¥25.00",
+            "黄金会员连续包季": "¥68.00",
+            "12奇点": "¥12.00",
+            "4奇点": "¥4.00",
+            "5奇点": "¥5.00",
+            "黄金会员连续包年": "¥238.00"
+          }
+        },
+        {
           "timestamp": 1748608573204,
           "price": 0,
           "formattedPrice": "免费",
@@ -21188,6 +21221,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748611708413,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Trap": "¥22.00",
+            "Remixlive Premium (Monthly)": "¥68.00",
+            "Electro": "¥22.00",
+            "Drum & Bass": "¥22.00",
+            "Deep House": "¥22.00",
+            "Hip-Hop": "¥22.00",
+            "Dubstep": "¥22.00",
+            "Future Beat": "¥22.00",
+            "Full Access to PRO": "¥198.00"
+          }
+        },
         {
           "timestamp": 1748578950176,
           "price": 0,
@@ -51684,6 +51733,19 @@
     "history": [
       [
         {
+          "timestamp": 1748611708413,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Wink VIP连续包月": "¥18.00",
+            "Wink VIP 连续包年": "¥168.00",
+            "保存本次画质修复结果": "¥12.00",
+            "70美豆": "¥10.00",
+            "252美豆": "¥36.00",
+            "476美豆": "¥68.00"
+          }
+        },
+        {
           "timestamp": 1748578950176,
           "price": 0,
           "formattedPrice": "免费",
@@ -53638,6 +53700,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748611708413,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "永久授权": "¥238.00",
+            "年度订阅": "¥148.00",
+            "UPDF AI 标准版": "¥69.00",
+            "UPDF AI 无限版": "¥238.00",
+            "UPDF Pro + AI 无限": "¥428.00",
+            "季度订阅": "¥88.00",
+            "UPDF Pro + UPDF AI 标准版": "¥238.00"
+          }
+        },
         {
           "timestamp": 1748608573204,
           "price": 0,
