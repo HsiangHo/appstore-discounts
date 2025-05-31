@@ -32248,9 +32248,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Unlock Full Version": "$29.99"
+      "Unlock Full Version": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748704590363,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Unlock Full Version": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
