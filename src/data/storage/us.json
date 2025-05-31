@@ -32253,6 +32253,14 @@
     "history": [
       [
         {
+          "timestamp": 1748708397067,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Unlock Full Version": "$29.99"
+          }
+        },
+        {
           "timestamp": 1748704590363,
           "price": 0,
           "formattedPrice": "Free",
