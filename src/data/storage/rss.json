@@ -1907,65 +1907,6 @@
           "range": "[¥35.00 ~ ¥38.00]"
         }
       ]
-    },
-    {
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E8%BF%9C%E8%85%BE-%E6%9D%8E/id1444998894?mt=12&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/bd/e8/48bde811-4dec-1005-e407-b2e2184b832b/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/bd/e8/48bde811-4dec-1005-e407-b2e2184b832b/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/100x100bb.png",
-      "kind": "mac-software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6c/47/55/6c47552d-4689-d347-6598-555f196e0615/pr_source.png/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/05/69/c0/0569c08f-fc02-f691-0125-b9cd197f3f00/pr_source.png/800x500bb.jpg"
-      ],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/bd/e8/48bde811-4dec-1005-e407-b2e2184b832b/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/512x512bb.png",
-      "trackCensoredName": "MPlayer X Pro",
-      "averageUserRating": 0,
-      "trackViewUrl": "https://apps.apple.com/cn/app/mplayer-x-pro/id1486274102?mt=12&uo=4",
-      "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "10.14",
-      "artistId": 1444998894,
-      "artistName": "远腾 李",
-      "genres": [
-        "摄影与录像"
-      ],
-      "price": 1,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "bundleId": "com.see.vlook",
-      "releaseDate": "2019-11-06T08:00:00Z",
-      "sellerName": "远腾 李",
-      "genreIds": [
-        "6008"
-      ],
-      "trackId": 1486274102,
-      "trackName": "MPlayer X Pro",
-      "currentVersionReleaseDate": "2025-03-14T09:01:41Z",
-      "releaseNotes": "bug fix",
-      "version": "1.8.7",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "强大的视频播放器，具有高级硬件加速和字幕支持。\n\n它播放大多数本地视频和音频文件。\n\n-支持视频文件：MP4，MOV，M4V，MKV，WMV，RMVB，FLV，AVI，3GP，TS，ASF，ASX，DAT，DIVX，F4V，M3U8，MPG，MTS，OGM等\n\n-支持音频文件：MP3，WAV，WMA，FLAC，APE，Wavpack，MPEG Layer 1/2，Vorbis，AC3-A / 52，E-AC-3，MLP / TrueHD> 3，DTS，ALAC，Speex，Musepack / MPC，ATRAC 3，Mod，TrueAudio，Real Audio，Alaw / µlaw，AMR（3GPP），MIDI，LPCM，ADPCM，QCELP，DV Audio，QDM2 / QDMC，MACE等\n\n-支持字幕文件：DVD，DVB，SMI，SRT，SSA / ASS，IDX，SUB，IDX，MPL，TXT，TELETEXT，LRC，PJS，SUP，VTT，MLP2，文本文件（MicroDVD，SubRIP，SubViewer，SSA1- 5，SAMI，VPlayer），隐藏式字幕，Vobsub，通用字幕格式（USF），SVCD / CVD，OGM，CMML，Kate等。\n\n-支持播放列表文件：CUE，M3U，ASM，PLS，WPL",
-      "averageUserRatingForCurrentVersion": 0,
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "40591139",
-      "formattedPrice": "¥1.00",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "userRatingCount": 0,
-      "inAppPurchases": {},
-      "timestamp": 1748420668910,
-      "discounts": [
-        {
-          "type": "price",
-          "name": "价格",
-          "from": "¥6.00",
-          "to": "¥1.00",
-          "range": "[¥1.00 ~ ¥6.00]"
-        }
-      ]
     }
   ],
   "us": [
