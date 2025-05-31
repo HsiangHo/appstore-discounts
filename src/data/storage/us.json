@@ -26329,6 +26329,15 @@
     "history": [
       [
         {
+          "timestamp": 1748694794279,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "SQLPro Premium": "$99.99",
+            "SQLPro Premium - Lifetime": "$219.99"
+          }
+        },
+        {
           "timestamp": 1748689998711,
           "price": 0,
           "formattedPrice": "Free",
