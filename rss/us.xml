@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-05-30T22:22:08.436Z</updated>
+    <updated>2025-05-31T03:15:03.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-30T22:22:08.437Z</updated>
+        <updated>2025-05-31T03:15:03.772Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusFri, 30 May 2025 22:22:08 GMT</id>
+        <id>rankingusSat, 31 May 2025 03:15:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-30T22:22:08.438Z</updated>
+        <updated>2025-05-31T03:15:03.773Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -1216,6 +1216,74 @@ feedId:49753370488353792+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>58</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6445882848">Boom3D-5.1 Audio for Netflix</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>59</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6739523960">Allow Right Click for Safari</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>60</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6738715418">STEP and IGES File Viewer</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>61</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6738089759">Hide Mouse Cursor</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -1227,6 +1295,81 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boom3D-5.1 Audio for Netflix]]></title>
+        <id>Boom3D-5.1 Audio for Netflix-us-1748660955683</id>
+        <link href="https://apps.apple.com/us/app/boom3d-5-1-audio-for-netflix/id6445882848?mt=12&amp;uo=4"/>
+        <updated>2025-05-31T03:09:15.683Z</updated>
+        <summary type="html"><![CDATA[Price: $1.99 → $0.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/boom3d-5-1-audio-for-netflix/id6445882848?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/83/40/9d834067-5d00-83eb-5090-9c5545e215d0/AppIcon-85-220-0-4-2x.png/60x60bb.png" />
+</a><h2>
+  Discount Information（Price：<span>$1.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $1.99]</span>）
+</h2><h2>Application Description</h2><p>
+  Hey there! We're the team behind Boom 3D, and we've created the ultimate Safari extension to give you an incredible Netflix experience. With our extension, you can enjoy high-quality 5.1 surround sound and 1080p video with compatible content on Netflix. The accompanying Boom3D desktop app will take your sound to a whole new level of immersion and realism with our patented 3D audio technology, and it works with absolutely ANY headphones.
+
+But why is 5.1 surround sound so great? Well, when you're watching a movie or show, you want to feel like you're right in the middle of the action, right? 5.1 surround sound does exactly that. With five separate audio channels plus a subwoofer channel, you get a more realistic and immersive audio experience. You can hear every detail, from subtle whispers to thunderous explosions, and feel like you're right in the middle of the scene.
+
+We created this extension to help you take your Netflix experience to the next level. By enabling 5.1 output, you can enjoy a more immersive and cinematic viewing experience, all from the comfort of your own home.
+
+It's important to note that the 5.1 audio can only be enabled on compatible content. 1080p video can only be enabled on select Netflix plans and require sufficient internet bandwidth.
+
+Overall, we're really excited about the Safari extension, and we hope you are too! So what are you waiting for? 
+Enable the extension and start experiencing your favorite shows and movies like never before.
+
+Disclaimer: The Netflix trademark belongs to Netflix, Inc. This extension has no affiliation or connection to Netflix or any other third-party companies.	
+
+Follow us on:
+•	Twitter: https://twitter.com/boomapp/ 
+•	Facebook: https://facebook.com/boomapp/ 
+•	Instagram: https://www.instagram.com/boomaudioapp 
+•	YouTube: https://www.youtube.com/@BoomAudioApp
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6d/2b/fa/6d2bfa61-526a-45cb-0f84-3a36a93e1762/ca5ee0be-8a50-493c-b495-2b1960dbe86f_Screen-1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/dd/77/83/dd778397-7996-929a-12ca-480a2e5e2001/7337b0ba-13b6-4570-a6ce-03c72e2b957a_Screen-2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/9a/3c/c3/9a3cc3e0-d95e-d651-71eb-b65da952b24d/20abfec7-d589-4ad3-b148-48f14cd48064_Screen-3.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6e/39/68/6e39687a-86ef-210b-aae5-2d5263024dee/e7437cb7-b0ad-400e-8b9e-293982d63ab2_Screen-4.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allow Right Click for Safari]]></title>
+        <id>Allow Right Click for Safari-us-1748660955683</id>
+        <link href="https://apps.apple.com/us/app/allow-right-click-for-safari/id6739523960?uo=4"/>
+        <updated>2025-05-31T03:09:15.683Z</updated>
+        <summary type="html"><![CDATA[Price: $1.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/allow-right-click-for-safari/id6739523960?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ea/35/f9ea3591-a3aa-59b0-1a37-183f419f88f2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$1.99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ $1.99]</span>）
+</h2><h2>Application Description</h2><p>This software allows right-click, copy, cut, and paste functionality on all websites. It has a simple interface and is easy to use. You can copy any content, whether it’s text, images, or other media.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STEP and IGES File Viewer]]></title>
+        <id>STEP and IGES File Viewer-us-1748660955683</id>
+        <link href="https://apps.apple.com/us/app/step-and-iges-file-viewer/id6738715418?mt=12&amp;uo=4"/>
+        <updated>2025-05-31T03:09:15.683Z</updated>
+        <summary type="html"><![CDATA[Price: $12.99 → $0.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/step-and-iges-file-viewer/id6738715418?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/55/f8/ee55f8c1-9e6f-b66e-8745-8fa4073cc1e3/icon.png/60x60bb.png" />
+</a><h2>
+  Discount Information（Price：<span>$12.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $12.99]</span>）
+</h2><h2>Application Description</h2><p>A professional 3D viewer for STEP/STP, IGES/IGS, and other 3D file formats. Supports printing and converting 3D files with ease.</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/84/ec/4984ec88-a04a-e981-64d6-d6fec8d8a2b2/_U65e0_U6807_U989829.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/c7/6d/aec76dd3-5cd8-fe26-ef16-bf4ccf3a72ed/_U65e0_U6807_U9898.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/68/5a/63685a4f-4f46-ce54-b618-f9c0f6c6dada/_U65e0_U6807_U98982.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hide Mouse Cursor]]></title>
+        <id>Hide Mouse Cursor-us-1748660955683</id>
+        <link href="https://apps.apple.com/us/app/hide-mouse-cursor/id6738089759?mt=12&amp;uo=4"/>
+        <updated>2025-05-31T03:09:15.683Z</updated>
+        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/hide-mouse-cursor/id6738089759?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/3e/95/423e9529-c3a8-daed-aa31-a91b61fc449c/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png" />
+</a><h2>
+  Discount Information（Price：<span>$0.99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ $0.99]</span>）
+</h2><h2>Application Description</h2><p>This app is a tool designed for users to hide the mouse cursor, which is particularly suitable for full-screen presentations, video playback or games, allowing users to focus on the content without being disturbed by the cursor, including one-click hiding/showing the cursor, shortcut key support, and custom settings.</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/e7/e9/14e7e980-14b9-dd96-141a-2deecdd1fe0c/Screenshot_2024-11-22_at_5.14.01_U202fPM_copy.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/48/67/b748678b-92ca-24f1-ea97-72ecc7924d6b/Screenshot_2024-11-22_at_5.14.01_U202fPM.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[UPDF - PDF Editor with AI]]></title>
