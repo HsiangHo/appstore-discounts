@@ -1,6 +1,13 @@
 {
   "month": "2025-06",
   "cn": {
+    "1058801458": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Full Access to PRO": 1
+      }
+    },
     "1544190466": {
       "all": 1,
       "price": 1,
