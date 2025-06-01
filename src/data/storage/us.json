@@ -11070,6 +11070,23 @@
     "history": [
       [
         {
+          "timestamp": 1748812531118,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Editor Pro - Annual Plan": "$47.99",
+            "Editor Pro - Monthly Plan": "$8.99",
+            "Editor Pro - Annual Plan.2024": "$47.99",
+            "FotorPro+ - Monthly Plan": "$19.99",
+            "Pro discount - Monthly Plan": "$8.99",
+            "FotorPro+ - Annual Plan": "$89.99",
+            "Pro discount - Annual Plan": "$47.99",
+            "Fotor Pro - Recommend Offer": "$47.99",
+            "Editor Pro - Monthly Plan.cn": "$8.99",
+            "Pro - Annual Plan.cn.2024": "$47.99"
+          }
+        },
+        {
           "timestamp": 1748809136268,
           "price": 0,
           "formattedPrice": "Free",
