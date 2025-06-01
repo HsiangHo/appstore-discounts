@@ -40037,7 +40037,7 @@
       "price": 0,
       "formattedPrice": "Free",
       "订阅一个周.": "$2.49",
-      "Permanent membership": "$11.99",
+      "Permanent membership": "$14.99",
       "Subscription for 1 month.": "$4.49",
       "订阅一年": "$9.99",
       "Monthly membership": "$4.99",
@@ -40054,10 +40054,24 @@
       "订阅一年": "$9.99",
       "Monthly membership": "$4.99",
       "月度会员": "$4.99",
-      "Annual membership": "$9.99",
+      "Annual membership": "$8.99",
       "Subscription for 1 year.": "$13.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748805215285,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Permanent membership": "$14.99",
+            "Subscription for 1 month.": "$4.49",
+            "Subscription for 1 year.": "$13.49",
+            "Monthly membership": "$4.99",
+            "Annual membership": "$8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,

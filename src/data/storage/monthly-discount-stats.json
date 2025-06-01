@@ -8,6 +8,13 @@
     }
   },
   "us": {
+    "1339124759": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Annual membership": 1
+      }
+    },
     "1514073011": {
       "all": 1,
       "price": 0,
