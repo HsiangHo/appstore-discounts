@@ -11036,7 +11036,14 @@
       "Fotor Pro - Recommend Offer": "$47.99",
       "avatar rich package 20": "$9.99",
       "Editor Pro - Monthly Plan.cn": "$8.99",
-      "Pro - Annual Plan.cn.2024": "$47.99"
+      "Pro - Annual Plan.cn.2024": "$47.99",
+      "Fotor Pro Annual Special Offer": "$38.99",
+      "Fotor Pro - Special Offer": "$39.99",
+      "avatar rich package 80": "$19.99",
+      "avatar rich package 40": "$14.99",
+      "avatar normal package 80": "$11.49",
+      "avatar normal package 40": "$7.49",
+      "avatar normal package 20": "$4.49"
     },
     "minPriceInfo": {
       "price": 0,
@@ -11051,9 +11058,35 @@
       "Fotor Pro - Recommend Offer": "$47.99",
       "avatar rich package 20": "$9.99",
       "Editor Pro - Monthly Plan.cn": "$8.99",
-      "Pro - Annual Plan.cn.2024": "$47.99"
+      "Pro - Annual Plan.cn.2024": "$47.99",
+      "Fotor Pro Annual Special Offer": "$38.99",
+      "Fotor Pro - Special Offer": "$39.99",
+      "avatar rich package 80": "$19.99",
+      "avatar rich package 40": "$14.99",
+      "avatar normal package 80": "$11.49",
+      "avatar normal package 40": "$7.49",
+      "avatar normal package 20": "$4.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748809136268,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Fotor Pro Annual Special Offer": "$38.99",
+            "Fotor Pro - Recommend Offer": "$47.99",
+            "Fotor Pro - Special Offer": "$39.99",
+            "avatar rich package 80": "$19.99",
+            "avatar rich package 40": "$14.99",
+            "avatar normal package 80": "$11.49",
+            "avatar rich package 20": "$9.99",
+            "avatar normal package 40": "$7.49",
+            "avatar normal package 20": "$4.49",
+            "Pro - Annual Plan.cn.2024": "$47.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748266075020,
@@ -40059,6 +40092,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748809136268,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "订阅一个周.": "$2.49",
+            "Permanent membership": "$11.99",
+            "Subscription for 1 month.": "$4.49",
+            "Monthly membership": "$4.99",
+            "订阅一年": "$9.99",
+            "月度会员": "$4.99",
+            "Annual membership": "$9.99",
+            "Subscription for 1 year.": "$13.49"
+          }
+        },
         {
           "timestamp": 1748805215285,
           "price": 0,
