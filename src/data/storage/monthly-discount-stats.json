@@ -1,5 +1,14 @@
 {
   "month": "2025-06",
   "cn": {},
-  "us": {}
+  "us": {
+    "6450397515": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "VIP": 1,
+        "2 hours a day": 1
+      }
+    }
+  }
 }

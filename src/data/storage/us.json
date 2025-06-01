@@ -5745,6 +5745,25 @@
     "history": [
       [
         {
+          "timestamp": 1748752416510,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Synth Lead": "$1.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Synth Plucks": "$1.99",
+            "Groove Machine Synth": "$0.00",
+            "Transistor Bass": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748729759732,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -10647,6 +10666,22 @@
       "有道词典超级会员1年": "$59.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748752416510,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "有道词典会员连续包月": "$3.99",
+            "有道词典超级会员": "$14.99",
+            "有道词典超级会员1个月": "$5.99",
+            "50万字符加量包": "$3.99",
+            "6充值币": "$0.99",
+            "10万字符加量包": "$0.99",
+            "30充值币": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748643393069,
@@ -20078,6 +20113,25 @@
       "100 Telegram Stars": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748752416510,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Telegram Premium": "$4.99",
+            "250 Telegram Stars": "$5.09",
+            "500 Telegram Stars": "$9.99",
+            "Telegram Premium Annual": "$34.99",
+            "1x Premium (3 Months)": "$14.99",
+            "75 Telegram Stars": "$1.59",
+            "1000 Telegram Stars": "$19.99",
+            "Telegram Premium (3-Month)": "$14.99",
+            "1x Premium (1 Year)": "$35.99",
+            "100 Telegram Stars": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748600325963,
@@ -60725,6 +60779,23 @@
     "history": [
       [
         {
+          "timestamp": 1748752416510,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Vythm PRO": "$9.99",
+            "All features and modes": "$44.99",
+            "Unlock all (including updates)": "$139.99",
+            "Psychedelic mode for mobile": "$4.99",
+            "Mandala mode on mobile devices": "$4.99",
+            "Dreaming mode for mobile": "$4.99",
+            "Fluids mode for mobile devices": "$4.99",
+            "Shapes mode for mobile": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748632432088,
           "price": 0,
           "formattedPrice": "Free",
@@ -64614,6 +64685,21 @@
       "Save Current Result": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748752416510,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- 25 Credits": "$7.99",
+            "Wink- 100 Credits": "$24.99",
+            "10-second AI animation": "$1.99",
+            "Wink- 5 Credits": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748675767433,
@@ -84412,14 +84498,26 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "VIP": "$19.99",
+      "VIP": "$4.99",
       "5 hours a day": "$6.99",
-      "2 hours a day": "$14.99",
+      "2 hours a day": "$4.99",
       "30minutes": "$1.99",
       "10 minutes": "$0.99",
       "2 hour": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748752416510,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "VIP": "$4.99",
+            "2 hours a day": "$4.99",
+            "5 hours a day": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
