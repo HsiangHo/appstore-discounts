@@ -2,6 +2,13 @@
   "month": "2025-06",
   "cn": {},
   "us": {
+    "1514073011": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Annual VIP": 1
+      }
+    },
     "6450397515": {
       "all": 1,
       "price": 0,
