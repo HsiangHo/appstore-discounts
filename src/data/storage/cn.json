@@ -52000,6 +52000,24 @@
     "history": [
       [
         {
+          "timestamp": 1748802182074,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Wink VIP 连续包周": "¥18.00",
+            "AI Remoji": "¥12.00",
+            "Wink VIP 连续包年": "¥168.00",
+            "Wink VIP连续包月": "¥18.00",
+            "12个月Wink VIP赠送1个月SVIP": "¥150.00",
+            "Wink SVIP 连续包月": "¥39.00",
+            "Wink SVIP 连续包年": "¥298.00",
+            "升级到SVIP": "¥15.00",
+            "AI 春节玩法 - 3次": "¥12.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748668608938,
           "price": 0,
           "formattedPrice": "免费",
