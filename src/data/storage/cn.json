@@ -20012,7 +20012,11 @@
       "Yearly AdBlocker Premium": "¥70.00",
       "Monthly AdBlocker Premium": "¥15.00",
       "Lifetime AdBlocker Premium": "¥268.00",
-      "Semiannual AdBlocker Premium": "¥50.00"
+      "Semiannual AdBlocker Premium": "¥50.00",
+      "Yearly": "¥70.00",
+      "Monthly": "¥15.00",
+      "Lifetime": "¥268.00",
+      "Semiannually": "¥50.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -20020,9 +20024,26 @@
       "Yearly AdBlocker Premium": "¥70.00",
       "Monthly AdBlocker Premium": "¥15.00",
       "Lifetime AdBlocker Premium": "¥268.00",
-      "Semiannual AdBlocker Premium": "¥50.00"
+      "Semiannual AdBlocker Premium": "¥50.00",
+      "Yearly": "¥70.00",
+      "Monthly": "¥15.00",
+      "Lifetime": "¥268.00",
+      "Semiannually": "¥50.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748884595884,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Yearly": "¥70.00",
+            "Monthly": "¥15.00",
+            "Lifetime": "¥268.00",
+            "Semiannually": "¥50.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,

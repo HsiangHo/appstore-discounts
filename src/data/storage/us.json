@@ -27229,7 +27229,11 @@
       "Yearly AdBlock Pro Premium": "$11.99",
       "Monthly AdBlock Pro Premium": "$1.99",
       "Semiannual AdBlock Pro Premium": "$6.99",
-      "Lifetime AdBlock Pro Premium": "$39.99"
+      "Lifetime AdBlock Pro Premium": "$39.99",
+      "Yearly": "$11.99",
+      "Monthly": "$1.99",
+      "Semiannually": "$6.99",
+      "Lifetime": "$39.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -27237,9 +27241,26 @@
       "Yearly AdBlock Pro Premium": "$11.99",
       "Monthly AdBlock Pro Premium": "$1.99",
       "Semiannual AdBlock Pro Premium": "$6.99",
-      "Lifetime AdBlock Pro Premium": "$39.99"
+      "Lifetime AdBlock Pro Premium": "$39.99",
+      "Yearly": "$11.99",
+      "Monthly": "$1.99",
+      "Semiannually": "$6.99",
+      "Lifetime": "$39.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748884595884,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly": "$11.99",
+            "Monthly": "$1.99",
+            "Semiannually": "$6.99",
+            "Lifetime": "$39.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
