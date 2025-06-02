@@ -20045,7 +20045,9 @@
       "Yearly": "¥70.00",
       "Monthly": "¥15.00",
       "Lifetime": "¥268.00",
-      "Semiannually": "¥50.00"
+      "Semiannually": "¥50.00",
+      "Yearly - Best Value": "¥70.00",
+      "6-Monthly": "¥50.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -20057,10 +20059,23 @@
       "Yearly": "¥70.00",
       "Monthly": "¥15.00",
       "Lifetime": "¥268.00",
-      "Semiannually": "¥50.00"
+      "Semiannually": "¥50.00",
+      "Yearly - Best Value": "¥70.00",
+      "6-Monthly": "¥50.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1748902634179,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Yearly - Best Value": "¥70.00",
+            "Monthly": "¥15.00",
+            "Lifetime": "¥268.00",
+            "6-Monthly": "¥50.00"
+          }
+        },
         {
           "timestamp": 1748884595884,
           "price": 0,

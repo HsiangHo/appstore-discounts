@@ -27233,7 +27233,9 @@
       "Yearly": "$11.99",
       "Monthly": "$1.99",
       "Semiannually": "$6.99",
-      "Lifetime": "$39.99"
+      "Lifetime": "$39.99",
+      "Yearly - Best Value": "$11.99",
+      "6-Monthly": "$6.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -27245,10 +27247,23 @@
       "Yearly": "$11.99",
       "Monthly": "$1.99",
       "Semiannually": "$6.99",
-      "Lifetime": "$39.99"
+      "Lifetime": "$39.99",
+      "Yearly - Best Value": "$11.99",
+      "6-Monthly": "$6.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1748902634179,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly - Best Value": "$11.99",
+            "Monthly": "$1.99",
+            "6-Monthly": "$6.99",
+            "Lifetime": "$39.99"
+          }
+        },
         {
           "timestamp": 1748884595884,
           "price": 0,
@@ -46615,6 +46630,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748902634179,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "移动端会员-连续包月": "$2.99",
+            "移动端会员-月卡": "$2.99",
+            "大学生专属特惠季卡": "$2.99",
+            "移动端会员-连续包季": "$5.99",
+            "大学生专属特惠年卡": "$9.99",
+            "移动端会员-年卡": "$14.99",
+            "移动端会员-季卡": "$5.99"
+          }
+        },
         {
           "timestamp": 1748895593010,
           "price": 0,
