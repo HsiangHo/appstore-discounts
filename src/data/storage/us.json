@@ -57105,6 +57105,23 @@
     "history": [
       [
         {
+          "timestamp": 1748862953269,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Continuous cycle": "$5.49",
+            "500 hour VIP members": "$7.99",
+            "Continuous monthly payment": "$5.49",
+            "Continuous cropping season": "$15.99",
+            "1800 hours VIP members": "$15.99",
+            "1 device/month": "$5.99",
+            "2 device/month": "$11.99",
+            "Experience package": "$2.99",
+            "3000 hours VIP members": "$23.99",
+            "Continuous package year": "$49.99"
+          }
+        },
+        {
           "timestamp": 1748859608056,
           "price": 0,
           "formattedPrice": "Free",
