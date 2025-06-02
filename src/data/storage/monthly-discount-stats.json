@@ -1,6 +1,13 @@
 {
   "month": "2025-06",
   "cn": {
+    "491854842": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "有道词典超级会员": 1
+      }
+    },
     "1058801458": {
       "all": 1,
       "price": 0,
@@ -42,6 +49,13 @@
       "inAppPurchase": {
         "Annual membership": 1,
         "Permanent membership": 1
+      }
+    },
+    "1395152179": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "移动端会员-连续包月": 1
       }
     },
     "1514073011": {
