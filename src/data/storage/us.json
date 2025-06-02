@@ -17596,6 +17596,16 @@
     "history": [
       [
         {
+          "timestamp": 1748834356009,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Video Format": "$12.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748586346102,
           "price": 0,
           "formattedPrice": "Free",
@@ -84471,6 +84481,14 @@
     "history": [
       [
         {
+          "timestamp": 1748834356009,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748660955683,
           "price": 0,
           "formattedPrice": "Free",
@@ -85179,6 +85197,14 @@
     "history": [
       [
         {
+          "timestamp": 1748834356009,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748660955683,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -85454,6 +85480,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748834356009,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748660955683,
