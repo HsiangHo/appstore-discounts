@@ -12,6 +12,13 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "1619925971": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "永久授权": 1
+      }
     }
   },
   "us": {
