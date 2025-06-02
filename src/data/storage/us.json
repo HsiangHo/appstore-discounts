@@ -57078,7 +57078,11 @@
       "Continuous package year": "$49.99",
       "1 device/month": "$5.99",
       "2 device/month": "$11.99",
-      "3000 hours VIP members": "$23.99"
+      "3000 hours VIP members": "$23.99",
+      "10 device/month": "$64.99",
+      "5 device/month": "$29.99",
+      "10000 hours VIP members": "$59.99",
+      "Package annual package": "$59.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -57092,9 +57096,32 @@
       "Continuous package year": "$49.99",
       "1 device/month": "$5.99",
       "2 device/month": "$11.99",
-      "3000 hours VIP members": "$23.99"
+      "3000 hours VIP members": "$23.99",
+      "10 device/month": "$64.99",
+      "5 device/month": "$29.99",
+      "10000 hours VIP members": "$59.99",
+      "Package annual package": "$59.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748859608056,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "10 device/month": "$64.99",
+            "5 device/month": "$29.99",
+            "2 device/month": "$11.99",
+            "1 device/month": "$5.99",
+            "10000 hours VIP members": "$59.99",
+            "3000 hours VIP members": "$23.99",
+            "1800 hours VIP members": "$15.99",
+            "500 hour VIP members": "$7.99",
+            "Continuous package year": "$49.99",
+            "Package annual package": "$59.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
