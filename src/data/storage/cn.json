@@ -4729,6 +4729,25 @@
     "history": [
       [
         {
+          "timestamp": 1748838519939,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "Acoustic Guitars": "¥8.00",
+            "Voices": "¥8.00",
+            "Tuned 808 Bass": "¥8.00",
+            "Varazdin Orchestral Mobile": "¥28.00",
+            "Amped Guitar & Bass": "¥22.00",
+            "Sliced Beats": "¥8.00",
+            "Synth Lead": "¥15.00",
+            "Groove Machine Synth": "¥0.00",
+            "Synth Plucks": "¥15.00",
+            "Chill-Lo-Fi Mobile": "¥15.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748715757183,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -21357,6 +21376,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748838519939,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Trap": "¥22.00",
+            "Remixlive Premium (Monthly)": "¥68.00",
+            "Electro": "¥22.00",
+            "Drum & Bass": "¥22.00",
+            "Deep House": "¥22.00",
+            "Hip-Hop": "¥22.00",
+            "Dubstep": "¥22.00",
+            "Future Beat": "¥22.00",
+            "Full Access to PRO": "¥228.00"
+          }
+        },
         {
           "timestamp": 1748816186629,
           "price": 0,
