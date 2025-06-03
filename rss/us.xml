@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-03T08:32:04.821Z</updated>
+    <updated>2025-06-03T10:26:03.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-03T08:32:04.823Z</updated>
+        <updated>2025-06-03T10:26:03.345Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 03 Jun 2025 08:32:04 GMT</id>
+        <id>rankingusTue, 03 Jun 2025 10:26:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-03T08:32:04.823Z</updated>
+        <updated>2025-06-03T10:26:03.345Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -94,6 +94,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id450527929">djay - DJ App & AI Mixer</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Full Access to PRO</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1339124759">Audio Editor & Music Mixer</a>
       </td>
       <td>
@@ -116,7 +139,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>3</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1395152179">奇游加速器 - 全球游戏畅玩</a>
@@ -131,29 +154,6 @@ feedId:49753370488353792+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>移动端会员-连续包月</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>3</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id450527929">djay - DJ App & AI Mixer</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Full Access to PRO</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -244,6 +244,104 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[djay - DJ App & AI Mixer]]></title>
+        <id>djay - DJ App &amp; AI Mixer-us-1748946016002</id>
+        <link href="https://apps.apple.com/us/app/djay-dj-app-ai-mixer/id450527929?uo=4"/>
+        <updated>2025-06-03T10:20:16.002Z</updated>
+        <summary type="html"><![CDATA[Full Access to PRO: $29.99 → $6.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/djay-dj-app-ai-mixer/id450527929?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/4a/19/6f4a1992-b1ac-3392-0a1a-08b11e319129/AppIcon-0-0-1x_U007epad-0-11-0-P3-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Full Access to PRO：</strong><span>$29.99</span> → <b>
+  <strong>$6.99</strong>
+</b><span>[$6.99 ~ $29.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  *** Apple Design Award Winner 2024 ***
+
+Welcome to djay! The #1 DJ app and winner of multiple Apple Design Awards now integrates with Apple Music - mix over 100 million songs instantly!
+
+djay transforms your iOS device into a full-featured DJ system. Seamlessly integrated with your music library, djay allows you to mix your favorite songs and playlists. You can perform live, remix tracks, or enable Automix mode to let djay create a seamless mix for you automatically. Whether you are a professional DJ or a beginner who just loves to play with music, djay offers you the most intuitive yet powerful DJ experience on an iOS device. 
+
+APPLE MUSIC INTEGRATION
+
+• Access to over 100 million songs
+• Match: recommendations based on the currently playing song 
+• Your library: all your music seamlessly integrated
+• Listen Now and Charts integration 
+• Discover new music and add songs to your Apple Music library right from within djay
+• Powerful search capabilities for the vast catalog of Apple Music
+
+ADVANCED MEDIA LIBRARY
+
+• Apple Music: 100+ million tracks, your personal library in the cloud (Apple Music subscription)
+• TIDAL: Millions of tracks, high quality sound (TIDAL DJ Extension)
+• SoundCloud: Millions of underground and premium tracks (SoundCloud Go+)
+• Beatport: Millions of electronic music tracks (Beatport Advanced Subscriptions)
+• Beatsource: Millions of open-format music tracks (Beatsource Subscription)
+• Files: access files in the cloud (e.g. Dropbox), on your iOS device, or on external hard drives seamlessly
+• My Collection: Powerful playlists management 
+
+AUTOMIX
+
+• Automatic, beat-matched mixes 
+• Queue and Playlist automation
+
+NEURAL MIX™
+
+• Isolate vocals, drums, and instrumentals in real-time (not supported with Apple Music)
+
+MUSIC PRODUCTION TOOLS
+
+• Sequencer: create beats on top of your music live
+• Looper: remix your music with up to 48 loops per track
+• Beat-matched sequencing of drums and samples
+• Extensive content library with hundreds of loops and samples.
+
+HARDWARE INTEGRATION
+
+• Plug-and-play integration with over 100 MIDI controllers by Pioneer DJ, Reloop, Hercules, Numark, Denon DJ, and more
+• Digital Vinyl System (DVS) Integration
+• Advanced MIDI Learn to map any class-compliant MIDI controller
+• Support for Bluetooth audio and MIDI
+• Support for multi-channel USB audio interfaces and video output
+
+POWERFUL AUDIO ENGINE
+
+• Ableton Link integration
+• Fluid Beatgrid
+• High-res waveforms
+
+BUILT FOR iOS
+
+• Accessible via VoiceOver
+• Airplay, Live Photos, Apple Watch, and iCloud integration
+• Haptic Feedback, Drag & Drop, Keyboard Shortcuts
+• Multi-Tasking: Slide Over and Split View support
+
+Top features of the optional Pro subscription include: 
+
+• Unlimited access to an extensive library of samples, loops, FX, and visuals 
+• Neural Mix™
+• Sampler & Looper 
+• Automix 
+• Crossfader FX 
+• Video Mixing 
+• Music Visualizers
+• Single Deck mode
+• 4-Deck mode 
+• Advanced media library editing
+• Pre-cueing with headphones 
+• Hardware integration (MIDI controllers, DVS, multi-channel audio interfaces)
+• 7-day free trial: free access to all djay Pro content and features for one week, cancel anytime
+
+The optional PRO subscription allows you to subscribe once and use djay Pro across all your Mac and iOS devices, including access to all PRO features, as well as 1000+ loops, samples, and visuals.
+
+A supported streaming subscription and an internet connection are required to access songs from a streaming service in djay. No recording available for streamed songs. Neural Mix cannot be used when streaming from Apple Music. Specific songs may not be available or accessible on your account or in your country. Streaming service availability and pricing may vary depending on country, currency and service.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/18/8d/58188d45-2533-846f-93e2-f10c2c68d5d2/72028049-230d-4fd4-84dc-6aeb104ba4a6_0_APP_iPHONE_55_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/4a/4f/364a4fdf-0375-bc81-890c-082cf467a1d3/401c2652-0c1b-4ac4-be5e-d362c5849574_1_APP_iPHONE_55_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/31/87/35318772-7caa-4b7d-3820-6d7ffc0a39f2/ef514d61-e459-428f-91a5-9e15e6541712_2_APP_iPHONE_55_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/3d/a5/3c3da563-a29d-3707-ab97-be987d52d545/7f936548-2083-4a9e-9797-1183d1d769a7_3_APP_iPHONE_55_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/1e/26/8e1e26cb-1d13-cb4d-0aac-2e6518cc442b/180b18b5-c1d5-45c9-8c17-c4924ec7a3fa_4_APP_iPHONE_55_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/57/d0/e057d03a-bdea-8894-11f8-1bfb909fe7d8/cf177d5c-8ae7-46eb-b497-91229d9f6766_5_APP_iPHONE_55_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/46/f4/f246f47d-d8f2-97e0-4167-13e46014edd1/8cb24a62-af91-4673-b92d-ae1421ad273a_6_APP_iPHONE_55_6.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/08/ab/6d08abb2-728f-c627-9b6a-de25f81e5715/599e389f-61c5-4616-a7f8-7fd40ac76f67_0_APP_iPAD_0.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/91/15/889115af-9352-3316-e122-df361a054663/0499301f-9c3f-4abf-a6f2-21990643de59_1_APP_iPAD_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/b2/66/44b266a3-bcd8-faa6-f8dc-aeda93efc895/7ddc227a-e333-4fdc-bafc-c45f54379b86_2_APP_iPAD_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/ed/32/99ed32bf-8ab0-9448-81bd-a1959c6a8dc6/3bc320ce-45ea-46c5-ab69-754e4b066129_3_APP_iPAD_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/84/9e/e5849eaf-e70c-9cfe-5f67-610817e5473c/21f4b058-703f-4731-add0-3c072f3258ad_4_APP_iPAD_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/df/9d/6fdf9dd1-64c9-eb81-c1fe-59f2cec780cf/bdb68404-ed0c-4dc9-b911-b2d875876a93_5_APP_iPAD_5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/32/e7/9a32e75a-4a95-e3d0-329e-a29d65507bec/0d2ac403-e1d8-4880-b06d-001cb09f406d_6_APP_iPAD_6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/9d/60/d49d605c-55f2-0162-f399-edf2f0728485/b4760ed0-b57d-4f0e-a6ab-049fd9e50a7c_7_APP_iPAD_7.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[快帆加速器-海外回国音乐视频加速器]]></title>

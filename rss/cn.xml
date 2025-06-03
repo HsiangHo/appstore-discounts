@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-02T20:26:13.910Z</updated>
+    <updated>2025-06-03T10:26:03.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-02T20:26:13.911Z</updated>
+        <updated>2025-06-03T10:26:03.339Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnMon, 02 Jun 2025 20:26:13 GMT</id>
+        <id>rankingcnTue, 03 Jun 2025 10:26:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-02T20:26:13.911Z</updated>
+        <updated>2025-06-03T10:26:03.339Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -99,13 +99,13 @@ feedId:49753297431966720+userId:73658201673997312
       <td>
         <ul>
           <li>
-            <span>总次数</span>：<b>1</b>
+            <span>总次数</span>：<b>2</b>
           </li><li>
             <span>价格</span>：<b>0</b>
           </li><li>
             <span>App 内购买项目</span><ol>
               <li>
-                <i>有道词典超级会员</i>：<b>1</b>
+                <i>有道词典超级会员</i>：<b>2</b>
               </li>
             </ol>
           </li>
@@ -209,6 +209,99 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网易有道翻译]]></title>
+        <id>网易有道翻译-cn-1748946016002</id>
+        <link href="https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E6%9C%89%E9%81%93%E7%BF%BB%E8%AF%91/id491854842?mt=12&amp;uo=4"/>
+        <updated>2025-06-03T10:20:16.002Z</updated>
+        <summary type="html"><![CDATA[有道词典超级会员: ¥358.00 → ¥108.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E6%9C%89%E9%81%93%E7%BF%BB%E8%AF%91/id491854842?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/03/9d/fa039d19-2203-e355-34dc-b85a0754054d/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>有道词典超级会员：</strong><span>¥358.00</span> → <b>
+  <strong>¥108.00</strong>
+</b><span>[¥108.00 ~ ¥358.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  【网易有道词典桌面端】正式改名为【网易有道翻译】
+——比强大更强大的翻译生产力工具，让你的电脑瞬间变身AIPC
+ 针对Mac平台特性，我们特别推出全新的版本，作为Mac系统下必备的翻译软件，在同类软件排行位居前列，10亿用户都在用！
+
+用AI重新定义翻译，WE DO MORE THAN TRANSLATION！
+
+【AI翻译助手】
+翻译更精准，表达更地道，还能自由问答～
+随时随地选中长句段落或截图，即可唤起功能～
+ 【AIBox 跨软件工具】
+选中长句段落，智能润色、改写、纠错一步到位～
+-句子润色：为你提供五种语言风格，一键升级地道高级句；
+-语法纠错：母语级纠错，帮你调整词汇、语法、结构；
+-写作建议：优化文章的同时为你提供写作建议；
+-重点提炼：复杂长文精准提炼重点；
+-单词百科：无需打开搜索引擎，即可快速检索语句百科知识；
+【AI文档翻译·问答】
+-一键上传文档，全文翻译；
+-支持多格式、多语种、多专业领域；
+-保留原文排版，双语对照查看；
+-便捷译后批注，支持一键导出；
+-同时还能自动总结，深度问答；
+-已开放240万字符/年免费翻译额度，让你想翻就翻，随手就翻，敞开了翻！
+【AI写作】
+-一键成文，AI快速生成邮件、通知模板内容，提高生产力；
+-母语级润色、扩写、总结、去重等功能助力内容质量提升；
+-智能纠错，智能识别200种错误，覆盖语法、词汇、拼写、格式等；
+【AI一键创作PPT】
+只需输入主题，即刻生成一份布局配色丰富的PPT~
+ 
+强大的桌面翻译软件，什么都能帮你翻！
+
+ 【有道词典】
+-实时收录最新词汇；支持英汉、日汉、韩汉、法汉、德汉、俄汉、葡汉、西汉互译；
+-完整收录《学习型牛津词典》、《新牛津英汉双解大词典》、《韦氏大学英语词典》、《柯林斯COBUILD高级英汉双解词典》、《新世纪日汉双解大辞典》、龙朝《韩中词典》《中韩词典》等权威词典；
+-单词图谱：可视化词典+思维导图记忆法；
+-单词笔记：支持添加单词笔记，同步保存单词本；
+【文本翻译】
+-长短句实时翻译，109种语言互译，26种常用语种tts发音；；
+-支持医学、计算机、金融经济三种专业领域翻译；
+-提供42个专业术语库&上传自定义术语库；
+-快捷键翻译：选中任意文本按下Command+2，快速获取翻译结果；
+【音频翻译】
+-从听到看，一键搞定；
+-中英文音频快速转录->翻译->整理为高质量文本；
+-支持100MB以内的MP3、WAV、AAC多种音频格式；
+【视频翻译】
+-字幕制作，省时高效；
+-提取视频内原字幕->翻译->生成新字幕；
+-自动生成字幕时间轴，一键导出srt字幕文件；
+【截图翻译】
+-按下Shift+Command+2，选取屏幕上的任意区域实现快速翻译；
+-截屏翻译结果支持一键钉至屏幕，随时进行下一次翻译。多次截屏翻译的结果同时查看，省时高效；
+【图片翻译】
+-快速识别、提取、翻译图片中的文本，支持99种语言；
+-支持macOS的“连续互通”相机功能，用iPhone或iPad拍摄任意文本，自动导入Mac；
+【同传翻译】
+支持中英日韩等14种语言互译，实时展示多人同传翻译字幕；
+【状态栏菜单】
+不打开主窗口，也能在mini窗口快速查词；
+【网页翻译】
+输入网址快速翻译网页内容，保持原排版信息，阅读体验舒适流畅；
+【人工翻译】
+提供专业定制化服务；
+ 
+【超级会员自动续费说明】
+1、服务名称：超级会员自动续费
+2、价格：38元/月
+3、购买会员自动续费的账号，会在每个月到期前24小时，自动在iTunes账户扣费并延长1个月会员有效期。
+4、如需取消订阅，请打开“App Store”--> 点击“商店”中的 “查看我的账户”，选择"查看信息"，进入"我的账户信息"页面，点击“管理”，取消“有道词典VIP服务”订阅即可。如未在订阅期结束的至少24小时前关闭订阅，此订阅将会自动续订。
+5、会员自动续费服务协议：https://c.youdao.com/dict/law/renew.html
+6、隐私协议：https://c.youdao.com/dict/law/youdaofanyi_pc_privacy.html
+ 
+【联系我们】
+微信：有道翻译
+官方网站：fanyi.youdao.com/download
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/19/b3/4719b3f0-95d5-28de-cb95-f7fd4d31c78f/4089b4b1-ef3b-4b54-9544-04b77dd0aafe_1440_900.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/12/77/25127735-75e4-a792-79c9-aa9275deefa7/01ca9f69-7245-430e-af80-aa9e9407dab7_2_mac__U5e94_U7528_U622a_U56fe__U9996_U9875.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/7d/1d/6b7d1d50-1ce2-780f-dc79-3caf005238be/1a4e8a66-453e-42fa-99e1-1a14b49df97f_3_mac__U5e94_U7528_U622a_U56fe_AI_U6587_U6863_U7ffb_U8bd1_U00b7_U95ee_U7b54.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/86/92/c7869296-9928-151f-789a-a571ad49eff0/07e3275c-bc25-4940-a861-d8b1551763e0_6_mac__U5e94_U7528_U622a_U56fe_AIBox_U8de8_U8f6f_U4ef6_U5de5_U5177.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/4a/17/184a1762-0b9b-b20d-b8ca-055467912e53/1cf1e7e9-1170-44dc-b397-2109f2e9f41b_4_mac__U5e94_U7528_U622a_U56fe_AI_U622a_U56fe.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/ca/3a/f0ca3a8c-a9bf-0451-2845-2161009ef5b3/3e21f929-1003-4ddb-98f0-e7590fc22a23_5_mac__U5e94_U7528_U622a_U56fe_AI_U5212_U8bcd.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/17/9c/d3179c8d-a16b-346a-40e3-5f3f3569ed5e/a7692139-eb7c-45c5-8643-602dd2a63bf4_7_mac__U5e94_U7528_U622a_U56fe_AI_U5199_U4f5c.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/49/76/d249765c-73d8-efa7-26eb-0422f57dec93/b6dbca02-0d72-4118-bd1c-442e37befe38_8_mac__U5e94_U7528_U622a_U56fe_AI_U4e00_U952e_U521b_U4f5cPPT.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[网易有道翻译]]></title>
@@ -523,34 +616,5 @@ https://www.mixvibes.com/privacy
 
 在游戏中你可以坚持多少天？每个人是否都能活下来？当食物耗尽时，又该何去何从？要知道无论你捡到什么，无论你救了谁，都将对你的生存起到至关重要的作用。在游戏中每一个生存故事都是不同的，每天都会有出乎意料的事情发生，所以你需要定量配给食物和水，充分利用你的供给，甚至冒险进入荒地...话不多说，祝你好运！
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d8/b3/f1/d8b3f1de-215d-fa87-b188-190d844468e0/ec30f84c-9f98-43ff-a9a5-57a632f18b1f_5.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2e/b4/bd/2eb4bdc3-f526-3aa5-04d5-69327811587b/7560a75d-2dec-4f4e-8962-dde4c5f0ba8e_3.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/bd/27/d2/bd27d206-c071-6ec7-6bda-0d623addfd22/654c44ec-6de4-4479-85d4-516a6c30cc41_1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3d/6b/3f/3d6b3ff5-d2a1-dcbc-bf5a-78b319190501/45ef7c7d-9c71-412f-81d9-e41d62629647_2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a4/7c/88/a47c88dd-7583-0cc4-43ab-62608e98d72f/f6a8971c-2bec-4b0e-9420-d87bc643e191_4.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fa/01/e2/fa01e2f2-9a1e-06cc-18ae-5a5edecc5d21/e1052c4c-ca2e-4028-81ba-6ad8f010335e_5.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/18/ee/b7/18eeb76d-7f5b-ddec-7ab6-c7f6cafcffa4/c4da6a22-d2de-4a38-8313-49dac00fa6eb_3.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c3/f6/ae/c3f6aeb0-c9c7-b361-ef8b-d1cc6572591d/7facdbf4-4d1b-4513-a4b8-0092091f53f0_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f9/cd/ea/f9cdeaf3-c8a0-9d42-d510-ccb7041aa869/2273641a-e8ba-4a5d-af00-3c5f2e1a8e37_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/90/90/51/90905195-1f18-f6e3-1deb-46a9a71abb82/c8960545-257d-4323-a44f-dbb21eeb0ec5_4.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人类跌落梦境]]></title>
-        <id>人类跌落梦境-cn-1748639756564</id>
-        <link href="https://apps.apple.com/cn/app/%E4%BA%BA%E7%B1%BB%E8%B7%8C%E8%90%BD%E6%A2%A6%E5%A2%83/id1458460469?uo=4"/>
-        <updated>2025-05-30T21:15:56.564Z</updated>
-        <summary type="html"><![CDATA[价格: ¥18.00 → ¥12.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E4%BA%BA%E7%B1%BB%E8%B7%8C%E8%90%BD%E6%A2%A6%E5%A2%83/id1458460469?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/7e/f0/737ef0a8-df27-967e-879f-2cee0015220b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥18.00</span> → <b>
-  <strong>¥12.00</strong>
-</b><span>[¥12.00 ~ ¥18.00]</span>）
-</h2><h2>应用描述</h2><p>
-  人类！我是Bob，来自《人类跌落梦境（Human: Fall Flat）》里的一名“没有骨气”的软体怪。
-
-《人类跌落梦境（Human: Fall Flat）》有着多样的物理交互规则，鬼畜是你的奥义，你甚至可以躺在地上全身电臀抖动，与自己的队友们手拉手闯关，享受被队友坑害，推下悬崖，或是被当做炮弹发射的整个过程。游戏依然是一次购买，没有其他收费服务。更重要的是，沙雕的并不只有Bob一个，多达八人的TapTap好友一起陪你，还可以随时随地邀请他们一起降智，在联机中互相葬送各自的友谊。
-
-在手机上玩玩家自制的内容？Bob不止一种面孔，既是火影忍者，还要兼职外卖，曾经西装革履，现在专职海盗。手机上会不断更新PC创意工坊中的优秀内容，让你和你的朋友们有更多搞怪故事发生！
-
-- 沙雕玩法，鬼畜新世界，物理碰撞出的沙雕结果，远在你想象之外。
-- 优化了动作操作，低上手门槛使你做出许多触手怪才能做出的动作。
-- 八人联机的规模让智商呈8倍降落，根本挡不住，TapTap好友互关语音--邀请让友谊联系起来更方便。
-- 不断更新&移植的玩家自制沙雕内容。
-- 游戏界面现在更简洁好看了，只为衬托你的沙雕之旅。
----------------------
-在游戏过程中需要帮助，或遇到问题，都可以加入官方群联系管理员，管理员会与大家一对一沟通，帮忙解决
-群号: 1035258482
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/88/a6/64/88a664cb-6a53-49bf-dcc4-854f8cc52c04/1aa739ac-7a4d-4f2c-8a80-e7b28500912a_6.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cf/c3/f9/cfc3f907-efee-32bf-280c-5da3e885c407/91c63d75-218c-4d3c-bca5-ab5c204efab5_1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/71/2e/9a/712e9a3b-693d-19af-1220-e46dacc9e103/e7021511-b56b-4ac6-880d-8ac25e5b9ef0_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7c/3e/7d/7c3e7de8-528b-d1fb-d0de-f74f0d6f6bb0/81cc56b3-9fce-4972-9f7d-94c697c10094_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/12/b3/9f/12b39f6d-bd5e-beeb-f7e2-f248afc95789/bc3785ea-50a4-4590-9afc-5262e9d40f5a_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8b/2a/a1/8b2aa1fe-5711-bfff-224f-d2f441db8770/4bccc383-5aed-4e82-9c43-44c984b30bd2_5.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a9/67/ed/a967ed1b-4e26-b4ce-17ce-a0dfe863a755/58f2d159-2137-4a53-b6f0-3952a034fce1_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e7/56/01/e75601ed-0e72-6f28-c09c-2181d3904b2d/d993523c-0ab2-4a32-928a-10bb5fcccdfc_6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ba/54/1f/ba541f88-851d-4090-9b06-4db8a580fef8/f8a9e289-cf4b-4bbf-9bfb-32c4ffac114c_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/92/ee/d5/92eed5d8-b8e6-e8df-cbb0-e2dd86d024cf/5b371241-3158-4c9c-9fb1-48d4f34f8bcf_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b9/0e/f9/b90ef9f4-4d0d-a3da-4cfd-aebfce89cc1c/4a4d8185-8b65-447f-89c4-c845068bb10e_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/79/be/6e79bea4-19ce-8452-0f13-f8594254575d/76628bfd-4a91-4e80-b5f1-935bbfac11a2_5.png/552x414bb.png" />]]></content>
     </entry>
 </feed>

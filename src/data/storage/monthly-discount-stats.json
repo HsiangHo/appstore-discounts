@@ -2,10 +2,10 @@
   "month": "2025-06",
   "cn": {
     "491854842": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "有道词典超级会员": 1
+        "有道词典超级会员": 2
       }
     },
     "1058801458": {
@@ -37,10 +37,10 @@
   },
   "us": {
     "450527929": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Full Access to PRO": 1
+        "Full Access to PRO": 2
       }
     },
     "1339124759": {
