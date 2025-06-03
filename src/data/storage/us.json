@@ -85323,6 +85323,20 @@
     "history": [
       [
         {
+          "timestamp": 1748954262570,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro会员": "$19.99",
+            "季度会员": "$19.99",
+            "周会员": "$4.99",
+            "月会员": "$9.99",
+            "积分": "$19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748665266840,
           "price": 0,
           "formattedPrice": "Free",

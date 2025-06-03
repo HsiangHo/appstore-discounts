@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-03T10:26:03.345Z</updated>
+    <updated>2025-06-03T12:43:03.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-03T10:26:03.345Z</updated>
+        <updated>2025-06-03T12:43:03.187Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 03 Jun 2025 10:26:03 GMT</id>
+        <id>rankingusTue, 03 Jun 2025 12:43:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-03T10:26:03.345Z</updated>
+        <updated>2025-06-03T12:43:03.187Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -233,6 +233,29 @@ feedId:49753370488353792+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6448913901">全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>积分</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -244,6 +267,52 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理]]></title>
+        <id>全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理-us-1748954262570</id>
+        <link href="https://apps.apple.com/us/app/%E5%85%A8%E8%83%BDai-%E5%9B%BE%E7%94%9F%E8%A7%86%E9%A2%91-%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91-ai%E5%86%99%E6%AD%8C%E4%BD%9C%E6%9B%B2-ai%E6%99%BA%E8%83%BD%E5%8A%A9%E7%90%86/id6448913901?uo=4"/>
+        <updated>2025-06-03T12:37:42.570Z</updated>
+        <summary type="html"><![CDATA[积分: $29.99 → $19.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E5%85%A8%E8%83%BDai-%E5%9B%BE%E7%94%9F%E8%A7%86%E9%A2%91-%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91-ai%E5%86%99%E6%AD%8C%E4%BD%9C%E6%9B%B2-ai%E6%99%BA%E8%83%BD%E5%8A%A9%E7%90%86/id6448913901?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/70/9a/3c709a80-8956-5f91-2a19-81a71db61565/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>积分：</strong><span>$29.99</span> → <b>
+  <strong>$19.99</strong>
+</b><span>[$9.99 ~ $29.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  全能 AI 神器，解锁无限创意！
+一款集 AI聊天、绘画、写作、故事视频、数字人、照片特效、文生视频、图生视频的全能 AI 产品。
+
+
+【亮点功能】
+
+1、AI 照片特效  —— 赋予照片生命力
+海量趣味特效等你解锁！老照片瞬间 “复活”，还能实现 AI 拥抱、AI 跳舞。更有变身娃娃脸、肌肉男，羊毛卷造型、天使翅膀特效，还有膨胀、可爱捏捏等搞怪效果，让每一张照片都别具一格！
+
+2、AI 故事视频 —— 创作起号快人一步
+无论是小说推文、民间故事，还是儿童绘本、解压视频，只需一键，轻松制作。快速打造爆款内容，助力你的账号迅速起号、流量飙升！
+
+3、AI 文生视频、图生视频 —— 创意瞬间变现
+输入文字描述，或是上传一张照片，AI 即刻发力，快速生成独一无二的动态视频，让你的想象跃然 “屏” 上！
+
+4、AI 数字人 —— 口播视频轻松搞定
+只需面对镜头说 “123”，AI 精准对口型，一键生成高质量口播视频。无需复杂操作，专业效果轻松呈现！
+
+4、AI 智能聊天 —— 开启深度交互体验
+搭载 R1 满血版深度思考大模型，支持图文多模态交互，还能同时调用多模型。畅聊无阻，思维碰撞，满足你的多元对话需求！
+
+关于订阅：
+- 付款：订阅按周度或月度收费，费用视所选订阅计划而定。确认购买后，订阅款项将从您的 iTunes 账户中扣除。
+- 续订：包含免费试用期的订阅将自动续订为付费订阅。除非在当前订阅周期结束前 24 小时关闭自动续订，否则订阅将会自动续期，而费用将会从您的 iTunes 账户中扣除。续订的费用取决于您的订阅计划。
+- 取消续订：如需取消续订，请在当前订阅周期到期前 24 小时内，手动在 App Store 订阅管理中关闭续订功能。
+
+使用应用即表示您同意我们的隐私政策和使用条款：
+用户协议：https://docs.qq.com/doc/p/e0e4a839d9c935de84363e11f097d0bef5eaa2ba
+隐私政策：https://docs.qq.com/doc/p/531d477da8d8e2f49146793d2d4450f5684c38d2
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[djay - DJ App & AI Mixer]]></title>
@@ -805,52 +874,5 @@ Terms of Use: http://gr.trendmicro.com/GREntry/NonPayment?Target=TrendCleaner&OS
 
 Please comment in the App Store and you can also email us directly at mac_support@trendmicro.com.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/47/df/0647dfec-9e40-5f35-74c1-fe202f37c1f0/d2ac6b69-4c5e-400a-8199-4641b7350179_1_en_Global.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/71/51/ec7151dc-454c-841e-7076-280f0b0408d7/725634c6-1687-4171-a8fc-807a0fa55ca1_2_Global.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/a9/56/1fa956a3-bdd9-e5df-ebe1-d4673f762514/87a95753-0d24-4a32-8493-c3426eee8bc7_3_Global.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/20/88/312088c9-130a-68a5-f0b0-2305c04ba544/9f67a9e8-48d6-400f-803c-dd3cea59041d_4_Global.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/3c/c0/4d3cc0bb-96e9-929c-d90b-ab38dd3ffa6b/COP_PhotoManager_Global.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLPro Studio]]></title>
-        <id>SQLPro Studio-us-1748689998711</id>
-        <link href="https://apps.apple.com/us/app/sqlpro-studio/id985614903?mt=12&amp;uo=4"/>
-        <updated>2025-05-31T11:13:18.711Z</updated>
-        <summary type="html"><![CDATA[SQLPro Premium: $99.99 → $15.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/sqlpro-studio/id985614903?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/9c/61/c89c6163-cabc-2f3b-3b3f-52a8a295a6da/AppIcon-0-0-85-220-0-0-0-5-0-2x.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>SQLPro Premium：</strong><span>$99.99</span> → <b>
-  <strong>$15.99</strong>
-</b><span>[$15.99 ~ $99.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  SQLPro Studio is the premium database management tool for Postgres, MySQL, Microsoft Management Studio and Oracle databases.
-
-Some of the great features include:
-+ Intellisense/SQL autocompletion.
-+ Syntax highlighting with customizable themes (including dark).
-+ Tabbed based interface for an optimal user experience.
-+ Context aware database tree navigation, including quick access to tables, views, columns, indexes and much more!
-+ SQL Beautifier/formatter.
-+ Database wide searching.
-+ NTLMv2 supported (but not required).
-+ Netbios support.
-+ Master password support for additional security.
-+ Supports Handoff from iOS to macOS.
-
-SQLPro Studio supports the following database servers:
-+ MySQL & MariaDB
-+ PostgreSQL
-+ Microsoft SQL Server (2005 and above)
-+ SnowflakeDB
-+ SQLite
-+ Oracle (8i and above)
-
-Privacy Policy:
-https://hankinsoft.com/privacypolicy.html
-
-Terms of Use:
-https://hankinsoft.com/termsofuse.html
-
-Price:
-SQLPro offers Premium subscriptions (or a single Lifetime purchase) in order to interact with database result sets. Premium subscriptions are available as either a Monthly, or a Yearly duration. Subscriptions auto-renew within 24 hours of the expiration date unless auto-renewal is turned off in the iTunes account settings. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. Payment will be charged to your iTunes Account at confirmation of purchase.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/d9/f4/9e/d9f49e5d-5543-856a-2f5d-6b8e9f2753fb/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/37/c1/71/37c17106-bdba-ea66-b297-96755021fddf/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/03/92/52/039252ef-5225-9a60-c342-7cdcd7678a1d/pr_source.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>
