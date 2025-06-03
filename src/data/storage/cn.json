@@ -46775,7 +46775,7 @@
       "price": 0,
       "formattedPrice": "免费",
       "Upgrade to Plus version": "¥38.00",
-      "Upgrade to Plus": "¥22.00",
+      "Upgrade to Plus": "¥88.00",
       "升级至Plus版本": "¥58.00",
       "Upgrade to Plus Version": "¥58.00"
     },
@@ -46788,6 +46788,30 @@
       "Upgrade to Plus Version": "¥58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1748982014078,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Upgrade to Plus version": "¥38.00",
+            "Upgrade to Plus": "¥22.00",
+            "升级至Plus版本": "¥58.00",
+            "Upgrade to Plus Version": "¥58.00"
+          }
+        },
+        {
+          "timestamp": 1748982014078,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Upgrade to Plus": "¥88.00",
+            "Upgrade to Plus Version": "¥58.00",
+            "升级至Plus版本": "¥58.00",
+            "Upgrade to Plus version": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,

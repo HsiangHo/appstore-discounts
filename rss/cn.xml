@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-03T10:26:03.338Z</updated>
+    <updated>2025-06-03T20:27:05.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-03T10:26:03.339Z</updated>
+        <updated>2025-06-03T20:27:05.966Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnTue, 03 Jun 2025 10:26:03 GMT</id>
+        <id>rankingcnTue, 03 Jun 2025 20:27:05 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-03T10:26:03.339Z</updated>
+        <updated>2025-06-03T20:27:05.967Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -163,6 +163,29 @@ feedId:49753297431966720+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1518518216">Paper 壁纸 - 超高清4K动态壁纸, 桌面壁纸</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>Upgrade to Plus</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1544190466">避难所：生存</a>
       </td>
       <td>
@@ -177,7 +200,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1619925971">UPDF - 新一代 AI 智能 PDF 编辑器</a>
@@ -209,6 +232,81 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paper 壁纸 - 超高清4K动态壁纸, 桌面壁纸]]></title>
+        <id>Paper 壁纸 - 超高清4K动态壁纸, 桌面壁纸-cn-1748982014078</id>
+        <link href="https://apps.apple.com/cn/app/paper-%E5%A3%81%E7%BA%B8-%E8%B6%85%E9%AB%98%E6%B8%854k%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8-%E6%A1%8C%E9%9D%A2%E5%A3%81%E7%BA%B8/id1518518216?uo=4"/>
+        <updated>2025-06-03T20:20:14.078Z</updated>
+        <summary type="html"><![CDATA[Upgrade to Plus: ¥88.00 → ¥22.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/paper-%E5%A3%81%E7%BA%B8-%E8%B6%85%E9%AB%98%E6%B8%854k%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8-%E6%A1%8C%E9%9D%A2%E5%A3%81%E7%BA%B8/id1518518216?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1e/29/fe/1e29fe6c-0637-27ee-b058-e16646430315/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>Upgrade to Plus：</strong><span>¥88.00</span> → <b>
+  <strong>¥22.00</strong>
+</b><span>[¥22.00 ~ ¥88.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  「 Paper 壁纸 - 动态壁纸 & 4k高清壁纸 」
+
+Paper 壁纸是一款 4K Live Wallpaper,每天为您的手机墙纸制作令人惊叹的照片。这是iPhone上有史以来最出色的壁纸应用程序之一。
+所有壁纸均由我们的团队精心挑选，以使每一个背景看起来美丽动人，包含4K（超高清|超高清）以及 5K （全高清）壁纸|背景。
+
+丰富的动态壁纸，给iPhone桌面赋予灵动，同时尽可能少占用系统资源。如果您还在寻找iPhone下的壁纸应用，不要犹豫，《Paper 壁纸》就是您想要的！
+
+特性：
+
+● 提供20000+精美壁纸素材（iPad 含有 10000+壁纸），持续更新，你不必花时间找素材。
+
+● 动态壁纸，仅支持iphone设备设置为锁定屏幕时，按压展示动态壁纸效果。iOS 16.0以上的系统，设置动态壁纸后不会显示动态效果。
+
+● 充电动画
+
+● 桌面主题
+
+● 零App学习成本，简洁的交互，追求最好的体验。
+
+● Paper 壁纸的界面精美，舒适的体验，支持深色模式，漂亮至极。
+
+● 我们致力于简化应用程序，从而提供出色的性能。节省电池。
+
+● 不断增加的动态壁纸主题：每周添加新壁纸。 如果您有独特的动态视频壁纸，并想与所有人共享，欢迎提交给我们。
+
+支持一键预览，20000+精美壁纸等着你。 Happy！ Happy！
+
+立即安装《Paper 壁纸》，让您的设备屏幕惊艳有趣！
+
+
+这是普通版本。某些功能将受到限制。
+
+iPad版本不含有动态壁纸。
+
+如果您对应用程序或壁纸有任何问题，请通过ninthgame.team@gmail.com与我们联系，我们很乐意帮助您解决问题。
+
+请享用！
+
+
+关于Paper的自动续订：
+
+– 购买确认后,付款将立即记入iTunes帐户。
+– 当前周期结束前至少24小时可关闭自动续订，否则将自动续订。
+– 当前周期结束前24小时内帐户将续订扣费。该费用根据选定计划而定。
+– 用户可管理订阅，购买后前往用户帐户设置可关闭自动续订。
+– 免费试用期限的任何未用部分将在用户购买适用性订阅时自动作废。
+
+现提供以下三种购买方式，享受所有壁纸使用权，每日更新，且无广告:
+
+• 每6个月订阅 – ￥35
+• 每年订阅,含三天免费试用 – ￥63
+• 一次性买断  - ￥88 
+
+隐私政策: https://artyli.github.io/privacy.html
+使用条款: https://artyli.github.io/terms.html
+
+
+需要帮助，请联系我们：ninthgame.team@gmail.com
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/38/c8/52/38c852f8-783b-6e25-2054-5ea24fb41d2f/2b535f3a-aaa9-466e-9c3f-bfb57d825f51_1242x2208_cn_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/80/d6/d1/80d6d182-868f-4736-8ed9-e07f93801ad3/287146c0-92a3-4238-85f2-eaf5920b6aad_1242x2208_cn_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2e/68/28/2e68287d-31c0-b532-fa3c-71ba1084a515/016626b2-30ad-43bf-81ff-4c8bde7cd01b_1242x2208_cn_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/68/9a/6e/689a6e18-4d72-00db-48b6-1fe246a94ad2/2f146c5b-72ed-4ab2-abf6-3d25b8054b57_1242x2208_cn_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/93/5a/f0/935af0e6-33de-0d35-57eb-7d030328696b/a88b4297-a6ad-418e-a0ef-c701f637a715_1242x2208_cn_5.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/15/60/e2/1560e2a3-bd6e-d9e4-7fd3-d0c5492323d2/fcfd6faf-a3f5-4e8b-828c-c9b13356a767_2048x2732_cn_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e8/0b/b8/e80bb862-a3e2-7b27-7f70-81f7252204a2/6a4719e3-5028-4e0f-8da2-85f7c715bcc9_2048x2732_cn_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ca/55/92/ca5592cc-c94a-64c8-e1a9-098a6a5ba37e/573cb342-a8bc-4942-8028-0e77fcf5598a_2048x2732_cn_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5a/76/2f/5a762fb1-ca85-6e3c-e360-693182a57b51/38a72462-997c-4f12-9bc6-121e2d541944_2048x2732_cn_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/68/6c/10/686c10d8-853c-435f-15e0-60d94604aa57/8a13a184-5978-4231-bc66-6ad1457195bb_2048x2732_cn_5.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[网易有道翻译]]></title>
