@@ -65234,6 +65234,20 @@
     "history": [
       [
         {
+          "timestamp": 1748957535442,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- 25 Credits": "$7.99",
+            "10-second AI animation": "$1.99",
+            "Monthly SVIP": "$19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748881404088,
           "price": 0,
           "formattedPrice": "Free",
@@ -85322,6 +85336,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1748957535442,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro会员": "$19.99",
+            "周会员": "$4.99",
+            "积分": "$29.99",
+            "月会员": "$9.99",
+            "季度会员": "$19.99"
+          }
+        },
         {
           "timestamp": 1748954262570,
           "price": 0,
