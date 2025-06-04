@@ -641,7 +641,7 @@
 |283|1233048948|自动|Boom3D: Volume Booster and EQ||||Boom3D: Volume Booster and EQ||
 |282|1492991594|自动|EarMaster 7||||EarMaster 7||
 |281|511170796|自动|Music Tag Editor||||Music Tag Editor||
-|280|984278082|自动|Tag Editor Lite||||Tag Editor Lite||
+|280|984278082|自动|Tag Editor 2||||Tag Editor 2||
 |279|1482460738|自动|LRC Editor||||LRC Editor||
 |278|982124349|自动|FLAC MP3格式转换器||||FLAC MP3 Converter||
 |277|1564384601|自动|Evermusic||||Evermusic||

@@ -638,7 +638,7 @@ So far, we've covered `2` `Countries or Regions` and  `849` `Apps` <br />Push no
 |283|1233048948|Automatic|Boom3D: Volume Booster and EQ||||Boom3D: Volume Booster and EQ||
 |282|1492991594|Automatic|EarMaster 7||||EarMaster 7||
 |281|511170796|Automatic|Music Tag Editor||||Music Tag Editor||
-|280|984278082|Automatic|Tag Editor Lite||||Tag Editor Lite||
+|280|984278082|Automatic|Tag Editor 2||||Tag Editor 2||
 |279|1482460738|Automatic|LRC Editor||||LRC Editor||
 |278|982124349|Automatic|FLAC MP3格式转换器||||FLAC MP3 Converter||
 |277|1564384601|Automatic|Evermusic||||Evermusic||
