@@ -20213,7 +20213,10 @@
       "Semiannually": "¥50.00",
       "Yearly - Best Value": "¥70.00",
       "6-Monthly": "¥50.00",
-      "6-Monthly - Popular": "¥50.00"
+      "6-Monthly - Popular": "¥50.00",
+      "12 months": "¥70.00",
+      "1 month": "¥15.00",
+      "6 months": "¥50.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -20228,9 +20231,25 @@
       "Semiannually": "¥50.00",
       "Yearly - Best Value": "¥70.00",
       "6-Monthly": "¥50.00",
-      "6-Monthly - Popular": "¥50.00"
+      "6-Monthly - Popular": "¥50.00",
+      "12 months": "¥70.00",
+      "1 month": "¥15.00",
+      "6 months": "¥50.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749057401739,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "12 months": "¥70.00",
+            "1 month": "¥15.00",
+            "6 months": "¥50.00",
+            "Lifetime": "¥268.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748978051530,
