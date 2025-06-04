@@ -29114,6 +29114,17 @@
     "history": [
       [
         {
+          "timestamp": 1749075331145,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "该付费商品": "¥8.00",
+            "付费商品": "¥30.00",
+            "1个月腾讯视频VIP": "¥30.00",
+            "3个月腾讯视频VIP": "¥78.00"
+          }
+        },
+        {
           "timestamp": 1749071647013,
           "price": 0,
           "formattedPrice": "免费",
