@@ -6822,6 +6822,15 @@
     "history": [
       [
         {
+          "timestamp": 1749032390084,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Full Access to PRO": "$6.99",
+            "Unlock Upgrade Features": "$0.00"
+          }
+        },
+        {
           "timestamp": 1749011117418,
           "price": 0,
           "formattedPrice": "Free",
@@ -48837,6 +48846,23 @@
       "快帆90天VIP": "$18.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749032390084,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "连续包月": "$5.99",
+            "快帆30天VIP": "$6.99",
+            "连续包季": "$17.49",
+            "连续包年": "$64.99",
+            "360天VIP": "$69.99",
+            "快帆360天VIP": "$74.99",
+            "90天VIP": "$16.99",
+            "快帆90天VIP": "$18.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748939170393,
