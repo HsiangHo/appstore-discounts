@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-03T12:43:03.185Z</updated>
+    <updated>2025-06-04T04:31:02.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-03T12:43:03.187Z</updated>
+        <updated>2025-06-04T04:31:02.579Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 03 Jun 2025 12:43:03 GMT</id>
+        <id>rankingusWed, 04 Jun 2025 04:31:02 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-03T12:43:03.187Z</updated>
+        <updated>2025-06-04T04:31:02.579Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -165,6 +165,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1012296988">爱奇艺-在人间 幻境谜局</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>连续包月</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1442745175">快帆加速器-海外回国音乐视频加速器</a>
       </td>
       <td>
@@ -187,7 +210,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1514073011">QuickFox-海外回国加速器追剧听歌游戏留学生必备</a>
@@ -210,7 +233,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6450397515">Transcribe & Speech to text</a>
@@ -235,7 +258,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6448913901">全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理</a>
@@ -267,6 +290,82 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱奇艺-在人间 幻境谜局]]></title>
+        <id>爱奇艺-在人间 幻境谜局-us-1749011117418</id>
+        <link href="https://apps.apple.com/us/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E5%9C%A8%E4%BA%BA%E9%97%B4-%E5%B9%BB%E5%A2%83%E8%B0%9C%E5%B1%80/id1012296988?mt=12&amp;uo=4"/>
+        <updated>2025-06-04T04:25:17.418Z</updated>
+        <summary type="html"><![CDATA[连续包月: $6.99 → $3.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E5%9C%A8%E4%BA%BA%E9%97%B4-%E5%B9%BB%E5%A2%83%E8%B0%9C%E5%B1%80/id1012296988?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/19/90/6d199059-d4d5-c4f4-abde-f06f244c37ad/Mac_AppIcon-2x_U007euniversal-0-5-0-85-220-0.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>连续包月：</strong><span>$6.99</span> → <b>
+  <strong>$3.99</strong>
+</b><span>[$3.99 ~ $6.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  爱奇艺Mac客户端，简洁轻量的视频客户端。
+支持TouchBar&TrackPad、小窗播放。
+支持4K画质、杜比音效，爱奇艺海量内容畅享视听盛宴！
+体验最新版需要升级到macOS 10.15或更高版本。如有其它问题可以访问： https://app.iqiyi.com/mac/player/index.html
+欢迎联系我们的官方QQ：938355165
+———————我是海量内容的分割线———————
+【独播热播 给你想要】
+精彩戏剧实时看：在人间、护宝寻踪、人生若如初见、淮水竹亭、无忧渡、借命而生、绝密较量、乌云之上、念无双、黄雀、北上、爱你、燃罪
+热播电影不间断：向阳·花、黄沙漫天、美国队长4、唐探1900、红色一号：冬日行动、误杀3、射雕英雄传：侠之大者、哪吒之魔童降世
+热门综艺看不停：微笑一号店、亚洲新声、奔跑吧第9季、哈哈哈哈哈第5季、种地吧第3季、现在就开麦—妈妈请就位！、恋爱兄妹、哈哈哈哈哈第4季、喜剧之王单口季
+动漫番剧随心换：航海王、超能立方：超凡篇、绝世战魂、我能无限顿悟、成何体统、都市古仙医、蜡笔小新 第8季 普通话、名侦探柯南 普通话
+经典纪录片细品味：与恐龙同行、舌尖上的中国 第四季、舌尖上的中国 第一季、河西走廊、人间世、中国医生、中华才子传第一季
+海外剧集尽情选：请回答1988、经常请吃饭的漂亮姐姐、金秘书为何那样、大力女子都奉顺、老友记、风骚律师、哥谭镇、明日传奇、小谢尔顿
+
+【VIP会员 尊享特权】
+1、内容特权：院线新片、海量高分大片、热剧抢先看、独家综艺、付费影片折扣、畅读小说。
+2、观影特权：广告特权、1080P、帧绮映画、杜比全景声、杜比视界、专属弹幕、下载加速、并行下载、边下边播、预约下载。
+3、身份特权：七端全屏通、畅享多会员、尊贵标识、尊享装扮、生日礼包、专属客服、等级权益红包、赠送好友影片、好友免费一起看。
+
+【自动续费黄金会员】
+-- 黄金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、杜比音效、下载特权等。
+-- 订阅周期：1个月（黄金会员连续包月产品），3个月(黄金会员连续包季产品)，12个月（黄金会员连续包年产品）。
+-- 订阅价格：以iAP申请信息为准，例如连续包月产品每月25元，连续包季产品每季68元，连续包年产品每年238元。
+-- 付款：用户确认购买并付款后记入iTunes账户。
+-- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
+-- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+-- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
+-- 隐私政策： http://www.iqiyi.com/common/privateh5.html
+-- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
+-- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
+【自动续费白金会员】
+-- 白金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画MAX、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、2台设备同时播放、下载特权等。
+-- 订阅周期：1个月（白金会员连续包月产品），3个月(白金会员连续包季产品)，12个月（白金会员连续包年产品）。
+-- 订阅价格：以iAP申请信息为准，例如连续包月产品每月35元，连续包季产品每季98元，连续包年产品每年348元。
+-- 付款：用户确认购买并付款后记入iTunes账户。
+-- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
+-- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+-- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
+-- 隐私政策： http://www.iqiyi.com/common/privateh5.html
+-- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
+-- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
+【自动续费星钻会员套餐说明】
+-- 星钻会员权益：享海量会员专享内容、会员抢先看、加更礼免费看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、3台设备同时播放、下载特权等。
+-- 订阅周期：1个月（星钻会员连续包月产品），3个月（星钻会员连续包季产品），12个月（星钻连续包年产品）
+-- 订阅价格：以iAP申请信息为准，例如连续包月产品为每月45元，连续包季产品每季118元，连续包年每年428元。
+-- 付款：用户确认购买并付款后计入iTunes账户。
+-- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能。
+-- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+-- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
+-- 隐私政策： http://www.iqiyi.com/common/privateh5.html
+-- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
+-- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
+【自动续费体育会员套餐说明】
+--体育会员权益：爱体育会员享每月2场付费比赛直播或点播（高尔夫比赛除外），爱足球会员有效期内可看平台播出的所有足球比赛，并享广告特权、1080P、多语解说、额外单点付费低至3折。
+--订阅周期：1个月（连续包月产品）。
+--订阅价格：爱体育会员连续包月9元/月，爱足球会员连续包月33元/月
+--付款：用户确认购买并付款后记入iTunes账户
+--取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
+--续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/19/d3/bf/19d3bfd6-9e0a-3605-7ddb-1e9913dda13c/132add12-49bd-4d88-8ae5-5ac5488a4ca1_App_Store_U7269_U65991.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/03/a0/da/03a0da78-2838-3c81-c29d-28700c0682f7/80a29786-6e1e-4cd9-8a4a-00e146f32816_App_Store_U7269_U65992.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/32/58/00/325800bb-a68b-32ec-cbe8-5c90b590dc5f/cec956df-a085-48a5-b159-9a135f1e5ef2_App_Store_U7269_U65993.jpg/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理]]></title>
@@ -796,83 +895,5 @@ privacy policy:https://rain7027.github.io/rainstt/privacy
 terms of use:https://rain7027.github.io/rainstt/terms
 any question please contact:zyang7027@gmail.com
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6d/f3/c2/6df3c258-c882-9d94-a17f-edfcde85f96c/602ee79b-ca3b-40e9-9d92-d4ef5bb5b37c_1n.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b5/26/aa/b526aa81-c80a-f1a6-c0fb-eda3eaa582f7/58f61a40-8cba-4753-a4c7-5a575f3cf1b0_2n.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cleaner One Pro - Uninstaller]]></title>
-        <id>Cleaner One Pro - Uninstaller-us-1748704590363</id>
-        <link href="https://apps.apple.com/us/app/cleaner-one-pro-uninstaller/id1133028347?mt=12&amp;uo=4"/>
-        <updated>2025-05-31T15:16:30.363Z</updated>
-        <summary type="html"><![CDATA[Unlock Full Version: $29.99 → $19.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/cleaner-one-pro-uninstaller/id1133028347?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/19/b4/b819b4d7-860b-4f2a-5013-a109d2117cc9/AppIcon-0-0-85-220-0-4-2x-sRGB.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Unlock Full Version：</strong><span>$29.99</span> → <b>
-  <strong>$19.99</strong>
-</b><span>[$19.99 ~ $29.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Cleaner One Pro is the all-in-one Mac Master Cleaner App. It can optimize your disk usage, free up space on your Mac, keep the hard drive clean, remove duplicate photos and other files, manage your apps, and much more. 
-
-Fully compatible with macOS Monterey and Apple Silicon.
-
-PRIMARY FEATURES
-[Junk Files Cleaner]
-• Has Quick Disk Clean feature you can click from the Status Bar Menu
-• Clean temporary files, including logs, mail caches, iTunes and iOS temporary files, etc. Empty Trash for current user
-• Detect remaining files after deleting Apps
-• Clean Junk Files in removable storage on your Mac
- 
-[Duplicate File Scanner]
-• Thorough and quick scan — fast and accurate scanning technique covers your entire home folder
-• Smart and Accurate Filter — duplicates are selected not only by file name but also by their content. Files are shown in detailed preview. Click the Auto Select button to help you decide which copy you wish to delete.
-• Easy and safe decision — duplicates can be sorted by file type and listed in their full route for you to track. You can decide which way to clean these files; either by sending them to Trash or deleting them permanently (In-App Purchase required)
-
-[Photo Manager]
-• Quickly find similar photos, blurry photos, and screenshots
-• Preview photos in groups after scanning
-• Organize your photo library
-• Easily remove photos that may be safe to delete to free up space (In-App Purchase required)
- 
-[Intelligent App Manager]
-• Auto-clean leftovers of deleted Apps
-• Manage all installed applications with the All-in-One App Optimizer
-• Detect and remove leftover files of deleted apps with the App Manager
-• List all the applications installed on your Mac by name, size, and last opened date
-• Remove unwanted applications with Mac Disk Clean (In-App Purchase required)
-• Remove all the associated files of uninstalled applications (In-App Purchase required)
-• Added Vulnerability Scan in the App Manager to enhance security (In-App Purchase required)
-
-[Big Files Scanner]
-• 1-click scan of big files (customizable size from 10 MB and above)
-• Multiple filters of size, date, name and type
-• Local files in sync with your cloud drives can also be found
-* Important big files can be ""locked"" into the protected list to avoid accidental deletion
-
-[Mac Disk Clean Map]
-• Mac Disk Clean scans all your disk drives and creates a clickable map of the files on your disk, color-coded by type
-• Provides additional information about files when you click on an item on the map
-• View your entire disk by file or folder size to determine which files or folders use the most space with Clean Master
-
-[Real-Time System Status]
-• Real-time network usage
-• Real-time CPU usage
-• See detailed network and CPU information (In-App Purchase required)
-
-The paid version costs as little as $19.99 per year (this price may vary by location).
- 
-Subscriptions will auto-renew unless canceled.
-— Payment will be charged to iTunes Account at confirmation of purchase
-— Subscription may be managed by the user and auto-renewal may be turned off by going to the user’s Account Setting after purchase.
-— No cancellation of the current subscription is allowed during active subscription period.
-— Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
-— Your account will be charged for renewal for the amount of your current subscription within 24-hours prior to the end of the current period. All cost for subscriptions are mentioned above.
-
-Privacy Policy and Terms of Use
-Privacy Policy: http://gr.trendmicro.com/GREntry/NonPayment?Target=TrendCleaner&OS=&SP=&PID=TCS60&FunID=PrivacyPolicy&VID=&Locale=en
-Terms of Use: http://gr.trendmicro.com/GREntry/NonPayment?Target=TrendCleaner&OS=&SP=&PID=TCS60&FunID=EULA&VID=&Locale=en
-
-Please comment in the App Store and you can also email us directly at mac_support@trendmicro.com.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/47/df/0647dfec-9e40-5f35-74c1-fe202f37c1f0/d2ac6b69-4c5e-400a-8199-4641b7350179_1_en_Global.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/71/51/ec7151dc-454c-841e-7076-280f0b0408d7/725634c6-1687-4171-a8fc-807a0fa55ca1_2_Global.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/a9/56/1fa956a3-bdd9-e5df-ebe1-d4673f762514/87a95753-0d24-4a32-8493-c3426eee8bc7_3_Global.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/20/88/312088c9-130a-68a5-f0b0-2305c04ba544/9f67a9e8-48d6-400f-803c-dd3cea59041d_4_Global.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/3c/c0/4d3cc0bb-96e9-929c-d90b-ab38dd3ffa6b/COP_PhotoManager_Global.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>

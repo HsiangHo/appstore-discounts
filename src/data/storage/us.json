@@ -6822,6 +6822,17 @@
     "history": [
       [
         {
+          "timestamp": 1749011117418,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Full Access to PRO": "$29.99",
+            "Unlock Upgrade Features": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748946016002,
           "price": 0,
           "formattedPrice": "Free",
@@ -9181,6 +9192,25 @@
       "Marketplace Pass w/trial": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749011117418,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Vehicles pack": "$9.99",
+            "Tools Pack": "$5.99",
+            "Scary Pack": "$9.99",
+            "Weapon Pack": "$5.99",
+            "Minecraft Pets Pack": "$9.99",
+            "Minecraft Morph Pack": "$5.99",
+            "Marketplace Pass Full": "$3.99",
+            "Marketplace Pass Trial": "$3.99",
+            "The Incredibles": "$7.99",
+            "Marketplace Pass w/trial": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748510370985,
@@ -20340,6 +20370,25 @@
     "history": [
       [
         {
+          "timestamp": 1749011117418,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Telegram Premium": "$4.99",
+            "250 Telegram Stars": "$5.09",
+            "500 Telegram Stars": "$9.99",
+            "Telegram Premium Annual": "$34.99",
+            "1x Premium (3 Months)": "$14.99",
+            "75 Telegram Stars": "$1.59",
+            "1000 Telegram Stars": "$19.99",
+            "Telegram Premium (3-Month)": "$14.99",
+            "1x Premium (1 Year)": "$35.99",
+            "100 Telegram Stars": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748989075232,
           "price": 0,
           "formattedPrice": "Free",
@@ -27214,10 +27263,26 @@
       "黄金会员连续包季": "$10.49",
       "季卡": "$9.99",
       "黄金会员连续包年": "$29.99",
-      "连续包月": "$6.99",
+      "连续包月": "$3.99",
       "年卡": "$29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749011117418,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "黄金会员连续包月": "$3.99",
+            "月卡": "$3.99",
+            "黄金会员连续包季": "$10.49",
+            "黄金会员连续包年": "$29.99",
+            "季卡": "$9.99",
+            "连续包月": "$3.99",
+            "年卡": "$29.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -46765,7 +46830,8 @@
       "移动端会员-三年卡": "$29.99",
       "移动端会员-两年卡": "$19.99",
       "移动端会员-活动连续包月": "$1.99",
-      "移动端会员-活动季卡": "$5.99"
+      "移动端会员-活动季卡": "$5.99",
+      "移动端会员-半年卡": "$8.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -46780,9 +46846,26 @@
       "移动端会员-三年卡": "$29.99",
       "移动端会员-两年卡": "$19.99",
       "移动端会员-活动连续包月": "$1.99",
-      "移动端会员-活动季卡": "$5.99"
+      "移动端会员-活动季卡": "$5.99",
+      "移动端会员-半年卡": "$8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749011117418,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "移动端会员-连续包月": "$1.99",
+            "移动端会员-月卡": "$2.99",
+            "大学生专属特惠季卡": "$2.99",
+            "移动端会员-连续包季": "$5.99",
+            "大学生专属特惠年卡": "$9.99",
+            "移动端会员-年卡": "$14.99",
+            "移动端会员-半年卡": "$8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748924694076,
@@ -65281,6 +65364,20 @@
       "Save Current Result": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749011117418,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- 25 Credits": "$7.99",
+            "10-second AI animation": "$1.99",
+            "Wink- 100 Credits": "$24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748957535442,
