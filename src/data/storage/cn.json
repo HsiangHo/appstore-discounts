@@ -48136,7 +48136,7 @@
       "price": 0,
       "formattedPrice": "免费",
       "升级到VIP(终身版)": "¥58.00",
-      "升级为VIP按月续订": "¥12.00",
+      "升级为VIP按月续订": "¥18.00",
       "升级为VIP按年续订": "¥38.00"
     },
     "minPriceInfo": {
@@ -48147,6 +48147,18 @@
       "升级为VIP按年续订": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749046505383,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "升级到VIP(终身版)": "¥58.00",
+            "升级为VIP按月续订": "¥18.00",
+            "升级为VIP按年续订": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -48680,6 +48692,14 @@
       "formattedPrice": "¥3.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749046505383,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748787306534,
