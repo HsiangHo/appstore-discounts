@@ -1,6 +1,154 @@
 {
   "cn": [
     {
+      "kind": "mac-software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/a0/29/67a02997-14d1-9425-7deb-223674c30b6c/7d3421e7-8c26-4ba7-a2a8-0e6494fb7b69__U591a_U8bbe_U5907_U6295_U5c4f-zh.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/48/c6/8648c673-f021-7251-f79b-09fbe8204539/c06b4745-2b24-439f-85ad-a4bf6401595b_5-zh.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/dc/5e/0cdc5e13-3f6a-8035-2415-1b8837a602c8/a2968d39-0856-4633-bddd-73442666e168_6-zh.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/79/6d/ff796da9-e1b4-32d4-07e1-e219fb2f8bd5/a44e228d-6aef-489e-bfcc-a088f0ce51a6__U7535_U8111_U97f3_U9891_U5f55_U5236-zh.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/e8/ee/1be8ee37-91ac-dd89-789d-5d07f8736896/e0c5c5ca-3d2c-4976-99de-a42aa472203e_1280x800bb-2.png/800x500bb.jpg"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/24/16/ab24162d-faef-43c5-f3f1-4730c301adcd/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E9%9B%85-%E7%94%B0/id1570646848?mt=12&uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/24/16/ab24162d-faef-43c5-f3f1-4730c301adcd/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/24/16/ab24162d-faef-43c5-f3f1-4730c301adcd/AppIcon-0-0-85-220-0-0-5-0-2x.png/100x100bb.png",
+      "minimumOsVersion": "10.13",
+      "artistId": 1570646848,
+      "artistName": "雅 田",
+      "genres": [
+        "工具",
+        "摄影与录像"
+      ],
+      "price": 0,
+      "genreIds": [
+        "6002",
+        "6008"
+      ],
+      "bundleId": "com.kelly.mirroringlite",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "雅 田",
+      "releaseDate": "2021-12-07T08:00:00Z",
+      "trackId": 1598771178,
+      "trackName": "DeviceMirror Lite -无线手机投屏",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2025-05-11T19:48:23Z",
+      "releaseNotes": "1 在macOS 13及其以上系统版本支持不安装音频驱动进行系统声音录制",
+      "version": "1.8.5",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "DeviceMirror Lite能够使用Wi-Fi连接镜像您的iOS设备的屏幕和声音到电脑，使用它你可以观看大屏在线高清电影，分享大屏游戏视频，在电脑上听手机上的音乐, 进行网上课程录制，Demo演示视屏录制，App使用教程视屏录制等。\n主要功能：\n1 支持Wi-Fi连接进行镜像(支持AirPlay协议,不需要在iOS设备上安装App)。\n2 支持多台设备同时镜像。\n3 支持视频录制。\n4 支持实时截图。\n5 支持横屏投影观看在线电影。\n6 支持腾讯、爱奇艺、YouTube等200+视屏网站投射电影到电脑上播放。\n7 支持将Mac电脑作为iOS设备的键盘进行输入。\n8 支持对MP4或者MOV格式的视屏进行剪切。\n9 支持将视屏中的音频提取转换为MP3或者M4R格式的音频。\n10 支持对mp3、m4a、m4r格式的音频进行剪切。\n11 支持对电脑麦克风、电脑扬声器及电脑麦克风+扬声器的组合进行音频录制。\n\n特别注意:\n由于OSX 12 Monterey可能会默认开启系统的AirPlay服务，如果系统AirPlay服务开启将会导致DeviceMirror的Wi-Fi连接无法正常工作。你需要在系统偏好设置->共享->AirPlay接收器中禁用AirPlay接收器。\n\n系统版本支持:OSX 10.13及以上和iOS10及其以上",
+      "averageUserRatingForCurrentVersion": 0,
+      "sellerUrl": "https://fineusing.com",
+      "languageCodesISO2A": [
+        "AR",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "RU",
+        "ZH",
+        "ZH"
+      ],
+      "fileSizeBytes": "36110657",
+      "formattedPrice": "免费",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "averageUserRating": 0,
+      "trackCensoredName": "DeviceMirror Lite -无线手机投屏",
+      "trackViewUrl": "https://apps.apple.com/cn/app/devicemirror-lite-%E6%97%A0%E7%BA%BF%E6%89%8B%E6%9C%BA%E6%8A%95%E5%B1%8F/id1598771178?mt=12&uo=4",
+      "contentAdvisoryRating": "4+",
+      "userRatingCount": 0,
+      "inAppPurchases": {
+        "DeviceMirror Lite Lifetime": "¥58.00"
+      },
+      "timestamp": 1749158213804,
+      "discounts": [
+        {
+          "type": "inAppPurchase",
+          "name": "DeviceMirror Lite Lifetime",
+          "from": "¥68.00",
+          "to": "¥58.00",
+          "range": "[¥58.00 ~ ¥68.00]"
+        }
+      ]
+    },
+    {
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E9%9B%85-%E7%94%B0/id1570646848?mt=12&uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/c7/44/20c744fe-00da-8cd6-e8b6-f8a8b573c3fb/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/c7/44/20c744fe-00da-8cd6-e8b6-f8a8b573c3fb/AppIcon-0-0-85-220-0-0-5-0-2x.png/100x100bb.png",
+      "kind": "mac-software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/69/0e/6a690e51-9199-aa2e-62eb-b9bfd9dc7370/3d7b5e92-1f78-46e5-95b7-ca96acd02d91__U7efc_U5408.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/72/13/ba7213b5-7f7f-233c-37dd-0ed2e9785324/e6c2ea62-4f7d-483c-bf71-ed6f9fc678a1__U7535_U89c6_U5267_U6295_U5c4f.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/28/06/782806b1-2f6f-9d61-f74b-2a8b5c52218f/928f1718-36ed-4e03-8d31-3531c4e6afac__U5f55_U5236.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/f8/d5/d5f8d57b-72f5-1c48-35db-92acfaa3e25d/f5541fb8-7c05-456b-891c-f7a76210ee87__U7535_U8111_U97f3_U9891_U5f55_U5236-zh.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/b9/09/3ab909de-218e-923d-c4a1-611a3ac48c58/8a3cf6eb-d1b0-479c-97e0-803df05d5198_videoEdit_zh.png/800x500bb.jpg"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/c7/44/20c744fe-00da-8cd6-e8b6-f8a8b573c3fb/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png",
+      "trackCensoredName": "DeviceMirror Pro -无线有线手机投屏",
+      "trackViewUrl": "https://apps.apple.com/cn/app/devicemirror-pro-%E6%97%A0%E7%BA%BF%E6%9C%89%E7%BA%BF%E6%89%8B%E6%9C%BA%E6%8A%95%E5%B1%8F/id1576064082?mt=12&uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "artistId": 1570646848,
+      "artistName": "雅 田",
+      "genres": [
+        "娱乐",
+        "摄影与录像"
+      ],
+      "price": 68,
+      "trackId": 1576064082,
+      "trackName": "DeviceMirror Pro -无线有线手机投屏",
+      "bundleId": "com.robby.mirroring",
+      "releaseDate": "2021-10-27T07:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "sellerName": "雅 田",
+      "genreIds": [
+        "6016",
+        "6008"
+      ],
+      "currentVersionReleaseDate": "2025-05-17T20:43:19Z",
+      "releaseNotes": "1 在macOS 13及其以上系统版本支持不安装音频驱动进行系统声音录制",
+      "version": "2.2.3",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "DeviceMirror能够使用USB或者wifi连接镜像您的iOS设备的屏幕和声音到电脑，使用它你可以观看大屏在线高清电影，分享大屏游戏视频，在电脑上听手机上的音乐, 进行网上课程录制，Demo演示视屏录制，App使用教程视屏录制。\n主要功能：\n1 支持USB连接和wifi连接进行镜像(支持AirPlay协议,不需要在iOS设备上安装App)。\n2 支持多台设备同时镜像。\n3 USB连接支持720P、1080P、4K、HD显示和录制(1080P和4K在OSX10.15及其以上系统支持)并支持暂停录制和恢复录制。\n4 Wi-Fi连接支持HD-Retina、HD、HD-Medium、1080P四种分辨率显示和录制。\n5 录制格式支持MP4、MOV、GIF。\n6 支持实时截图，格式为PNG和JPEG。\n7 支持横屏投影观看在线电影。\n8 支持腾讯、爱奇艺、YouTube等200+视屏网站投射电影到电脑上播放。\n9 支持将Mac电脑作为iOS设备的键盘进行输入。\n10 支持Mac电脑和iOS设备共享剪贴板。\n11 支持对MP4或者MOV格式的视屏进行剪切。\n12 支持将视屏中的音频提取转换为MP3或者M4R格式的音频。\n13 支持对mp3、m4a、m4r格式的音频进行剪切。\n14 支持对电脑麦克风、电脑扬声器及电脑麦克风+扬声器的组合进行音频录制。\n\n\n特别注意:\n由于OSX 12 Monterey可能会默认开启系统的AirPlay服务，如果系统AirPlay服务开启将会导致DeviceMirror的Wi-Fi连接无法正常工作。你需要在系统偏好设置->共享->AirPlay接收器中禁用AirPlay接收器。\n\n系统版本支持:OSX 10.13及以上 iOS 10及其以上",
+      "averageUserRatingForCurrentVersion": 0,
+      "sellerUrl": "https://fineusing.com",
+      "languageCodesISO2A": [
+        "AR",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "RU",
+        "ZH",
+        "ZH"
+      ],
+      "fileSizeBytes": "39758349",
+      "formattedPrice": "¥68.00",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "minimumOsVersion": "10.13",
+      "userRatingCount": 0,
+      "inAppPurchases": {},
+      "timestamp": 1749158213804,
+      "discounts": [
+        {
+          "type": "price",
+          "name": "价格",
+          "from": "¥78.00",
+          "to": "¥68.00",
+          "range": "[¥68.00 ~ ¥78.00]"
+        }
+      ]
+    },
+    {
       "artistViewUrl": "https://apps.apple.com/cn/developer/%E7%A6%84%E6%B5%B7-%E5%8C%BA/id954188947?mt=12&uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/a7/cf/bda7cfce-be15-3073-6b9d-d898e63f4da9/AppIconPro-0-0-85-220-0-0-5-0-2x.png/60x60bb.png",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/a7/cf/bda7cfce-be15-3073-6b9d-d898e63f4da9/AppIconPro-0-0-85-220-0-0-5-0-2x.png/100x100bb.png",

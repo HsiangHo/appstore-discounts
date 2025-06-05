@@ -51344,10 +51344,18 @@
       "formattedPrice": "¥78.00"
     },
     "minPriceInfo": {
-      "price": 78,
-      "formattedPrice": "¥78.00"
+      "price": 68,
+      "formattedPrice": "¥68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749158213804,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -53493,9 +53501,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "DeviceMirror Lite Lifetime": "¥68.00"
+      "DeviceMirror Lite Lifetime": "¥58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749158213804,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "DeviceMirror Lite Lifetime": "¥58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-05T14:24:04.739Z</updated>
+    <updated>2025-06-05T21:23:12.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-05T14:24:04.740Z</updated>
+        <updated>2025-06-05T21:23:12.601Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnThu, 05 Jun 2025 14:24:04 GMT</id>
+        <id>rankingcnThu, 05 Jun 2025 21:23:12 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-05T14:24:04.741Z</updated>
+        <updated>2025-06-05T21:23:12.601Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -50,13 +50,13 @@ feedId:49753297431966720+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>850</b>
+        <b>851</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>850</b>
+        <b>851</b>
       </td>
       <td>
         <b></b>
@@ -289,6 +289,46 @@ feedId:49753297431966720+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1576064082">DeviceMirror Pro -无线有线手机投屏</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>11</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id1598771178">DeviceMirror Lite -无线手机投屏</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>DeviceMirror Lite Lifetime</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>12</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1619925971">UPDF - 新一代 AI 智能 PDF 编辑器</a>
       </td>
       <td>
@@ -318,6 +358,78 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeviceMirror Lite -无线手机投屏]]></title>
+        <id>DeviceMirror Lite -无线手机投屏-cn-1749158213804</id>
+        <link href="https://apps.apple.com/cn/app/devicemirror-lite-%E6%97%A0%E7%BA%BF%E6%89%8B%E6%9C%BA%E6%8A%95%E5%B1%8F/id1598771178?mt=12&amp;uo=4"/>
+        <updated>2025-06-05T21:16:53.804Z</updated>
+        <summary type="html"><![CDATA[DeviceMirror Lite Lifetime: ¥68.00 → ¥58.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/devicemirror-lite-%E6%97%A0%E7%BA%BF%E6%89%8B%E6%9C%BA%E6%8A%95%E5%B1%8F/id1598771178?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/24/16/ab24162d-faef-43c5-f3f1-4730c301adcd/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>DeviceMirror Lite Lifetime：</strong><span>¥68.00</span> → <b>
+  <strong>¥58.00</strong>
+</b><span>[¥58.00 ~ ¥68.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  DeviceMirror Lite能够使用Wi-Fi连接镜像您的iOS设备的屏幕和声音到电脑，使用它你可以观看大屏在线高清电影，分享大屏游戏视频，在电脑上听手机上的音乐, 进行网上课程录制，Demo演示视屏录制，App使用教程视屏录制等。
+主要功能：
+1 支持Wi-Fi连接进行镜像(支持AirPlay协议,不需要在iOS设备上安装App)。
+2 支持多台设备同时镜像。
+3 支持视频录制。
+4 支持实时截图。
+5 支持横屏投影观看在线电影。
+6 支持腾讯、爱奇艺、YouTube等200+视屏网站投射电影到电脑上播放。
+7 支持将Mac电脑作为iOS设备的键盘进行输入。
+8 支持对MP4或者MOV格式的视屏进行剪切。
+9 支持将视屏中的音频提取转换为MP3或者M4R格式的音频。
+10 支持对mp3、m4a、m4r格式的音频进行剪切。
+11 支持对电脑麦克风、电脑扬声器及电脑麦克风+扬声器的组合进行音频录制。
+
+特别注意:
+由于OSX 12 Monterey可能会默认开启系统的AirPlay服务，如果系统AirPlay服务开启将会导致DeviceMirror的Wi-Fi连接无法正常工作。你需要在系统偏好设置->共享->AirPlay接收器中禁用AirPlay接收器。
+
+系统版本支持:OSX 10.13及以上和iOS10及其以上
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/a0/29/67a02997-14d1-9425-7deb-223674c30b6c/7d3421e7-8c26-4ba7-a2a8-0e6494fb7b69__U591a_U8bbe_U5907_U6295_U5c4f-zh.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/48/c6/8648c673-f021-7251-f79b-09fbe8204539/c06b4745-2b24-439f-85ad-a4bf6401595b_5-zh.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/dc/5e/0cdc5e13-3f6a-8035-2415-1b8837a602c8/a2968d39-0856-4633-bddd-73442666e168_6-zh.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/79/6d/ff796da9-e1b4-32d4-07e1-e219fb2f8bd5/a44e228d-6aef-489e-bfcc-a088f0ce51a6__U7535_U8111_U97f3_U9891_U5f55_U5236-zh.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/e8/ee/1be8ee37-91ac-dd89-789d-5d07f8736896/e0c5c5ca-3d2c-4976-99de-a42aa472203e_1280x800bb-2.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeviceMirror Pro -无线有线手机投屏]]></title>
+        <id>DeviceMirror Pro -无线有线手机投屏-cn-1749158213804</id>
+        <link href="https://apps.apple.com/cn/app/devicemirror-pro-%E6%97%A0%E7%BA%BF%E6%9C%89%E7%BA%BF%E6%89%8B%E6%9C%BA%E6%8A%95%E5%B1%8F/id1576064082?mt=12&amp;uo=4"/>
+        <updated>2025-06-05T21:16:53.804Z</updated>
+        <summary type="html"><![CDATA[价格: ¥78.00 → ¥68.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/devicemirror-pro-%E6%97%A0%E7%BA%BF%E6%9C%89%E7%BA%BF%E6%89%8B%E6%9C%BA%E6%8A%95%E5%B1%8F/id1576064082?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/c7/44/20c744fe-00da-8cd6-e8b6-f8a8b573c3fb/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png" />
+</a><h2>
+  优惠信息（价格：<span>¥78.00</span> → <b>
+  <strong>¥68.00</strong>
+</b><span>[¥68.00 ~ ¥78.00]</span>）
+</h2><h2>应用描述</h2><p>
+  DeviceMirror能够使用USB或者wifi连接镜像您的iOS设备的屏幕和声音到电脑，使用它你可以观看大屏在线高清电影，分享大屏游戏视频，在电脑上听手机上的音乐, 进行网上课程录制，Demo演示视屏录制，App使用教程视屏录制。
+主要功能：
+1 支持USB连接和wifi连接进行镜像(支持AirPlay协议,不需要在iOS设备上安装App)。
+2 支持多台设备同时镜像。
+3 USB连接支持720P、1080P、4K、HD显示和录制(1080P和4K在OSX10.15及其以上系统支持)并支持暂停录制和恢复录制。
+4 Wi-Fi连接支持HD-Retina、HD、HD-Medium、1080P四种分辨率显示和录制。
+5 录制格式支持MP4、MOV、GIF。
+6 支持实时截图，格式为PNG和JPEG。
+7 支持横屏投影观看在线电影。
+8 支持腾讯、爱奇艺、YouTube等200+视屏网站投射电影到电脑上播放。
+9 支持将Mac电脑作为iOS设备的键盘进行输入。
+10 支持Mac电脑和iOS设备共享剪贴板。
+11 支持对MP4或者MOV格式的视屏进行剪切。
+12 支持将视屏中的音频提取转换为MP3或者M4R格式的音频。
+13 支持对mp3、m4a、m4r格式的音频进行剪切。
+14 支持对电脑麦克风、电脑扬声器及电脑麦克风+扬声器的组合进行音频录制。
+
+
+特别注意:
+由于OSX 12 Monterey可能会默认开启系统的AirPlay服务，如果系统AirPlay服务开启将会导致DeviceMirror的Wi-Fi连接无法正常工作。你需要在系统偏好设置->共享->AirPlay接收器中禁用AirPlay接收器。
+
+系统版本支持:OSX 10.13及以上 iOS 10及其以上
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/69/0e/6a690e51-9199-aa2e-62eb-b9bfd9dc7370/3d7b5e92-1f78-46e5-95b7-ca96acd02d91__U7efc_U5408.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/72/13/ba7213b5-7f7f-233c-37dd-0ed2e9785324/e6c2ea62-4f7d-483c-bf71-ed6f9fc678a1__U7535_U89c6_U5267_U6295_U5c4f.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/28/06/782806b1-2f6f-9d61-f74b-2a8b5c52218f/928f1718-36ed-4e03-8d31-3531c4e6afac__U5f55_U5236.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/f8/d5/d5f8d57b-72f5-1c48-35db-92acfaa3e25d/f5541fb8-7c05-456b-891c-f7a76210ee87__U7535_U8111_U97f3_U9891_U5f55_U5236-zh.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/b9/09/3ab909de-218e-923d-c4a1-611a3ac48c58/8a3cf6eb-d1b0-479c-97e0-803df05d5198_videoEdit_zh.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MWeb Pro]]></title>
@@ -766,133 +878,5 @@ iPad版本不含有动态壁纸。
 微信：有道翻译
 官方网站：fanyi.youdao.com/download
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/19/b3/4719b3f0-95d5-28de-cb95-f7fd4d31c78f/4089b4b1-ef3b-4b54-9544-04b77dd0aafe_1440_900.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/12/77/25127735-75e4-a792-79c9-aa9275deefa7/01ca9f69-7245-430e-af80-aa9e9407dab7_2_mac__U5e94_U7528_U622a_U56fe__U9996_U9875.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/7d/1d/6b7d1d50-1ce2-780f-dc79-3caf005238be/1a4e8a66-453e-42fa-99e1-1a14b49df97f_3_mac__U5e94_U7528_U622a_U56fe_AI_U6587_U6863_U7ffb_U8bd1_U00b7_U95ee_U7b54.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/86/92/c7869296-9928-151f-789a-a571ad49eff0/07e3275c-bc25-4940-a861-d8b1551763e0_6_mac__U5e94_U7528_U622a_U56fe_AIBox_U8de8_U8f6f_U4ef6_U5de5_U5177.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/4a/17/184a1762-0b9b-b20d-b8ca-055467912e53/1cf1e7e9-1170-44dc-b397-2109f2e9f41b_4_mac__U5e94_U7528_U622a_U56fe_AI_U622a_U56fe.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/ca/3a/f0ca3a8c-a9bf-0451-2845-2161009ef5b3/3e21f929-1003-4ddb-98f0-e7590fc22a23_5_mac__U5e94_U7528_U622a_U56fe_AI_U5212_U8bcd.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/17/9c/d3179c8d-a16b-346a-40e3-5f3f3569ed5e/a7692139-eb7c-45c5-8643-602dd2a63bf4_7_mac__U5e94_U7528_U622a_U56fe_AI_U5199_U4f5c.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/49/76/d249765c-73d8-efa7-26eb-0422f57dec93/b6dbca02-0d72-4118-bd1c-442e37befe38_8_mac__U5e94_U7528_U622a_U56fe_AI_U4e00_U952e_U521b_U4f5cPPT.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网易有道翻译]]></title>
-        <id>网易有道翻译-cn-1748895593010</id>
-        <link href="https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E6%9C%89%E9%81%93%E7%BF%BB%E8%AF%91/id491854842?mt=12&amp;uo=4"/>
-        <updated>2025-06-02T20:19:53.010Z</updated>
-        <summary type="html"><![CDATA[有道词典超级会员: ¥358.00 → ¥108.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E6%9C%89%E9%81%93%E7%BF%BB%E8%AF%91/id491854842?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/03/9d/fa039d19-2203-e355-34dc-b85a0754054d/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>有道词典超级会员：</strong><span>¥358.00</span> → <b>
-  <strong>¥108.00</strong>
-</b><span>[¥108.00 ~ ¥358.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  【网易有道词典桌面端】正式改名为【网易有道翻译】
-——比强大更强大的翻译生产力工具，让你的电脑瞬间变身AIPC
- 针对Mac平台特性，我们特别推出全新的版本，作为Mac系统下必备的翻译软件，在同类软件排行位居前列，10亿用户都在用！
-
-用AI重新定义翻译，WE DO MORE THAN TRANSLATION！
-
-【AI翻译助手】
-翻译更精准，表达更地道，还能自由问答～
-随时随地选中长句段落或截图，即可唤起功能～
- 【AIBox 跨软件工具】
-选中长句段落，智能润色、改写、纠错一步到位～
--句子润色：为你提供五种语言风格，一键升级地道高级句；
--语法纠错：母语级纠错，帮你调整词汇、语法、结构；
--写作建议：优化文章的同时为你提供写作建议；
--重点提炼：复杂长文精准提炼重点；
--单词百科：无需打开搜索引擎，即可快速检索语句百科知识；
-【AI文档翻译·问答】
--一键上传文档，全文翻译；
--支持多格式、多语种、多专业领域；
--保留原文排版，双语对照查看；
--便捷译后批注，支持一键导出；
--同时还能自动总结，深度问答；
--已开放240万字符/年免费翻译额度，让你想翻就翻，随手就翻，敞开了翻！
-【AI写作】
--一键成文，AI快速生成邮件、通知模板内容，提高生产力；
--母语级润色、扩写、总结、去重等功能助力内容质量提升；
--智能纠错，智能识别200种错误，覆盖语法、词汇、拼写、格式等；
-【AI一键创作PPT】
-只需输入主题，即刻生成一份布局配色丰富的PPT~
- 
-强大的桌面翻译软件，什么都能帮你翻！
-
- 【有道词典】
--实时收录最新词汇；支持英汉、日汉、韩汉、法汉、德汉、俄汉、葡汉、西汉互译；
--完整收录《学习型牛津词典》、《新牛津英汉双解大词典》、《韦氏大学英语词典》、《柯林斯COBUILD高级英汉双解词典》、《新世纪日汉双解大辞典》、龙朝《韩中词典》《中韩词典》等权威词典；
--单词图谱：可视化词典+思维导图记忆法；
--单词笔记：支持添加单词笔记，同步保存单词本；
-【文本翻译】
--长短句实时翻译，109种语言互译，26种常用语种tts发音；；
--支持医学、计算机、金融经济三种专业领域翻译；
--提供42个专业术语库&上传自定义术语库；
--快捷键翻译：选中任意文本按下Command+2，快速获取翻译结果；
-【音频翻译】
--从听到看，一键搞定；
--中英文音频快速转录->翻译->整理为高质量文本；
--支持100MB以内的MP3、WAV、AAC多种音频格式；
-【视频翻译】
--字幕制作，省时高效；
--提取视频内原字幕->翻译->生成新字幕；
--自动生成字幕时间轴，一键导出srt字幕文件；
-【截图翻译】
--按下Shift+Command+2，选取屏幕上的任意区域实现快速翻译；
--截屏翻译结果支持一键钉至屏幕，随时进行下一次翻译。多次截屏翻译的结果同时查看，省时高效；
-【图片翻译】
--快速识别、提取、翻译图片中的文本，支持99种语言；
--支持macOS的“连续互通”相机功能，用iPhone或iPad拍摄任意文本，自动导入Mac；
-【同传翻译】
-支持中英日韩等14种语言互译，实时展示多人同传翻译字幕；
-【状态栏菜单】
-不打开主窗口，也能在mini窗口快速查词；
-【网页翻译】
-输入网址快速翻译网页内容，保持原排版信息，阅读体验舒适流畅；
-【人工翻译】
-提供专业定制化服务；
- 
-【超级会员自动续费说明】
-1、服务名称：超级会员自动续费
-2、价格：38元/月
-3、购买会员自动续费的账号，会在每个月到期前24小时，自动在iTunes账户扣费并延长1个月会员有效期。
-4、如需取消订阅，请打开“App Store”--> 点击“商店”中的 “查看我的账户”，选择"查看信息"，进入"我的账户信息"页面，点击“管理”，取消“有道词典VIP服务”订阅即可。如未在订阅期结束的至少24小时前关闭订阅，此订阅将会自动续订。
-5、会员自动续费服务协议：https://c.youdao.com/dict/law/renew.html
-6、隐私协议：https://c.youdao.com/dict/law/youdaofanyi_pc_privacy.html
- 
-【联系我们】
-微信：有道翻译
-官方网站：fanyi.youdao.com/download
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/19/b3/4719b3f0-95d5-28de-cb95-f7fd4d31c78f/4089b4b1-ef3b-4b54-9544-04b77dd0aafe_1440_900.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/12/77/25127735-75e4-a792-79c9-aa9275deefa7/01ca9f69-7245-430e-af80-aa9e9407dab7_2_mac__U5e94_U7528_U622a_U56fe__U9996_U9875.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/7d/1d/6b7d1d50-1ce2-780f-dc79-3caf005238be/1a4e8a66-453e-42fa-99e1-1a14b49df97f_3_mac__U5e94_U7528_U622a_U56fe_AI_U6587_U6863_U7ffb_U8bd1_U00b7_U95ee_U7b54.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/86/92/c7869296-9928-151f-789a-a571ad49eff0/07e3275c-bc25-4940-a861-d8b1551763e0_6_mac__U5e94_U7528_U622a_U56fe_AIBox_U8de8_U8f6f_U4ef6_U5de5_U5177.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/4a/17/184a1762-0b9b-b20d-b8ca-055467912e53/1cf1e7e9-1170-44dc-b397-2109f2e9f41b_4_mac__U5e94_U7528_U622a_U56fe_AI_U622a_U56fe.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/ca/3a/f0ca3a8c-a9bf-0451-2845-2161009ef5b3/3e21f929-1003-4ddb-98f0-e7590fc22a23_5_mac__U5e94_U7528_U622a_U56fe_AI_U5212_U8bcd.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/17/9c/d3179c8d-a16b-346a-40e3-5f3f3569ed5e/a7692139-eb7c-45c5-8643-602dd2a63bf4_7_mac__U5e94_U7528_U622a_U56fe_AI_U5199_U4f5c.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/49/76/d249765c-73d8-efa7-26eb-0422f57dec93/b6dbca02-0d72-4118-bd1c-442e37befe38_8_mac__U5e94_U7528_U622a_U56fe_AI_U4e00_U952e_U521b_U4f5cPPT.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音频剪辑 – 手机铃声制作&mp3音乐剪辑]]></title>
-        <id>音频剪辑 – 手机铃声制作&amp;mp3音乐剪辑-cn-1748888749812</id>
-        <link href="https://apps.apple.com/cn/app/%E9%9F%B3%E9%A2%91%E5%89%AA%E8%BE%91-%E6%89%8B%E6%9C%BA%E9%93%83%E5%A3%B0%E5%88%B6%E4%BD%9C-mp3%E9%9F%B3%E4%B9%90%E5%89%AA%E8%BE%91/id1339124759?uo=4"/>
-        <updated>2025-06-02T18:25:49.812Z</updated>
-        <summary type="html"><![CDATA[永久会员: ¥98.00 → ¥68.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E9%9F%B3%E9%A2%91%E5%89%AA%E8%BE%91-%E6%89%8B%E6%9C%BA%E9%93%83%E5%A3%B0%E5%88%B6%E4%BD%9C-mp3%E9%9F%B3%E4%B9%90%E5%89%AA%E8%BE%91/id1339124759?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/9f/00/cf9f0079-ce90-8228-c4e5-1e03c6311f25/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>永久会员：</strong><span>¥98.00</span> → <b>
-  <strong>¥68.00</strong>
-</b><span>[¥68.00 ~ ¥98.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  想制作属于自己独特炫酷的苹果手机铃声吗？或者有时会想把多首歌曲拼接起来当串烧，合并成自己想要的音乐？还是想知道不同歌曲混音后效果？
-音乐剪辑（幂果）是一款操作方便的音乐mp3剪切合并混音工具。简单出色，功能实用！不管你是专业音乐人还是音乐小白，都能轻松玩转。
-
-功能特点：
-1、专业的铃声剪辑：可自由剪辑，已为您设定铃声最大时长为40s（符合手机铃声特点）！
-2、简单的音乐拼接：歌曲剪辑拼接为一体，串烧喜欢的歌曲吧！
-3、独特的混音合成：随意剪辑两首曲子，混合一起播放，可以感受不一样的音乐效果！
-
-订阅说明：
-- 订阅VIP后，您可以无限制使用所有的功能
-- 订阅提供4个时间段的VIP服务，包括：每周VIP服务，每月VIP服务，每年VIP服务，永久VIP服务
-- 订阅每周15元，每月30元，每年88元和永久98元
-- 购买过程是从iTunes账户中扣除购买金额
-- 账户将在当前周期前 24 小时内按所选套餐的费用收取费用
-- 有效订阅期间不允许取消当前订阅。但您可以取消下一次订阅。
-- 您可以访问(长按) https://www.camoryapps.com/netpower/privacy_policy/musicmixer_cn.html 来阅读我们的隐私政策
-- 您可以访问(长按) https://www.camoryapps.com/netpower/service/musicmixer_cn.html 来阅读服务条款
-*价格相当于“苹果App Store矩阵”所确定的相当于以美元为单位的认购价。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/29/49/11/29491182-5df7-ad1e-c9b0-ac2a24f48a2e/1e304ac9-b23f-4e72-95d7-932218b86dd7_5.5_U82f1_U5bf81_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3f/13/3a/3f133a57-559b-71d3-17f5-f735b3e3d016/d917d6b6-78fc-4dbc-b995-dfbb45058b10_5.5_U82f1_U5bf82_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/aa/e8/08aae87f-0536-f70e-2305-f48103fe08ec/13ed63c2-0e3c-4332-95cd-195f01145a81_5.5_U82f1_U5bf83_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/70/a4/0a70a4c4-54e0-8acc-e3ef-8b5b8b46b6c6/294c541f-8023-449d-8c07-5a02b47dd8df_5.5_U82f1_U5bf84_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/18/0a/58180a1a-3f35-a19a-0309-a95f7a7c9c29/f0e65d15-4c0b-46d3-8286-20c61ba8e2ca_5.5_U82f1_U5bf85_cn.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/22/40/23/224023c1-1bd0-8118-6abe-2a75d7bb8d48/e9ae84ee-8b06-411d-82be-64ec8c0b44d5_12.9_U82f1_U5bf81_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/68/ed/d268edcb-346b-40ca-9f1d-f1a1617520b1/a1b344cd-34f3-44dd-98be-468601f88e3a_12.9_U82f1_U5bf82_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3d/11/d9/3d11d970-9c33-4b79-2956-46725b2c8168/b81d0e54-3a35-4aca-be78-4a6d55949114_12.9_U82f1_U5bf83_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b4/64/93/b4649310-9ec4-6e83-2c72-644217fcdd41/e5d7e6ab-9225-4860-9f42-ad553978548d_12.9_U82f1_U5bf84_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e5/97/85/e5978592-d3dc-9a0c-0fcc-1070189f4286/b401ad29-510b-4371-b581-f5e15f9cc8ae_12.9_U82f1_U5bf85_cn.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
