@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-05T04:32:02.738Z</updated>
+    <updated>2025-06-05T07:23:04.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-05T04:32:02.739Z</updated>
+        <updated>2025-06-05T07:23:04.269Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnThu, 05 Jun 2025 04:32:02 GMT</id>
+        <id>rankingcnThu, 05 Jun 2025 07:23:04 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-05T04:32:02.739Z</updated>
+        <updated>2025-06-05T07:23:04.270Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -117,6 +117,29 @@ feedId:49753297431966720+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id985614903">SQLPro Studio</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>SQLPro Premium</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1012296988">爱奇艺-在人间 幻境谜局</a>
       </td>
       <td>
@@ -137,7 +160,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1058801458">Remixlive - Make Music & Beats</a>
@@ -160,7 +183,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1231336508">腾讯视频-折腰 全网独播</a>
@@ -183,7 +206,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1339124759">音频剪辑 – 手机铃声制作&mp3音乐剪辑</a>
@@ -206,7 +229,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1518518216">Paper 壁纸 - 超高清4K动态壁纸, 桌面壁纸</a>
@@ -229,7 +252,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1544190466">避难所：生存</a>
@@ -246,7 +269,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1619925971">UPDF - 新一代 AI 智能 PDF 编辑器</a>
@@ -278,6 +301,53 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLPro Studio]]></title>
+        <id>SQLPro Studio-cn-1749107850230</id>
+        <link href="https://apps.apple.com/cn/app/sqlpro-studio/id985614903?mt=12&amp;uo=4"/>
+        <updated>2025-06-05T07:17:30.230Z</updated>
+        <summary type="html"><![CDATA[SQLPro Premium: ¥698.00 → ¥113.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/sqlpro-studio/id985614903?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/9c/61/c89c6163-cabc-2f3b-3b3f-52a8a295a6da/AppIcon-0-0-85-220-0-0-0-5-0-2x.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>SQLPro Premium：</strong><span>¥698.00</span> → <b>
+  <strong>¥113.00</strong>
+</b><span>[¥113.00 ~ ¥698.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  SQLPro Studio is the premium database management tool for Postgres, MySQL, Microsoft Management Studio and Oracle databases.
+
+Some of the great features include:
++ Intellisense/SQL autocompletion.
++ Syntax highlighting with customizable themes (including dark).
++ Tabbed based interface for an optimal user experience.
++ Context aware database tree navigation, including quick access to tables, views, columns, indexes and much more!
++ SQL Beautifier/formatter.
++ Database wide searching.
++ NTLMv2 supported (but not required).
++ Netbios support.
++ Master password support for additional security.
++ Supports Handoff from iOS to macOS.
+
+SQLPro Studio supports the following database servers:
++ MySQL & MariaDB
++ PostgreSQL
++ Microsoft SQL Server (2005 and above)
++ SnowflakeDB
++ SQLite
++ Oracle (8i and above)
+
+Privacy Policy:
+https://hankinsoft.com/privacypolicy.html
+
+Terms of Use:
+https://hankinsoft.com/termsofuse.html
+
+Price:
+SQLPro offers Premium subscriptions (or a single Lifetime purchase) in order to interact with database result sets. Premium subscriptions are available as either a Monthly, or a Yearly duration. Subscriptions auto-renew within 24 hours of the expiration date unless auto-renewal is turned off in the iTunes account settings. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. Payment will be charged to your iTunes Account at confirmation of purchase.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/d9/f4/9e/d9f49e5d-5543-856a-2f5d-6b8e9f2753fb/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/37/c1/71/37c17106-bdba-ea66-b297-96755021fddf/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/03/92/52/039252ef-5225-9a60-c342-7cdcd7678a1d/pr_source.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[腾讯视频-折腰 全网独播]]></title>

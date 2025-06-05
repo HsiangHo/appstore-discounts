@@ -19741,6 +19741,17 @@
     "history": [
       [
         {
+          "timestamp": 1749107850230,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "SQLPro Premium": "¥113.00",
+            "SQLPro Premium - Lifetime": "¥1,498.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748286843605,
           "price": 0,
           "formattedPrice": "免费",
@@ -50813,6 +50824,22 @@
       "三年9折": "¥133.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749107850230,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "一年": "¥68.00",
+            "三个月": "¥28.00",
+            "三年": "¥148.00",
+            "VIP连续包年(免费试用7天)": "¥68.00",
+            "三年8.5折": "¥126.00",
+            "一年8.5折": "¥57.80",
+            "一年9折": "¥61.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748946016002,
