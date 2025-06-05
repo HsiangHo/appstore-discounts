@@ -102,10 +102,11 @@
       }
     },
     "1514073011": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Annual VIP": 1
+        "Annual VIP": 2,
+        "Continuous Monthly VIP": 1
       }
     },
     "6450397515": {

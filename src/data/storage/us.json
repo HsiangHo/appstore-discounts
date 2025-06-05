@@ -59322,6 +59322,21 @@
     "history": [
       [
         {
+          "timestamp": 1749115175624,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Continuous Monthly VIP": "$4.99",
+            "Season VIP": "$22.99",
+            "Monthly  VIP": "$7.99",
+            "Semi-annual  VIP": "$46.99",
+            "Annual VIP": "$39.99",
+            "Quarterly VIP": "$11.99",
+            "Quarter Subscription": "$14.99",
+            "Semi-annual VIP": "$25.99"
+          }
+        },
+        {
           "timestamp": 1749111854700,
           "price": 0,
           "formattedPrice": "Free",
@@ -61701,6 +61716,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749115175624,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Vythm PRO": "$9.99",
+            "All features and modes": "$44.99",
+            "Unlock all (including updates)": "$139.99",
+            "Psychedelic mode for mobile": "$4.99",
+            "Mandala mode on mobile devices": "$4.99",
+            "Dreaming mode for mobile": "$4.99",
+            "Fluids mode for mobile devices": "$4.99",
+            "Shapes mode for mobile": "$4.99"
+          }
+        },
         {
           "timestamp": 1749111854700,
           "price": 0,
