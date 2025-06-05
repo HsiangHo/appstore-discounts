@@ -647,7 +647,7 @@
 |279|1482460738|自动|LRC Editor||||LRC Editor||
 |278|982124349|自动|FLAC MP3格式转换器||||FLAC MP3 Converter||
 |277|1564384601|自动|Evermusic||||Evermusic||
-|276|1602757597|自动|unMix: AI Vocal Remover||||unMix: AI Vocal Remover||
+|276|1602757597|自动|unMix: AI Vocal Remover||||unMix - AI Vocal Remover||
 |275|446363299|自动|N 音轨工作室DAW||||n-Track Studio DAW||
 |274|1527105121|自动|Neural Mix Pro||||Neural Mix Pro||
 |273|797590911|自动|MIDI 乐谱||||MIDI Score||
