@@ -10629,6 +10629,23 @@
     "history": [
       [
         {
+          "timestamp": 1749097567673,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "百度网盘自动续费超级会员（1个月）": "¥25.00",
+            "百度网盘超级会员(1个月-自动续费)(首充)": "¥18.00",
+            "百度网盘会员(3个月)": "¥30.00",
+            "百度网盘云解压券6元": "¥6.00",
+            "百度网盘超级会员(1个月)": "¥40.00",
+            "百度网盘自动续费超级会员（3个月）": "¥68.00",
+            "百度网盘连续包月备份套餐(1个月)": "¥10.00",
+            "百度网盘极速下载券1张": "¥6.00",
+            "百度网盘会员(1个月-自动续费)": "¥19.00",
+            "百度网盘转存券6元": "¥6.00"
+          }
+        },
+        {
           "timestamp": 1749086689595,
           "price": 0,
           "formattedPrice": "免费",
@@ -21641,7 +21658,17 @@
       "Hip-Hop": "¥22.00",
       "Dubstep": "¥22.00",
       "Future Beat": "¥22.00",
-      "Full Access to PRO": "¥228.00"
+      "Full Access to PRO": "¥228.00",
+      "Speed Hardgroove": "¥22.00",
+      "Drip Tech House": "¥22.00",
+      "Altered Hip-Hop": "¥22.00",
+      "Glow Trap": "¥22.00",
+      "Phonk": "¥22.00",
+      "Indigo Beats": "¥22.00",
+      "Voyager Synthwave": "¥22.00",
+      "Titanium Bass": "¥22.00",
+      "Sphere Electro": "¥22.00",
+      "Chill Boom Bap": "¥22.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -21654,9 +21681,38 @@
       "Hip-Hop": "¥22.00",
       "Dubstep": "¥22.00",
       "Future Beat": "¥22.00",
-      "Full Access to PRO": "¥198.00"
+      "Full Access to PRO": "¥198.00",
+      "Speed Hardgroove": "¥22.00",
+      "Drip Tech House": "¥22.00",
+      "Altered Hip-Hop": "¥22.00",
+      "Glow Trap": "¥22.00",
+      "Phonk": "¥22.00",
+      "Indigo Beats": "¥22.00",
+      "Voyager Synthwave": "¥22.00",
+      "Titanium Bass": "¥22.00",
+      "Sphere Electro": "¥22.00",
+      "Chill Boom Bap": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749097567673,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Speed Hardgroove": "¥22.00",
+            "Drip Tech House": "¥22.00",
+            "Altered Hip-Hop": "¥22.00",
+            "Glow Trap": "¥22.00",
+            "Phonk": "¥22.00",
+            "Indigo Beats": "¥22.00",
+            "Voyager Synthwave": "¥22.00",
+            "Titanium Bass": "¥22.00",
+            "Sphere Electro": "¥22.00",
+            "Chill Boom Bap": "¥22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748838519939,
@@ -29131,6 +29187,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749097567673,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "该付费商品": "¥8.00",
+            "付费商品": "¥12.00",
+            "1个月腾讯视频VIP": "¥30.00",
+            "3个月腾讯视频VIP": "¥78.00",
+            "单点商品": "¥4.80"
+          }
+        },
         {
           "timestamp": 1749075331145,
           "price": 0,

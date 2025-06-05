@@ -1,6 +1,77 @@
 {
   "cn": [
     {
+      "artistViewUrl": "https://apps.apple.com/cn/developer/tencent-technology-shenzhen-company-limited/id292374531?mt=12&uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/6e/a4/a86ea477-8b93-deed-2680-7a8895a27651/AppIcon-85-220-0-4-2x-sRGB.png/60x60bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/6e/a4/a86ea477-8b93-deed-2680-7a8895a27651/AppIcon-85-220-0-4-2x-sRGB.png/100x100bb.png",
+      "kind": "mac-software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/16/3e/15163e7c-e03a-d9bb-1d24-42356617484c/IMG_1855.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/b6/33/a4b63375-7c02-6eb8-d3f8-446c5c2e13f2/7014b5a6-7cf4-4e28-a688-ff3eff19ee4a_1.jpeg/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/f5/15/82f515cc-1b40-bf32-7c08-59b3fccf967b/7e0ac2f1-59ac-40d4-b333-c7ff5cd3652d_2880x1800-01@1x.jpg/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/e2/d9/9ae2d96c-bc6d-e6be-fbdb-5e5fcbab67b7/IMG_1854.png/800x500bb.jpg"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/6e/a4/a86ea477-8b93-deed-2680-7a8895a27651/AppIcon-85-220-0-4-2x-sRGB.png/512x512bb.png",
+      "trackCensoredName": "腾讯视频-折腰 全网独播",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-%E6%8A%98%E8%85%B0-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1231336508?mt=12&uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 0,
+      "minimumOsVersion": "10.15",
+      "artistId": 292374531,
+      "artistName": "Tencent Technology (Shenzhen) Company Limited",
+      "genres": [
+        "娱乐",
+        "摄影与录像"
+      ],
+      "price": 0,
+      "bundleId": "com.tencent.tenvideo",
+      "releaseNotes": "《折腰》新剧开播，看宋祖儿刘宇宁世仇联姻极致带感！NBA季后赛全程直播，勇士凯尔特人领衔群雄逐鹿！",
+      "trackId": 1231336508,
+      "trackName": "腾讯视频-折腰 全网独播",
+      "genreIds": [
+        "6016",
+        "6008"
+      ],
+      "releaseDate": "2017-06-02T11:05:25Z",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Tencent Technology (Shenzhen) Company Limited",
+      "currentVersionReleaseDate": "2025-05-23T12:36:18Z",
+      "version": "2.121.0",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "电视剧热播：\n《无尽的尽头》高口碑黑马！三少年霸凌杀人，任素汐高伟光刘琳对抗人性之恶\n《榜上佳婿》CP乱炖嗑上头！王子奇卢昱晓放榜捉婿结良缘，青梅竹马苏到腿软！\n《悬镜》中式奇诡悬疑！任达华朱雨辰双雄联手识人心破邪案\n《成家》中偶之光！秦岚艾伦张力拉满，揭秘伴侣亲密关系生存指南\n综艺强档：\n《哈哈哈哈哈 第5季》 滴~新疆婚礼一日体验卡：超哥和陈赫PK舞蹈，玫瑰一叼立马起范儿。\n《半熟恋人 第4季》两天一夜跨城旅行！“情任杰cp”开启小情侣模式，梁田和混血弟弟雪地约会关系反转？\n《一见你就笑》王安宇王玉雯带《值得爱》踢馆，上演搞笑粤语版求婚戏；王安宇玩游戏被杨超越拖在地上爆虐。\n《毛雪汪》春番温暖回归！毛晓彤现场连线白宇雪琴在线害羞，毛不易张彬彬深情对视，合唱毛毛爆单！\n《天赐的声音 第6季》张碧晨刘宇宁合唱感性落泪，张靓颖王以太《跳楼机》情侣吵架既视感。\n《年轻的战场之太好“校”了》乐华娱乐旗下艺人再度团建，一键重返校园，现场炫技花式玩游戏！杜华喊话旗下艺人别蹭公司热度？\n《百分百歌手对战季》全开麦唱跳的神→孟美岐安崎热舞“鲨疯”，袁咏琳洪辰丝滑高音秀翻了。\n《今晚不加班》职场前辈倪萍聊“重启人生指南”，分享自己转行当演员、作家经历鼓励年轻人。\n电影超燃：\n《射雕英雄传：侠之大者》徐克&肖战再燃武侠江湖\n《平原上的火焰》全员狠人灼心复仇！周冬雨、刘昊然撕开血案真相\n《想飞的女孩》刘浩存文淇“相爱相杀”、绝境挣扎！\n《红色一号：冬日行动》巨石强森、美队强强联手，爆笑开打！\n《插翅难飞》万尺高空枪战肉搏，孤胆女警反制疯批杀手\n《探清水河：重生》喜人刘思维坠入时空循环，倒霉英雄逆时营救\n强势国漫：\n《玲珑山》国风岩彩，开荒山海\n《画江湖之不良人 第7季》百亿国漫，王者归来！\n《一念永恒》修仙不如偷鸡，炼丹宗门炸穿！\n《斗罗大陆2》问情淬真心，修罗证宿命。唐三高燃回归！\n《火影忍者》全网独播！重温鸣人来时路，重燃火之意志\n精品短剧：\n《名不虚传》神医下山，超燃爽剧！草根小伙飞针扭转生死，无名小卒逆袭神医！\n《你是我的正午暖阳》豪门千金遭继妹背刺，携手拳王保镖打响复仇之战！\n《我叫赵甲第之锋芒》天才富二代赵甲第归来！一路开挂横扫商海！\n纪录片新热：\n《寻色中国》：首档中国传统色彩人文纪录片，寻找来自天地间的东方美，刻在基因里的中国色！\n《激流2》：商业观察纪录片重磅开播，聚焦在时代激流中，正在经受巨变冲击和影响的普通人。\n《绿色星球》：BBC封神之作，沉浸式呈现植物江湖的生存史诗，揭开不为人知的隐秘世界。\n《味道大师》：遍寻山川湖海，通过24组人物故事，呈现“酸甜苦辣咸鲜臭麻”八大口味美食探索！\n《食行荒野》：与硬核冒险家马里奥·卡尔普一起环游世界，经由狩猎与烹饪食物，展示不同的文化和美食。\n《史前巨兽大揭秘》：聚焦史前时代曾盛极一时的庞然大物，揭示史前动物面临的严峻挑战，探寻它们的前世今生。\n儿童节目：\n《汪汪队之小砾与工程家族2》：开最棒的挖掘机往前冲！小砾和他的狗狗工程家族来啦！\n《超级小猫战队：喵喵成长记》：超级小猫齐出动，猫猫镇里显神通！可爱小猫挺身而出，解决麻烦\n《我的同学是美人鱼2》：人鱼公主的陆地挑战记再来！看人鱼如何在人类学校里上学\n《薇薇猫的日常2》：治愈萌猫和快乐小狗的公路之旅\n\n【产品功能】\n腾讯视频客户端是腾讯视频为电脑设备用户量身打造的网络视频播放客户端，采用轻量级的界面设计，提供高清流畅的播放服务，支持分享视频到QQ和微信，内容涵盖最新最热的电视剧、电影、动漫、综艺、少儿、纪录片、NBA、短剧、体育、游戏、时尚、音乐、直播等特色频道。\n1.支持在线观看、离线缓存观看视频。\n2.支持通过频道推荐、观看历史、搜索功能快速找到想看的视频。\n3.支持倍速播放、快速选集、切换清晰度等在线播放观看功能。\n4.支持弹幕互动，在线观看更有趣。\n5.开通腾讯视频VIP会员，畅享院线大片。\n6.支持微信、QQ、手机号登录腾讯视频。\n7.打造我的影院，个性化推荐专区。\n\n【自动订阅服务说明】\n1.订阅服务：\n a）腾讯视频VIP连续包月(1个月)、腾讯视频VIP连续包季(3个月)、腾讯视频VIP连续包年(12个月)\n b）超级影视VIP连续包月(1个月)、超级影视VIP连续包季(3个月)、超级影视VIP连续包年(12个月)\n c）腾讯体育VIP连续包月(1个月)、腾讯体育超级VIP连续包月(1个月)\n 2.订阅价格：\n a）腾讯视频VIP：连续包月产品为25元/月，连续包季产品为68元/季，连续包年产品为238元/年\n b）超级影视VIP：连续包月产品为35元/月、连续包季产品为98元/季、连续包年产品为348元/年\n c）腾讯体育VIP系列会员：腾讯体育VIP连续包月产品为25元/月、腾讯体育超级VIP连续包月产品为60元/月\n 3.付款：用户确认购买并付款后计入iTunes账户\n 4.自动续费：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期\n 5.关闭服务：您可以在苹果手机“设置” --> 进入“iTunes Store 与 App Store”-->点击 “Apple ID”，选择\"查看Apple ID\"，进入\"账户设置\"页面，点击“订阅”，管理自动订阅服务，如需取消，每个计费周期结束前24小时关闭即可，到期前24小时内则不再扣费\n 6.服务协议： \n a）腾讯视频VIP：https://film.qq.com/weixin/term.html\n b）超级影视VIP：https://film.qq.com/weixin/term.html?bizId=svip\n c）腾讯体育VIP系列会员：https://film.qq.com/weixin/term.html?bizId=sport\n 7 .隐私协议：https://privacy.qq.com/document/preview/3fab9c7fc1424ebda42c3ce488322c8a\n\n【意见反馈】\n如遇问题或者有好的建议，欢迎加入QQ体验群反馈，将会有萌哒哒的视频妹为大家解答，并有持续好礼相送！官方QQ群：527288510。",
+      "averageUserRatingForCurrentVersion": 0,
+      "userRatingCountForCurrentVersion": 0,
+      "languageCodesISO2A": [
+        "EN",
+        "ZH",
+        "ZH"
+      ],
+      "fileSizeBytes": "157571773",
+      "formattedPrice": "免费",
+      "trackContentRating": "17+",
+      "userRatingCount": 0,
+      "inAppPurchases": {
+        "该付费商品": "¥8.00",
+        "付费商品": "¥12.00",
+        "1个月腾讯视频VIP": "¥30.00",
+        "3个月腾讯视频VIP": "¥78.00",
+        "单点商品": "¥4.80"
+      },
+      "timestamp": 1749097567673,
+      "discounts": [
+        {
+          "type": "inAppPurchase",
+          "name": "付费商品",
+          "from": "¥30.00",
+          "to": "¥12.00",
+          "range": "[¥12.00 ~ ¥30.00]"
+        }
+      ]
+    },
+    {
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/19/90/6d199059-d4d5-c4f4-abde-f06f244c37ad/Mac_AppIcon-2x_U007euniversal-0-5-0-85-220-0.png/512x512bb.png",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/19/d3/bf/19d3bfd6-9e0a-3605-7ddb-1e9913dda13c/132add12-49bd-4d88-8ae5-5ac5488a4ca1_App_Store_U7269_U65991.jpg/800x500bb.jpg",
