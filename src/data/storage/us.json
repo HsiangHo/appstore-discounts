@@ -6877,6 +6877,17 @@
     "history": [
       [
         {
+          "timestamp": 1749194237521,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Full Access to PRO": "$29.99",
+            "Unlock Upgrade Features": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749032390084,
           "price": 0,
           "formattedPrice": "Free",
@@ -59454,6 +59465,23 @@
       "Weekly  VIP": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749194237521,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Continuous Monthly VIP": "$4.99",
+            "Season VIP": "$22.99",
+            "Monthly  VIP": "$7.99",
+            "Semi-annual  VIP": "$46.99",
+            "Annual VIP": "$84.99",
+            "Quarterly VIP": "$11.99",
+            "Quarter Subscription": "$14.99",
+            "Semi-annual VIP": "$25.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749115175624,
