@@ -11347,6 +11347,40 @@
     "history": [
       [
         {
+          "timestamp": 1749208547899,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Editor Pro - Annual Plan": "$47.99",
+            "Editor Pro - Monthly Plan": "$8.99",
+            "Editor Pro - Annual Plan.2024": "$47.99",
+            "FotorPro+ - Monthly Plan": "$19.99",
+            "Pro discount - Monthly Plan": "$8.99",
+            "FotorPro+ - Annual Plan": "$89.99",
+            "Pro discount - Annual Plan": "$47.99",
+            "Fotor Pro - Recommend Offer": "$47.99",
+            "200 credits for pro": "$9.99",
+            "Pro - Annual Plan.cn.2024": "$47.99"
+          }
+        },
+        {
+          "timestamp": 1749208547899,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Fotor Pro Annual Special Offer": "$38.99",
+            "Fotor Pro - Recommend Offer": "$47.99",
+            "Fotor Pro - Special Offer": "$39.99",
+            "avatar rich package 80": "$19.99",
+            "avatar rich package 40": "$14.99",
+            "avatar normal package 80": "$11.49",
+            "avatar rich package 20": "$9.99",
+            "avatar normal package 40": "$7.49",
+            "avatar normal package 20": "$4.49",
+            "Pro - Annual Plan.cn.2024": "$47.99"
+          }
+        },
+        {
           "timestamp": 1749183857754,
           "price": 0,
           "formattedPrice": "Free",
