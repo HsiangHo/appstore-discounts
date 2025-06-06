@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-06T03:20:03.265Z</updated>
+    <updated>2025-06-06T10:26:02.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-06T03:20:03.266Z</updated>
+        <updated>2025-06-06T10:26:02.662Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusFri, 06 Jun 2025 03:20:03 GMT</id>
+        <id>rankingusFri, 06 Jun 2025 10:26:02 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-06T03:20:03.267Z</updated>
+        <updated>2025-06-06T10:26:02.663Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -50,13 +50,13 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>851</b>
+        <b>852</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>851</b>
+        <b>852</b>
       </td>
       <td>
         <b></b>
@@ -99,13 +99,13 @@ feedId:49753370488353792+userId:73658201673997312
       <td>
         <ul>
           <li>
-            <span>Total Times</span>：<b>3</b>
+            <span>Total Times</span>：<b>4</b>
           </li><li>
             <span>Price</span>：<b>0</b>
           </li><li>
             <span>In-App Purchases</span><ol>
               <li>
-                <i>Full Access to PRO</i>：<b>3</b>
+                <i>Full Access to PRO</i>：<b>4</b>
               </li>
             </ol>
           </li>
@@ -366,6 +366,104 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[djay - DJ App & AI Mixer]]></title>
+        <id>djay - DJ App &amp; AI Mixer-us-1749205203218</id>
+        <link href="https://apps.apple.com/us/app/djay-dj-app-ai-mixer/id450527929?uo=4"/>
+        <updated>2025-06-06T10:20:03.218Z</updated>
+        <summary type="html"><![CDATA[Full Access to PRO: $29.99 → $6.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/djay-dj-app-ai-mixer/id450527929?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/4a/19/6f4a1992-b1ac-3392-0a1a-08b11e319129/AppIcon-0-0-1x_U007epad-0-11-0-P3-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Full Access to PRO：</strong><span>$29.99</span> → <b>
+  <strong>$6.99</strong>
+</b><span>[$6.99 ~ $29.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  *** Apple Design Award Winner 2024 ***
+
+Welcome to djay! The #1 DJ app and winner of multiple Apple Design Awards now integrates with Apple Music - mix over 100 million songs instantly!
+
+djay transforms your iOS device into a full-featured DJ system. Seamlessly integrated with your music library, djay allows you to mix your favorite songs and playlists. You can perform live, remix tracks, or enable Automix mode to let djay create a seamless mix for you automatically. Whether you are a professional DJ or a beginner who just loves to play with music, djay offers you the most intuitive yet powerful DJ experience on an iOS device. 
+
+APPLE MUSIC INTEGRATION
+
+• Access to over 100 million songs
+• Match: recommendations based on the currently playing song 
+• Your library: all your music seamlessly integrated
+• Listen Now and Charts integration 
+• Discover new music and add songs to your Apple Music library right from within djay
+• Powerful search capabilities for the vast catalog of Apple Music
+
+ADVANCED MEDIA LIBRARY
+
+• Apple Music: 100+ million tracks, your personal library in the cloud (Apple Music subscription)
+• TIDAL: Millions of tracks, high quality sound (TIDAL DJ Extension)
+• SoundCloud: Millions of underground and premium tracks (SoundCloud Go+)
+• Beatport: Millions of electronic music tracks (Beatport Advanced Subscriptions)
+• Beatsource: Millions of open-format music tracks (Beatsource Subscription)
+• Files: access files in the cloud (e.g. Dropbox), on your iOS device, or on external hard drives seamlessly
+• My Collection: Powerful playlists management 
+
+AUTOMIX
+
+• Automatic, beat-matched mixes 
+• Queue and Playlist automation
+
+NEURAL MIX™
+
+• Isolate vocals, drums, and instrumentals in real-time (not supported with Apple Music)
+
+MUSIC PRODUCTION TOOLS
+
+• Sequencer: create beats on top of your music live
+• Looper: remix your music with up to 48 loops per track
+• Beat-matched sequencing of drums and samples
+• Extensive content library with hundreds of loops and samples.
+
+HARDWARE INTEGRATION
+
+• Plug-and-play integration with over 100 MIDI controllers by Pioneer DJ, Reloop, Hercules, Numark, Denon DJ, and more
+• Digital Vinyl System (DVS) Integration
+• Advanced MIDI Learn to map any class-compliant MIDI controller
+• Support for Bluetooth audio and MIDI
+• Support for multi-channel USB audio interfaces and video output
+
+POWERFUL AUDIO ENGINE
+
+• Ableton Link integration
+• Fluid Beatgrid
+• High-res waveforms
+
+BUILT FOR iOS
+
+• Accessible via VoiceOver
+• Airplay, Live Photos, Apple Watch, and iCloud integration
+• Haptic Feedback, Drag & Drop, Keyboard Shortcuts
+• Multi-Tasking: Slide Over and Split View support
+
+Top features of the optional Pro subscription include: 
+
+• Unlimited access to an extensive library of samples, loops, FX, and visuals 
+• Neural Mix™
+• Sampler & Looper 
+• Automix 
+• Crossfader FX 
+• Video Mixing 
+• Music Visualizers
+• Single Deck mode
+• 4-Deck mode 
+• Advanced media library editing
+• Pre-cueing with headphones 
+• Hardware integration (MIDI controllers, DVS, multi-channel audio interfaces)
+• 7-day free trial: free access to all djay Pro content and features for one week, cancel anytime
+
+The optional PRO subscription allows you to subscribe once and use djay Pro across all your Mac and iOS devices, including access to all PRO features, as well as 1000+ loops, samples, and visuals.
+
+A supported streaming subscription and an internet connection are required to access songs from a streaming service in djay. No recording available for streamed songs. Neural Mix cannot be used when streaming from Apple Music. Specific songs may not be available or accessible on your account or in your country. Streaming service availability and pricing may vary depending on country, currency and service.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/18/8d/58188d45-2533-846f-93e2-f10c2c68d5d2/72028049-230d-4fd4-84dc-6aeb104ba4a6_0_APP_iPHONE_55_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/4a/4f/364a4fdf-0375-bc81-890c-082cf467a1d3/401c2652-0c1b-4ac4-be5e-d362c5849574_1_APP_iPHONE_55_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/31/87/35318772-7caa-4b7d-3820-6d7ffc0a39f2/ef514d61-e459-428f-91a5-9e15e6541712_2_APP_iPHONE_55_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/3d/a5/3c3da563-a29d-3707-ab97-be987d52d545/7f936548-2083-4a9e-9797-1183d1d769a7_3_APP_iPHONE_55_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/1e/26/8e1e26cb-1d13-cb4d-0aac-2e6518cc442b/180b18b5-c1d5-45c9-8c17-c4924ec7a3fa_4_APP_iPHONE_55_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/57/d0/e057d03a-bdea-8894-11f8-1bfb909fe7d8/cf177d5c-8ae7-46eb-b497-91229d9f6766_5_APP_iPHONE_55_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/46/f4/f246f47d-d8f2-97e0-4167-13e46014edd1/8cb24a62-af91-4673-b92d-ae1421ad273a_6_APP_iPHONE_55_6.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/08/ab/6d08abb2-728f-c627-9b6a-de25f81e5715/599e389f-61c5-4616-a7f8-7fd40ac76f67_0_APP_iPAD_0.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/91/15/889115af-9352-3316-e122-df361a054663/0499301f-9c3f-4abf-a6f2-21990643de59_1_APP_iPAD_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/b2/66/44b266a3-bcd8-faa6-f8dc-aeda93efc895/7ddc227a-e333-4fdc-bafc-c45f54379b86_2_APP_iPAD_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/ed/32/99ed32bf-8ab0-9448-81bd-a1959c6a8dc6/3bc320ce-45ea-46c5-ab69-754e4b066129_3_APP_iPAD_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/84/9e/e5849eaf-e70c-9cfe-5f67-610817e5473c/21f4b058-703f-4731-add0-3c072f3258ad_4_APP_iPAD_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/df/9d/6fdf9dd1-64c9-eb81-c1fe-59f2cec780cf/bdb68404-ed0c-4dc9-b911-b2d875876a93_5_APP_iPAD_5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/32/e7/9a32e75a-4a95-e3d0-329e-a29d65507bec/0d2ac403-e1d8-4880-b06d-001cb09f406d_6_APP_iPAD_6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/9d/60/d49d605c-55f2-0162-f399-edf2f0728485/b4760ed0-b57d-4f0e-a6ab-049fd9e50a7c_7_APP_iPAD_7.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MWeb Pro]]></title>
@@ -831,197 +929,5 @@ A supported streaming subscription and an internet connection are required to ac
 用户协议：https://docs.qq.com/doc/p/e0e4a839d9c935de84363e11f097d0bef5eaa2ba
 隐私政策：https://docs.qq.com/doc/p/531d477da8d8e2f49146793d2d4450f5684c38d2
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[djay - DJ App & AI Mixer]]></title>
-        <id>djay - DJ App &amp; AI Mixer-us-1748946016002</id>
-        <link href="https://apps.apple.com/us/app/djay-dj-app-ai-mixer/id450527929?uo=4"/>
-        <updated>2025-06-03T10:20:16.002Z</updated>
-        <summary type="html"><![CDATA[Full Access to PRO: $29.99 → $6.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/djay-dj-app-ai-mixer/id450527929?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/4a/19/6f4a1992-b1ac-3392-0a1a-08b11e319129/AppIcon-0-0-1x_U007epad-0-11-0-P3-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Full Access to PRO：</strong><span>$29.99</span> → <b>
-  <strong>$6.99</strong>
-</b><span>[$6.99 ~ $29.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  *** Apple Design Award Winner 2024 ***
-
-Welcome to djay! The #1 DJ app and winner of multiple Apple Design Awards now integrates with Apple Music - mix over 100 million songs instantly!
-
-djay transforms your iOS device into a full-featured DJ system. Seamlessly integrated with your music library, djay allows you to mix your favorite songs and playlists. You can perform live, remix tracks, or enable Automix mode to let djay create a seamless mix for you automatically. Whether you are a professional DJ or a beginner who just loves to play with music, djay offers you the most intuitive yet powerful DJ experience on an iOS device. 
-
-APPLE MUSIC INTEGRATION
-
-• Access to over 100 million songs
-• Match: recommendations based on the currently playing song 
-• Your library: all your music seamlessly integrated
-• Listen Now and Charts integration 
-• Discover new music and add songs to your Apple Music library right from within djay
-• Powerful search capabilities for the vast catalog of Apple Music
-
-ADVANCED MEDIA LIBRARY
-
-• Apple Music: 100+ million tracks, your personal library in the cloud (Apple Music subscription)
-• TIDAL: Millions of tracks, high quality sound (TIDAL DJ Extension)
-• SoundCloud: Millions of underground and premium tracks (SoundCloud Go+)
-• Beatport: Millions of electronic music tracks (Beatport Advanced Subscriptions)
-• Beatsource: Millions of open-format music tracks (Beatsource Subscription)
-• Files: access files in the cloud (e.g. Dropbox), on your iOS device, or on external hard drives seamlessly
-• My Collection: Powerful playlists management 
-
-AUTOMIX
-
-• Automatic, beat-matched mixes 
-• Queue and Playlist automation
-
-NEURAL MIX™
-
-• Isolate vocals, drums, and instrumentals in real-time (not supported with Apple Music)
-
-MUSIC PRODUCTION TOOLS
-
-• Sequencer: create beats on top of your music live
-• Looper: remix your music with up to 48 loops per track
-• Beat-matched sequencing of drums and samples
-• Extensive content library with hundreds of loops and samples.
-
-HARDWARE INTEGRATION
-
-• Plug-and-play integration with over 100 MIDI controllers by Pioneer DJ, Reloop, Hercules, Numark, Denon DJ, and more
-• Digital Vinyl System (DVS) Integration
-• Advanced MIDI Learn to map any class-compliant MIDI controller
-• Support for Bluetooth audio and MIDI
-• Support for multi-channel USB audio interfaces and video output
-
-POWERFUL AUDIO ENGINE
-
-• Ableton Link integration
-• Fluid Beatgrid
-• High-res waveforms
-
-BUILT FOR iOS
-
-• Accessible via VoiceOver
-• Airplay, Live Photos, Apple Watch, and iCloud integration
-• Haptic Feedback, Drag & Drop, Keyboard Shortcuts
-• Multi-Tasking: Slide Over and Split View support
-
-Top features of the optional Pro subscription include: 
-
-• Unlimited access to an extensive library of samples, loops, FX, and visuals 
-• Neural Mix™
-• Sampler & Looper 
-• Automix 
-• Crossfader FX 
-• Video Mixing 
-• Music Visualizers
-• Single Deck mode
-• 4-Deck mode 
-• Advanced media library editing
-• Pre-cueing with headphones 
-• Hardware integration (MIDI controllers, DVS, multi-channel audio interfaces)
-• 7-day free trial: free access to all djay Pro content and features for one week, cancel anytime
-
-The optional PRO subscription allows you to subscribe once and use djay Pro across all your Mac and iOS devices, including access to all PRO features, as well as 1000+ loops, samples, and visuals.
-
-A supported streaming subscription and an internet connection are required to access songs from a streaming service in djay. No recording available for streamed songs. Neural Mix cannot be used when streaming from Apple Music. Specific songs may not be available or accessible on your account or in your country. Streaming service availability and pricing may vary depending on country, currency and service.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/18/8d/58188d45-2533-846f-93e2-f10c2c68d5d2/72028049-230d-4fd4-84dc-6aeb104ba4a6_0_APP_iPHONE_55_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/4a/4f/364a4fdf-0375-bc81-890c-082cf467a1d3/401c2652-0c1b-4ac4-be5e-d362c5849574_1_APP_iPHONE_55_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/31/87/35318772-7caa-4b7d-3820-6d7ffc0a39f2/ef514d61-e459-428f-91a5-9e15e6541712_2_APP_iPHONE_55_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/3d/a5/3c3da563-a29d-3707-ab97-be987d52d545/7f936548-2083-4a9e-9797-1183d1d769a7_3_APP_iPHONE_55_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/1e/26/8e1e26cb-1d13-cb4d-0aac-2e6518cc442b/180b18b5-c1d5-45c9-8c17-c4924ec7a3fa_4_APP_iPHONE_55_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/57/d0/e057d03a-bdea-8894-11f8-1bfb909fe7d8/cf177d5c-8ae7-46eb-b497-91229d9f6766_5_APP_iPHONE_55_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/46/f4/f246f47d-d8f2-97e0-4167-13e46014edd1/8cb24a62-af91-4673-b92d-ae1421ad273a_6_APP_iPHONE_55_6.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/08/ab/6d08abb2-728f-c627-9b6a-de25f81e5715/599e389f-61c5-4616-a7f8-7fd40ac76f67_0_APP_iPAD_0.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/91/15/889115af-9352-3316-e122-df361a054663/0499301f-9c3f-4abf-a6f2-21990643de59_1_APP_iPAD_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/b2/66/44b266a3-bcd8-faa6-f8dc-aeda93efc895/7ddc227a-e333-4fdc-bafc-c45f54379b86_2_APP_iPAD_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/ed/32/99ed32bf-8ab0-9448-81bd-a1959c6a8dc6/3bc320ce-45ea-46c5-ab69-754e4b066129_3_APP_iPAD_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/84/9e/e5849eaf-e70c-9cfe-5f67-610817e5473c/21f4b058-703f-4731-add0-3c072f3258ad_4_APP_iPAD_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/df/9d/6fdf9dd1-64c9-eb81-c1fe-59f2cec780cf/bdb68404-ed0c-4dc9-b911-b2d875876a93_5_APP_iPAD_5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/32/e7/9a32e75a-4a95-e3d0-329e-a29d65507bec/0d2ac403-e1d8-4880-b06d-001cb09f406d_6_APP_iPAD_6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/9d/60/d49d605c-55f2-0162-f399-edf2f0728485/b4760ed0-b57d-4f0e-a6ab-049fd9e50a7c_7_APP_iPAD_7.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快帆加速器-海外回国音乐视频加速器]]></title>
-        <id>快帆加速器-海外回国音乐视频加速器-us-1748939170393</id>
-        <link href="https://apps.apple.com/us/app/%E5%BF%AB%E5%B8%86%E5%8A%A0%E9%80%9F%E5%99%A8-%E6%B5%B7%E5%A4%96%E5%9B%9E%E5%9B%BD%E9%9F%B3%E4%B9%90%E8%A7%86%E9%A2%91%E5%8A%A0%E9%80%9F%E5%99%A8/id1442745175?uo=4"/>
-        <updated>2025-06-03T08:26:10.393Z</updated>
-        <summary type="html"><![CDATA[360天VIP: $74.99 → $69.99<br/>90天VIP: $18.99 → $16.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E5%BF%AB%E5%B8%86%E5%8A%A0%E9%80%9F%E5%99%A8-%E6%B5%B7%E5%A4%96%E5%9B%9E%E5%9B%BD%E9%9F%B3%E4%B9%90%E8%A7%86%E9%A2%91%E5%8A%A0%E9%80%9F%E5%99%A8/id1442745175?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/45/21/9045211e-14e5-121e-04b8-f72252c4c29d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>360天VIP：</strong><span>$74.99</span> → <b>
-  <strong>$69.99</strong>
-</b><span>[$69.99 ~ $74.99]</span>
-  </li><li>
-    <strong>90天VIP：</strong><span>$18.99</span> → <b>
-  <strong>$16.99</strong>
-</b><span>[$16.99 ~ $18.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  ==快帆Fanster™专线上线，更高速更稳定==
-
-快帆是一款针对海外华人的加速器，配合全球部署的专属高速节点，帮助全球各地华人用户听歌追剧看视频不再卡顿
-► Fanster™专线
-自主研发Fanster™专线，提供高速稳定的网络性能，专研加密技术，全方位保护您的隐私和数据安全
-► 150+线路 专属高速
-涵盖主流全球用户节点，增设香港、台湾、日本、新加坡、美国、加拿大、澳洲、中东等多个国家或地区的专属中转点
-► 搭配第三方高速CDN节点实现内容加速
-智能优化路径，避免拥堵，让您的网络顺畅不卡顿
-► 智能加速
-先进的智能算法，实时监测您的网络状况，自动匹配适合的加速节点
-
-目前已支持：
-【音乐&播客】
-酷狗音乐、网易云音乐、QQ音乐、虾米音乐、酷我音乐、喜马拉雅、蜻蜓FM……
-【视频&直播】
-腾讯视频、爱奇艺iQIYI、优酷、芒果TV、Bilibili（B站）、腾讯NBA、奥运会、欧洲杯、美洲杯、欧冠、CCTV5、YY语音、央视频、咪咕视频……
-【游戏】
-王者荣耀、和平精英、英雄联盟、绝地求生、魔兽世界、DNF、剑网3……
-
-【自动续费会员】
-会员权益：不限速防拥堵、3设备同时在线、免广告
-订阅周期：1个月（连续包月），3个月（连续包季） ，12个月（连续包年）
-订阅价格：以iAP申请信息为准，例如连续包月产品为新人首次订阅30元；连续包月次月续费40元
-付款：用户确认购买并付款后记入iTunes账户
-取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes / Apple ID设置管理中关闭自动续订功能
-续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期
-
-隐私政策：https://www.kuaifan.co/privacypolicy.html
-自动续费会员服务协议：https://www.kuaifan.co/termsofservices.html
-</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/01/33/270133bf-5a49-5cf5-22d9-f019a0d3cc53/e2d15554-d422-45ab-811d-141213459b4d_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/17/e3/f017e3bc-de4a-4ff0-0cfb-517c37e1029b/692c234d-f767-4c18-9894-09527d995e3c_pad_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/a9/4e/0ca94e56-be63-b418-53fd-c65848a9edfd/3fd11171-33bb-4579-a0a6-000afc2bf0b6_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/3e/a8/aa3ea803-d6d0-66a0-264c-f6d58516e254/7c2a1f13-368a-4a49-8546-b0cba1306e7e_4.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奇游加速器 - 全球游戏畅玩]]></title>
-        <id>奇游加速器 - 全球游戏畅玩-us-1748924694076</id>
-        <link href="https://apps.apple.com/us/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4"/>
-        <updated>2025-06-03T04:24:54.076Z</updated>
-        <summary type="html"><![CDATA[移动端会员-连续包月: $2.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/24/0d/5d240d0a-4401-ac6e-fe9f-165012b8adf4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>移动端会员-连续包月：</strong><span>$2.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $2.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  【 热门游戏，“游”先支持】
-支持PUBGM、王者荣耀国际服 、使命召唤战区、绝地求生：刺激战场 、吃鸡外服、鹅鸭杀手游，暗区突围国际服、飞机大厨、咒术回战、炉石传说国际服、ROBLOX国际版、原神国际服、英雄联盟手游（lol：wild rift）、云顶之弈手游、方舟：终极移动版等游戏加速！
-
-【海量手游库 新游上线快 】
-支持PUBGM、王者国际服、使命召唤战区、星际战甲国际服、炉石传说国际服、暗区突围国际服、飞机大厨、对峙2、云顶之奕PBE、鹅鸭杀、赛马娘、pubg2、暗黑破坏神不朽、apex手游、二之国、全境封锁手游、战地手游、瓦罗兰特手游、绝地求生刺激战场全球服、使命召唤手游全球服、八方旅人、符文大地传说、Among US、游戏王、方舟生存进化、黎明杀机、公主连接、冒险岛M、地球末日生存、Teon中文版、剑灵：革命、战争机器人、地牢猎手5、FIFA、碧蓝幻想全球服、iron force、世界计划、多彩舞台、第七史诗（epic 7）、和平精英全球服、堡垒之夜、fgo、影之诗、失落龙约黑色沙漠、文明重启全球服、荒野乱斗、狂野飙车9等游戏加速！游戏库包罗千款好玩游戏，热游新游排行一目了然。平均每天3款游戏的速度上新。App内可以随时提交想玩的游戏，你想玩的我们都支持！
-
-【 奇游电竞级加速 】
-奇游全自研“Qiy”电竞级加速引擎震撼上线，加速稳定性更胜一筹，不惧移动网络的波动。基于奇游电竞级游戏网络，带你感受稳定流畅的游戏体验。低延迟、不掉线，WIFI/5G随心切换。
-
-【新游推荐 硬核攻略 】
-新增游戏清单、新游预上线时间表等功能，更多实用、funny的游戏主题等你探索。游戏介绍、新游推荐、硬核攻略，丰富的游戏深度内容带你打开新世界的大门！
-
-【客服小队 随时待命 】
-奇游客服小队7x12h陪伴你的左右。使用过程中有任何疑问和反馈，我们随时待命。
-
-【自动续费套餐说明】
-1、订阅周期及套餐名称：1个月（连续包月），3个月(连续包季)
-2、订阅价格：以IAP申请信息为准，例如连续包月价格为首月15元，次月15元/月自动续费 
-3、付款：用户确认购买并付款后计入iTunes账户。
-4、取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能，到期前24小时内取消，将会收取订阅费用。
-5、续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
-6、隐私政策：https://www.qiyou.cn/specials/qymobile-protocol.html
-7、服务协议：https://mfront.qiyou.cn/protocol.html
-8、自动续费会员服务协议：https://mfront.qiyou.cn/renewal-protocol.html
-
-*本加速器的加速功能仅针对游戏使用，无法访问海外网站。
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/30/d9/a730d9aa-62c0-a310-ef97-258622bbd228/94e6bc59-0ed1-4662-9fe9-c6c451e5eff8_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/7b/26/067b26e4-94e4-e8dd-81e9-14a0ec0a4354/962aa0d0-12c7-4e94-8ce1-f6f9024c412c_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/10/80/20108048-f87d-5509-ee46-993017f4cee9/754dd371-0572-496e-b317-f4f78754097a_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/da/24/c5da242f-ed7d-eee2-aafd-7a134b8a2c1a/a6457b28-d217-4eb7-abbc-b84793c7a4ad_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/98/a2/1998a286-c405-6ee7-2549-d48179653067/5ab7ea42-5dde-488b-8677-e35e2767c474_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/20/76/ab207675-21ca-afc8-418b-a6e058a5628b/c1b12273-03dc-4645-bd76-2ec11fd06f72_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/2d/f0/c12df094-fd43-860b-b9f7-f4ed06d03635/3f45d5df-bae8-4a85-90be-b5c11e6b5d3f_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/fd/2c/35fd2c48-a4ce-0a15-cb14-eba428cdcf3d/57a9a98a-65a9-4a6f-b77f-09227a1a4252_5.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
