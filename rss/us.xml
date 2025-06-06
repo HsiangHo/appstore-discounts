@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-06T01:30:03.762Z</updated>
+    <updated>2025-06-06T03:20:03.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-06T01:30:03.763Z</updated>
+        <updated>2025-06-06T03:20:03.266Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusFri, 06 Jun 2025 01:30:03 GMT</id>
+        <id>rankingusFri, 06 Jun 2025 03:20:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-06T01:30:03.763Z</updated>
+        <updated>2025-06-06T03:20:03.267Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -247,6 +247,23 @@ feedId:49753370488353792+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1403919533">MWeb Pro</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>9</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1442745175">快帆加速器-海外回国音乐视频加速器</a>
       </td>
       <td>
@@ -269,7 +286,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1550581532">Vythm VJ - Music Visualizer DJ</a>
@@ -292,7 +309,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6450397515">Transcribe & Speech to text</a>
@@ -317,7 +334,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6448913901">全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理</a>
@@ -349,6 +366,70 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MWeb Pro]]></title>
+        <id>MWeb Pro-us-1749179647345</id>
+        <link href="https://apps.apple.com/us/app/mweb-pro/id1403919533?mt=12&amp;uo=4"/>
+        <updated>2025-06-06T03:14:07.345Z</updated>
+        <summary type="html"><![CDATA[Price: $34.99 → $17.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/mweb-pro/id1403919533?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/a7/cf/bda7cfce-be15-3073-6b9d-d898e63f4da9/AppIconPro-0-0-85-220-0-0-5-0-2x.png/60x60bb.png" />
+</a><h2>
+  Discount Information（Price：<span>$34.99</span> → <b>
+  <strong>$17.99</strong>
+</b><span>[$17.99 ~ $34.99]</span>）
+</h2><h2>Application Description</h2><p>
+  MWeb was born in 2015. It is a writing, note-taking and publishing app focusing on Markdown. If you like Markdown or text writing, We highly recommend you try MWeb.
+
+This is MWeb Pro, which has just one more static website generation feature than MWeb.
+
+MWeb is composed of a complete and stable editor, a Folders mode for managing documents, a Library mode specifically for notes, and a document publishing and sharing function set, with a total of four modules. The characteristic of MWeb's software is that it selects the best technology for each platform. It is built using AppKit on macOS and UIKit on iOS/iPadOS. The following is a brief introduction to these four modules. If you are interested, you can continue reading.
+
+## Editor features
+
+Here are some of the key features of an editor:
+
+* Base on CommonMark syntax and GitHub Flavored Markdown (GFM) extended syntax, supporting TOC, tables, code blocks, math formulas, task lists, footnotes, etc.
+* Display the text of the Markdown document completely without any deletion.
+* Images can be displayed directly in the Editor, supporting jpg, png, gif, webP, HEIC and etc.
+* Math formulas, mermaid and Echarts drawings can be previewed in the editor.
+* You can set your favorite font or multiple fonts for writing.
+* You can choose from 11 light themes and 21 dark themes, and also support custom themes.
+* There is a menu to facilitate the input of Markdown syntax, and a special Markdown syntax keyboard is also provided in iOS.
+* Convenient tools for generating and formatting Markdown table syntax.
+* You can view the outline and word count of Markdown documents.
+* Markdown documents can be previewed and support Editor & Preview mode.
+
+## Folders mode
+
+The first requirement of Markdown is to create and edit Markdown documents, and MWeb's Folders mode does this. It supports the following features:
+
+* Create Markdown, Textbundle documents, or simply open them for editing.
+* Introduce a folder with Markdown documents into the Folders mode of MWeb. MWeb will provide practical functions such as management of Markdown documents, full-text search, copy and paste to insert images, and unified storage of referenced images.
+* iPadOS/iOS version supports Dropbox folders.
+
+## Library mode
+
+Markdown is so easy to use, so taking notes is also in great demand. Of course, you can use Folders mode and introduce a folder to take notes, which is also very nice and easy to share. So why do we still create a separate Library mode? Mainly, the Library mode has the following features:
+
+* There is no need to consider the file name, title and storage location, Just create note and writing.
+* Use category trees and tags to manage notes. A single note can be classified into multiple categories, making it easier to set categories for notes.
+* Organizing notes is more convenient. When moving categories and notes, renaming categories will not affect each other. You don't need to worry about incorrect associations between notes, incorrect reference location of images and attachments in notes, etc.
+* Complete cross-device synchronization using iCloud CloudKit technology.
+* The Library follows the "local first" principle and is stored in a folder, very easy for backup. Even if you use iCloud sync, your Library can be completely backed up locally.
+* Export the entire category of notes to PDF or Epub e-book.
+* The macOS version of MWeb Pro also supports generating static blogs from categories. The generated blog fully supports math formulas, mermaid, echarts etc. Allows you to create your own blog in a very simple way.
+
+## More features...
+
+* Publish documents or notes to Wordpress, Metaweblog API, Evernote, Blogger, Tumblr, Yuque, sspai Matrix, Ghost and Medium.
+* Upload images in documents or notes to imgur, Qiniu, SM.MS, Tencent COS, Youpai, Alibaba OSS, custom API, etc.
+* Export documents or notes to PDF (with Table of Contents in macOS version).
+* Export documents or notes to Epub or image.
+
+Hope you enjoy MWeb!
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/06/a2/62/06a262dc-25c2-c83d-3c60-2cc6722095ac/b550175a-1435-43ed-9e0f-f6a9b0110849_screenshot_1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6e/1d/e8/6e1de840-7ab4-2b6a-426d-792a76474f2d/37685ba0-b05b-4309-bddc-7126caf12529_screenshot_2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/12/b5/9d/12b59dd0-c28a-1a6d-ab3b-4533811e5780/9b346979-a01a-46a6-aad6-1d1811bbd347_screenshot_3.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b9/6c/8e/b96c8e17-8b6f-5bff-4e31-6364ff68b363/2425843d-b463-43f8-b738-95784379629e_screenshot_4.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/40/9f/7e/409f7e65-480d-c71a-d37b-1f6cce7c119f/5c881ec4-44e9-4076-86ae-08b2db26c58a_screenshot_8.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/80/56/25/805625e4-d376-9c47-1154-1e9a6502149c/b96d43b6-640f-4861-9963-a2230e04c873_screenshot_5.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0b/27/11/0b271105-d9ed-f964-a34b-8eb70c5ced69/87d222ac-b03e-4302-a251-e7335e0eb14f_screenshot_6.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/04/12/34/04123401-8923-6b04-54b0-e59274c3a409/dd8795c1-f897-437d-9d46-17ab5c693bbe_screenshot_7.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a3/3c/c4/a33cc455-8975-3bdc-8c24-ee25cc00397b/41d040ac-6327-4c82-8df0-0d306e045a2e_screenshot_9.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8c/dd/fc/8cddfcdc-9bdf-b5d4-c2c4-9d40c1861252/77d342ca-79c9-48d6-981f-de02cbfa00ec_screenshot_10.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Super PhotoCut]]></title>
