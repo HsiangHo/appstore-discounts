@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 1600873673,
+    name: {
+      cn: '炭炭背单词｜四六级考研等英语单词学习',
+    },
+    addType: 'auto',
+  },
+  {
     id: 824305459,
     name: {
       us: "Papa's Freezeria To Go!",
