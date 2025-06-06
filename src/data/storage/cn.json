@@ -15414,10 +15414,18 @@
       "formattedPrice": "¥28.00"
     },
     "minPriceInfo": {
-      "price": 28,
-      "formattedPrice": "¥28.00"
+      "price": 0,
+      "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749219462787,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -18671,6 +18679,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749219462787,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包月": "¥8.00",
+            "金牛会员连续包月": "¥6.00",
+            "手机超级Level-2连续包半年": "¥48.00",
+            "手机高级诊股连续包月": "¥8.00",
+            "手机Level-2包年服务": "¥88.00",
+            "金牛会员月版": "¥18.00",
+            "金牛会员尊享版连续包年": "¥98.00",
+            "手机超级Level2两年版": "¥158.00",
+            "主力密码连续包月": "¥118.00",
+            "短线宝连续包月": "¥138.00"
+          }
+        },
         {
           "timestamp": 1749216572360,
           "price": 1,
@@ -27370,6 +27395,14 @@
     "history": [
       [
         {
+          "timestamp": 1749219462787,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748614688428,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -28624,6 +28657,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749219462787,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "所有当前内容": "¥38.00",
+            "吉他和弦,琶音和音阶": "¥58.00",
+            "吉他和弦": "¥38.00",
+            "吉他音阶": "¥38.00",
+            "吉他琶音": "¥38.00",
+            "所有内容访问通行证": "¥43.00"
+          }
+        },
         {
           "timestamp": 1749216572360,
           "price": 0,
@@ -66407,6 +66453,14 @@
     "history": [
       [
         {
+          "timestamp": 1749219462787,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748787306534,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -67044,6 +67098,14 @@
     "history": [
       [
         {
+          "timestamp": 1749219462787,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748787306534,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -67321,6 +67383,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749219462787,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748787306534,
