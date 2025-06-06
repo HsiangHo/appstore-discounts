@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-06T10:26:02.661Z</updated>
+    <updated>2025-06-06T23:23:12.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-06T10:26:02.662Z</updated>
+        <updated>2025-06-06T23:23:12.619Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusFri, 06 Jun 2025 10:26:02 GMT</id>
+        <id>rankingusFri, 06 Jun 2025 23:23:12 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-06T10:26:02.663Z</updated>
+        <updated>2025-06-06T23:23:12.620Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -312,6 +312,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Yearly Auto-renew VIP</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>12</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id6450397515">Transcribe & Speech to text</a>
       </td>
       <td>
@@ -334,7 +357,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6448913901">全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理</a>
@@ -366,6 +389,77 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wink: Video Enhancer & Editor]]></title>
+        <id>Wink: Video Enhancer &amp; Editor-us-1749251834530</id>
+        <link href="https://apps.apple.com/us/app/wink-video-enhancer-editor/id1594288016?uo=4"/>
+        <updated>2025-06-06T23:17:14.530Z</updated>
+        <summary type="html"><![CDATA[Yearly Auto-renew VIP: $59.99 → $40.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/wink-video-enhancer-editor/id1594288016?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/09/cb/2009cb91-6b2c-42c6-66dd-34a623ae43b9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Yearly Auto-renew VIP：</strong><span>$59.99</span> → <b>
+  <strong>$40.99</strong>
+</b><span>[$40.99 ~ $59.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Wink 
+l Make any low-quality video & photo into HD/Ultra HD/4K with before/after comparisons.
+l Making video editing easier than ever!
+l Various creative video transition effects enhance final results!
+l Fine-tune your selfies with video retouch tools to highlight your day!
+
+Video ＆ Photo Enhance
+- Video Enhancer: Enhance portraits and selfies to stunning output.
+- 4K Upscaler: AI-powered 4K upscaling for enhanced video quality.
+- Stabilize: Smooth out shaky footage for professional-looking videos. 
+- Noise reduction: Reduce video noise and grain for professional-looking results.
+-  AI Color: Give your video a vibrant, fresh look with our easy-to-use color enhancement tool
+
+Video Retouch
+- Manual Face Slimming: Adjust your facial features as you wish
+- Body Shape: Achieve a supermodel physique!
+- Stylish Makeup: Providing a range of natural makeup
+- Face Editor: Remove acne, Face Plump, Skin tone ... and more!
+- Whiten Teeth: Say goodbye to brown teeth and show off your smile!
+
+Video Editing
+- Professional Editing: Color, Crop, Speed, Split, Mirror, Soundtrack and more!
+- Templates: Easily apply to create high-quality vlogs
+- Quality Restoration: Clear AI-enhanced video restoration!
+- Effects: Adds texts, stickers, and transitions to enhance your videos
+- Automatic Subtitle: Utilizes intelligent voice recognition for easy text inputting
+
+
+AI Captions
+- Accurate AI subtitles for your videos in seconds 
+- Support Bilingual: Create dual-language subtitles for your videos
+- Support 8 languages
+
+Wink VIP
+- Access exclusive VIP features
+
+Wink offers a wide range of exclusive VIP features to enhance retouching experience. We are committed to providing you with an improved service. We look forward to your continuing support.
+- Subscriptions
+
+Wink VIP-Monthly Subscription offers a subscription period of one month.
+Wink VIP-Annual subscription entails a 12-month period.
+*The subscription price is determined based on the information provided in the in-app purchase (iAP) application.
+
+- Instructions for Payment and Cancellation
+
+"Payment" will be credited to your iTunes account once you have confirmed and paid for your subscription.
+
+"Renewal" subscriptions for "Monthly/Annual" plans are automatically renewed and will incur charges to your iTunes account following your purchase confirmation. The subscription will be automatically renewed. To cancel it, please disable the automatic renewal at least 24 hours before the subscription period ends. Within 24 hours before the subscription cycle expires, Apple will automatically debit your iTunes account, extending your subscription for a new cycle.
+
+"To cancel your subscription, kindly navigate to the "Settings" section on your iPhone, click on "Apple ID," proceed to the "Subscription" screen, and choose "Wink" to terminate your subscription.
+
+- Agreement
+Terms of Service：https://pro.meitu.com/wink-cut/agreements/common/service-global.html?lang=en
+Privacy Policy：https://pro.meitu.com/wink-cut/agreements/common/policy-global.html?lang=en
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/3a/89/673a8941-bea4-f1cd-781d-b47742368d31/iOS_1242x2208_EN-13.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/8d/be/0c8dbe5b-7e41-d71a-2fee-4f18302b2653/iOS_1242x2208_EN-14.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/7c/3b/de7c3b7b-e879-2656-17ef-dfa1c85fd0d5/iOS_1242x2208_EN-15.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/76/49/f5764995-2fe4-66cb-4c39-644403b7c8f3/iOS_1242x2208_EN-11.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/50/8a/93508a27-5f4c-447a-f019-6e46dc643fdc/iOS_1242x2208_EN-12.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/06/1d/07061dec-477b-18f5-eb7c-0d81935c5d99/iOS_1242x2208_EN-5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/ef/3b/44ef3bf2-851e-2d2c-b8e7-daa81a2131be/iOS_1242x2208_EN-3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/15/b6/d815b63c-4b4a-8813-09a9-0e36f7462ef9/iOS_1242x2208_EN-7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/e8/c1/aae8c1d6-1a0f-b017-7242-e09c3e36afb2/iOS_1242x2208_EN-9.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/cd/4d/36cd4d1c-1106-1845-d074-f93cc9369bab/iOS_1242x2208_EN-1.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/fc/56/d2fc566a-225c-1af3-c123-3a35ac3001ab/f0c00bb5-97ad-41cf-9c7c-91b9bac7efd0_2048_U00d72732_01__U82f1_U6587.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/76/9a/4a769a22-17ff-1926-05da-8d726e6145e9/4d3bb3ff-5177-430e-a6b9-3f9ed17b0cf9_2048_U00d72732_02__U82f1_U6587.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/3f/8e/d13f8e83-d68d-e790-92af-0a0ec9694925/afdb1a70-008c-4f38-a476-3cc367c88187_2048_U00d72732_03__U82f1_U6587.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/33/df/6933df70-58a2-c714-21be-f6f085e4b41e/20c74a76-4bb2-42de-be4d-46ea1bf55a5d_2048_U00d72732_04__U82f1_U6587.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/fe/02/e5fe0283-5b43-c621-b4a7-04cf1a5a4580/1395c882-eff8-4505-8134-20357125076a_2048_U00d72732_05__U82f1_U6587.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[djay - DJ App & AI Mixer]]></title>
@@ -883,51 +977,5 @@ A supported streaming subscription and an internet connection are required to ac
 --取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
 --续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/19/d3/bf/19d3bfd6-9e0a-3605-7ddb-1e9913dda13c/132add12-49bd-4d88-8ae5-5ac5488a4ca1_App_Store_U7269_U65991.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/03/a0/da/03a0da78-2838-3c81-c29d-28700c0682f7/80a29786-6e1e-4cd9-8a4a-00e146f32816_App_Store_U7269_U65992.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/32/58/00/325800bb-a68b-32ec-cbe8-5c90b590dc5f/cec956df-a085-48a5-b159-9a135f1e5ef2_App_Store_U7269_U65993.jpg/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理]]></title>
-        <id>全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理-us-1748954262570</id>
-        <link href="https://apps.apple.com/us/app/%E5%85%A8%E8%83%BDai-%E5%9B%BE%E7%94%9F%E8%A7%86%E9%A2%91-%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91-ai%E5%86%99%E6%AD%8C%E4%BD%9C%E6%9B%B2-ai%E6%99%BA%E8%83%BD%E5%8A%A9%E7%90%86/id6448913901?uo=4"/>
-        <updated>2025-06-03T12:37:42.570Z</updated>
-        <summary type="html"><![CDATA[积分: $29.99 → $19.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E5%85%A8%E8%83%BDai-%E5%9B%BE%E7%94%9F%E8%A7%86%E9%A2%91-%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91-ai%E5%86%99%E6%AD%8C%E4%BD%9C%E6%9B%B2-ai%E6%99%BA%E8%83%BD%E5%8A%A9%E7%90%86/id6448913901?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/70/9a/3c709a80-8956-5f91-2a19-81a71db61565/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>积分：</strong><span>$29.99</span> → <b>
-  <strong>$19.99</strong>
-</b><span>[$9.99 ~ $29.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  全能 AI 神器，解锁无限创意！
-一款集 AI聊天、绘画、写作、故事视频、数字人、照片特效、文生视频、图生视频的全能 AI 产品。
-
-
-【亮点功能】
-
-1、AI 照片特效  —— 赋予照片生命力
-海量趣味特效等你解锁！老照片瞬间 “复活”，还能实现 AI 拥抱、AI 跳舞。更有变身娃娃脸、肌肉男，羊毛卷造型、天使翅膀特效，还有膨胀、可爱捏捏等搞怪效果，让每一张照片都别具一格！
-
-2、AI 故事视频 —— 创作起号快人一步
-无论是小说推文、民间故事，还是儿童绘本、解压视频，只需一键，轻松制作。快速打造爆款内容，助力你的账号迅速起号、流量飙升！
-
-3、AI 文生视频、图生视频 —— 创意瞬间变现
-输入文字描述，或是上传一张照片，AI 即刻发力，快速生成独一无二的动态视频，让你的想象跃然 “屏” 上！
-
-4、AI 数字人 —— 口播视频轻松搞定
-只需面对镜头说 “123”，AI 精准对口型，一键生成高质量口播视频。无需复杂操作，专业效果轻松呈现！
-
-4、AI 智能聊天 —— 开启深度交互体验
-搭载 R1 满血版深度思考大模型，支持图文多模态交互，还能同时调用多模型。畅聊无阻，思维碰撞，满足你的多元对话需求！
-
-关于订阅：
-- 付款：订阅按周度或月度收费，费用视所选订阅计划而定。确认购买后，订阅款项将从您的 iTunes 账户中扣除。
-- 续订：包含免费试用期的订阅将自动续订为付费订阅。除非在当前订阅周期结束前 24 小时关闭自动续订，否则订阅将会自动续期，而费用将会从您的 iTunes 账户中扣除。续订的费用取决于您的订阅计划。
-- 取消续订：如需取消续订，请在当前订阅周期到期前 24 小时内，手动在 App Store 订阅管理中关闭续订功能。
-
-使用应用即表示您同意我们的隐私政策和使用条款：
-用户协议：https://docs.qq.com/doc/p/e0e4a839d9c935de84363e11f097d0bef5eaa2ba
-隐私政策：https://docs.qq.com/doc/p/531d477da8d8e2f49146793d2d4450f5684c38d2
-</p>]]></content>
     </entry>
 </feed>
