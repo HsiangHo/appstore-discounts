@@ -11306,6 +11306,23 @@
     "history": [
       [
         {
+          "timestamp": 1749173078877,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Editor Pro - Annual Plan": "$47.99",
+            "Editor Pro - Monthly Plan": "$8.99",
+            "Editor Pro - Annual Plan.2024": "$47.99",
+            "FotorPro+ - Monthly Plan": "$19.99",
+            "Pro discount - Monthly Plan": "$8.99",
+            "FotorPro+ - Annual Plan": "$89.99",
+            "Pro discount - Annual Plan": "$47.99",
+            "Fotor Pro - Recommend Offer": "$47.99",
+            "Pro - Annual Plan.cn.2024": "$47.99",
+            "Editor Pro - Monthly Plan.cn": "$8.99"
+          }
+        },
+        {
           "timestamp": 1749097567673,
           "price": 0,
           "formattedPrice": "Free",
@@ -18598,6 +18615,14 @@
       "formattedPrice": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749173078877,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748488332046,
@@ -26296,13 +26321,25 @@
       "Transparent Object Cutout": "$9.99"
     },
     "minPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "$8.99",
+      "price": 4.99,
+      "formattedPrice": "$4.99",
       "Output High Resolution Image": "$0.00",
       "Upgrade to Pro Full Features": "$9.99",
       "Transparent Object Cutout": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749173078877,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Output High Resolution Image": "$0.00",
+            "Upgrade to Pro Full Features": "$9.99",
+            "Transparent Object Cutout": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -61734,7 +61771,7 @@
       "price": 0,
       "formattedPrice": "Free",
       "Vythm PRO": "$3.49",
-      "All features and modes": "$44.99",
+      "All features and modes": "$29.99",
       "Unlock all (including updates)": "$139.99",
       "Psychedelic mode for mobile": "$4.99",
       "Mandala mode on mobile devices": "$4.99",
@@ -61749,6 +61786,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749173078877,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Vythm PRO": "$9.99",
+            "All features and modes": "$29.99",
+            "Unlock all (including updates)": "$139.99",
+            "Psychedelic mode for mobile": "$4.99",
+            "Mandala mode on mobile devices": "$4.99",
+            "Dreaming mode for mobile": "$4.99",
+            "Fluids mode for mobile devices": "$4.99"
+          }
+        },
         {
           "timestamp": 1749115175624,
           "price": 0,
@@ -69301,6 +69352,22 @@
       "UPDF Pro + AI Standard": "$98.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749173078877,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Annual Subscription": "$39.99",
+            "Perpetual License": "$128.99",
+            "UPDF AI Unlimited": "$79.00",
+            "UPDF AI Standard": "$15.00",
+            "UPDF Pro + AI Unlimited": "$108.99",
+            "Quarterly Subscription": "$19.00",
+            "UPDF Pro + AI Standard": "$98.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748643393069,

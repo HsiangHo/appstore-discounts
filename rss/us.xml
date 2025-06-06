@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-05T09:25:04.096Z</updated>
+    <updated>2025-06-06T01:30:03.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-05T09:25:04.098Z</updated>
+        <updated>2025-06-06T01:30:03.763Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusThu, 05 Jun 2025 09:25:04 GMT</id>
+        <id>rankingusFri, 06 Jun 2025 01:30:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-05T09:25:04.098Z</updated>
+        <updated>2025-06-06T01:30:03.763Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -50,13 +50,13 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>850</b>
+        <b>851</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>850</b>
+        <b>851</b>
       </td>
       <td>
         <b></b>
@@ -67,13 +67,13 @@ feedId:49753370488353792+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>840</b>
+        <b>841</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>840</b>
+        <b>841</b>
       </td>
       <td>
         <b></b>
@@ -190,6 +190,40 @@ feedId:49753370488353792+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id673906093">Audio Normalizer - Mp3 Gain</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>6</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id966457795">Super PhotoCut</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1012296988">爱奇艺-在人间 幻境谜局</a>
       </td>
       <td>
@@ -210,7 +244,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1442745175">快帆加速器-海外回国音乐视频加速器</a>
@@ -235,7 +269,30 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>9</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1550581532">Vythm VJ - Music Visualizer DJ</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>All features and modes</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6450397515">Transcribe & Speech to text</a>
@@ -260,7 +317,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6448913901">全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理</a>
@@ -292,6 +349,134 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Super PhotoCut]]></title>
+        <id>Super PhotoCut-us-1749173078877</id>
+        <link href="https://apps.apple.com/us/app/super-photocut/id966457795?mt=12&amp;uo=4"/>
+        <updated>2025-06-06T01:24:38.877Z</updated>
+        <summary type="html"><![CDATA[Price: $8.99 → $4.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/super-photocut/id966457795?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6a/99/2b/6a992ba0-a189-9396-7e34-13acb5867b94/AppIcon_non-pro-85-220-4-2x.png/60x60bb.png" />
+</a><h2>
+  Discount Information（Price：<span>$8.99</span> → <b>
+  <strong>$4.99</strong>
+</b><span>[$4.99 ~ $8.99]</span>）
+</h2><h2>Application Description</h2><p>
+  ***On sale for a limited time. Original USD $29.99***
+Super PhotoCut interactive cutout tool isolates and separates a detailed foreground object from photos.  With our proprietary best-in-class algorithm masking tool, you can instantly remove complex image backgrounds and make them transparent with just a few clicks. Get the dramatic stand-out images done in seconds-to-minutes instead of minutes-to-hours.  
+
+Unlike those image processing software in the market, Super PhotoCut doesn't require any special technical skills. You just need mark the object with a rectangle to obtain the desired result. Super PhotoCut will automatically cut objects out for you.
+
+Super PhotoCut speeds up your design process, enhance your design time and improves the quality of your photos! It will save you hours that you usually spent on cutting out an object using Photoshop.  It is time to say goodbye to the PhotoShop lasso and magic wand tool. 
+
+Key Features:
+1 Instantly and Accurately remove complex background from images.
+
+2 Smart Algorithm: Cuts object out with critical precision. It enables extremely fast operation with great results on any image, minimizing the amount of work you need to put in. 
+
+3 Supports almost all image formats: JPG,BMP,PNG,GIF,Raw...
+
+4 Separate foreground from background easily. Live preview the final effect.
+
+5 Transparency Processing Supported. Export to Transparent PNG images.
+
+6 20 kinds of background transition effects are for your choices: 
+Disc Blur, Gaussian Blur, Box Blur, Motion Blur, Zoom Blur, Color Controls, Exposure Adjust, Gamma Adjust, Hue Adjust, Vibrance, Color Invert, Color Posterize, Chrome, Fade, Instant, Mono, Process, Transfer, Sepia Tone, Vignette, Vignette Effect.
+
+7 Zoom to any level necessary allows you to inspect details while quickly navigating your image. 
+
+8 Create isolated images with colored or transparent backgrounds. Or import your favorite picture as the background image.
+
+9 Undo / Redo: never fear that a mistake will ruin your work. 
+
+10 Configurable Auto-Brush-Size: The mark size adapts dynamically to your zoom level so that you can easily zoom in to make detailed edits. 
+
+Increase conversion rates with stunning product photos that conform to eBay and Amazon requirements at a little cost. People all over the world are more productive with Super PhotoCut.  Try it out today! 
+
+Feedback:
+Any suggestion will be highly appreciated. Support email: market@effectmatrix.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/50/4d/08/504d0824-f7d2-9644-0ae4-802c9c7fba88/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/eb/83/f2/eb83f23c-46c4-35a3-5817-ff2854696363/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/64/10/72/641072ab-5d83-9b73-6894-1a4f2bffef27/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/5d/9e/4e/5d9e4e85-1b81-da39-79bc-4cbf0b1bbe75/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/8a/93/0a/8a930a97-5814-01e3-e445-fe8b3f73883c/pr_source.jpg/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audio Normalizer - Mp3 Gain]]></title>
+        <id>Audio Normalizer - Mp3 Gain-us-1749173078877</id>
+        <link href="https://apps.apple.com/us/app/audio-normalizer-mp3-gain/id673906093?mt=12&amp;uo=4"/>
+        <updated>2025-06-06T01:24:38.877Z</updated>
+        <summary type="html"><![CDATA[Price: $19.99 → $4.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/audio-normalizer-mp3-gain/id673906093?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/28/49/5f/28495f47-cbeb-d61b-fa1b-8b23f91c9e2a/Icon.png/60x60bb.png" />
+</a><h2>
+  Discount Information（Price：<span>$19.99</span> → <b>
+  <strong>$4.99</strong>
+</b><span>[$4.99 ~ $19.99]</span>）
+</h2><h2>Application Description</h2><p>
+  Audio Normalizer provides a batch normalizing feature that helps users to balance all the music and audio files to equal volume in the most popular audio formats like MP3, M4A, WAV, AAC, FLAC, WMA, AIFF, AMR, AC3, MP2, OGG, M4R, AU etc with high accuracy and at maximum speed with a single click.  
+
+Is it annoying to adjust the volume of each file individually? Download Audio Normalizer for Mac now. 
+
+Audio Normalizer Features:
+1 Equalize multi-audio files to the same volume with a single click.
+2 Leveling the volume of MP3, M4A, WAV files directly losslessly. 
+3 Supports many popular audio formats: MP3, M4A, WAV, AAC, FLAC, WMA, AIFF, AMR, AC3, MP2, OGG, M4R, AU files.
+4 Supports batch processing.
+5 You can custom volume level.
+6 Awesome Usability: Easy to use through a modern and clear user interface.
+
+Please note that volume of DRM-protected files can not be analyzed and adjusted.
+
+Audio Normalizer Feedback:
+Any suggestion will be appreciated, email us at: market@effectmatrix.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/54/e5/21/54e52136-aedd-7be7-401c-1b0d57167876/mzl.slwgpxzg.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/81/1b/a2/811ba285-ce2a-0bbf-4471-5c16141f4493/mzl.bxrizfzd.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/0e/0b/b3/0e0bb301-860d-715c-ff63-8b5466a78619/mzl.fporlniz.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vythm VJ - Music Visualizer DJ]]></title>
+        <id>Vythm VJ - Music Visualizer DJ-us-1749173078877</id>
+        <link href="https://apps.apple.com/us/app/vythm-vj-music-visualizer-dj/id1550581532?uo=4"/>
+        <updated>2025-06-06T01:24:38.877Z</updated>
+        <summary type="html"><![CDATA[All features and modes: $44.99 → $29.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/vythm-vj-music-visualizer-dj/id1550581532?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/4c/1a/4d4c1a8f-6bf6-f4e3-6198-f4c2f5b0efac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>All features and modes：</strong><span>$44.99</span> → <b>
+  <strong>$29.99</strong>
+</b><span>[$29.99 ~ $44.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  --- Experience Your Music with Vythm ---
+Unlock the potential of music visualization with Vythm! Vythm is a versatile music visualization app that allows you to create visual artworks in harmony with your selected music. It includes a variety of unique visualization modes, including Equalizer, Mandala, Shapes, Fluids, Psychedelic, Dreaming, and more. Choose a background and apply image effects to personalize your visualization completely.
+
+--- Your Vision, Your Visualization ---
+Vythm provides you with numerous options to realize your creative vision:
+- Over 100 carefully selected backgrounds.
+- MIDI input for precise visual control.
+- NDI streaming support for sharing your creations.
+- Real-time image effects like color correction, bloom, chromatic aberration, and more.
+- Size, rotation, and orientation adjustments.
+And much more!
+
+The Equalizer, Rhythm, and Peer modes are available for free, while other modes can be unlocked through a subscription.
+
+--- Input Formats ---
+Select your music from a variety of sources:
+- Import any mp3 or m4a files.
+- Access your iTunes library (Please note that Apple Music is not currently supported).
+- Utilize your device's microphone, with sensitivity adjustments for various use cases.
+- Enjoy three preselected songs for quick inspiration.
+
+--- Record Your Masterpiece ---
+Vythm offers a recording feature that enables you to share or save your creations. Revisit your immersive visual world at your convenience or dazzle your audience with your artistic masterpiece.
+
+--- Share Your Thoughts ---
+Our top priority is to provide you with the best possible experience. If you encounter issues or have ideas for new features, please do not hesitate to contact us at info@mkgames.org.
+
+If you enjoy the app, we would greatly appreciate your feedback and a review! Thank you for choosing Vythm!
+
+Download and experience Vythm (Music Visualization 2024 / Audio Visualizer) today!
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/cf/b6/32cfb6c4-a7ed-d003-57cb-e398e8500472/969b8d5c-328b-4594-adae-d169c8a20d22_iPhone_8_Plus_-_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/8f/c1/348fc1a6-1eb8-312d-342b-9bb91573f8a5/37871899-1163-44b0-9b6b-5c5639aa6f75_iPhone_8_Plus_-_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/0f/34/440f34a7-6b35-7142-6a29-2f7ccaa970f0/a944b2c6-1f21-45b9-91a7-d29c742548de_iPhone_8_Plus_-_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/57/cc/0557cc2a-c016-363b-38da-da705a3323de/2f7d3b6e-de33-416e-8b28-a6e179eb8218_iPhone_8_Plus_-_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/cd/e7/aacde7db-acf2-7ed5-2ca9-1fa26e9fe54c/26ca2506-fa5c-42cf-b48a-2894faac0978_iPhone_8_Plus_-_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/06/b8/a906b850-7573-827a-a0e6-94e98601796a/9cecd023-d9e5-48ad-b562-090d8cd4dcf8_iPad_Pro_12.9__-_1__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/b8/eb/5eb8eb38-3f40-c460-f6fb-71238c38d845/38b748ef-00ec-4f92-ada5-328ddd019b69_iPad_Pro_12.9__-_2__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/ad/d5/a2add544-3f83-3277-879c-c012a5866944/af682f10-d7a2-432f-a21a-ff34c853dc49_iPad_Pro_12.9__-_3__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/2e/37/f82e374f-a4a8-ade7-23f1-b1ace6f49ef1/f9045d4d-cc6a-40d1-bbba-5c2d6c722551_iPad_Pro_12.9__-_4__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/d8/d4/2fd8d494-4e2b-35a7-70af-bc5754407c52/78378f23-5337-4063-b6bc-7065901f41d4_iPad_Pro_12.9__-_5__U00282nd_generation_U0029.jpg/576x768bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[QuickFox-海外回国加速器追剧听歌游戏留学生必备]]></title>
@@ -720,49 +905,6 @@ A supported streaming subscription and an internet connection are required to ac
         <id>奇游加速器 - 全球游戏畅玩-us-1748924694076</id>
         <link href="https://apps.apple.com/us/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4"/>
         <updated>2025-06-03T04:24:54.076Z</updated>
-        <summary type="html"><![CDATA[移动端会员-连续包月: $2.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/24/0d/5d240d0a-4401-ac6e-fe9f-165012b8adf4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>移动端会员-连续包月：</strong><span>$2.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $2.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  【 热门游戏，“游”先支持】
-支持PUBGM、王者荣耀国际服 、使命召唤战区、绝地求生：刺激战场 、吃鸡外服、鹅鸭杀手游，暗区突围国际服、飞机大厨、咒术回战、炉石传说国际服、ROBLOX国际版、原神国际服、英雄联盟手游（lol：wild rift）、云顶之弈手游、方舟：终极移动版等游戏加速！
-
-【海量手游库 新游上线快 】
-支持PUBGM、王者国际服、使命召唤战区、星际战甲国际服、炉石传说国际服、暗区突围国际服、飞机大厨、对峙2、云顶之奕PBE、鹅鸭杀、赛马娘、pubg2、暗黑破坏神不朽、apex手游、二之国、全境封锁手游、战地手游、瓦罗兰特手游、绝地求生刺激战场全球服、使命召唤手游全球服、八方旅人、符文大地传说、Among US、游戏王、方舟生存进化、黎明杀机、公主连接、冒险岛M、地球末日生存、Teon中文版、剑灵：革命、战争机器人、地牢猎手5、FIFA、碧蓝幻想全球服、iron force、世界计划、多彩舞台、第七史诗（epic 7）、和平精英全球服、堡垒之夜、fgo、影之诗、失落龙约黑色沙漠、文明重启全球服、荒野乱斗、狂野飙车9等游戏加速！游戏库包罗千款好玩游戏，热游新游排行一目了然。平均每天3款游戏的速度上新。App内可以随时提交想玩的游戏，你想玩的我们都支持！
-
-【 奇游电竞级加速 】
-奇游全自研“Qiy”电竞级加速引擎震撼上线，加速稳定性更胜一筹，不惧移动网络的波动。基于奇游电竞级游戏网络，带你感受稳定流畅的游戏体验。低延迟、不掉线，WIFI/5G随心切换。
-
-【新游推荐 硬核攻略 】
-新增游戏清单、新游预上线时间表等功能，更多实用、funny的游戏主题等你探索。游戏介绍、新游推荐、硬核攻略，丰富的游戏深度内容带你打开新世界的大门！
-
-【客服小队 随时待命 】
-奇游客服小队7x12h陪伴你的左右。使用过程中有任何疑问和反馈，我们随时待命。
-
-【自动续费套餐说明】
-1、订阅周期及套餐名称：1个月（连续包月），3个月(连续包季)
-2、订阅价格：以IAP申请信息为准，例如连续包月价格为首月15元，次月15元/月自动续费 
-3、付款：用户确认购买并付款后计入iTunes账户。
-4、取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能，到期前24小时内取消，将会收取订阅费用。
-5、续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
-6、隐私政策：https://www.qiyou.cn/specials/qymobile-protocol.html
-7、服务协议：https://mfront.qiyou.cn/protocol.html
-8、自动续费会员服务协议：https://mfront.qiyou.cn/renewal-protocol.html
-
-*本加速器的加速功能仅针对游戏使用，无法访问海外网站。
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/30/d9/a730d9aa-62c0-a310-ef97-258622bbd228/94e6bc59-0ed1-4662-9fe9-c6c451e5eff8_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/7b/26/067b26e4-94e4-e8dd-81e9-14a0ec0a4354/962aa0d0-12c7-4e94-8ce1-f6f9024c412c_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/10/80/20108048-f87d-5509-ee46-993017f4cee9/754dd371-0572-496e-b317-f4f78754097a_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/da/24/c5da242f-ed7d-eee2-aafd-7a134b8a2c1a/a6457b28-d217-4eb7-abbc-b84793c7a4ad_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/98/a2/1998a286-c405-6ee7-2549-d48179653067/5ab7ea42-5dde-488b-8677-e35e2767c474_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/20/76/ab207675-21ca-afc8-418b-a6e058a5628b/c1b12273-03dc-4645-bd76-2ec11fd06f72_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/2d/f0/c12df094-fd43-860b-b9f7-f4ed06d03635/3f45d5df-bae8-4a85-90be-b5c11e6b5d3f_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/fd/2c/35fd2c48-a4ce-0a15-cb14-eba428cdcf3d/57a9a98a-65a9-4a6f-b77f-09227a1a4252_5.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奇游加速器 - 全球游戏畅玩]]></title>
-        <id>奇游加速器 - 全球游戏畅玩-us-1748895593010</id>
-        <link href="https://apps.apple.com/us/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4"/>
-        <updated>2025-06-02T20:19:53.010Z</updated>
         <summary type="html"><![CDATA[移动端会员-连续包月: $2.99 → $1.99]]></summary>
         <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/24/0d/5d240d0a-4401-ac6e-fe9f-165012b8adf4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
