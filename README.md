@@ -213,7 +213,7 @@ So far, we've covered `2` `Countries or Regions` and  `852` `Apps` <br />Push no
 |711|1133028347|Automatic|Cleaner One Pro - Uninstaller||||Cleaner One Pro - Uninstaller||
 |710|6450397515|Automatic|录音转文字-语音转文字助手||||Transcribe & Speech to text||
 |709|1598771178|Automatic|DeviceMirror Lite -无线手机投屏||||DeviceMirror Lite -Screen Cast||
-|708|1669005649|Automatic|TXT 阅读器 - 畅享版||||TXT Reader + AI Assistant||
+|708|1669005649|Automatic|TXT 阅读器 - 阅读听书摸鱼神器||||TXT Reader + AI Assistant||
 |707|1525349531|Automatic|Snap 截图+贴图||||Snap Screenshot - Snip & Paste||
 |706|646295438|Automatic|RAR Extractor - Unarchiver||||RAR Extractor - Unarchiver||
 |705|6452726154|Automatic|Ultra VPN - VPN and Wifi Proxy||||Ultra VPN - VPN and Wifi Proxy||
