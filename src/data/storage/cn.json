@@ -18672,6 +18672,23 @@
     "history": [
       [
         {
+          "timestamp": 1749216572360,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "问财专业版连续包月": "¥168.00",
+            "问财进阶版连续包月": "¥68.00",
+            "598花币": "¥598.00",
+            "299花币": "¥299.00",
+            "早盘选股宝连续包月": "¥268.00",
+            "机构探测器连续包月": "¥118.00",
+            "金牛情报连续包月": "¥73.00",
+            "分时顶底连续包季": "¥128.00",
+            "波段雷达连续包季": "¥288.00",
+            "主力密码连续包月": "¥118.00"
+          }
+        },
+        {
           "timestamp": 1749198231561,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -28580,7 +28597,13 @@
       "吉他音阶": "¥38.00",
       "吉他琶音": "¥38.00",
       "所有内容访问通行证": "¥43.00",
-      "All Current Content": "¥68.00"
+      "All Current Content": "¥68.00",
+      "Chords, Scales and Arpeggios": "¥68.00",
+      "Lesson Pack": "¥38.00",
+      "All Scales": "¥38.00",
+      "All Chords": "¥38.00",
+      "All Arpeggios": "¥38.00",
+      "吉他课程套件    .": "¥38.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -28591,9 +28614,32 @@
       "吉他音阶": "¥38.00",
       "吉他琶音": "¥38.00",
       "所有内容访问通行证": "¥43.00",
-      "All Current Content": "¥68.00"
+      "All Current Content": "¥68.00",
+      "Chords, Scales and Arpeggios": "¥68.00",
+      "Lesson Pack": "¥38.00",
+      "All Scales": "¥38.00",
+      "All Chords": "¥38.00",
+      "All Arpeggios": "¥38.00",
+      "吉他课程套件    .": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749216572360,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Chords, Scales and Arpeggios": "¥68.00",
+            "All Current Content": "¥68.00",
+            "Lesson Pack": "¥38.00",
+            "All Scales": "¥38.00",
+            "All Chords": "¥38.00",
+            "All Arpeggios": "¥38.00",
+            "所有内容访问通行证": "¥43.00",
+            "吉他课程套件    .": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748924694076,

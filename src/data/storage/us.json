@@ -5745,6 +5745,23 @@
     "history": [
       [
         {
+          "timestamp": 1749216572360,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Synth Lead": "$1.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Synth Plucks": "$1.99",
+            "Groove Machine Synth": "$0.00",
+            "Chill-Lo-Fi Mobile": "$1.99"
+          }
+        },
+        {
           "timestamp": 1749183857754,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -6876,6 +6893,15 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749216572360,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Full Access to PRO": "$29.99",
+            "Unlock Upgrade Features": "$0.00"
+          }
+        },
         {
           "timestamp": 1749205203218,
           "price": 0,
@@ -33156,6 +33182,25 @@
       "Get tips about this mysterious stone": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749216572360,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Purchase game": "$0.99",
+            "Props Tip: Temple corner": "$0.99",
+            "Props Tip: Pyramid": "$0.99",
+            "Props Tip: flower": "$0.99",
+            "Get tips on holographic camera": "$0.99",
+            "Get tips about two weeks mesh box factory eye": "$0.99",
+            "Get tips about the triangle blocks (1-6)": "$0.99",
+            "Get tips on the bucket": "$0.99",
+            "Get tips on stone-eyed": "$0.99",
+            "Get tips about this mysterious stone": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747080151699,
