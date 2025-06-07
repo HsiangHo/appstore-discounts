@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-07T13:31:03.370Z</updated>
+    <updated>2025-06-07T14:21:03.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-07T13:31:03.372Z</updated>
+        <updated>2025-06-07T14:21:03.571Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnSat, 07 Jun 2025 13:31:03 GMT</id>
+        <id>rankingcnSat, 07 Jun 2025 14:21:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-07T13:31:03.372Z</updated>
+        <updated>2025-06-07T14:21:03.571Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -165,7 +165,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id797275229">AudioTunes - FLAC, APE, WMA Converter</a>
+        <a href="https://apps.apple.com/cn/app/id673906093">歌曲音量调节器Audio Normalizer</a>
       </td>
       <td>
         <ul>
@@ -180,6 +180,23 @@ feedId:49753297431966720+userId:73658201673997312
     <tr>
       <td>
         <b>5</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id797275229">AudioTunes - FLAC, APE, WMA Converter</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1012296988">爱奇艺-在人间 幻境谜局</a>
@@ -202,7 +219,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1058801458">Remixlive - Make Music & Beats</a>
@@ -225,7 +242,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1231336508">腾讯视频-折腰 全网独播</a>
@@ -248,7 +265,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1395152179">奇游加速器 - 全球游戏畅玩</a>
@@ -271,7 +288,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1403919533">MWeb Pro</a>
@@ -288,7 +305,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1518518216">Paper 壁纸 - 超高清4K动态壁纸, 桌面壁纸</a>
@@ -311,7 +328,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1544190466">避难所：生存</a>
@@ -328,7 +345,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1576064082">DeviceMirror Pro -无线有线手机投屏</a>
@@ -345,7 +362,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1598771178">DeviceMirror Lite -无线手机投屏</a>
@@ -368,7 +385,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1619925971">UPDF - 新一代 AI 智能 PDF 编辑器</a>
@@ -391,7 +408,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6739523960">允许 Safari 右键单击</a>
@@ -408,7 +425,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6738715418">STEP 和 IGES 文件查看器</a>
@@ -425,7 +442,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6738089759">隐藏鼠标光标</a>
@@ -451,6 +468,33 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歌曲音量调节器Audio Normalizer]]></title>
+        <id>歌曲音量调节器Audio Normalizer-cn-1749305710589</id>
+        <link href="https://apps.apple.com/cn/app/%E6%AD%8C%E6%9B%B2%E9%9F%B3%E9%87%8F%E8%B0%83%E8%8A%82%E5%99%A8audio-normalizer/id673906093?mt=12&amp;uo=4"/>
+        <updated>2025-06-07T14:15:10.589Z</updated>
+        <summary type="html"><![CDATA[价格: ¥38.00 → ¥28.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%AD%8C%E6%9B%B2%E9%9F%B3%E9%87%8F%E8%B0%83%E8%8A%82%E5%99%A8audio-normalizer/id673906093?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/28/49/5f/28495f47-cbeb-d61b-fa1b-8b23f91c9e2a/Icon.png/60x60bb.png" />
+</a><h2>
+  优惠信息（价格：<span>¥38.00</span> → <b>
+  <strong>¥28.00</strong>
+</b><span>[¥28.00 ~ ¥38.00]</span>）
+</h2><h2>应用描述</h2><p>
+  Audio Normalizer 是一款简单易用的音量调节软件，智能统一音量大小，一键批量调整所有音乐或音频文件为大小一致的音量，避免了忽高忽低的声音效果给听众带来不好的体验。常见的音频格式都支持，如MP3, M4A, WAV, AAC, FLAC, WMA, AIFF, AMR, AC3, MP2, OGG, M4R, AU. 
+
+功能：
+ 1 调整单一的音频文件的音量。
+ 2 统一多首音乐文件的音量。
+3直接无损调节MP3、M4A、WAV文件的音量。
+4支持众多流行音频格式：MP3, M4A, WAV, AAC, FLAC, WMA, AIFF, AMR, AC3, MP2, OGG, M4R, AU等音频格式。
+5 简单易用,一键批量处理。
+6 可自定义音量大小。
+
+Audio Normalizer 反馈：
+ 任何建议将不胜感激，支持邮箱：market@effectmatrix.com
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple4/v4/d6/a4/12/d6a412a1-f7e7-154e-8718-ce8c509d92c8/mzl.vvypypux.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/f4/65/18/f4651816-7640-a190-406a-d4bf2e6ac984/mzl.rempgojb.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/bc/2c/28/bc2c28d6-3a3a-7e34-9300-167246425ca9/mzl.zqtudben.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SQLPro Studio]]></title>

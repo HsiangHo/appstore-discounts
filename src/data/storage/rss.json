@@ -1,6 +1,69 @@
 {
   "cn": [
     {
+      "kind": "mac-software",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/effectmatrix/id423957219?mt=12&uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/28/49/5f/28495f47-cbeb-d61b-fa1b-8b23f91c9e2a/Icon.png/60x60bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/28/49/5f/28495f47-cbeb-d61b-fa1b-8b23f91c9e2a/Icon.png/100x100bb.png",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple4/v4/d6/a4/12/d6a412a1-f7e7-154e-8718-ce8c509d92c8/mzl.vvypypux.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/f4/65/18/f4651816-7640-a190-406a-d4bf2e6ac984/mzl.rempgojb.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/bc/2c/28/bc2c28d6-3a3a-7e34-9300-167246425ca9/mzl.zqtudben.png/800x500bb.jpg"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/28/49/5f/28495f47-cbeb-d61b-fa1b-8b23f91c9e2a/Icon.png/512x512bb.png",
+      "artistId": 423957219,
+      "artistName": "effectmatrix",
+      "genres": [
+        "音乐",
+        "娱乐"
+      ],
+      "price": 28,
+      "bundleId": "com.etinysoft.AudioNormalizer",
+      "releaseDate": "2013-07-29T18:52:51Z",
+      "genreIds": [
+        "6011",
+        "6016"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "sellerName": "etinysoft Inc.",
+      "trackId": 673906093,
+      "trackName": "歌曲音量调节器Audio Normalizer",
+      "currentVersionReleaseDate": "2023-09-09T08:43:29Z",
+      "releaseNotes": "1 为苹果M1，M2芯片优化。\n2 修复软件bugs。",
+      "version": "1.2.0",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "Audio Normalizer 是一款简单易用的音量调节软件，智能统一音量大小，一键批量调整所有音乐或音频文件为大小一致的音量，避免了忽高忽低的声音效果给听众带来不好的体验。常见的音频格式都支持，如MP3, M4A, WAV, AAC, FLAC, WMA, AIFF, AMR, AC3, MP2, OGG, M4R, AU. \n\n功能：\n 1 调整单一的音频文件的音量。\n 2 统一多首音乐文件的音量。\n3直接无损调节MP3、M4A、WAV文件的音量。\n4支持众多流行音频格式：MP3, M4A, WAV, AAC, FLAC, WMA, AIFF, AMR, AC3, MP2, OGG, M4R, AU等音频格式。\n5 简单易用,一键批量处理。\n6 可自定义音量大小。\n\nAudio Normalizer 反馈：\n 任何建议将不胜感激，支持邮箱：market@effectmatrix.com",
+      "minimumOsVersion": "10.13",
+      "trackCensoredName": "歌曲音量调节器Audio Normalizer",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E6%AD%8C%E6%9B%B2%E9%9F%B3%E9%87%8F%E8%B0%83%E8%8A%82%E5%99%A8audio-normalizer/id673906093?mt=12&uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "averageUserRatingForCurrentVersion": 0,
+      "sellerUrl": "http://www.macvideostudio.com/audio-normalizer-mac.html",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "120320098",
+      "formattedPrice": "¥28.00",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "userRatingCount": 0,
+      "inAppPurchases": {},
+      "timestamp": 1749305710589,
+      "discounts": [
+        {
+          "type": "price",
+          "name": "价格",
+          "from": "¥38.00",
+          "to": "¥28.00",
+          "range": "[¥28.00 ~ ¥38.00]"
+        }
+      ]
+    },
+    {
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/d9/f4/9e/d9f49e5d-5543-856a-2f5d-6b8e9f2753fb/pr_source.png/800x500bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/37/c1/71/37c17106-bdba-ea66-b297-96755021fddf/pr_source.png/800x500bb.jpg",
