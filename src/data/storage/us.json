@@ -5745,6 +5745,25 @@
     "history": [
       [
         {
+          "timestamp": 1749270072579,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Synth Lead": "$1.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Synth Plucks": "$1.99",
+            "Groove Machine Synth": "$0.00",
+            "Transistor Bass": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749216572360,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -47253,6 +47272,22 @@
     "history": [
       [
         {
+          "timestamp": 1749270072579,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "移动端会员-连续包月": "$1.99",
+            "移动端会员-月卡": "$2.99",
+            "大学生专属特惠季卡": "$2.99",
+            "移动端会员-连续包季": "$5.99",
+            "大学生专属特惠年卡": "$9.99",
+            "移动端会员-年卡": "$14.99",
+            "移动端会员-季卡": "$5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749183857754,
           "price": 0,
           "formattedPrice": "Free",
@@ -64576,6 +64611,14 @@
     "history": [
       [
         {
+          "timestamp": 1749270072579,
+          "price": 17.99,
+          "formattedPrice": "$17.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749158213804,
           "price": 19.99,
           "formattedPrice": "$19.99",
@@ -65968,6 +66011,21 @@
       "Save Current Result": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749270072579,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- 25 Credits": "$7.99",
+            "10-second AI animation": "$1.99",
+            "Wink- 100 Credits": "$24.99",
+            "Wink- 5 Credits": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749251834530,
@@ -67855,6 +67913,16 @@
       "DeviceMirror Lite Lifetime": "$12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749270072579,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "DeviceMirror Lite Lifetime": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749158213804,

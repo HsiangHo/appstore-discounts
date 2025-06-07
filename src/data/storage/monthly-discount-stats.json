@@ -147,10 +147,10 @@
       }
     },
     "1395152179": {
-      "all": 2,
+      "all": 3,
       "price": 0,
       "inAppPurchase": {
-        "移动端会员-连续包月": 2
+        "移动端会员-连续包月": 3
       }
     },
     "1403919533": {
@@ -181,11 +181,23 @@
         "All features and modes": 1
       }
     },
+    "1576064082": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "1594288016": {
       "all": 1,
       "price": 0,
       "inAppPurchase": {
         "Yearly Auto-renew VIP": 1
+      }
+    },
+    "1598771178": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "DeviceMirror Lite Lifetime": 1
       }
     },
     "6450397515": {
