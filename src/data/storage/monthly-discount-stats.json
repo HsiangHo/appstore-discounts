@@ -121,6 +121,11 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "797275229": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "966457795": {
       "all": 1,
       "price": 1,
@@ -197,6 +202,21 @@
       "inAppPurchase": {
         "积分": 1
       }
+    },
+    "6739523960": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6738715418": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6738089759": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   }
 }

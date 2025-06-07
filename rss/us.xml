@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-06T23:23:12.618Z</updated>
+    <updated>2025-06-07T03:18:03.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-06T23:23:12.619Z</updated>
+        <updated>2025-06-07T03:18:03.020Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusFri, 06 Jun 2025 23:23:12 GMT</id>
+        <id>rankingusSat, 07 Jun 2025 03:18:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-06T23:23:12.620Z</updated>
+        <updated>2025-06-07T03:18:03.020Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -207,7 +207,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id966457795">Super PhotoCut</a>
+        <a href="https://apps.apple.com/us/app/id797275229">AudioTunes - FLAC, APE, WMA Converter</a>
       </td>
       <td>
         <ul>
@@ -222,6 +222,23 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>
         <b>7</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id966457795">Super PhotoCut</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1012296988">爱奇艺-在人间 幻境谜局</a>
@@ -244,7 +261,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1403919533">MWeb Pro</a>
@@ -261,7 +278,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1442745175">快帆加速器-海外回国音乐视频加速器</a>
@@ -286,7 +303,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1550581532">Vythm VJ - Music Visualizer DJ</a>
@@ -309,7 +326,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
@@ -332,7 +349,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6450397515">Transcribe & Speech to text</a>
@@ -357,7 +374,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6448913901">全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理</a>
@@ -378,6 +395,57 @@ feedId:49753370488353792+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>15</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6739523960">Allow Right Click for Safari</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>16</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6738715418">STEP and IGES File Viewer</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>17</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6738089759">Hide Mouse Cursor</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -389,6 +457,84 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allow Right Click for Safari]]></title>
+        <id>Allow Right Click for Safari-us-1749265923953</id>
+        <link href="https://apps.apple.com/us/app/allow-right-click-for-safari/id6739523960?uo=4"/>
+        <updated>2025-06-07T03:12:03.953Z</updated>
+        <summary type="html"><![CDATA[Price: $1.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/allow-right-click-for-safari/id6739523960?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ea/35/f9ea3591-a3aa-59b0-1a37-183f419f88f2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$1.99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ $1.99]</span>）
+</h2><h2>Application Description</h2><p>This software allows right-click, copy, cut, and paste functionality on all websites. It has a simple interface and is easy to use. You can copy any content, whether it’s text, images, or other media.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STEP and IGES File Viewer]]></title>
+        <id>STEP and IGES File Viewer-us-1749265923953</id>
+        <link href="https://apps.apple.com/us/app/step-and-iges-file-viewer/id6738715418?mt=12&amp;uo=4"/>
+        <updated>2025-06-07T03:12:03.953Z</updated>
+        <summary type="html"><![CDATA[Price: $12.99 → $0.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/step-and-iges-file-viewer/id6738715418?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/55/f8/ee55f8c1-9e6f-b66e-8745-8fa4073cc1e3/icon.png/60x60bb.png" />
+</a><h2>
+  Discount Information（Price：<span>$12.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $12.99]</span>）
+</h2><h2>Application Description</h2><p>A professional 3D viewer for STEP/STP, IGES/IGS, and other 3D file formats. Supports printing and converting 3D files with ease.</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/84/ec/4984ec88-a04a-e981-64d6-d6fec8d8a2b2/_U65e0_U6807_U989829.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/c7/6d/aec76dd3-5cd8-fe26-ef16-bf4ccf3a72ed/_U65e0_U6807_U9898.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/68/5a/63685a4f-4f46-ce54-b618-f9c0f6c6dada/_U65e0_U6807_U98982.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AudioTunes - FLAC, APE, WMA Converter]]></title>
+        <id>AudioTunes - FLAC, APE, WMA Converter-us-1749265923953</id>
+        <link href="https://apps.apple.com/us/app/audiotunes-flac-ape-wma-converter/id797275229?mt=12&amp;uo=4"/>
+        <updated>2025-06-07T03:12:03.953Z</updated>
+        <summary type="html"><![CDATA[Price: $3.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/audiotunes-flac-ape-wma-converter/id797275229?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/75/70/0f/75700f12-00b3-5d7a-1d02-8b3abfdb5a33/icon.png/60x60bb.png" />
+</a><h2>
+  Discount Information（Price：<span>$3.99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ $3.99]</span>）
+</h2><h2>Application Description</h2><p>
+  On sale. Original $4.99.
+*** Don't forget to download "Total Video Converter Pro" which converts any video and burns DVD. 50% OFF! ***
+
+AudioTunes is a powerful audio converter that converts common audios (MP3，wav，flac，ape，wma，amr，ac3，au etc) to iTunes simply by 3 clicks. You can play those audios on your Mac or download them to the iOS devices.
+
+Key features:
+* Easy to Use (No Complicated Setting)
+   Only 3 steps: Add files - Select the format - Click “Convert” button 
+
+* Synchronize converted audios to iTunes automatically
+
+* Convert audios formats that iTunes does not support into iTunes
+1. Input formats: MP3，wav，flac，ape，wma，amr，ac3，au ,etc.   
+2.Output formats: Almost all formats that iTunes supported, such as        mp3, aac, m4a, Apple Lossless, aiff
+
+* Batch conversion
+AudioTunes supports batch convert numerous files in a short time.
+
+* Save converted audios to custom directory
+
+* Drag & Drop is supported.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/fc/3f/a9/fc3fa9a1-638b-8ecc-fe2c-37bd1d81866d/mzl.sbukcjfn.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/88/c7/dd/88c7dd95-df0d-70d4-704c-45b741e25846/mzl.fqskoeta.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple4/v4/d1/10/f8/d110f813-9c39-6217-a11d-ef251a59b802/mzl.kkipvgee.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/bf/52/42/bf524222-f4d4-3407-3bbe-b542b5138fd5/mzl.vuwyhxcb.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hide Mouse Cursor]]></title>
+        <id>Hide Mouse Cursor-us-1749265923953</id>
+        <link href="https://apps.apple.com/us/app/hide-mouse-cursor/id6738089759?mt=12&amp;uo=4"/>
+        <updated>2025-06-07T03:12:03.953Z</updated>
+        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/hide-mouse-cursor/id6738089759?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/3e/95/423e9529-c3a8-daed-aa31-a91b61fc449c/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png" />
+</a><h2>
+  Discount Information（Price：<span>$0.99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ $0.99]</span>）
+</h2><h2>Application Description</h2><p>This app is a tool designed for users to hide the mouse cursor, which is particularly suitable for full-screen presentations, video playback or games, allowing users to focus on the content without being disturbed by the cursor, including one-click hiding/showing the cursor, shortcut key support, and custom settings.</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/e7/e9/14e7e980-14b9-dd96-141a-2deecdd1fe0c/Screenshot_2024-11-22_at_5.14.01_U202fPM_copy.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/48/67/b748678b-92ca-24f1-ea97-72ecc7924d6b/Screenshot_2024-11-22_at_5.14.01_U202fPM.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wink: Video Enhancer & Editor]]></title>
