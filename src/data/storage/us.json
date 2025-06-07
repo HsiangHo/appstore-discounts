@@ -36116,6 +36116,20 @@
     "history": [
       [
         {
+          "timestamp": 1749280564719,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "1个月腾讯视频VIP": "$3.99",
+            "付费商品": "$1.99",
+            "该付费商品": "$0.99",
+            "3个月腾讯视频VIP": "$9.99",
+            "该影片": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748406168220,
           "price": 0,
           "formattedPrice": "Free",
@@ -62025,6 +62039,22 @@
       "Tribal for desktop devices": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749280564719,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Vythm PRO": "$9.99",
+            "All features and modes": "$29.99",
+            "Unlock all (including updates)": "$139.99",
+            "Psychedelic mode for mobile": "$4.99",
+            "Mandala mode on mobile devices": "$4.99",
+            "Dreaming mode for mobile": "$4.99",
+            "Fluids mode for mobile devices": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749183857754,
