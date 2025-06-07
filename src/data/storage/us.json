@@ -10984,6 +10984,22 @@
     "history": [
       [
         {
+          "timestamp": 1749313212761,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "有道词典会员连续包月": "$3.99",
+            "有道词典超级会员": "$14.99",
+            "有道词典超级会员1个月": "$5.99",
+            "6充值币": "$0.99",
+            "10万字符加量包": "$0.99",
+            "50万字符加量包": "$3.99",
+            "有道词典超级会员1年": "$59.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749097567673,
           "price": 0,
           "formattedPrice": "Free",
@@ -20656,6 +20672,25 @@
       "100 Telegram Stars": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749313212761,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Telegram Premium": "$4.99",
+            "250 Telegram Stars": "$5.09",
+            "500 Telegram Stars": "$9.99",
+            "Telegram Premium Annual": "$34.99",
+            "1x Premium (3 Months)": "$14.99",
+            "75 Telegram Stars": "$1.59",
+            "1000 Telegram Stars": "$19.99",
+            "1x Premium (1 Year)": "$35.99",
+            "Telegram Premium (3-Month)": "$14.99",
+            "1x Premium (6 Months)": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749011117418,
