@@ -6913,6 +6913,17 @@
     "history": [
       [
         {
+          "timestamp": 1749302702915,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Full Access to PRO": "$6.99",
+            "Unlock Upgrade Features": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749216572360,
           "price": 0,
           "formattedPrice": "Free",

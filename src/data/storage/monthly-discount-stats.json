@@ -14,10 +14,10 @@
       "inAppPurchase": {}
     },
     "985614903": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "SQLPro Premium": 1
+        "SQLPro Premium": 2
       }
     },
     "1012296988": {
@@ -110,10 +110,10 @@
   },
   "us": {
     "450527929": {
-      "all": 4,
+      "all": 5,
       "price": 0,
       "inAppPurchase": {
-        "Full Access to PRO": 4
+        "Full Access to PRO": 5
       }
     },
     "673906093": {
