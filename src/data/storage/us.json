@@ -11439,6 +11439,25 @@
     "history": [
       [
         {
+          "timestamp": 1749389119576,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Editor Pro - Annual Plan": "$47.99",
+            "Editor Pro - Monthly Plan": "$8.99",
+            "Editor Pro - Annual Plan.2024": "$47.99",
+            "FotorPro+ - Monthly Plan": "$19.99",
+            "Pro discount - Monthly Plan": "$8.99",
+            "FotorPro+ - Annual Plan": "$89.99",
+            "Pro discount - Annual Plan": "$47.99",
+            "Fotor Pro - Recommend Offer": "$47.99",
+            "200 credits for pro": "$9.99",
+            "Editor Pro - Monthly Plan.cn": "$8.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749208547899,
           "price": 0,
           "formattedPrice": "Free",
