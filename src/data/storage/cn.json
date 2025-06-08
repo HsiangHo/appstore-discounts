@@ -29720,6 +29720,19 @@
     "history": [
       [
         {
+          "timestamp": 1749377854359,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "该付费商品": "¥3.00",
+            "付费商品": "¥12.00",
+            "1个月腾讯视频VIP": "¥30.00",
+            "3个月腾讯视频VIP": "¥78.00",
+            "该影片": "¥25.00",
+            "单点商品": "¥4.80"
+          }
+        },
+        {
           "timestamp": 1749356908916,
           "price": 0,
           "formattedPrice": "免费",
@@ -39721,7 +39734,7 @@
       "price": 0,
       "formattedPrice": "免费",
       "Mapcasts Premium": "¥8.00",
-      "地图广播高级版": "¥15.00",
+      "地图广播高级版": "¥68.00",
       "Tip": "¥8.00"
     },
     "minPriceInfo": {
@@ -39732,6 +39745,18 @@
       "Tip": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749377854359,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "地图广播高级版": "¥68.00",
+            "Mapcasts Premium": "¥8.00",
+            "Tip": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
