@@ -40622,6 +40622,25 @@
     "history": [
       [
         {
+          "timestamp": 1749370852614,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Xmind Pro+ (Annually)": "$65.00",
+            "Xmind Pro+ (Quarterly)": "$30.00",
+            "Xmind Premium (Monthly)": "$15.00",
+            "Xmind Premium (Annually)": "$99.00",
+            "All Platforms Quarterly": "$29.00",
+            "All Platforms Yearly": "$59.00",
+            "Desktop + Mobile (Monthly)": "$10.00",
+            "Mobile (Annually)": "$14.99",
+            "Desktop (Annually)": "$54.99",
+            "Xmind Pro (Annually)": "$59.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748315377312,
           "price": 0,
           "formattedPrice": "Free",
