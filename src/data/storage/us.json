@@ -30371,6 +30371,22 @@
     "history": [
       [
         {
+          "timestamp": 1749424576273,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Remixlive Premium (Monthly)": "$9.99",
+            "Trap": "$2.99",
+            "Electro": "$2.99",
+            "Drum & Bass": "$2.99",
+            "Deep House": "$2.99",
+            "Hip-Hop": "$2.99",
+            "Full Access to PRO": "$9.99",
+            "Future Beat": "$2.99",
+            "Dubstep": "$2.99"
+          }
+        },
+        {
           "timestamp": 1749420964234,
           "price": 0,
           "formattedPrice": "Free",
