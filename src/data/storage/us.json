@@ -18783,6 +18783,14 @@
     "history": [
       [
         {
+          "timestamp": 1749352948254,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749173078877,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -21291,6 +21299,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749352948254,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749265923953,
@@ -26521,6 +26537,18 @@
       "Transparent Object Cutout": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749352948254,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {
+            "Output High Resolution Image": "$0.00",
+            "Upgrade to Pro Full Features": "$9.99",
+            "Transparent Object Cutout": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749173078877,
