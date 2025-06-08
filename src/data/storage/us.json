@@ -6913,6 +6913,17 @@
     "history": [
       [
         {
+          "timestamp": 1749356908916,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Full Access to PRO": "$29.99",
+            "Unlock Upgrade Features": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749302702915,
           "price": 0,
           "formattedPrice": "Free",
@@ -27706,6 +27717,22 @@
       "年卡": "$29.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749356908916,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "黄金会员连续包月": "$3.99",
+            "月卡": "$3.99",
+            "黄金会员连续包季": "$10.49",
+            "黄金会员连续包年": "$29.99",
+            "季卡": "$9.99",
+            "连续包月": "$6.99",
+            "年卡": "$29.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749011117418,
