@@ -5745,6 +5745,25 @@
     "history": [
       [
         {
+          "timestamp": 1749443384150,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Synth Lead": "$1.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Synth Plucks": "$1.99",
+            "Groove Machine Synth": "$0.00",
+            "Transistor Bass": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749433132484,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -11021,6 +11040,22 @@
       "有道词典超级会员1年": "$59.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749443384150,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "有道词典会员连续包月": "$3.99",
+            "有道词典超级会员": "$14.99",
+            "有道词典超级会员1个月": "$5.99",
+            "6充值币": "$0.99",
+            "10万字符加量包": "$0.99",
+            "50万字符加量包": "$3.99",
+            "30充值币": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749313212761,
@@ -20755,6 +20790,25 @@
       "100 Telegram Stars": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749443384150,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Telegram Premium": "$4.99",
+            "250 Telegram Stars": "$5.09",
+            "500 Telegram Stars": "$9.99",
+            "Telegram Premium Annual": "$34.99",
+            "1x Premium (3 Months)": "$14.99",
+            "75 Telegram Stars": "$1.59",
+            "1000 Telegram Stars": "$19.99",
+            "1x Premium (1 Year)": "$35.99",
+            "Telegram Premium (3-Month)": "$14.99",
+            "100 Telegram Stars": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749313212761,
