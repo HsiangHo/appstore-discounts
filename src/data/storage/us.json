@@ -20817,6 +20817,23 @@
     "history": [
       [
         {
+          "timestamp": 1749475850453,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Telegram Premium": "$4.99",
+            "250 Telegram Stars": "$5.09",
+            "500 Telegram Stars": "$9.99",
+            "Telegram Premium Annual": "$34.99",
+            "1x Premium (3 Months)": "$14.99",
+            "75 Telegram Stars": "$1.59",
+            "1000 Telegram Stars": "$19.99",
+            "1x Premium (1 Year)": "$35.99",
+            "Telegram Premium (3-Month)": "$14.99",
+            "1x Premium (6 Months)": "$19.99"
+          }
+        },
+        {
           "timestamp": 1749443384150,
           "price": 0,
           "formattedPrice": "Free",
@@ -36776,6 +36793,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749475850453,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "ApowerMirror Personal(Monthly)": "$19.99",
+            "ApowerMirror Personal (Yearly)": "$39.99",
+            "900 minutes": "$12.99",
+            "360 minutes": "$3.99",
+            "Buy 3yr membership, get 3 free": "$59.99",
+            "1800 minutes": "$20.99",
+            "Yearly VIP": "$12.99",
+            "Monthly VIP": "$29.99",
+            "Personal 2 Years (Buy 1 get 1)": "$49.99"
+          }
+        },
         {
           "timestamp": 1749472652660,
           "price": 0,
