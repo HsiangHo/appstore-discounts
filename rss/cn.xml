@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-09T10:26:05.466Z</updated>
+    <updated>2025-06-09T16:29:04.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-09T10:26:05.468Z</updated>
+        <updated>2025-06-09T16:29:04.338Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnMon, 09 Jun 2025 10:26:05 GMT</id>
+        <id>rankingcnMon, 09 Jun 2025 16:29:04 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-09T10:26:05.469Z</updated>
+        <updated>2025-06-09T16:29:04.338Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -333,7 +333,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1544190466">避难所：生存</a>
+        <a href="https://apps.apple.com/cn/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
       </td>
       <td>
         <ul>
@@ -350,7 +350,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1576064082">DeviceMirror Pro -无线有线手机投屏</a>
+        <a href="https://apps.apple.com/cn/app/id1544190466">避难所：生存</a>
       </td>
       <td>
         <ul>
@@ -365,6 +365,23 @@ feedId:49753297431966720+userId:73658201673997312
     <tr>
       <td>
         <b>14</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id1576064082">DeviceMirror Pro -无线有线手机投屏</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1598771178">DeviceMirror Lite -无线手机投屏</a>
@@ -387,7 +404,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1619925971">UPDF - 新一代 AI 智能 PDF 编辑器</a>
@@ -410,7 +427,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6739523960">允许 Safari 右键单击</a>
@@ -427,7 +444,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6738715418">STEP 和 IGES 文件查看器</a>
@@ -444,7 +461,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6738089759">隐藏鼠标光标</a>
@@ -470,6 +487,53 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TextSniper - OCR, Copy & Paste]]></title>
+        <id>TextSniper - OCR, Copy &amp; Paste-cn-1749486195582</id>
+        <link href="https://apps.apple.com/cn/app/textsniper-ocr-copy-paste/id1528890965?mt=12&amp;uo=4"/>
+        <updated>2025-06-09T16:23:15.582Z</updated>
+        <summary type="html"><![CDATA[价格: ¥58.00 → ¥38.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/textsniper-ocr-copy-paste/id1528890965?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/7a/b6/2b7ab603-fdee-d92e-f3ea-f3ef5f597aef/AppIcon-new-0-0-85-220-0-2-0-2x.png/60x60bb.png" />
+</a><h2>
+  优惠信息（价格：<span>¥58.00</span> → <b>
+  <strong>¥38.00</strong>
+</b><span>[¥38.00 ~ ¥58.00]</span>）
+</h2><h2>应用描述</h2><p>
+  TextSniper is an easy-to-use desktop Mac OCR app that can extract and recognize any non-searchable and non-editable text on your Mac's screen. As an extra feature, it can turn OCR text into speech. It is a super convenient alternative to complicated optical character recognition tools.
+
+The tool is intuitive to use and makes extracting text from your images, scanned paper documents, PDFs, or even videos easy. No training or special skills are required, and it fits perfectly home and business Mac users. Easily accessible from the menu bar whenever you need it and has a simple user interface. 
+
+If you have used a built-in Mac screen capture application before, it wouldn't be any trouble to work with TextSniper, too. Select with a mouse any part of an image, photo, PDF document, or anything on your screen, and the app will process and recognize any text within this selection. The text output will be saved into a clipboard so you can paste it into your favourite macOS text editing or note-taking software. 
+
+Finally, the app's optical character recognition engine doesn't need an internet connection to process documents. Great OCR solution for those who are concerned about privacy. The application does not collect any users' data.
+
+Use Cases:
+• Convert different image formats to text (JPEG, PNG, GIF, TIFF, BMP, etc.).
+• Pull text from a non-searchable PDF file without a need to process the whole document.
+• Read text from images, PDF documents, photos, Zoom meetings, or any other sources.
+• Copy text even when it is uncopiable, like in ebooks or web articles.
+• Quickly extract emails, links, phone numbers, etc.
+• Grab text or turn it into speech in video games.
+• Read QR or barcodes.
+• Quickly generate alt text from the screenshot for tweets.
+
+Features:
+• On-device OCR technology. No internet connection is needed.
+• Instant text recognition. No need to upload files into the application. OCR document or file on the fly.
+• High accuracy and performance in processing any documents.
+• Recognizes even tiny text on images with low-quality or dense background.
+• Customizable. Custom keyboard shortcuts to extract text with various options.
+• You can have TextSniper speak the recognized text whenever you need it.
+• Supports optical character recognition in multiple languages: English, Spanish, French, German, Portuguese, Italian,  Traditional and Simplified Chinese.
+• Running macOS Ventura: All the above languages plus Ukrainian, Korean, Japanese and Russian.
+• Running macOS Sonoma: All the above languages plus Thai and Vietnamese.
+• Running macOS Sequoia: All the above languages plus Arabic and Najdi Arabic.
+• Running macOS Catalina: English language only supported.
+• Use your iPad or iPhone camera to capture text from a photo or scanned document quickly.
+• Fully compatible with macOS Sonoma and optimised for Apple's M1-M3 chips.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/78/ec/c778ec00-fd20-75d8-8490-1595db186fe5/874d684d-dee4-4c59-a252-70064415d940_appStore_01_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/04/75/7b047524-c1a5-9579-0bff-ce1aefe96010/374d7e25-b5b4-447f-bdbe-45651cc8884b_appStore_02_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/87/fd/bc87fd48-719b-11e2-1385-1d56379504e3/8d73581b-f46e-4881-a83c-304cbddadc5c_appStore_03_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/0d/68/f30d68d9-9451-0333-7ba4-b12f0b07ae2e/07e2c426-538f-4876-8210-408c3943a5b1_appStore_04_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/50/9a/1f509a06-e7bf-f355-960a-96783793aae9/95ccc544-4cdb-4d91-b7e4-4a7eea3ffa48_appStore_05_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/bd/98/8dbd9870-243d-dbbe-bc5d-1abe5369718b/65a3f23b-cf55-4730-a569-4c661d1da6da_appStore_06_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/4a/19/d34a192d-e9b8-ffeb-cb3e-a6dbf2594d7d/4c5a6f15-dd6f-4964-9414-34b0bef9d62b_appStore_07_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/00/94/6500942d-a32c-3254-3230-201cb9323fc0/0aed8b36-02b2-471c-802c-bfc3bbbea1dc_appStore_08_2560x1600.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[音频剪辑 – 手机铃声制作&mp3音乐剪辑]]></title>
@@ -814,77 +878,5 @@ SQLPro offers Premium subscriptions (or a single Lifetime purchase) in order to 
 - 您可以访问(长按) https://www.camoryapps.com/netpower/service/musicmixer_cn.html 来阅读服务条款
 *价格相当于“苹果App Store矩阵”所确定的相当于以美元为单位的认购价。
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/29/49/11/29491182-5df7-ad1e-c9b0-ac2a24f48a2e/1e304ac9-b23f-4e72-95d7-932218b86dd7_5.5_U82f1_U5bf81_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3f/13/3a/3f133a57-559b-71d3-17f5-f735b3e3d016/d917d6b6-78fc-4dbc-b995-dfbb45058b10_5.5_U82f1_U5bf82_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/aa/e8/08aae87f-0536-f70e-2305-f48103fe08ec/13ed63c2-0e3c-4332-95cd-195f01145a81_5.5_U82f1_U5bf83_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/70/a4/0a70a4c4-54e0-8acc-e3ef-8b5b8b46b6c6/294c541f-8023-449d-8c07-5a02b47dd8df_5.5_U82f1_U5bf84_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/18/0a/58180a1a-3f35-a19a-0309-a95f7a7c9c29/f0e65d15-4c0b-46d3-8286-20c61ba8e2ca_5.5_U82f1_U5bf85_cn.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/22/40/23/224023c1-1bd0-8118-6abe-2a75d7bb8d48/e9ae84ee-8b06-411d-82be-64ec8c0b44d5_12.9_U82f1_U5bf81_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/68/ed/d268edcb-346b-40ca-9f1d-f1a1617520b1/a1b344cd-34f3-44dd-98be-468601f88e3a_12.9_U82f1_U5bf82_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3d/11/d9/3d11d970-9c33-4b79-2956-46725b2c8168/b81d0e54-3a35-4aca-be78-4a6d55949114_12.9_U82f1_U5bf83_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b4/64/93/b4649310-9ec4-6e83-2c72-644217fcdd41/e5d7e6ab-9225-4860-9f42-ad553978548d_12.9_U82f1_U5bf84_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e5/97/85/e5978592-d3dc-9a0c-0fcc-1070189f4286/b401ad29-510b-4371-b581-f5e15f9cc8ae_12.9_U82f1_U5bf85_cn.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[允许 Safari 右键单击]]></title>
-        <id>允许 Safari 右键单击-cn-1749219462787</id>
-        <link href="https://apps.apple.com/cn/app/%E5%85%81%E8%AE%B8-safari-%E5%8F%B3%E9%94%AE%E5%8D%95%E5%87%BB/id6739523960?uo=4"/>
-        <updated>2025-06-06T14:17:42.787Z</updated>
-        <summary type="html"><![CDATA[价格: ¥15.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%85%81%E8%AE%B8-safari-%E5%8F%B3%E9%94%AE%E5%8D%95%E5%87%BB/id6739523960?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ea/35/f9ea3591-a3aa-59b0-1a37-183f419f88f2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥15.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥15.00]</span>）
-</h2><h2>应用描述</h2><p>该软件允许在所有网站上使用右键单击、复制、剪切和粘贴功能。它具有简单的界面，易于使用。您可以复制任何内容，无论是文本、图像还是其他媒体。</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STEP 和 IGES 文件查看器]]></title>
-        <id>STEP 和 IGES 文件查看器-cn-1749219462787</id>
-        <link href="https://apps.apple.com/cn/app/step-%E5%92%8C-iges-%E6%96%87%E4%BB%B6%E6%9F%A5%E7%9C%8B%E5%99%A8/id6738715418?mt=12&amp;uo=4"/>
-        <updated>2025-06-06T14:17:42.787Z</updated>
-        <summary type="html"><![CDATA[价格: ¥88.00 → ¥8.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/step-%E5%92%8C-iges-%E6%96%87%E4%BB%B6%E6%9F%A5%E7%9C%8B%E5%99%A8/id6738715418?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/55/f8/ee55f8c1-9e6f-b66e-8745-8fa4073cc1e3/icon.png/60x60bb.png" />
-</a><h2>
-  优惠信息（价格：<span>¥88.00</span> → <b>
-  <strong>¥8.00</strong>
-</b><span>[¥8.00 ~ ¥88.00]</span>）
-</h2><h2>应用描述</h2><p>适用于 STEP/STP、IGES/IGS 和其他 3D 文件格式的专业 3D 查看器。支持轻松打印和转换 3D 文件。</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/84/ec/4984ec88-a04a-e981-64d6-d6fec8d8a2b2/_U65e0_U6807_U989829.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/c7/6d/aec76dd3-5cd8-fe26-ef16-bf4ccf3a72ed/_U65e0_U6807_U9898.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/68/5a/63685a4f-4f46-ce54-b618-f9c0f6c6dada/_U65e0_U6807_U98982.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AudioTunes - FLAC, APE, WMA Converter]]></title>
-        <id>AudioTunes - FLAC, APE, WMA Converter-cn-1749219462787</id>
-        <link href="https://apps.apple.com/cn/app/audiotunes-flac-ape-wma-converter/id797275229?mt=12&amp;uo=4"/>
-        <updated>2025-06-06T14:17:42.787Z</updated>
-        <summary type="html"><![CDATA[价格: ¥28.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/audiotunes-flac-ape-wma-converter/id797275229?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/75/70/0f/75700f12-00b3-5d7a-1d02-8b3abfdb5a33/icon.png/60x60bb.png" />
-</a><h2>
-  优惠信息（价格：<span>¥28.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥28.00]</span>）
-</h2><h2>应用描述</h2><p>
-  限时促销。原价28元。只为手快的您准备。
-
-AudioTunes是一款强大的音频转换器，它可以便捷地转化常用格式的音频至iTunes。帮助您在Mac上播放这些音频或者将音频下载到iOS设备中。
-
-主要特征：
-* 操作简单
-  您所需要做的只有3步：添加文件，选择格式，点击转化按钮.而   不需要进行繁琐的参数设置。
-* 自动同步转化后的文件到iTunes
-* 转化iTunes不支持的音频格式至iTunes
-1.支持的输入格式：MP3，wav，flac，ape，wma，amr，ac3，au       等
-2.支持的输出格式：iTunes支持的所有音频格式，例如mp3, aac,       m4a, Apple Lossless, aiff，wav
-* 批量转化
-    AudioTunes支持在短时间内批量转化多数文件
-* 自定义输出文件的存储目录
-* 简单方便的用户接口，支持拖放操作
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/4a/0c/f8/4a0cf80c-527f-1a4c-244d-b7b49d42a2e3/mzl.awobwxka.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple4/v4/1c/75/e8/1c75e819-840f-e775-6c3c-3fecde74fda1/mzl.cdidnnhe.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/f4/85/09/f4850941-9aec-41cc-b1b0-7c79f44866bb/mzl.edpruxar.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/ba/67/2a/ba672aba-afb6-ed78-eec3-3b5fe0633931/mzl.beskegdq.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隐藏鼠标光标]]></title>
-        <id>隐藏鼠标光标-cn-1749219462787</id>
-        <link href="https://apps.apple.com/cn/app/%E9%9A%90%E8%97%8F%E9%BC%A0%E6%A0%87%E5%85%89%E6%A0%87/id6738089759?mt=12&amp;uo=4"/>
-        <updated>2025-06-06T14:17:42.787Z</updated>
-        <summary type="html"><![CDATA[价格: ¥8.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E9%9A%90%E8%97%8F%E9%BC%A0%E6%A0%87%E5%85%89%E6%A0%87/id6738089759?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/3e/95/423e9529-c3a8-daed-aa31-a91b61fc449c/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png" />
-</a><h2>
-  优惠信息（价格：<span>¥8.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥8.00]</span>）
-</h2><h2>应用描述</h2><p>这款应用是一款专为用户隐藏鼠标光标的工具，特别适合全屏演示、视频播放或游戏，让用户能够专注于内容而不受光标的干扰，包括一键隐藏/显示光标、快捷键支持和自定义设置。</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/e7/e9/14e7e980-14b9-dd96-141a-2deecdd1fe0c/Screenshot_2024-11-22_at_5.14.01_U202fPM_copy.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/48/67/b748678b-92ca-24f1-ea97-72ecc7924d6b/Screenshot_2024-11-22_at_5.14.01_U202fPM.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>

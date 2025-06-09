@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-08T07:21:04.673Z</updated>
+    <updated>2025-06-09T16:29:04.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-08T07:21:04.675Z</updated>
+        <updated>2025-06-09T16:29:04.345Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSun, 08 Jun 2025 07:21:04 GMT</id>
+        <id>rankingusMon, 09 Jun 2025 16:29:04 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-08T07:21:04.675Z</updated>
+        <updated>2025-06-09T16:29:04.345Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -50,13 +50,13 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>852</b>
+        <b>853</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>852</b>
+        <b>853</b>
       </td>
       <td>
         <b></b>
@@ -67,13 +67,13 @@ feedId:49753370488353792+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>841</b>
+        <b>842</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>841</b>
+        <b>842</b>
       </td>
       <td>
         <b></b>
@@ -329,7 +329,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1576064082">DeviceMirror -Screen Mirroring</a>
+        <a href="https://apps.apple.com/us/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
       </td>
       <td>
         <ul>
@@ -344,6 +344,23 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>
         <b>13</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1576064082">DeviceMirror -Screen Mirroring</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
@@ -366,7 +383,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1598771178">DeviceMirror Lite -Screen Cast</a>
@@ -389,7 +406,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6450397515">Transcribe & Speech to text</a>
@@ -414,7 +431,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6448913901">全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理</a>
@@ -437,7 +454,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6739523960">Allow Right Click for Safari</a>
@@ -454,7 +471,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6738715418">STEP and IGES File Viewer</a>
@@ -471,7 +488,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6738089759">Hide Mouse Cursor</a>
@@ -497,6 +514,53 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TextSniper - OCR, Copy & Paste]]></title>
+        <id>TextSniper - OCR, Copy &amp; Paste-us-1749486195582</id>
+        <link href="https://apps.apple.com/us/app/textsniper-ocr-copy-paste/id1528890965?mt=12&amp;uo=4"/>
+        <updated>2025-06-09T16:23:15.582Z</updated>
+        <summary type="html"><![CDATA[Price: $11.99 → $7.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/textsniper-ocr-copy-paste/id1528890965?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/7a/b6/2b7ab603-fdee-d92e-f3ea-f3ef5f597aef/AppIcon-new-0-0-85-220-0-2-0-2x.png/60x60bb.png" />
+</a><h2>
+  Discount Information（Price：<span>$11.99</span> → <b>
+  <strong>$7.99</strong>
+</b><span>[$7.99 ~ $11.99]</span>）
+</h2><h2>Application Description</h2><p>
+  TextSniper is an easy-to-use desktop Mac OCR app that can extract and recognize any non-searchable and non-editable text on your Mac's screen. As an extra feature, it can turn OCR text into speech. It is a super convenient alternative to complicated optical character recognition tools.
+
+The tool is intuitive to use and makes extracting text from your images, scanned paper documents, PDFs, or even videos easy. No training or special skills are required, and it fits perfectly home and business Mac users. Easily accessible from the menu bar whenever you need it and has a simple user interface. 
+
+If you have used a built-in Mac screen capture application before, it wouldn't be any trouble to work with TextSniper, too. Select with a mouse any part of an image, photo, PDF document, or anything on your screen, and the app will process and recognize any text within this selection. The text output will be saved into a clipboard so you can paste it into your favourite macOS text editing or note-taking software. 
+
+Finally, the app's optical character recognition engine doesn't need an internet connection to process documents. Great OCR solution for those who are concerned about privacy. The application does not collect any users' data.
+
+Use Cases:
+• Convert different image formats to text (JPEG, PNG, GIF, TIFF, BMP, etc.).
+• Pull text from a non-searchable PDF file without a need to process the whole document.
+• Read text from images, PDF documents, photos, Zoom meetings, or any other sources.
+• Copy text even when it is uncopiable, like in ebooks or web articles.
+• Quickly extract emails, links, phone numbers, etc.
+• Grab text or turn it into speech in video games.
+• Read QR or barcodes.
+• Quickly generate alt text from the screenshot for tweets.
+
+Features:
+• On-device OCR technology. No internet connection is needed.
+• Instant text recognition. No need to upload files into the application. OCR document or file on the fly.
+• High accuracy and performance in processing any documents.
+• Recognizes even tiny text on images with low-quality or dense background.
+• Customizable. Custom keyboard shortcuts to extract text with various options.
+• You can have TextSniper speak the recognized text whenever you need it.
+• Supports optical character recognition in multiple languages: English, Spanish, French, German, Portuguese, Italian,  Traditional and Simplified Chinese.
+• Running macOS Ventura: All the above languages plus Ukrainian, Korean, Japanese and Russian.
+• Running macOS Sonoma: All the above languages plus Thai and Vietnamese.
+• Running macOS Sequoia: All the above languages plus Arabic and Najdi Arabic.
+• Running macOS Catalina: English language only supported.
+• Use your iPad or iPhone camera to capture text from a photo or scanned document quickly.
+• Fully compatible with macOS Sonoma and optimised for Apple's M1-M3 chips.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/78/ec/c778ec00-fd20-75d8-8490-1595db186fe5/874d684d-dee4-4c59-a252-70064415d940_appStore_01_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/04/75/7b047524-c1a5-9579-0bff-ce1aefe96010/374d7e25-b5b4-447f-bdbe-45651cc8884b_appStore_02_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/87/fd/bc87fd48-719b-11e2-1385-1d56379504e3/8d73581b-f46e-4881-a83c-304cbddadc5c_appStore_03_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/0d/68/f30d68d9-9451-0333-7ba4-b12f0b07ae2e/07e2c426-538f-4876-8210-408c3943a5b1_appStore_04_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/50/9a/1f509a06-e7bf-f355-960a-96783793aae9/95ccc544-4cdb-4d91-b7e4-4a7eea3ffa48_appStore_05_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/bd/98/8dbd9870-243d-dbbe-bc5d-1abe5369718b/65a3f23b-cf55-4730-a569-4c661d1da6da_appStore_06_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/4a/19/d34a192d-e9b8-ffeb-cb3e-a6dbf2594d7d/4c5a6f15-dd6f-4964-9414-34b0bef9d62b_appStore_07_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/00/94/6500942d-a32c-3254-3230-201cb9323fc0/0aed8b36-02b2-471c-802c-bfc3bbbea1dc_appStore_08_2560x1600.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[djay - DJ App & AI Mixer]]></title>
@@ -1007,348 +1071,5 @@ Wink VIP-Annual subscription entails a 12-month period.
 Terms of Service：https://pro.meitu.com/wink-cut/agreements/common/service-global.html?lang=en
 Privacy Policy：https://pro.meitu.com/wink-cut/agreements/common/policy-global.html?lang=en
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/3a/89/673a8941-bea4-f1cd-781d-b47742368d31/iOS_1242x2208_EN-13.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/8d/be/0c8dbe5b-7e41-d71a-2fee-4f18302b2653/iOS_1242x2208_EN-14.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/7c/3b/de7c3b7b-e879-2656-17ef-dfa1c85fd0d5/iOS_1242x2208_EN-15.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/76/49/f5764995-2fe4-66cb-4c39-644403b7c8f3/iOS_1242x2208_EN-11.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/50/8a/93508a27-5f4c-447a-f019-6e46dc643fdc/iOS_1242x2208_EN-12.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/06/1d/07061dec-477b-18f5-eb7c-0d81935c5d99/iOS_1242x2208_EN-5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/ef/3b/44ef3bf2-851e-2d2c-b8e7-daa81a2131be/iOS_1242x2208_EN-3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/15/b6/d815b63c-4b4a-8813-09a9-0e36f7462ef9/iOS_1242x2208_EN-7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/e8/c1/aae8c1d6-1a0f-b017-7242-e09c3e36afb2/iOS_1242x2208_EN-9.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/cd/4d/36cd4d1c-1106-1845-d074-f93cc9369bab/iOS_1242x2208_EN-1.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/fc/56/d2fc566a-225c-1af3-c123-3a35ac3001ab/f0c00bb5-97ad-41cf-9c7c-91b9bac7efd0_2048_U00d72732_01__U82f1_U6587.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/76/9a/4a769a22-17ff-1926-05da-8d726e6145e9/4d3bb3ff-5177-430e-a6b9-3f9ed17b0cf9_2048_U00d72732_02__U82f1_U6587.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/3f/8e/d13f8e83-d68d-e790-92af-0a0ec9694925/afdb1a70-008c-4f38-a476-3cc367c88187_2048_U00d72732_03__U82f1_U6587.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/33/df/6933df70-58a2-c714-21be-f6f085e4b41e/20c74a76-4bb2-42de-be4d-46ea1bf55a5d_2048_U00d72732_04__U82f1_U6587.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/fe/02/e5fe0283-5b43-c621-b4a7-04cf1a5a4580/1395c882-eff8-4505-8134-20357125076a_2048_U00d72732_05__U82f1_U6587.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[djay - DJ App & AI Mixer]]></title>
-        <id>djay - DJ App &amp; AI Mixer-us-1749205203218</id>
-        <link href="https://apps.apple.com/us/app/djay-dj-app-ai-mixer/id450527929?uo=4"/>
-        <updated>2025-06-06T10:20:03.218Z</updated>
-        <summary type="html"><![CDATA[Full Access to PRO: $29.99 → $6.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/djay-dj-app-ai-mixer/id450527929?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/4a/19/6f4a1992-b1ac-3392-0a1a-08b11e319129/AppIcon-0-0-1x_U007epad-0-11-0-P3-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Full Access to PRO：</strong><span>$29.99</span> → <b>
-  <strong>$6.99</strong>
-</b><span>[$6.99 ~ $29.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  *** Apple Design Award Winner 2024 ***
-
-Welcome to djay! The #1 DJ app and winner of multiple Apple Design Awards now integrates with Apple Music - mix over 100 million songs instantly!
-
-djay transforms your iOS device into a full-featured DJ system. Seamlessly integrated with your music library, djay allows you to mix your favorite songs and playlists. You can perform live, remix tracks, or enable Automix mode to let djay create a seamless mix for you automatically. Whether you are a professional DJ or a beginner who just loves to play with music, djay offers you the most intuitive yet powerful DJ experience on an iOS device. 
-
-APPLE MUSIC INTEGRATION
-
-• Access to over 100 million songs
-• Match: recommendations based on the currently playing song 
-• Your library: all your music seamlessly integrated
-• Listen Now and Charts integration 
-• Discover new music and add songs to your Apple Music library right from within djay
-• Powerful search capabilities for the vast catalog of Apple Music
-
-ADVANCED MEDIA LIBRARY
-
-• Apple Music: 100+ million tracks, your personal library in the cloud (Apple Music subscription)
-• TIDAL: Millions of tracks, high quality sound (TIDAL DJ Extension)
-• SoundCloud: Millions of underground and premium tracks (SoundCloud Go+)
-• Beatport: Millions of electronic music tracks (Beatport Advanced Subscriptions)
-• Beatsource: Millions of open-format music tracks (Beatsource Subscription)
-• Files: access files in the cloud (e.g. Dropbox), on your iOS device, or on external hard drives seamlessly
-• My Collection: Powerful playlists management 
-
-AUTOMIX
-
-• Automatic, beat-matched mixes 
-• Queue and Playlist automation
-
-NEURAL MIX™
-
-• Isolate vocals, drums, and instrumentals in real-time (not supported with Apple Music)
-
-MUSIC PRODUCTION TOOLS
-
-• Sequencer: create beats on top of your music live
-• Looper: remix your music with up to 48 loops per track
-• Beat-matched sequencing of drums and samples
-• Extensive content library with hundreds of loops and samples.
-
-HARDWARE INTEGRATION
-
-• Plug-and-play integration with over 100 MIDI controllers by Pioneer DJ, Reloop, Hercules, Numark, Denon DJ, and more
-• Digital Vinyl System (DVS) Integration
-• Advanced MIDI Learn to map any class-compliant MIDI controller
-• Support for Bluetooth audio and MIDI
-• Support for multi-channel USB audio interfaces and video output
-
-POWERFUL AUDIO ENGINE
-
-• Ableton Link integration
-• Fluid Beatgrid
-• High-res waveforms
-
-BUILT FOR iOS
-
-• Accessible via VoiceOver
-• Airplay, Live Photos, Apple Watch, and iCloud integration
-• Haptic Feedback, Drag & Drop, Keyboard Shortcuts
-• Multi-Tasking: Slide Over and Split View support
-
-Top features of the optional Pro subscription include: 
-
-• Unlimited access to an extensive library of samples, loops, FX, and visuals 
-• Neural Mix™
-• Sampler & Looper 
-• Automix 
-• Crossfader FX 
-• Video Mixing 
-• Music Visualizers
-• Single Deck mode
-• 4-Deck mode 
-• Advanced media library editing
-• Pre-cueing with headphones 
-• Hardware integration (MIDI controllers, DVS, multi-channel audio interfaces)
-• 7-day free trial: free access to all djay Pro content and features for one week, cancel anytime
-
-The optional PRO subscription allows you to subscribe once and use djay Pro across all your Mac and iOS devices, including access to all PRO features, as well as 1000+ loops, samples, and visuals.
-
-A supported streaming subscription and an internet connection are required to access songs from a streaming service in djay. No recording available for streamed songs. Neural Mix cannot be used when streaming from Apple Music. Specific songs may not be available or accessible on your account or in your country. Streaming service availability and pricing may vary depending on country, currency and service.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/18/8d/58188d45-2533-846f-93e2-f10c2c68d5d2/72028049-230d-4fd4-84dc-6aeb104ba4a6_0_APP_iPHONE_55_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/4a/4f/364a4fdf-0375-bc81-890c-082cf467a1d3/401c2652-0c1b-4ac4-be5e-d362c5849574_1_APP_iPHONE_55_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/31/87/35318772-7caa-4b7d-3820-6d7ffc0a39f2/ef514d61-e459-428f-91a5-9e15e6541712_2_APP_iPHONE_55_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/3d/a5/3c3da563-a29d-3707-ab97-be987d52d545/7f936548-2083-4a9e-9797-1183d1d769a7_3_APP_iPHONE_55_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/1e/26/8e1e26cb-1d13-cb4d-0aac-2e6518cc442b/180b18b5-c1d5-45c9-8c17-c4924ec7a3fa_4_APP_iPHONE_55_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/57/d0/e057d03a-bdea-8894-11f8-1bfb909fe7d8/cf177d5c-8ae7-46eb-b497-91229d9f6766_5_APP_iPHONE_55_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/46/f4/f246f47d-d8f2-97e0-4167-13e46014edd1/8cb24a62-af91-4673-b92d-ae1421ad273a_6_APP_iPHONE_55_6.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/08/ab/6d08abb2-728f-c627-9b6a-de25f81e5715/599e389f-61c5-4616-a7f8-7fd40ac76f67_0_APP_iPAD_0.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/91/15/889115af-9352-3316-e122-df361a054663/0499301f-9c3f-4abf-a6f2-21990643de59_1_APP_iPAD_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/b2/66/44b266a3-bcd8-faa6-f8dc-aeda93efc895/7ddc227a-e333-4fdc-bafc-c45f54379b86_2_APP_iPAD_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/ed/32/99ed32bf-8ab0-9448-81bd-a1959c6a8dc6/3bc320ce-45ea-46c5-ab69-754e4b066129_3_APP_iPAD_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/84/9e/e5849eaf-e70c-9cfe-5f67-610817e5473c/21f4b058-703f-4731-add0-3c072f3258ad_4_APP_iPAD_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/df/9d/6fdf9dd1-64c9-eb81-c1fe-59f2cec780cf/bdb68404-ed0c-4dc9-b911-b2d875876a93_5_APP_iPAD_5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/32/e7/9a32e75a-4a95-e3d0-329e-a29d65507bec/0d2ac403-e1d8-4880-b06d-001cb09f406d_6_APP_iPAD_6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/9d/60/d49d605c-55f2-0162-f399-edf2f0728485/b4760ed0-b57d-4f0e-a6ab-049fd9e50a7c_7_APP_iPAD_7.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MWeb Pro]]></title>
-        <id>MWeb Pro-us-1749179647345</id>
-        <link href="https://apps.apple.com/us/app/mweb-pro/id1403919533?mt=12&amp;uo=4"/>
-        <updated>2025-06-06T03:14:07.345Z</updated>
-        <summary type="html"><![CDATA[Price: $34.99 → $17.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/mweb-pro/id1403919533?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/a7/cf/bda7cfce-be15-3073-6b9d-d898e63f4da9/AppIconPro-0-0-85-220-0-0-5-0-2x.png/60x60bb.png" />
-</a><h2>
-  Discount Information（Price：<span>$34.99</span> → <b>
-  <strong>$17.99</strong>
-</b><span>[$17.99 ~ $34.99]</span>）
-</h2><h2>Application Description</h2><p>
-  MWeb was born in 2015. It is a writing, note-taking and publishing app focusing on Markdown. If you like Markdown or text writing, We highly recommend you try MWeb.
-
-This is MWeb Pro, which has just one more static website generation feature than MWeb.
-
-MWeb is composed of a complete and stable editor, a Folders mode for managing documents, a Library mode specifically for notes, and a document publishing and sharing function set, with a total of four modules. The characteristic of MWeb's software is that it selects the best technology for each platform. It is built using AppKit on macOS and UIKit on iOS/iPadOS. The following is a brief introduction to these four modules. If you are interested, you can continue reading.
-
-## Editor features
-
-Here are some of the key features of an editor:
-
-* Base on CommonMark syntax and GitHub Flavored Markdown (GFM) extended syntax, supporting TOC, tables, code blocks, math formulas, task lists, footnotes, etc.
-* Display the text of the Markdown document completely without any deletion.
-* Images can be displayed directly in the Editor, supporting jpg, png, gif, webP, HEIC and etc.
-* Math formulas, mermaid and Echarts drawings can be previewed in the editor.
-* You can set your favorite font or multiple fonts for writing.
-* You can choose from 11 light themes and 21 dark themes, and also support custom themes.
-* There is a menu to facilitate the input of Markdown syntax, and a special Markdown syntax keyboard is also provided in iOS.
-* Convenient tools for generating and formatting Markdown table syntax.
-* You can view the outline and word count of Markdown documents.
-* Markdown documents can be previewed and support Editor & Preview mode.
-
-## Folders mode
-
-The first requirement of Markdown is to create and edit Markdown documents, and MWeb's Folders mode does this. It supports the following features:
-
-* Create Markdown, Textbundle documents, or simply open them for editing.
-* Introduce a folder with Markdown documents into the Folders mode of MWeb. MWeb will provide practical functions such as management of Markdown documents, full-text search, copy and paste to insert images, and unified storage of referenced images.
-* iPadOS/iOS version supports Dropbox folders.
-
-## Library mode
-
-Markdown is so easy to use, so taking notes is also in great demand. Of course, you can use Folders mode and introduce a folder to take notes, which is also very nice and easy to share. So why do we still create a separate Library mode? Mainly, the Library mode has the following features:
-
-* There is no need to consider the file name, title and storage location, Just create note and writing.
-* Use category trees and tags to manage notes. A single note can be classified into multiple categories, making it easier to set categories for notes.
-* Organizing notes is more convenient. When moving categories and notes, renaming categories will not affect each other. You don't need to worry about incorrect associations between notes, incorrect reference location of images and attachments in notes, etc.
-* Complete cross-device synchronization using iCloud CloudKit technology.
-* The Library follows the "local first" principle and is stored in a folder, very easy for backup. Even if you use iCloud sync, your Library can be completely backed up locally.
-* Export the entire category of notes to PDF or Epub e-book.
-* The macOS version of MWeb Pro also supports generating static blogs from categories. The generated blog fully supports math formulas, mermaid, echarts etc. Allows you to create your own blog in a very simple way.
-
-## More features...
-
-* Publish documents or notes to Wordpress, Metaweblog API, Evernote, Blogger, Tumblr, Yuque, sspai Matrix, Ghost and Medium.
-* Upload images in documents or notes to imgur, Qiniu, SM.MS, Tencent COS, Youpai, Alibaba OSS, custom API, etc.
-* Export documents or notes to PDF (with Table of Contents in macOS version).
-* Export documents or notes to Epub or image.
-
-Hope you enjoy MWeb!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/06/a2/62/06a262dc-25c2-c83d-3c60-2cc6722095ac/b550175a-1435-43ed-9e0f-f6a9b0110849_screenshot_1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6e/1d/e8/6e1de840-7ab4-2b6a-426d-792a76474f2d/37685ba0-b05b-4309-bddc-7126caf12529_screenshot_2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/12/b5/9d/12b59dd0-c28a-1a6d-ab3b-4533811e5780/9b346979-a01a-46a6-aad6-1d1811bbd347_screenshot_3.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b9/6c/8e/b96c8e17-8b6f-5bff-4e31-6364ff68b363/2425843d-b463-43f8-b738-95784379629e_screenshot_4.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/40/9f/7e/409f7e65-480d-c71a-d37b-1f6cce7c119f/5c881ec4-44e9-4076-86ae-08b2db26c58a_screenshot_8.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/80/56/25/805625e4-d376-9c47-1154-1e9a6502149c/b96d43b6-640f-4861-9963-a2230e04c873_screenshot_5.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0b/27/11/0b271105-d9ed-f964-a34b-8eb70c5ced69/87d222ac-b03e-4302-a251-e7335e0eb14f_screenshot_6.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/04/12/34/04123401-8923-6b04-54b0-e59274c3a409/dd8795c1-f897-437d-9d46-17ab5c693bbe_screenshot_7.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a3/3c/c4/a33cc455-8975-3bdc-8c24-ee25cc00397b/41d040ac-6327-4c82-8df0-0d306e045a2e_screenshot_9.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8c/dd/fc/8cddfcdc-9bdf-b5d4-c2c4-9d40c1861252/77d342ca-79c9-48d6-981f-de02cbfa00ec_screenshot_10.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Super PhotoCut]]></title>
-        <id>Super PhotoCut-us-1749173078877</id>
-        <link href="https://apps.apple.com/us/app/super-photocut/id966457795?mt=12&amp;uo=4"/>
-        <updated>2025-06-06T01:24:38.877Z</updated>
-        <summary type="html"><![CDATA[Price: $8.99 → $4.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/super-photocut/id966457795?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6a/99/2b/6a992ba0-a189-9396-7e34-13acb5867b94/AppIcon_non-pro-85-220-4-2x.png/60x60bb.png" />
-</a><h2>
-  Discount Information（Price：<span>$8.99</span> → <b>
-  <strong>$4.99</strong>
-</b><span>[$4.99 ~ $8.99]</span>）
-</h2><h2>Application Description</h2><p>
-  ***On sale for a limited time. Original USD $29.99***
-Super PhotoCut interactive cutout tool isolates and separates a detailed foreground object from photos.  With our proprietary best-in-class algorithm masking tool, you can instantly remove complex image backgrounds and make them transparent with just a few clicks. Get the dramatic stand-out images done in seconds-to-minutes instead of minutes-to-hours.  
-
-Unlike those image processing software in the market, Super PhotoCut doesn't require any special technical skills. You just need mark the object with a rectangle to obtain the desired result. Super PhotoCut will automatically cut objects out for you.
-
-Super PhotoCut speeds up your design process, enhance your design time and improves the quality of your photos! It will save you hours that you usually spent on cutting out an object using Photoshop.  It is time to say goodbye to the PhotoShop lasso and magic wand tool. 
-
-Key Features:
-1 Instantly and Accurately remove complex background from images.
-
-2 Smart Algorithm: Cuts object out with critical precision. It enables extremely fast operation with great results on any image, minimizing the amount of work you need to put in. 
-
-3 Supports almost all image formats: JPG,BMP,PNG,GIF,Raw...
-
-4 Separate foreground from background easily. Live preview the final effect.
-
-5 Transparency Processing Supported. Export to Transparent PNG images.
-
-6 20 kinds of background transition effects are for your choices: 
-Disc Blur, Gaussian Blur, Box Blur, Motion Blur, Zoom Blur, Color Controls, Exposure Adjust, Gamma Adjust, Hue Adjust, Vibrance, Color Invert, Color Posterize, Chrome, Fade, Instant, Mono, Process, Transfer, Sepia Tone, Vignette, Vignette Effect.
-
-7 Zoom to any level necessary allows you to inspect details while quickly navigating your image. 
-
-8 Create isolated images with colored or transparent backgrounds. Or import your favorite picture as the background image.
-
-9 Undo / Redo: never fear that a mistake will ruin your work. 
-
-10 Configurable Auto-Brush-Size: The mark size adapts dynamically to your zoom level so that you can easily zoom in to make detailed edits. 
-
-Increase conversion rates with stunning product photos that conform to eBay and Amazon requirements at a little cost. People all over the world are more productive with Super PhotoCut.  Try it out today! 
-
-Feedback:
-Any suggestion will be highly appreciated. Support email: market@effectmatrix.com
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/50/4d/08/504d0824-f7d2-9644-0ae4-802c9c7fba88/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/eb/83/f2/eb83f23c-46c4-35a3-5817-ff2854696363/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/64/10/72/641072ab-5d83-9b73-6894-1a4f2bffef27/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/5d/9e/4e/5d9e4e85-1b81-da39-79bc-4cbf0b1bbe75/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/8a/93/0a/8a930a97-5814-01e3-e445-fe8b3f73883c/pr_source.jpg/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audio Normalizer - Mp3 Gain]]></title>
-        <id>Audio Normalizer - Mp3 Gain-us-1749173078877</id>
-        <link href="https://apps.apple.com/us/app/audio-normalizer-mp3-gain/id673906093?mt=12&amp;uo=4"/>
-        <updated>2025-06-06T01:24:38.877Z</updated>
-        <summary type="html"><![CDATA[Price: $19.99 → $4.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/audio-normalizer-mp3-gain/id673906093?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/28/49/5f/28495f47-cbeb-d61b-fa1b-8b23f91c9e2a/Icon.png/60x60bb.png" />
-</a><h2>
-  Discount Information（Price：<span>$19.99</span> → <b>
-  <strong>$4.99</strong>
-</b><span>[$4.99 ~ $19.99]</span>）
-</h2><h2>Application Description</h2><p>
-  Audio Normalizer provides a batch normalizing feature that helps users to balance all the music and audio files to equal volume in the most popular audio formats like MP3, M4A, WAV, AAC, FLAC, WMA, AIFF, AMR, AC3, MP2, OGG, M4R, AU etc with high accuracy and at maximum speed with a single click.  
-
-Is it annoying to adjust the volume of each file individually? Download Audio Normalizer for Mac now. 
-
-Audio Normalizer Features:
-1 Equalize multi-audio files to the same volume with a single click.
-2 Leveling the volume of MP3, M4A, WAV files directly losslessly. 
-3 Supports many popular audio formats: MP3, M4A, WAV, AAC, FLAC, WMA, AIFF, AMR, AC3, MP2, OGG, M4R, AU files.
-4 Supports batch processing.
-5 You can custom volume level.
-6 Awesome Usability: Easy to use through a modern and clear user interface.
-
-Please note that volume of DRM-protected files can not be analyzed and adjusted.
-
-Audio Normalizer Feedback:
-Any suggestion will be appreciated, email us at: market@effectmatrix.com
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/54/e5/21/54e52136-aedd-7be7-401c-1b0d57167876/mzl.slwgpxzg.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/81/1b/a2/811ba285-ce2a-0bbf-4471-5c16141f4493/mzl.bxrizfzd.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/0e/0b/b3/0e0bb301-860d-715c-ff63-8b5466a78619/mzl.fporlniz.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vythm VJ - Music Visualizer DJ]]></title>
-        <id>Vythm VJ - Music Visualizer DJ-us-1749173078877</id>
-        <link href="https://apps.apple.com/us/app/vythm-vj-music-visualizer-dj/id1550581532?uo=4"/>
-        <updated>2025-06-06T01:24:38.877Z</updated>
-        <summary type="html"><![CDATA[All features and modes: $44.99 → $29.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/vythm-vj-music-visualizer-dj/id1550581532?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/4c/1a/4d4c1a8f-6bf6-f4e3-6198-f4c2f5b0efac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>All features and modes：</strong><span>$44.99</span> → <b>
-  <strong>$29.99</strong>
-</b><span>[$29.99 ~ $44.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  --- Experience Your Music with Vythm ---
-Unlock the potential of music visualization with Vythm! Vythm is a versatile music visualization app that allows you to create visual artworks in harmony with your selected music. It includes a variety of unique visualization modes, including Equalizer, Mandala, Shapes, Fluids, Psychedelic, Dreaming, and more. Choose a background and apply image effects to personalize your visualization completely.
-
---- Your Vision, Your Visualization ---
-Vythm provides you with numerous options to realize your creative vision:
-- Over 100 carefully selected backgrounds.
-- MIDI input for precise visual control.
-- NDI streaming support for sharing your creations.
-- Real-time image effects like color correction, bloom, chromatic aberration, and more.
-- Size, rotation, and orientation adjustments.
-And much more!
-
-The Equalizer, Rhythm, and Peer modes are available for free, while other modes can be unlocked through a subscription.
-
---- Input Formats ---
-Select your music from a variety of sources:
-- Import any mp3 or m4a files.
-- Access your iTunes library (Please note that Apple Music is not currently supported).
-- Utilize your device's microphone, with sensitivity adjustments for various use cases.
-- Enjoy three preselected songs for quick inspiration.
-
---- Record Your Masterpiece ---
-Vythm offers a recording feature that enables you to share or save your creations. Revisit your immersive visual world at your convenience or dazzle your audience with your artistic masterpiece.
-
---- Share Your Thoughts ---
-Our top priority is to provide you with the best possible experience. If you encounter issues or have ideas for new features, please do not hesitate to contact us at info@mkgames.org.
-
-If you enjoy the app, we would greatly appreciate your feedback and a review! Thank you for choosing Vythm!
-
-Download and experience Vythm (Music Visualization 2024 / Audio Visualizer) today!
-
-Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/cf/b6/32cfb6c4-a7ed-d003-57cb-e398e8500472/969b8d5c-328b-4594-adae-d169c8a20d22_iPhone_8_Plus_-_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/8f/c1/348fc1a6-1eb8-312d-342b-9bb91573f8a5/37871899-1163-44b0-9b6b-5c5639aa6f75_iPhone_8_Plus_-_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/0f/34/440f34a7-6b35-7142-6a29-2f7ccaa970f0/a944b2c6-1f21-45b9-91a7-d29c742548de_iPhone_8_Plus_-_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/57/cc/0557cc2a-c016-363b-38da-da705a3323de/2f7d3b6e-de33-416e-8b28-a6e179eb8218_iPhone_8_Plus_-_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/cd/e7/aacde7db-acf2-7ed5-2ca9-1fa26e9fe54c/26ca2506-fa5c-42cf-b48a-2894faac0978_iPhone_8_Plus_-_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/06/b8/a906b850-7573-827a-a0e6-94e98601796a/9cecd023-d9e5-48ad-b562-090d8cd4dcf8_iPad_Pro_12.9__-_1__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/b8/eb/5eb8eb38-3f40-c460-f6fb-71238c38d845/38b748ef-00ec-4f92-ada5-328ddd019b69_iPad_Pro_12.9__-_2__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/ad/d5/a2add544-3f83-3277-879c-c012a5866944/af682f10-d7a2-432f-a21a-ff34c853dc49_iPad_Pro_12.9__-_3__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/2e/37/f82e374f-a4a8-ade7-23f1-b1ace6f49ef1/f9045d4d-cc6a-40d1-bbba-5c2d6c722551_iPad_Pro_12.9__-_4__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/d8/d4/2fd8d494-4e2b-35a7-70af-bc5754407c52/78378f23-5337-4063-b6bc-7065901f41d4_iPad_Pro_12.9__-_5__U00282nd_generation_U0029.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QuickFox-海外回国加速器追剧听歌游戏留学生必备]]></title>
-        <id>QuickFox-海外回国加速器追剧听歌游戏留学生必备-us-1749115175624</id>
-        <link href="https://apps.apple.com/us/app/quickfox-%E6%B5%B7%E5%A4%96%E5%9B%9E%E5%9B%BD%E5%8A%A0%E9%80%9F%E5%99%A8%E8%BF%BD%E5%89%A7%E5%90%AC%E6%AD%8C%E6%B8%B8%E6%88%8F%E7%95%99%E5%AD%A6%E7%94%9F%E5%BF%85%E5%A4%87/id1514073011?uo=4"/>
-        <updated>2025-06-05T09:19:35.624Z</updated>
-        <summary type="html"><![CDATA[Continuous Monthly VIP: $5.99 → $4.99<br/>Annual VIP: $84.99 → $39.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/quickfox-%E6%B5%B7%E5%A4%96%E5%9B%9E%E5%9B%BD%E5%8A%A0%E9%80%9F%E5%99%A8%E8%BF%BD%E5%89%A7%E5%90%AC%E6%AD%8C%E6%B8%B8%E6%88%8F%E7%95%99%E5%AD%A6%E7%94%9F%E5%BF%85%E5%A4%87/id1514073011?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/9d/c6/299dc64b-3e7a-1a46-9d41-e9717d3e8c32/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Continuous Monthly VIP：</strong><span>$5.99</span> → <b>
-  <strong>$4.99</strong>
-</b><span>[$4.99 ~ $5.99]</span>
-  </li><li>
-    <strong>Annual VIP：</strong><span>$84.99</span> → <b>
-  <strong>$39.99</strong>
-</b><span>[$39.99 ~ $84.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  QuickFox is a high-quality accelerator specially created for overseas Chinese and students. It is a accelerator for overseas Chinese to watch TV dramas, listen to songs, play games, live events, business offices, futures and stock trading, etc.
-
-It has now provided high-quality return acceleration services to millions of overseas Chinese students around the world. It is one-click direct connection, stable and easy to use, and is the first choice for overseas Chinese around the world to accelerate their links to China.
-
-Please note: This product is only available to overseas users. Users in mainland China cannot use this product service normally, please download with caution.
-
-【QuickFox main functions】
-*Connect to the domestic network with one click, and visit domestic applications and web pages with low latency.
-*Reduced latency for Chinese server games: various popular Chinese server games such as Honor of Kings, Identity V, Peace Elite, Eggboy Party, DNF, Genshin Impact, Steam, etc. have stable connections and ultra-low latency.
-- Covering global dedicated servers, high-speed connection with low latency fluctuations, stable switching and continuous connection.
-- One account can be switched seamlessly, and multiple devices can be logged in at the same time, making it convenient and fast.
-
-[QuickFox technical advantages]
-*High-speed dedicated server.
-*Global nodes, stable acceleration.
-*High-level encryption, privacy guaranteed.
-
-[Continuous monthly membership]
-1. Benefits: accelerated advertising-free, exclusive super VIP member servers, etc.
-2. 1-month subscription.
-3. Subscription price: Continuous monthly subscription for RMB 40
-4. Payment: Credited to the iTunes account after payment
-5. Cancel renewal: Manually turn off the automatic renewal function in iTunes/Apple ID settings within 24 hours before the current subscription period expires.
-6. Renewal: Apple's iTunes account will be deducted within 24 hours before expiration. After the deduction is successful, the subscription period will be extended by one subscription period.
-7. Privacy Policy: https://inside.quickfox.com.cn/agreement
-8. Continuous monthly membership service agreement: https://inside.quickfox.com.cn/monthlyVipAgreement
-9. VIP Service Agreement: https://inside.quickfox.com.cn/memberServiceAgreement
-10. Terms of Service: https://inside.quickfox.com.cn/clause
-============================
-Email: info@quickfox.com.cn
-WeChat public account: QuickFox
-============================
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/68/10/276810a4-2c6f-ef94-0400-3e9043c23e93/1f86a32d-7e2b-45d3-8c23-9af542180541_1242x2208-ASA_U63a8_U5e7f_U9875.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/c2/63/0bc26310-44fd-52d8-4aab-a92d60faf83a/aa43dd4f-124e-4d4a-8720-a904dc3fa03c_1242x2208-_U5c4f_U5e55_U5feb_U71671.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/28/40/332840d6-91d3-9a72-6b88-46b2db286694/ff0afd87-9fcc-4dae-8fb3-ed1ab5e65faf_1242x2208-_U5c4f_U5e55_U5feb_U71672.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/3e/e9/db3ee950-4143-6e99-2f68-b8be7ed14b47/2ef597ed-f4dc-429a-acf6-77d9c2858ce0_1242x2208-_U5c4f_U5e55_U5feb_U71674.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/59/49/5b594951-263f-e1ff-c829-310079bf1233/ed62d4f0-f8b9-4ef6-9872-01c2e9e4b5fd_1242x2208-_U5c4f_U5e55_U5feb_U71673.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/07/03/1d0703ac-f9a6-db7c-d6a2-6e647d2289ac/1242x2208-_U5c4f_U5e55_U5feb_U7167-5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/f7/b6/e2f7b620-326e-20d4-7339-a012408e641e/f1155b3c-fc29-4080-b5bf-55309fa0c3fb_2048x2732-_U5c4f_U5e55_U5feb_U71671.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/72/9f/e7729f27-4775-8048-b906-c2fb4054fc94/c25076fc-63a7-4421-a176-a1792de6888d_2048x2732-_U5c4f_U5e55_U5feb_U71672.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/49/6e/a6496e9e-6e11-8908-ebd3-2b4548150156/6bd2d2ff-3773-49cf-9cf3-15fce8514cd6_2048x2732-_U5c4f_U5e55_U5feb_U71674.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/e0/d4/a9e0d421-fef2-7deb-fb98-a84fa998612f/b81fdd19-f57d-44c2-b6ea-55ef5df6af06_2048x2732-_U5c4f_U5e55_U5feb_U71673.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
