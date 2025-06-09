@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 288419283,
+    name: {
+      us: 'RadarScope',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1600873673,
     name: {
       cn: '炭炭背单词｜四六级考研等英语单词学习',
