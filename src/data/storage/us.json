@@ -30557,6 +30557,22 @@
     "history": [
       [
         {
+          "timestamp": 1749582841944,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Remixlive Premium (Monthly)": "$9.99",
+            "Trap": "$2.99",
+            "Electro": "$2.99",
+            "Drum & Bass": "$2.99",
+            "Deep House": "$2.99",
+            "Hip-Hop": "$2.99",
+            "Full Access to PRO": "$9.99",
+            "Future Beat": "$2.99",
+            "Dubstep": "$2.99"
+          }
+        },
+        {
           "timestamp": 1749579940976,
           "price": 0,
           "formattedPrice": "Free",
@@ -47785,6 +47801,22 @@
       "移动端会员-半年卡": "$8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749582841944,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "移动端会员-连续包月": "$1.99",
+            "移动端会员-月卡": "$2.99",
+            "大学生专属特惠季卡": "$2.99",
+            "移动端会员-连续包季": "$5.99",
+            "移动端会员-年卡": "$14.99",
+            "大学生专属特惠年卡": "$9.99",
+            "移动端会员-半年卡": "$8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749270072579,
