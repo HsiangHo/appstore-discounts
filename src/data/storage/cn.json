@@ -15090,7 +15090,8 @@
       "750 Telegram Stars": "¥124.00",
       "1500 Telegram Stars": "¥249.00",
       "2500 Telegram Stars": "¥413.00",
-      "350 Telegram Stars": "¥58.00"
+      "350 Telegram Stars": "¥58.00",
+      "100 Telegram Stars": "¥16.80"
     },
     "minPriceInfo": {
       "price": 0,
@@ -15112,9 +15113,29 @@
       "750 Telegram Stars": "¥124.00",
       "1500 Telegram Stars": "¥249.00",
       "2500 Telegram Stars": "¥413.00",
-      "350 Telegram Stars": "¥58.00"
+      "350 Telegram Stars": "¥58.00",
+      "100 Telegram Stars": "¥16.80"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749550781963,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Telegram Premium": "¥33.00",
+            "Telegram Premium Annual": "¥268.00",
+            "1x Premium (3 Months)": "¥98.00",
+            "Telegram Premium (3-Month)": "¥98.00",
+            "1x Premium (1 Year)": "¥268.00",
+            "1x Premium (6 Months)": "¥148.00",
+            "100 Telegram Stars": "¥16.80",
+            "Telegram Premium (1 Year)": "¥298.00",
+            "Telegram Premium (6 month)": "¥168.00",
+            "250 Telegram Stars": "¥41.80"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749127047783,
@@ -54338,6 +54359,24 @@
       "笔记高级会员连续包年": "¥198.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749550781963,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "有道云笔记月会员": "¥18.00",
+            "有道云笔记超级会员包月会员": "¥28.00",
+            "笔记高级会员连续包月": "¥18.00",
+            "有道云笔记超级会员包季会员": "¥68.00",
+            "笔记超级会员连续包月": "¥28.00",
+            "有道云笔记高级会员包季会员": "¥48.00",
+            "有道云笔记超级会员包年会员": "¥238.00",
+            "有道云笔记年会员": "¥198.00",
+            "2年笔记高级会员": "¥398.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748946016002,
