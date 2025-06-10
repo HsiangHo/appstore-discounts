@@ -30557,6 +30557,25 @@
     "history": [
       [
         {
+          "timestamp": 1749579940976,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Speed Hardgroove": "$2.99",
+            "Drip Tech House": "$2.99",
+            "Altered Hip-Hop": "$2.99",
+            "Glow Trap": "$2.99",
+            "Phonk": "$2.99",
+            "Indigo Beats": "$2.99",
+            "Voyager Synthwave": "$2.99",
+            "Titanium Bass": "$2.99",
+            "Sphere Electro": "$2.99",
+            "Chill Boom Bap": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749424576273,
           "price": 0,
           "formattedPrice": "Free",
@@ -86466,14 +86485,22 @@
   "6444789815": {
     "name": "记事本++",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749579940976,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
