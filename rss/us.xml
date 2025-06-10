@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-09T19:20:04.240Z</updated>
+    <updated>2025-06-10T04:32:05.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-09T19:20:04.241Z</updated>
+        <updated>2025-06-10T04:32:05.456Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusMon, 09 Jun 2025 19:20:04 GMT</id>
+        <id>rankingusTue, 10 Jun 2025 04:32:05 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-09T19:20:04.241Z</updated>
+        <updated>2025-06-10T04:32:05.456Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -140,6 +140,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1012296988">爱奇艺-临江仙 离婚仙侠</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>连续包月</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1339124759">Audio Editor & Music Mixer</a>
       </td>
       <td>
@@ -162,7 +185,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1514073011">QuickFox-海外回国加速器追剧听歌游戏留学生必备</a>
@@ -187,7 +210,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1550581532">Vythm VJ - Music Visualizer DJ</a>
@@ -210,7 +233,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id673906093">Audio Normalizer - Mp3 Gain</a>
@@ -227,7 +250,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id797275229">AudioTunes - FLAC, APE, WMA Converter</a>
@@ -244,7 +267,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id966457795">Super PhotoCut</a>
@@ -255,29 +278,6 @@ feedId:49753370488353792+userId:73658201673997312
             <span>Total Times</span>：<b>1</b>
           </li><li>
             <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>9</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1012296988">爱奇艺-在人间 幻境谜局</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>连续包月</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -537,6 +537,82 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱奇艺-临江仙 离婚仙侠]]></title>
+        <id>爱奇艺-临江仙 离婚仙侠-us-1749529592678</id>
+        <link href="https://apps.apple.com/us/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&amp;uo=4"/>
+        <updated>2025-06-10T04:26:32.678Z</updated>
+        <summary type="html"><![CDATA[连续包月: $6.99 → $3.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/2e/3f/222e3ff7-222b-8c27-aeb1-2d1082336d55/Mac_AppIcon-2x_U007euniversal-0-5-0-85-220-0.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>连续包月：</strong><span>$6.99</span> → <b>
+  <strong>$3.99</strong>
+</b><span>[$3.99 ~ $6.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  爱奇艺Mac客户端，简洁轻量的视频客户端。
+支持TouchBar&TrackPad、小窗播放。
+支持4K画质、杜比音效，爱奇艺海量内容畅享视听盛宴！
+体验最新版需要升级到macOS 10.15或更高版本。如有其它问题可以访问： https://app.iqiyi.com/mac/player/index.html
+欢迎联系我们的官方QQ：938355165
+———————我是海量内容的分割线———————
+【独播热播 给你想要】
+精彩戏剧实时看：临江仙、在人间、护宝寻踪、人生若如初见、淮水竹亭、无忧渡、借命而生、绝密较量、乌云之上、念无双、黄雀、北上
+热播电影不间断：向阳·花、黄沙漫天、美国队长4、唐探1900、红色一号：冬日行动、误杀3、射雕英雄传：侠之大者、哪吒之魔童降世
+热门综艺看不停：微笑一号店、亚洲新声、奔跑吧第9季、哈哈哈哈哈第5季、种地吧第3季、现在就开麦—妈妈请就位！、恋爱兄妹、哈哈哈哈哈第4季、喜剧之王单口季
+动漫番剧随心换：航海王、超能立方：超凡篇、绝世战魂、我能无限顿悟、成何体统、都市古仙医、蜡笔小新 第8季 普通话、名侦探柯南 普通话
+经典纪录片细品味：与恐龙同行、舌尖上的中国 第四季、舌尖上的中国 第一季、河西走廊、人间世、中国医生、中华才子传第一季
+海外剧集尽情选：请回答1988、经常请吃饭的漂亮姐姐、金秘书为何那样、大力女子都奉顺、老友记、风骚律师、哥谭镇、明日传奇、小谢尔顿
+
+【VIP会员 尊享特权】
+1、内容特权：院线新片、海量高分大片、热剧抢先看、独家综艺、付费影片折扣、畅读小说。
+2、观影特权：广告特权、1080P、帧绮映画、杜比全景声、杜比视界、专属弹幕、下载加速、并行下载、边下边播、预约下载。
+3、身份特权：七端全屏通、畅享多会员、尊贵标识、尊享装扮、生日礼包、专属客服、等级权益红包、赠送好友影片、好友免费一起看。
+
+【自动续费黄金会员】
+-- 黄金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、杜比音效、下载特权等。
+-- 订阅周期：1个月（黄金会员连续包月产品），3个月(黄金会员连续包季产品)，12个月（黄金会员连续包年产品）。
+-- 订阅价格：以iAP申请信息为准，例如连续包月产品每月25元，连续包季产品每季68元，连续包年产品每年238元。
+-- 付款：用户确认购买并付款后记入iTunes账户。
+-- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
+-- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+-- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
+-- 隐私政策： http://www.iqiyi.com/common/privateh5.html
+-- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
+-- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
+【自动续费白金会员】
+-- 白金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画MAX、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、2台设备同时播放、下载特权等。
+-- 订阅周期：1个月（白金会员连续包月产品），3个月(白金会员连续包季产品)，12个月（白金会员连续包年产品）。
+-- 订阅价格：以iAP申请信息为准，例如连续包月产品每月35元，连续包季产品每季98元，连续包年产品每年348元。
+-- 付款：用户确认购买并付款后记入iTunes账户。
+-- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
+-- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+-- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
+-- 隐私政策： http://www.iqiyi.com/common/privateh5.html
+-- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
+-- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
+【自动续费星钻会员套餐说明】
+-- 星钻会员权益：享海量会员专享内容、会员抢先看、加更礼免费看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、3台设备同时播放、下载特权等。
+-- 订阅周期：1个月（星钻会员连续包月产品），3个月（星钻会员连续包季产品），12个月（星钻连续包年产品）
+-- 订阅价格：以iAP申请信息为准，例如连续包月产品为每月45元，连续包季产品每季118元，连续包年每年428元。
+-- 付款：用户确认购买并付款后计入iTunes账户。
+-- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能。
+-- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+-- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
+-- 隐私政策： http://www.iqiyi.com/common/privateh5.html
+-- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
+-- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
+【自动续费体育会员套餐说明】
+--体育会员权益：爱体育会员享每月2场付费比赛直播或点播（高尔夫比赛除外），爱足球会员有效期内可看平台播出的所有足球比赛，并享广告特权、1080P、多语解说、额外单点付费低至3折。
+--订阅周期：1个月（连续包月产品）。
+--订阅价格：爱体育会员连续包月9元/月，爱足球会员连续包月33元/月
+--付款：用户确认购买并付款后记入iTunes账户
+--取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
+--续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/19/d3/bf/19d3bfd6-9e0a-3605-7ddb-1e9913dda13c/132add12-49bd-4d88-8ae5-5ac5488a4ca1_App_Store_U7269_U65991.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/03/a0/da/03a0da78-2838-3c81-c29d-28700c0682f7/80a29786-6e1e-4cd9-8a4a-00e146f32816_App_Store_U7269_U65992.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/32/58/00/325800bb-a68b-32ec-cbe8-5c90b590dc5f/cec956df-a085-48a5-b159-9a135f1e5ef2_App_Store_U7269_U65993.jpg/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[腾讯视频-折腰 全网独播]]></title>
@@ -929,270 +1005,5 @@ Download and experience Vythm (Music Visualization 2024 / Audio Visualizer) toda
 
 Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/cf/b6/32cfb6c4-a7ed-d003-57cb-e398e8500472/969b8d5c-328b-4594-adae-d169c8a20d22_iPhone_8_Plus_-_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/8f/c1/348fc1a6-1eb8-312d-342b-9bb91573f8a5/37871899-1163-44b0-9b6b-5c5639aa6f75_iPhone_8_Plus_-_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/0f/34/440f34a7-6b35-7142-6a29-2f7ccaa970f0/a944b2c6-1f21-45b9-91a7-d29c742548de_iPhone_8_Plus_-_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/57/cc/0557cc2a-c016-363b-38da-da705a3323de/2f7d3b6e-de33-416e-8b28-a6e179eb8218_iPhone_8_Plus_-_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/cd/e7/aacde7db-acf2-7ed5-2ca9-1fa26e9fe54c/26ca2506-fa5c-42cf-b48a-2894faac0978_iPhone_8_Plus_-_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/06/b8/a906b850-7573-827a-a0e6-94e98601796a/9cecd023-d9e5-48ad-b562-090d8cd4dcf8_iPad_Pro_12.9__-_1__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/b8/eb/5eb8eb38-3f40-c460-f6fb-71238c38d845/38b748ef-00ec-4f92-ada5-328ddd019b69_iPad_Pro_12.9__-_2__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/ad/d5/a2add544-3f83-3277-879c-c012a5866944/af682f10-d7a2-432f-a21a-ff34c853dc49_iPad_Pro_12.9__-_3__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/2e/37/f82e374f-a4a8-ade7-23f1-b1ace6f49ef1/f9045d4d-cc6a-40d1-bbba-5c2d6c722551_iPad_Pro_12.9__-_4__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/d8/d4/2fd8d494-4e2b-35a7-70af-bc5754407c52/78378f23-5337-4063-b6bc-7065901f41d4_iPad_Pro_12.9__-_5__U00282nd_generation_U0029.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奇游加速器 - 全球游戏畅玩]]></title>
-        <id>奇游加速器 - 全球游戏畅玩-us-1749270072579</id>
-        <link href="https://apps.apple.com/us/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4"/>
-        <updated>2025-06-07T04:21:12.579Z</updated>
-        <summary type="html"><![CDATA[移动端会员-连续包月: $2.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/24/0d/5d240d0a-4401-ac6e-fe9f-165012b8adf4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>移动端会员-连续包月：</strong><span>$2.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $2.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  【 热门游戏，“游”先支持】
-支持PUBGM、王者荣耀国际服 、使命召唤战区、绝地求生：刺激战场 、吃鸡外服、鹅鸭杀手游，暗区突围国际服、飞机大厨、咒术回战、炉石传说国际服、ROBLOX国际版、原神国际服、英雄联盟手游（lol：wild rift）、云顶之弈手游、方舟：终极移动版等游戏加速！
-
-【海量手游库 新游上线快 】
-支持PUBGM、王者国际服、使命召唤战区、星际战甲国际服、炉石传说国际服、暗区突围国际服、飞机大厨、对峙2、云顶之奕PBE、鹅鸭杀、赛马娘、pubg2、暗黑破坏神不朽、apex手游、二之国、全境封锁手游、战地手游、瓦罗兰特手游、绝地求生刺激战场全球服、使命召唤手游全球服、八方旅人、符文大地传说、Among US、游戏王、方舟生存进化、黎明杀机、公主连接、冒险岛M、地球末日生存、Teon中文版、剑灵：革命、战争机器人、地牢猎手5、FIFA、碧蓝幻想全球服、iron force、世界计划、多彩舞台、第七史诗（epic 7）、和平精英全球服、堡垒之夜、fgo、影之诗、失落龙约黑色沙漠、文明重启全球服、荒野乱斗、狂野飙车9等游戏加速！游戏库包罗千款好玩游戏，热游新游排行一目了然。平均每天3款游戏的速度上新。App内可以随时提交想玩的游戏，你想玩的我们都支持！
-
-【 奇游电竞级加速 】
-奇游全自研“Qiy”电竞级加速引擎震撼上线，加速稳定性更胜一筹，不惧移动网络的波动。基于奇游电竞级游戏网络，带你感受稳定流畅的游戏体验。低延迟、不掉线，WIFI/5G随心切换。
-
-【新游推荐 硬核攻略 】
-新增游戏清单、新游预上线时间表等功能，更多实用、funny的游戏主题等你探索。游戏介绍、新游推荐、硬核攻略，丰富的游戏深度内容带你打开新世界的大门！
-
-【客服小队 随时待命 】
-奇游客服小队7x12h陪伴你的左右。使用过程中有任何疑问和反馈，我们随时待命。
-
-【自动续费套餐说明】
-1、订阅周期及套餐名称：1个月（连续包月），3个月(连续包季)
-2、订阅价格：以IAP申请信息为准，例如连续包月价格为首月15元，次月15元/月自动续费 
-3、付款：用户确认购买并付款后计入iTunes账户。
-4、取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能，到期前24小时内取消，将会收取订阅费用。
-5、续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
-6、隐私政策：https://www.qiyou.cn/specials/qymobile-protocol.html
-7、服务协议：https://mfront.qiyou.cn/protocol.html
-8、自动续费会员服务协议：https://mfront.qiyou.cn/renewal-protocol.html
-
-*本加速器的加速功能仅针对游戏使用，无法访问海外网站。
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/30/d9/a730d9aa-62c0-a310-ef97-258622bbd228/94e6bc59-0ed1-4662-9fe9-c6c451e5eff8_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/7b/26/067b26e4-94e4-e8dd-81e9-14a0ec0a4354/962aa0d0-12c7-4e94-8ce1-f6f9024c412c_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/10/80/20108048-f87d-5509-ee46-993017f4cee9/754dd371-0572-496e-b317-f4f78754097a_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/da/24/c5da242f-ed7d-eee2-aafd-7a134b8a2c1a/a6457b28-d217-4eb7-abbc-b84793c7a4ad_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/98/a2/1998a286-c405-6ee7-2549-d48179653067/5ab7ea42-5dde-488b-8677-e35e2767c474_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/20/76/ab207675-21ca-afc8-418b-a6e058a5628b/c1b12273-03dc-4645-bd76-2ec11fd06f72_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/2d/f0/c12df094-fd43-860b-b9f7-f4ed06d03635/3f45d5df-bae8-4a85-90be-b5c11e6b5d3f_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/fd/2c/35fd2c48-a4ce-0a15-cb14-eba428cdcf3d/57a9a98a-65a9-4a6f-b77f-09227a1a4252_5.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeviceMirror Lite -Screen Cast]]></title>
-        <id>DeviceMirror Lite -Screen Cast-us-1749270072579</id>
-        <link href="https://apps.apple.com/us/app/devicemirror-lite-screen-cast/id1598771178?mt=12&amp;uo=4"/>
-        <updated>2025-06-07T04:21:12.579Z</updated>
-        <summary type="html"><![CDATA[DeviceMirror Lite Lifetime: $17.99 → $14.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/devicemirror-lite-screen-cast/id1598771178?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/24/16/ab24162d-faef-43c5-f3f1-4730c301adcd/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>DeviceMirror Lite Lifetime：</strong><span>$17.99</span> → <b>
-  <strong>$14.99</strong>
-</b><span>[$12.99 ~ $17.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  DeviceMirror Lite can use Wi-Fi connection to mirror the screen and sound of your iOS device to the computer. With it, you can watch online HD movies on the big screen, share game videos on the big screen, listen to music on the phone on the computer, and record online courses. , Demo demo video recording, App usage tutorial video recording, etc.
-The main function:
-1 Support Wi-Fi connection for mirroring (Support AirPlay protocol,no need to install App on iOS device).
-2 Support multiple devices to mirror at the same time.
-3 Support video recording.
-4 Support real-time screenshots.
-5 Support horizontal screen projection to watch online movies.
-6 Support more than 200 online websites such as YouTube to air-play video to the computer for playback.
-7 Support to use Mac computer as the keyboard of iOS device for input
-8 Support to cut MP4 or MOV format video.
-9 Support to extract and convert the audio in the video to MP3 or M4R format audio.
-10 Supports cutting audio in mp3, m4a, and m4r formats.
-11 Supports audio recording with computer microphone, computer speakers and computer microphone+speaker combination.
-
-Pay attention:
-Since OSX 12 Monterey may turn on the system's AirPlay service by default, if the system AirPlay service is turned on, the Wi-Fi connection of DeviceMirror will not work properly.You need to disable the AirPlay receiver in System Preferences->Sharing->AirPlay Receiver
-
-System version support: OSX 10.13 and above
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/a1/02/2ba10251-4a90-6927-afea-361b3fc77384/e2d3f63c-c64e-4dca-8f12-6a1bef9d3058__U591a_U8bbe_U5907_U6295_U5c4f-en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/65/9f/bf659f92-94ae-8c19-cd49-b26a2d4f6773/dd85c21b-bdb1-49e5-a861-31de0ba3e1cb_1-en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/b1/84/b1b18499-d764-5ec6-09d1-432bac4efd08/1c0cd764-22ec-41c7-a38a-ddb96b7808b7_2-en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/6d/d2/de6dd253-5c05-95c7-0848-2e9afb200d4c/f2ad6ccd-cce3-47ed-9c26-24459959cd6a__U7535_U8111_U97f3_U9891_U5f55_U5236-en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/92/4b/d3924ba2-de8f-4f3e-c341-36a93fb33c71/1dc1f0fe-61a9-4474-b9a0-679446ea388a_1280x800bb.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeviceMirror -Screen Mirroring]]></title>
-        <id>DeviceMirror -Screen Mirroring-us-1749270072579</id>
-        <link href="https://apps.apple.com/us/app/devicemirror-screen-mirroring/id1576064082?mt=12&amp;uo=4"/>
-        <updated>2025-06-07T04:21:12.579Z</updated>
-        <summary type="html"><![CDATA[Price: $19.99 → $17.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/devicemirror-screen-mirroring/id1576064082?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/c7/44/20c744fe-00da-8cd6-e8b6-f8a8b573c3fb/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png" />
-</a><h2>
-  Discount Information（Price：<span>$19.99</span> → <b>
-  <strong>$17.99</strong>
-</b><span>[$14.99 ~ $19.99]</span>）
-</h2><h2>Application Description</h2><p>
-  DeviceMirror can use a USB or wifi connection to mirror the screen and sound of your iOS device to the computer. With it, you can watch online HD movies on the big screen, share game videos on the big screen, listen to music on the phone on the computer, and record online courses. Demo demo video recording, App usage tutorial video recording.
-The main function:
-1 Support USB connection and wifi connection for mirroring (Support AirPlay protocol,no need to install App on iOS device).
-2 Support multiple devices to mirror at the same time.
-3 USB connection supports 720P, 1080P, 4K, HD display and recording (1080P and 4K are supported by OSX 10.15 and above) and supports pause recording and resume recording.
-4 Wi-Fi connection supports display and recording in four resolutions: HD-Retina, HD, HD-Medium, and 1080P.
-5 The recording format supports MP4, MOV, GIF.
-6 Support real-time screenshots in PNG and JPEG formats.
-7 Support horizontal screen projection to watch online movies.
-8 Support to play online movies in the air.
-9 Support more than 200 online websites such as YouTube to air-play video to the computer for playback
-10 Support to use Mac computer as the keyboard of iOS device for input
-11 Support Mac computer and iOS device to share clipboard
-12 Support to cut the video in MP4 or MOV format
-13 Support to convert the audio in the video to MP3 or M4R format audio
-14 Supports cutting audio in mp3, m4a, and m4r formats.
-15 Supports audio recording with computer microphone, computer speakers and computer microphone+speaker combination.
-
-
-Pay attention:
-Since OSX 12 Monterey may turn on the system's AirPlay service by default, if the system AirPlay service is turned on, the Wi-Fi connection of DeviceMirror will not work properly.You need to disable the AirPlay receiver in System Preferences->Sharing->AirPlay Receiver
-
-System version support: OSX 10.13 and above
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/6c/40/b36c403e-6708-79f4-c049-aa279de8e691/ac86e8f2-4528-4f32-9e72-d4d29f4bb057__U591a_U8bbe_U5907_U6295_U5c4f.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/ea/b4/b7eab44a-268a-b5ce-20af-c3ceaeb9bba4/434fb9d5-dedf-4de9-860c-6e055b2ef649__U7535_U89c6_U5267_U6295_U5c4f.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/21/7e/fd217e10-9d1b-915a-4b99-143b46f99c13/ad89c61e-844b-4529-a4ec-0feb8063a306__U5f55_U5236.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/81/0b/8d810be0-48d6-da4b-f435-a3f54f44bb19/8eb8dcfd-3335-4f68-8394-6546e6522f05__U7535_U8111_U97f3_U9891_U5f55_U5236-en.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/90/fa/fb90facc-e662-394e-ce87-31947c95b598/503f9be3-651d-4180-b229-2e77ea0c1f80_videoEdit_en.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allow Right Click for Safari]]></title>
-        <id>Allow Right Click for Safari-us-1749265923953</id>
-        <link href="https://apps.apple.com/us/app/allow-right-click-for-safari/id6739523960?uo=4"/>
-        <updated>2025-06-07T03:12:03.953Z</updated>
-        <summary type="html"><![CDATA[Price: $1.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/allow-right-click-for-safari/id6739523960?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ea/35/f9ea3591-a3aa-59b0-1a37-183f419f88f2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$1.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $1.99]</span>）
-</h2><h2>Application Description</h2><p>This software allows right-click, copy, cut, and paste functionality on all websites. It has a simple interface and is easy to use. You can copy any content, whether it’s text, images, or other media.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STEP and IGES File Viewer]]></title>
-        <id>STEP and IGES File Viewer-us-1749265923953</id>
-        <link href="https://apps.apple.com/us/app/step-and-iges-file-viewer/id6738715418?mt=12&amp;uo=4"/>
-        <updated>2025-06-07T03:12:03.953Z</updated>
-        <summary type="html"><![CDATA[Price: $12.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/step-and-iges-file-viewer/id6738715418?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/55/f8/ee55f8c1-9e6f-b66e-8745-8fa4073cc1e3/icon.png/60x60bb.png" />
-</a><h2>
-  Discount Information（Price：<span>$12.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $12.99]</span>）
-</h2><h2>Application Description</h2><p>A professional 3D viewer for STEP/STP, IGES/IGS, and other 3D file formats. Supports printing and converting 3D files with ease.</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/84/ec/4984ec88-a04a-e981-64d6-d6fec8d8a2b2/_U65e0_U6807_U989829.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/c7/6d/aec76dd3-5cd8-fe26-ef16-bf4ccf3a72ed/_U65e0_U6807_U9898.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/68/5a/63685a4f-4f46-ce54-b618-f9c0f6c6dada/_U65e0_U6807_U98982.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AudioTunes - FLAC, APE, WMA Converter]]></title>
-        <id>AudioTunes - FLAC, APE, WMA Converter-us-1749265923953</id>
-        <link href="https://apps.apple.com/us/app/audiotunes-flac-ape-wma-converter/id797275229?mt=12&amp;uo=4"/>
-        <updated>2025-06-07T03:12:03.953Z</updated>
-        <summary type="html"><![CDATA[Price: $3.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/audiotunes-flac-ape-wma-converter/id797275229?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/75/70/0f/75700f12-00b3-5d7a-1d02-8b3abfdb5a33/icon.png/60x60bb.png" />
-</a><h2>
-  Discount Information（Price：<span>$3.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $3.99]</span>）
-</h2><h2>Application Description</h2><p>
-  On sale. Original $4.99.
-*** Don't forget to download "Total Video Converter Pro" which converts any video and burns DVD. 50% OFF! ***
-
-AudioTunes is a powerful audio converter that converts common audios (MP3，wav，flac，ape，wma，amr，ac3，au etc) to iTunes simply by 3 clicks. You can play those audios on your Mac or download them to the iOS devices.
-
-Key features:
-* Easy to Use (No Complicated Setting)
-   Only 3 steps: Add files - Select the format - Click “Convert” button 
-
-* Synchronize converted audios to iTunes automatically
-
-* Convert audios formats that iTunes does not support into iTunes
-1. Input formats: MP3，wav，flac，ape，wma，amr，ac3，au ,etc.   
-2.Output formats: Almost all formats that iTunes supported, such as        mp3, aac, m4a, Apple Lossless, aiff
-
-* Batch conversion
-AudioTunes supports batch convert numerous files in a short time.
-
-* Save converted audios to custom directory
-
-* Drag & Drop is supported.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/fc/3f/a9/fc3fa9a1-638b-8ecc-fe2c-37bd1d81866d/mzl.sbukcjfn.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/88/c7/dd/88c7dd95-df0d-70d4-704c-45b741e25846/mzl.fqskoeta.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple4/v4/d1/10/f8/d110f813-9c39-6217-a11d-ef251a59b802/mzl.kkipvgee.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/bf/52/42/bf524222-f4d4-3407-3bbe-b542b5138fd5/mzl.vuwyhxcb.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hide Mouse Cursor]]></title>
-        <id>Hide Mouse Cursor-us-1749265923953</id>
-        <link href="https://apps.apple.com/us/app/hide-mouse-cursor/id6738089759?mt=12&amp;uo=4"/>
-        <updated>2025-06-07T03:12:03.953Z</updated>
-        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/hide-mouse-cursor/id6738089759?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/3e/95/423e9529-c3a8-daed-aa31-a91b61fc449c/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png" />
-</a><h2>
-  Discount Information（Price：<span>$0.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $0.99]</span>）
-</h2><h2>Application Description</h2><p>This app is a tool designed for users to hide the mouse cursor, which is particularly suitable for full-screen presentations, video playback or games, allowing users to focus on the content without being disturbed by the cursor, including one-click hiding/showing the cursor, shortcut key support, and custom settings.</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/e7/e9/14e7e980-14b9-dd96-141a-2deecdd1fe0c/Screenshot_2024-11-22_at_5.14.01_U202fPM_copy.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/48/67/b748678b-92ca-24f1-ea97-72ecc7924d6b/Screenshot_2024-11-22_at_5.14.01_U202fPM.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wink: Video Enhancer & Editor]]></title>
-        <id>Wink: Video Enhancer &amp; Editor-us-1749251834530</id>
-        <link href="https://apps.apple.com/us/app/wink-video-enhancer-editor/id1594288016?uo=4"/>
-        <updated>2025-06-06T23:17:14.530Z</updated>
-        <summary type="html"><![CDATA[Yearly Auto-renew VIP: $59.99 → $40.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/wink-video-enhancer-editor/id1594288016?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/09/cb/2009cb91-6b2c-42c6-66dd-34a623ae43b9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Yearly Auto-renew VIP：</strong><span>$59.99</span> → <b>
-  <strong>$40.99</strong>
-</b><span>[$40.99 ~ $59.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Wink 
-l Make any low-quality video & photo into HD/Ultra HD/4K with before/after comparisons.
-l Making video editing easier than ever!
-l Various creative video transition effects enhance final results!
-l Fine-tune your selfies with video retouch tools to highlight your day!
-
-Video ＆ Photo Enhance
-- Video Enhancer: Enhance portraits and selfies to stunning output.
-- 4K Upscaler: AI-powered 4K upscaling for enhanced video quality.
-- Stabilize: Smooth out shaky footage for professional-looking videos. 
-- Noise reduction: Reduce video noise and grain for professional-looking results.
--  AI Color: Give your video a vibrant, fresh look with our easy-to-use color enhancement tool
-
-Video Retouch
-- Manual Face Slimming: Adjust your facial features as you wish
-- Body Shape: Achieve a supermodel physique!
-- Stylish Makeup: Providing a range of natural makeup
-- Face Editor: Remove acne, Face Plump, Skin tone ... and more!
-- Whiten Teeth: Say goodbye to brown teeth and show off your smile!
-
-Video Editing
-- Professional Editing: Color, Crop, Speed, Split, Mirror, Soundtrack and more!
-- Templates: Easily apply to create high-quality vlogs
-- Quality Restoration: Clear AI-enhanced video restoration!
-- Effects: Adds texts, stickers, and transitions to enhance your videos
-- Automatic Subtitle: Utilizes intelligent voice recognition for easy text inputting
-
-
-AI Captions
-- Accurate AI subtitles for your videos in seconds 
-- Support Bilingual: Create dual-language subtitles for your videos
-- Support 8 languages
-
-Wink VIP
-- Access exclusive VIP features
-
-Wink offers a wide range of exclusive VIP features to enhance retouching experience. We are committed to providing you with an improved service. We look forward to your continuing support.
-- Subscriptions
-
-Wink VIP-Monthly Subscription offers a subscription period of one month.
-Wink VIP-Annual subscription entails a 12-month period.
-*The subscription price is determined based on the information provided in the in-app purchase (iAP) application.
-
-- Instructions for Payment and Cancellation
-
-"Payment" will be credited to your iTunes account once you have confirmed and paid for your subscription.
-
-"Renewal" subscriptions for "Monthly/Annual" plans are automatically renewed and will incur charges to your iTunes account following your purchase confirmation. The subscription will be automatically renewed. To cancel it, please disable the automatic renewal at least 24 hours before the subscription period ends. Within 24 hours before the subscription cycle expires, Apple will automatically debit your iTunes account, extending your subscription for a new cycle.
-
-"To cancel your subscription, kindly navigate to the "Settings" section on your iPhone, click on "Apple ID," proceed to the "Subscription" screen, and choose "Wink" to terminate your subscription.
-
-- Agreement
-Terms of Service：https://pro.meitu.com/wink-cut/agreements/common/service-global.html?lang=en
-Privacy Policy：https://pro.meitu.com/wink-cut/agreements/common/policy-global.html?lang=en
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/3a/89/673a8941-bea4-f1cd-781d-b47742368d31/iOS_1242x2208_EN-13.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/8d/be/0c8dbe5b-7e41-d71a-2fee-4f18302b2653/iOS_1242x2208_EN-14.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/7c/3b/de7c3b7b-e879-2656-17ef-dfa1c85fd0d5/iOS_1242x2208_EN-15.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/76/49/f5764995-2fe4-66cb-4c39-644403b7c8f3/iOS_1242x2208_EN-11.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/50/8a/93508a27-5f4c-447a-f019-6e46dc643fdc/iOS_1242x2208_EN-12.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/06/1d/07061dec-477b-18f5-eb7c-0d81935c5d99/iOS_1242x2208_EN-5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/ef/3b/44ef3bf2-851e-2d2c-b8e7-daa81a2131be/iOS_1242x2208_EN-3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/15/b6/d815b63c-4b4a-8813-09a9-0e36f7462ef9/iOS_1242x2208_EN-7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/e8/c1/aae8c1d6-1a0f-b017-7242-e09c3e36afb2/iOS_1242x2208_EN-9.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/cd/4d/36cd4d1c-1106-1845-d074-f93cc9369bab/iOS_1242x2208_EN-1.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/fc/56/d2fc566a-225c-1af3-c123-3a35ac3001ab/f0c00bb5-97ad-41cf-9c7c-91b9bac7efd0_2048_U00d72732_01__U82f1_U6587.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/76/9a/4a769a22-17ff-1926-05da-8d726e6145e9/4d3bb3ff-5177-430e-a6b9-3f9ed17b0cf9_2048_U00d72732_02__U82f1_U6587.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/3f/8e/d13f8e83-d68d-e790-92af-0a0ec9694925/afdb1a70-008c-4f38-a476-3cc367c88187_2048_U00d72732_03__U82f1_U6587.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/33/df/6933df70-58a2-c714-21be-f6f085e4b41e/20c74a76-4bb2-42de-be4d-46ea1bf55a5d_2048_U00d72732_04__U82f1_U6587.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/fe/02/e5fe0283-5b43-c621-b4a7-04cf1a5a4580/1395c882-eff8-4505-8134-20357125076a_2048_U00d72732_05__U82f1_U6587.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
