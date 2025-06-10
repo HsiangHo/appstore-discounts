@@ -67121,14 +67121,22 @@
   "6745083093": {
     "name": "Coolmuster HEIC Converter",
     "maxPriceInfo": {
-      "price": 68,
-      "formattedPrice": "¥68.00"
+      "price": 148,
+      "formattedPrice": "¥148.00"
     },
     "minPriceInfo": {
       "price": 68,
       "formattedPrice": "¥68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749554134466,
+          "price": 148,
+          "formattedPrice": "¥148.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
