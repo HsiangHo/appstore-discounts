@@ -20276,6 +20276,17 @@
     "history": [
       [
         {
+          "timestamp": 1749626268985,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "SQLPro Premium": "¥698.00",
+            "SQLPro Premium - Lifetime": "¥1,498.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749302702915,
           "price": 0,
           "formattedPrice": "免费",
@@ -28996,6 +29007,23 @@
       "吉他课程套件    .": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749626268985,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Chords, Scales and Arpeggios": "¥68.00",
+            "All Current Content": "¥68.00",
+            "Lesson Pack": "¥38.00",
+            "All Scales": "¥38.00",
+            "All Chords": "¥38.00",
+            "All Arpeggios": "¥38.00",
+            "所有内容访问通行证": "¥43.00",
+            "吉他课程套件    .": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749443384150,
