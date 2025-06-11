@@ -407,7 +407,7 @@
 |521|1630034110|自动|Bob - 翻译和 OCR 工具||||Bob - 翻译和 OCR 工具||
 |520|1221250572|自动|Xnip -  截图 & 标注||||Xnip - Screenshot & Annotation||
 |519|1575178082|自动|Max NTFS - NTFS磁盘读写助手||||Max NTFS - NTFS Disk Helper||
-|518|1619925971|自动|UPDF - 新一代 AI 智能 PDF 编辑器||||UPDF - PDF Editor with AI||
+|518|1619925971|自动|UPDF - 新一代 AI 智能 PDF 编辑器||||UPDF 2 - AI-Powered PDF Editor||
 |517|1395152179|自动|奇游加速器 - 全球游戏畅玩||||奇游加速器 - 全球游戏畅玩||
 |516|503039729|自动|Fotor图片编辑器||||Fotor: AI Photo Editor, Design||
 |515|1476545828|自动|MacDroid - 安卓版管理器||||MacDroid - Manager for Android||
@@ -801,7 +801,7 @@
 |127|1630034110|自动|Bob - 翻译和 OCR 工具||||Bob - 翻译和 OCR 工具||
 |126|1221250572|自动|Xnip -  截图 & 标注||||Xnip - Screenshot & Annotation||
 |125|1575178082|自动|Max NTFS - NTFS磁盘读写助手||||Max NTFS - NTFS Disk Helper||
-|124|1619925971|自动|UPDF - 新一代 AI 智能 PDF 编辑器||||UPDF - PDF Editor with AI||
+|124|1619925971|自动|UPDF - 新一代 AI 智能 PDF 编辑器||||UPDF 2 - AI-Powered PDF Editor||
 |123|1395152179|自动|奇游加速器 - 全球游戏畅玩||||奇游加速器 - 全球游戏畅玩||
 |122|503039729|自动|Fotor图片编辑器||||Fotor: AI Photo Editor, Design||
 |121|1476545828|自动|MacDroid - 安卓版管理器||||MacDroid - Manager for Android||

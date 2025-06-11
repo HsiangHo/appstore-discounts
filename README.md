@@ -404,7 +404,7 @@ So far, we've covered `2` `Countries or Regions` and  `853` `Apps` <br />Push no
 |521|1630034110|Automatic|Bob - 翻译和 OCR 工具||||Bob - 翻译和 OCR 工具||
 |520|1221250572|Automatic|Xnip -  截图 & 标注||||Xnip - Screenshot & Annotation||
 |519|1575178082|Automatic|Max NTFS - NTFS磁盘读写助手||||Max NTFS - NTFS Disk Helper||
-|518|1619925971|Automatic|UPDF - 新一代 AI 智能 PDF 编辑器||||UPDF - PDF Editor with AI||
+|518|1619925971|Automatic|UPDF - 新一代 AI 智能 PDF 编辑器||||UPDF 2 - AI-Powered PDF Editor||
 |517|1395152179|Automatic|奇游加速器 - 全球游戏畅玩||||奇游加速器 - 全球游戏畅玩||
 |516|503039729|Automatic|Fotor图片编辑器||||Fotor: AI Photo Editor, Design||
 |515|1476545828|Automatic|MacDroid - 安卓版管理器||||MacDroid - Manager for Android||
@@ -798,7 +798,7 @@ So far, we've covered `2` `Countries or Regions` and  `853` `Apps` <br />Push no
 |127|1630034110|Automatic|Bob - 翻译和 OCR 工具||||Bob - 翻译和 OCR 工具||
 |126|1221250572|Automatic|Xnip -  截图 & 标注||||Xnip - Screenshot & Annotation||
 |125|1575178082|Automatic|Max NTFS - NTFS磁盘读写助手||||Max NTFS - NTFS Disk Helper||
-|124|1619925971|Automatic|UPDF - 新一代 AI 智能 PDF 编辑器||||UPDF - PDF Editor with AI||
+|124|1619925971|Automatic|UPDF - 新一代 AI 智能 PDF 编辑器||||UPDF 2 - AI-Powered PDF Editor||
 |123|1395152179|Automatic|奇游加速器 - 全球游戏畅玩||||奇游加速器 - 全球游戏畅玩||
 |122|503039729|Automatic|Fotor图片编辑器||||Fotor: AI Photo Editor, Design||
 |121|1476545828|Automatic|MacDroid - 安卓版管理器||||MacDroid - Manager for Android||
