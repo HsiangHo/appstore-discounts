@@ -69107,16 +69107,37 @@
       "formattedPrice": "Free",
       "25 premium coins": "$2.99",
       "100 premium credits": "$5.99",
-      "300 premium coins +75 bonus": "$17.99"
+      "300 premium coins +75 bonus": "$17.99",
+      "unMix Weekly Premium": "$1.49",
+      "unMix Annual Premium": "$41.99",
+      "unMix Monthly Premium": "$3.49"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
       "25 premium coins": "$2.99",
       "100 premium credits": "$5.99",
-      "300 premium coins +75 bonus": "$17.99"
+      "300 premium coins +75 bonus": "$17.99",
+      "unMix Weekly Premium": "$1.49",
+      "unMix Annual Premium": "$41.99",
+      "unMix Monthly Premium": "$3.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749669240764,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "25 premium coins": "$2.99",
+            "100 premium credits": "$5.99",
+            "300 premium coins +75 bonus": "$17.99",
+            "unMix Weekly Premium": "$1.49",
+            "unMix Annual Premium": "$41.99",
+            "unMix Monthly Premium": "$3.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,

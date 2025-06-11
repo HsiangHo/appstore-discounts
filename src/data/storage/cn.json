@@ -54998,16 +54998,37 @@
       "formattedPrice": "免费",
       "25 premium coins": "¥22.00",
       "100 premium credits": "¥38.00",
-      "300 premium coins +75 bonus": "¥128.00"
+      "300 premium coins +75 bonus": "¥128.00",
+      "unMix Weekly Premium": "¥12.00",
+      "unMix Annual Premium": "¥298.00",
+      "unMix Monthly Premium": "¥22.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
       "25 premium coins": "¥22.00",
       "100 premium credits": "¥38.00",
-      "300 premium coins +75 bonus": "¥128.00"
+      "300 premium coins +75 bonus": "¥128.00",
+      "unMix Weekly Premium": "¥12.00",
+      "unMix Annual Premium": "¥298.00",
+      "unMix Monthly Premium": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749669240764,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "100 premium credits": "¥38.00",
+            "25 premium coins": "¥22.00",
+            "unMix Weekly Premium": "¥12.00",
+            "unMix Annual Premium": "¥298.00",
+            "unMix Monthly Premium": "¥22.00",
+            "300 premium coins +75 bonus": "¥128.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
