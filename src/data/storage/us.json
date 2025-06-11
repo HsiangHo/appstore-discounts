@@ -33586,6 +33586,16 @@
     "history": [
       [
         {
+          "timestamp": 1749640570808,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Unlock Full Version": "$19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748708397067,
           "price": 0,
           "formattedPrice": "Free",
@@ -55210,9 +55220,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Upgrade to Pro Version": "$4.99"
+      "Upgrade to Pro Version": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749640570808,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Upgrade to Pro Version": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -60210,7 +60230,9 @@
       "Quarter Subscription": "$14.99",
       "Semi-annual VIP": "$25.99",
       "daily card": "$0.99",
-      "Weekly  VIP": "$1.99"
+      "Weekly  VIP": "$1.99",
+      "VIP consecutive monthly": "$5.99",
+      "Annual Subscription": "$39.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -60224,9 +60246,29 @@
       "Quarter Subscription": "$14.99",
       "Semi-annual VIP": "$25.99",
       "daily card": "$0.99",
-      "Weekly  VIP": "$1.99"
+      "Weekly  VIP": "$1.99",
+      "VIP consecutive monthly": "$5.99",
+      "Annual Subscription": "$39.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749640570808,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "VIP consecutive monthly": "$5.99",
+            "Annual Subscription": "$39.99",
+            "Quarter Subscription": "$14.99",
+            "Annual VIP": "$39.99",
+            "Semi-annual VIP": "$25.99",
+            "Quarterly VIP": "$11.99",
+            "Weekly  VIP": "$1.99",
+            "Continuous Monthly VIP": "$4.99",
+            "daily card": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749194237521,
@@ -60543,7 +60585,7 @@
       "price": 0,
       "formattedPrice": "Free",
       "Upgrade to Plus version": "$6.99",
-      "Upgrade to Plus": "$2.99",
+      "Upgrade to Plus": "$12.99",
       "Upgrade to Plus Version": "$7.99"
     },
     "minPriceInfo": {
@@ -60554,6 +60596,18 @@
       "Upgrade to Plus Version": "$7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749640570808,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Upgrade to Plus": "$12.99",
+            "Upgrade to Plus Version": "$7.99",
+            "Upgrade to Plus version": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,

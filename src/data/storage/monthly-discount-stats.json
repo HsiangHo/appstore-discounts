@@ -149,6 +149,13 @@
         "连续包月": 2
       }
     },
+    "1133028347": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Unlock Full Version": 1
+      }
+    },
     "1231336508": {
       "all": 1,
       "price": 0,
@@ -184,11 +191,18 @@
         "90天VIP": 1
       }
     },
-    "1514073011": {
-      "all": 2,
+    "1456235760": {
+      "all": 1,
       "price": 0,
       "inAppPurchase": {
-        "Annual VIP": 2,
+        "Upgrade to Pro Version": 1
+      }
+    },
+    "1514073011": {
+      "all": 3,
+      "price": 0,
+      "inAppPurchase": {
+        "Annual VIP": 3,
         "Continuous Monthly VIP": 1
       }
     },
