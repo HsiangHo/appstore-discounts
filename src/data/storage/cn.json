@@ -15148,6 +15148,18 @@
     "history": [
       [
         {
+          "timestamp": 1749630287215,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "数据恢复专家 - 1个月": "¥298.00",
+            "数据恢复专家 - 1年": "¥328.00",
+            "数据恢复专家 - 终身": "¥498.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749472652660,
           "price": 0,
           "formattedPrice": "免费",
@@ -20275,6 +20287,15 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749630287215,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "SQLPro Premium": "¥113.00",
+            "SQLPro Premium - Lifetime": "¥1,498.00"
+          }
+        },
         {
           "timestamp": 1749626268985,
           "price": 0,
@@ -29008,6 +29029,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749630287215,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "所有当前内容": "¥38.00",
+            "吉他和弦,琶音和音阶": "¥58.00",
+            "吉他和弦": "¥38.00",
+            "吉他音阶": "¥38.00",
+            "吉他琶音": "¥38.00",
+            "All Current Content": "¥68.00"
+          }
+        },
         {
           "timestamp": 1749626268985,
           "price": 0,

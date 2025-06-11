@@ -1,6 +1,72 @@
 {
   "cn": [
     {
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/d9/f4/9e/d9f49e5d-5543-856a-2f5d-6b8e9f2753fb/pr_source.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/37/c1/71/37c17106-bdba-ea66-b297-96755021fddf/pr_source.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/03/92/52/039252ef-5225-9a60-c342-7cdcd7678a1d/pr_source.png/800x500bb.jpg"
+      ],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/9c/61/c89c6163-cabc-2f3b-3b3f-52a8a295a6da/AppIcon-0-0-85-220-0-0-0-5-0-2x.png/60x60bb.png",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/9c/61/c89c6163-cabc-2f3b-3b3f-52a8a295a6da/AppIcon-0-0-85-220-0-0-0-5-0-2x.png/512x512bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/9c/61/c89c6163-cabc-2f3b-3b3f-52a8a295a6da/AppIcon-0-0-85-220-0-0-0-5-0-2x.png/100x100bb.png",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/hankinsoft-development-inc/id305178629?mt=12&uo=4",
+      "kind": "mac-software",
+      "averageUserRatingForCurrentVersion": 0,
+      "fileSizeBytes": "30389244",
+      "formattedPrice": "免费",
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 0,
+      "trackViewUrl": "https://apps.apple.com/cn/app/sqlpro-studio/id985614903?mt=12&uo=4",
+      "trackContentRating": "4+",
+      "sellerUrl": "https://sqlprostudio.com?referral=MAS",
+      "averageUserRating": 0,
+      "trackCensoredName": "SQLPro Studio",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "minimumOsVersion": "10.13",
+      "artistId": 305178629,
+      "artistName": "Hankinsoft Development Inc",
+      "genres": [
+        "软件开发工具",
+        "工具"
+      ],
+      "price": 0,
+      "bundleId": "com.hankinsoft.osx.sqlprostudio",
+      "trackId": 985614903,
+      "trackName": "SQLPro Studio",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2015-11-21T05:45:35Z",
+      "primaryGenreName": "Developer Tools",
+      "primaryGenreId": 6026,
+      "sellerName": "Hankinsoft Development Inc",
+      "releaseNotes": "+ Fixed an issue with formatting queries.",
+      "genreIds": [
+        "6026",
+        "6002"
+      ],
+      "currentVersionReleaseDate": "2025-04-28T17:14:58Z",
+      "version": "2025.10",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "SQLPro Studio is the premium database management tool for Postgres, MySQL, Microsoft Management Studio and Oracle databases.\n\nSome of the great features include:\n+ Intellisense/SQL autocompletion.\n+ Syntax highlighting with customizable themes (including dark).\n+ Tabbed based interface for an optimal user experience.\n+ Context aware database tree navigation, including quick access to tables, views, columns, indexes and much more!\n+ SQL Beautifier/formatter.\n+ Database wide searching.\n+ NTLMv2 supported (but not required).\n+ Netbios support.\n+ Master password support for additional security.\n+ Supports Handoff from iOS to macOS.\n\nSQLPro Studio supports the following database servers:\n+ MySQL & MariaDB\n+ PostgreSQL\n+ Microsoft SQL Server (2005 and above)\n+ SnowflakeDB\n+ SQLite\n+ Oracle (8i and above)\n\nPrivacy Policy:\nhttps://hankinsoft.com/privacypolicy.html\n\nTerms of Use:\nhttps://hankinsoft.com/termsofuse.html\n\nPrice:\nSQLPro offers Premium subscriptions (or a single Lifetime purchase) in order to interact with database result sets. Premium subscriptions are available as either a Monthly, or a Yearly duration. Subscriptions auto-renew within 24 hours of the expiration date unless auto-renewal is turned off in the iTunes account settings. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. Payment will be charged to your iTunes Account at confirmation of purchase.",
+      "userRatingCount": 0,
+      "inAppPurchases": {
+        "SQLPro Premium": "¥113.00",
+        "SQLPro Premium - Lifetime": "¥1,498.00"
+      },
+      "timestamp": 1749630287215,
+      "discounts": [
+        {
+          "type": "inAppPurchase",
+          "name": "SQLPro Premium",
+          "from": "¥698.00",
+          "to": "¥113.00",
+          "range": "[¥113.00 ~ ¥698.00]"
+        }
+      ]
+    },
+    {
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/7a/b6/2b7ab603-fdee-d92e-f3ea-f3ef5f597aef/AppIcon-new-0-0-85-220-0-2-0-2x.png/512x512bb.png",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/78/ec/c778ec00-fd20-75d8-8490-1595db186fe5/874d684d-dee4-4c59-a252-70064415d940_appStore_01_2560x1600.png/800x500bb.jpg",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-09T16:29:04.337Z</updated>
+    <updated>2025-06-11T08:30:04.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-09T16:29:04.338Z</updated>
+        <updated>2025-06-11T08:30:04.764Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnMon, 09 Jun 2025 16:29:04 GMT</id>
+        <id>rankingcnWed, 11 Jun 2025 08:30:04 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-09T16:29:04.338Z</updated>
+        <updated>2025-06-11T08:30:04.764Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -94,6 +94,29 @@ feedId:49753297431966720+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id985614903">SQLPro Studio</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>3</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>SQLPro Premium</i>：<b>3</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1231336508">腾讯视频-折腰 全网独播</a>
       </td>
       <td>
@@ -116,7 +139,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>3</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1339124759">音频剪辑 – 手机铃声制作&mp3音乐剪辑</a>
@@ -141,7 +164,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id491854842">网易有道翻译</a>
@@ -156,29 +179,6 @@ feedId:49753297431966720+userId:73658201673997312
             <span>App 内购买项目</span><ol>
               <li>
                 <i>有道词典超级会员</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>4</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id985614903">SQLPro Studio</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>SQLPro Premium</i>：<b>2</b>
               </li>
             </ol>
           </li>
@@ -224,7 +224,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1012296988">爱奇艺-在人间 幻境谜局</a>
+        <a href="https://apps.apple.com/cn/app/id1012296988">爱奇艺-临江仙 离婚仙侠</a>
       </td>
       <td>
         <ul>
@@ -489,6 +489,53 @@ feedId:49753297431966720+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SQLPro Studio]]></title>
+        <id>SQLPro Studio-cn-1749630287215</id>
+        <link href="https://apps.apple.com/cn/app/sqlpro-studio/id985614903?mt=12&amp;uo=4"/>
+        <updated>2025-06-11T08:24:47.215Z</updated>
+        <summary type="html"><![CDATA[SQLPro Premium: ¥698.00 → ¥113.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/sqlpro-studio/id985614903?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/9c/61/c89c6163-cabc-2f3b-3b3f-52a8a295a6da/AppIcon-0-0-85-220-0-0-0-5-0-2x.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>SQLPro Premium：</strong><span>¥698.00</span> → <b>
+  <strong>¥113.00</strong>
+</b><span>[¥113.00 ~ ¥698.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  SQLPro Studio is the premium database management tool for Postgres, MySQL, Microsoft Management Studio and Oracle databases.
+
+Some of the great features include:
++ Intellisense/SQL autocompletion.
++ Syntax highlighting with customizable themes (including dark).
++ Tabbed based interface for an optimal user experience.
++ Context aware database tree navigation, including quick access to tables, views, columns, indexes and much more!
++ SQL Beautifier/formatter.
++ Database wide searching.
++ NTLMv2 supported (but not required).
++ Netbios support.
++ Master password support for additional security.
++ Supports Handoff from iOS to macOS.
+
+SQLPro Studio supports the following database servers:
++ MySQL & MariaDB
++ PostgreSQL
++ Microsoft SQL Server (2005 and above)
++ SnowflakeDB
++ SQLite
++ Oracle (8i and above)
+
+Privacy Policy:
+https://hankinsoft.com/privacypolicy.html
+
+Terms of Use:
+https://hankinsoft.com/termsofuse.html
+
+Price:
+SQLPro offers Premium subscriptions (or a single Lifetime purchase) in order to interact with database result sets. Premium subscriptions are available as either a Monthly, or a Yearly duration. Subscriptions auto-renew within 24 hours of the expiration date unless auto-renewal is turned off in the iTunes account settings. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. Payment will be charged to your iTunes Account at confirmation of purchase.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/d9/f4/9e/d9f49e5d-5543-856a-2f5d-6b8e9f2753fb/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/37/c1/71/37c17106-bdba-ea66-b297-96755021fddf/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/03/92/52/039252ef-5225-9a60-c342-7cdcd7678a1d/pr_source.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TextSniper - OCR, Copy & Paste]]></title>
         <id>TextSniper - OCR, Copy &amp; Paste-cn-1749486195582</id>
         <link href="https://apps.apple.com/cn/app/textsniper-ocr-copy-paste/id1528890965?mt=12&amp;uo=4"/>
@@ -669,214 +716,5 @@ Features:
 【意见反馈】
 如遇问题或者有好的建议，欢迎加入QQ体验群反馈，将会有萌哒哒的视频妹为大家解答，并有持续好礼相送！官方QQ群：527288510。
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/16/3e/15163e7c-e03a-d9bb-1d24-42356617484c/IMG_1855.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/b6/33/a4b63375-7c02-6eb8-d3f8-446c5c2e13f2/7014b5a6-7cf4-4e28-a688-ff3eff19ee4a_1.jpeg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/f5/15/82f515cc-1b40-bf32-7c08-59b3fccf967b/7e0ac2f1-59ac-40d4-b333-c7ff5cd3652d_2880x1800-01@1x.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/e2/d9/9ae2d96c-bc6d-e6be-fbdb-5e5fcbab67b7/IMG_1854.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾讯视频-折腰 全网独播]]></title>
-        <id>腾讯视频-折腰 全网独播-cn-1749334573843</id>
-        <link href="https://apps.apple.com/cn/app/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-%E6%8A%98%E8%85%B0-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1231336508?mt=12&amp;uo=4"/>
-        <updated>2025-06-07T22:16:13.843Z</updated>
-        <summary type="html"><![CDATA[该付费商品: ¥8.00 → ¥3.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-%E6%8A%98%E8%85%B0-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1231336508?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/fd/7e/42fd7e5c-49c8-de8c-26b4-8ff5c4e28793/AppIcon-85-220-0-4-2x-sRGB.png/60x60bb.png" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>该付费商品：</strong><span>¥8.00</span> → <b>
-  <strong>¥3.00</strong>
-</b><span>[¥3.00 ~ ¥8.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  电视剧热播：
-《陷入我们的热恋》现偶之光顶级上头！刘浩存王安宇要谈不谈得暧昧最撩人
-《刑侦12》港式新版七宗罪超敢拍，林保怡陈法蓉陷连环凶案！
-《亲爱的仇敌》细腻戳心！成年人的猜忌权衡野心，高叶陈妍希演绎新型女性关系
-《刑警的日子》现实流刑侦大剧！欧豪张佳宁何冰连破15桩高能奇案
-《榜上佳婿》CP乱炖嗑上头！王子奇卢昱晓放榜捉婿结良缘，青梅竹马苏到腿软
-《狮城山海》热血江湖！巍子杨旭文浴血激战南洋华人圈，搏出帮派传奇
-综艺强档：
-《哈哈哈哈哈 第5季》要碎了！五哈爆笑英文版猜歌，邓超艺术细胞泛滥当场编歌！李乃文一路开挂为自己正名，陈赫被逼到暴走？
-《开始推理吧 第3季》高颜值推理团全员海盗风！刘宇宁超级加辈大哥变“大爸”，跟白宇热巴金靖组成相亲相爱一家人。
-《一见你就笑》刘浩存王安宇《陷入我们的热恋》超甜局～两人贴脸对视拉丝互动，刘浩存为王安宇报“犁地”之仇～小情侣太甜了。
-《毛雪汪》徐艺洋徐志胜爆笑来袭～徐艺洋自曝和黄子韬的婚礼细节，还要和徐志胜组成三口之家？毛毛雪琴在线震惊中！
-《演员请就位 第3季》演员跑组《狂飙》和《山花烂漫时》，杨子变酗酒父亲和猪一起睡觉太拼了，张嘉元冷脸演老默杀鱼适配度满分。
-《奔跑吧》原班人马每周五爆笑开跑，孟子义李昀锐合体马拉松接力。
-《天赐的声音 第6季》张靓颖刘宇宁双人热舞爆改《九万字》，张碧晨谭维维《王招君》唱到哽咽！
-《恋恋不忘的我们》分手情侣的顶级爱情修罗场！前任重逢暗流涌动，是旧情复燃还是奔赴新欢？
-《年轻的战场之太好“校”了》乐华艺人团建，开启游戏大乱斗！蒙眼猜美食pk，猛男俯卧撑对决？
-电影超燃：
-《唐探1900》王宝强、刘昊然笑闹探案！
-《毒液：最后一舞》毒液埃迪共赴终极战斗
-《猩球崛起：新世界》硬核科幻！史诗级人猿对决
-《根本停不下来》包贝尔带全家飙车笑疯了
-《怒水西流》全员狠人！宁理、陈都灵陷连环血案
-《天堂旅行团》彭昱畅杨恩又救赎之旅
-《斗破苍穹4：逃亡》萧炎斗气重燃激战云岚宗
-《不破不立》“哪吒2”幕后，饺子领衔动画人创造奇迹！
-《命中罪爱》尺度猛片！张静初、余皑磊罪案迷局
-强势国漫：
-《王者荣耀荣耀之章命运篇》铠皇回归，单挑王闪现动画一刀万爆！
-《仙逆剧场版 神临之战》王林合体古神之躯再创修魔海
-《遮天》姜神王复苏，叶凡破境四极！
-《画江湖之不良人 第7季》百亿国漫，王者归来！
-《斗罗大陆2》白发唐三在线邀约亡灵天灾
-《斗破苍穹年番》爽看斗尊萧炎携四色异火登场
-《火影忍者》全网独播！重温鸣人来时路，重燃火之意志
-精品短剧：
-《名不虚传》神医下山，超燃爽剧！草根小伙飞针扭转生死，无名小卒逆袭神医！
-《你是我的正午暖阳》豪门千金遭继妹背刺，携手拳王保镖打响复仇之战！
-《我叫赵甲第之锋芒》天才富二代赵甲第归来！一路开挂横扫商海！
-纪录片新热：
-《激流2》商业观察纪录片正在热播，聚焦在时代激流中，正在经受巨变冲击和影响的普通人。
-《寻色中国》首档中国传统色彩人文纪录片，寻找来自天地间的东方美，刻在基因里的中国色。
-《味道大师》遍寻山川湖海，通过24组人物故事，呈现“酸甜苦辣咸鲜臭麻”八大口味美食探索！
-《赵云》真实全面地记述三国名将赵云的一生！立足于正史记载，寻访赵云的生平经历和遗存，挖掘其鲜为人知的故事传说。
-《水底谜案》一封1978年的信件，两具沉没海底的尸体。搁置近40年的谜案重启调查，揭开惊人的案件真相！
-《食行荒野》与硬核冒险家马里奥·卡尔普一起环游世界，经由狩猎与烹饪食物，展示不同的文化和美食。
-《野火“烤”不尽》解锁隐藏在街头巷尾的烧烤小店，送上“烧烤掌门人”最拿手的招牌美食！
-儿童节目：
-《水晶岛守卫者》当猫猫变成人去学校上学之后，会引发什么故事？
-《超级飞侠18》无限合体！超级飞侠迎接更多挑战！
-《汪汪队之小砾与工程家族2》开最棒的挖掘机往前冲！小砾和他的狗狗工程家族来啦！
-《我的同学是美人鱼2》人鱼公主的陆地挑战记再来！看人鱼如何在人类学校里上学
-
-【产品功能】
-腾讯视频客户端是腾讯视频为电脑设备用户量身打造的网络视频播放客户端，采用轻量级的界面设计，提供高清流畅的播放服务，支持分享视频到QQ和微信，内容涵盖最新最热的电视剧、电影、动漫、综艺、少儿、纪录片、NBA、短剧、体育、游戏、时尚、音乐、直播等特色频道。
-1.支持在线观看、离线缓存观看视频。
-2.支持通过频道推荐、观看历史、搜索功能快速找到想看的视频。
-3.支持倍速播放、快速选集、切换清晰度等在线播放观看功能。
-4.支持弹幕互动，在线观看更有趣。
-5.开通腾讯视频VIP会员，畅享院线大片。
-6.支持微信、QQ、手机号登录腾讯视频。
-7.打造我的影院，个性化推荐专区。
-
-【自动订阅服务说明】
-1.订阅服务：
- a）腾讯视频VIP连续包月(1个月)、腾讯视频VIP连续包季(3个月)、腾讯视频VIP连续包年(12个月)
- b）超级影视VIP连续包月(1个月)、超级影视VIP连续包季(3个月)、超级影视VIP连续包年(12个月)
- c）腾讯体育VIP连续包月(1个月)、腾讯体育超级VIP连续包月(1个月)
- 2.订阅价格：
- a）腾讯视频VIP：连续包月产品为25元/月，连续包季产品为68元/季，连续包年产品为238元/年
- b）超级影视VIP：连续包月产品为35元/月、连续包季产品为98元/季、连续包年产品为348元/年
- c）腾讯体育VIP系列会员：腾讯体育VIP连续包月产品为25元/月、腾讯体育超级VIP连续包月产品为60元/月
- 3.付款：用户确认购买并付款后计入iTunes账户
- 4.自动续费：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期
- 5.关闭服务：您可以在苹果手机“设置” --> 进入“iTunes Store 与 App Store”-->点击 “Apple ID”，选择"查看Apple ID"，进入"账户设置"页面，点击“订阅”，管理自动订阅服务，如需取消，每个计费周期结束前24小时关闭即可，到期前24小时内则不再扣费
- 6.服务协议： 
- a）腾讯视频VIP：https://film.qq.com/weixin/term.html
- b）超级影视VIP：https://film.qq.com/weixin/term.html?bizId=svip
- c）腾讯体育VIP系列会员：https://film.qq.com/weixin/term.html?bizId=sport
- 7 .隐私协议：https://privacy.qq.com/document/preview/3fab9c7fc1424ebda42c3ce488322c8a
-
-【意见反馈】
-如遇问题或者有好的建议，欢迎加入QQ体验群反馈，将会有萌哒哒的视频妹为大家解答，并有持续好礼相送！官方QQ群：527288510。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/16/3e/15163e7c-e03a-d9bb-1d24-42356617484c/IMG_1855.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/b6/33/a4b63375-7c02-6eb8-d3f8-446c5c2e13f2/7014b5a6-7cf4-4e28-a688-ff3eff19ee4a_1.jpeg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/f5/15/82f515cc-1b40-bf32-7c08-59b3fccf967b/7e0ac2f1-59ac-40d4-b333-c7ff5cd3652d_2880x1800-01@1x.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/e2/d9/9ae2d96c-bc6d-e6be-fbdb-5e5fcbab67b7/IMG_1854.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歌曲音量调节器Audio Normalizer]]></title>
-        <id>歌曲音量调节器Audio Normalizer-cn-1749305710589</id>
-        <link href="https://apps.apple.com/cn/app/%E6%AD%8C%E6%9B%B2%E9%9F%B3%E9%87%8F%E8%B0%83%E8%8A%82%E5%99%A8audio-normalizer/id673906093?mt=12&amp;uo=4"/>
-        <updated>2025-06-07T14:15:10.589Z</updated>
-        <summary type="html"><![CDATA[价格: ¥38.00 → ¥28.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%AD%8C%E6%9B%B2%E9%9F%B3%E9%87%8F%E8%B0%83%E8%8A%82%E5%99%A8audio-normalizer/id673906093?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/28/49/5f/28495f47-cbeb-d61b-fa1b-8b23f91c9e2a/Icon.png/60x60bb.png" />
-</a><h2>
-  优惠信息（价格：<span>¥38.00</span> → <b>
-  <strong>¥28.00</strong>
-</b><span>[¥28.00 ~ ¥38.00]</span>）
-</h2><h2>应用描述</h2><p>
-  Audio Normalizer 是一款简单易用的音量调节软件，智能统一音量大小，一键批量调整所有音乐或音频文件为大小一致的音量，避免了忽高忽低的声音效果给听众带来不好的体验。常见的音频格式都支持，如MP3, M4A, WAV, AAC, FLAC, WMA, AIFF, AMR, AC3, MP2, OGG, M4R, AU. 
-
-功能：
- 1 调整单一的音频文件的音量。
- 2 统一多首音乐文件的音量。
-3直接无损调节MP3、M4A、WAV文件的音量。
-4支持众多流行音频格式：MP3, M4A, WAV, AAC, FLAC, WMA, AIFF, AMR, AC3, MP2, OGG, M4R, AU等音频格式。
-5 简单易用,一键批量处理。
-6 可自定义音量大小。
-
-Audio Normalizer 反馈：
- 任何建议将不胜感激，支持邮箱：market@effectmatrix.com
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple4/v4/d6/a4/12/d6a412a1-f7e7-154e-8718-ce8c509d92c8/mzl.vvypypux.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/f4/65/18/f4651816-7640-a190-406a-d4bf2e6ac984/mzl.rempgojb.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/bc/2c/28/bc2c28d6-3a3a-7e34-9300-167246425ca9/mzl.zqtudben.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLPro Studio]]></title>
-        <id>SQLPro Studio-cn-1749302702915</id>
-        <link href="https://apps.apple.com/cn/app/sqlpro-studio/id985614903?mt=12&amp;uo=4"/>
-        <updated>2025-06-07T13:25:02.915Z</updated>
-        <summary type="html"><![CDATA[SQLPro Premium: ¥698.00 → ¥113.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/sqlpro-studio/id985614903?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/9c/61/c89c6163-cabc-2f3b-3b3f-52a8a295a6da/AppIcon-0-0-85-220-0-0-0-5-0-2x.png/60x60bb.png" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>SQLPro Premium：</strong><span>¥698.00</span> → <b>
-  <strong>¥113.00</strong>
-</b><span>[¥113.00 ~ ¥698.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  SQLPro Studio is the premium database management tool for Postgres, MySQL, Microsoft Management Studio and Oracle databases.
-
-Some of the great features include:
-+ Intellisense/SQL autocompletion.
-+ Syntax highlighting with customizable themes (including dark).
-+ Tabbed based interface for an optimal user experience.
-+ Context aware database tree navigation, including quick access to tables, views, columns, indexes and much more!
-+ SQL Beautifier/formatter.
-+ Database wide searching.
-+ NTLMv2 supported (but not required).
-+ Netbios support.
-+ Master password support for additional security.
-+ Supports Handoff from iOS to macOS.
-
-SQLPro Studio supports the following database servers:
-+ MySQL & MariaDB
-+ PostgreSQL
-+ Microsoft SQL Server (2005 and above)
-+ SnowflakeDB
-+ SQLite
-+ Oracle (8i and above)
-
-Privacy Policy:
-https://hankinsoft.com/privacypolicy.html
-
-Terms of Use:
-https://hankinsoft.com/termsofuse.html
-
-Price:
-SQLPro offers Premium subscriptions (or a single Lifetime purchase) in order to interact with database result sets. Premium subscriptions are available as either a Monthly, or a Yearly duration. Subscriptions auto-renew within 24 hours of the expiration date unless auto-renewal is turned off in the iTunes account settings. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. Payment will be charged to your iTunes Account at confirmation of purchase.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/d9/f4/9e/d9f49e5d-5543-856a-2f5d-6b8e9f2753fb/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/37/c1/71/37c17106-bdba-ea66-b297-96755021fddf/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/03/92/52/039252ef-5225-9a60-c342-7cdcd7678a1d/pr_source.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音频剪辑 – 手机铃声制作&mp3音乐剪辑]]></title>
-        <id>音频剪辑 – 手机铃声制作&amp;mp3音乐剪辑-cn-1749237274260</id>
-        <link href="https://apps.apple.com/cn/app/%E9%9F%B3%E9%A2%91%E5%89%AA%E8%BE%91-%E6%89%8B%E6%9C%BA%E9%93%83%E5%A3%B0%E5%88%B6%E4%BD%9C-mp3%E9%9F%B3%E4%B9%90%E5%89%AA%E8%BE%91/id1339124759?uo=4"/>
-        <updated>2025-06-06T19:14:34.260Z</updated>
-        <summary type="html"><![CDATA[月度会员: ¥38.00 → ¥35.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E9%9F%B3%E9%A2%91%E5%89%AA%E8%BE%91-%E6%89%8B%E6%9C%BA%E9%93%83%E5%A3%B0%E5%88%B6%E4%BD%9C-mp3%E9%9F%B3%E4%B9%90%E5%89%AA%E8%BE%91/id1339124759?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/9f/00/cf9f0079-ce90-8228-c4e5-1e03c6311f25/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>月度会员：</strong><span>¥38.00</span> → <b>
-  <strong>¥35.00</strong>
-</b><span>[¥35.00 ~ ¥38.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  想制作属于自己独特炫酷的苹果手机铃声吗？或者有时会想把多首歌曲拼接起来当串烧，合并成自己想要的音乐？还是想知道不同歌曲混音后效果？
-音乐剪辑（幂果）是一款操作方便的音乐mp3剪切合并混音工具。简单出色，功能实用！不管你是专业音乐人还是音乐小白，都能轻松玩转。
-
-功能特点：
-1、专业的铃声剪辑：可自由剪辑，已为您设定铃声最大时长为40s（符合手机铃声特点）！
-2、简单的音乐拼接：歌曲剪辑拼接为一体，串烧喜欢的歌曲吧！
-3、独特的混音合成：随意剪辑两首曲子，混合一起播放，可以感受不一样的音乐效果！
-
-订阅说明：
-- 订阅VIP后，您可以无限制使用所有的功能
-- 订阅提供4个时间段的VIP服务，包括：每周VIP服务，每月VIP服务，每年VIP服务，永久VIP服务
-- 订阅每周15元，每月30元，每年88元和永久98元
-- 购买过程是从iTunes账户中扣除购买金额
-- 账户将在当前周期前 24 小时内按所选套餐的费用收取费用
-- 有效订阅期间不允许取消当前订阅。但您可以取消下一次订阅。
-- 您可以访问(长按) https://www.camoryapps.com/netpower/privacy_policy/musicmixer_cn.html 来阅读我们的隐私政策
-- 您可以访问(长按) https://www.camoryapps.com/netpower/service/musicmixer_cn.html 来阅读服务条款
-*价格相当于“苹果App Store矩阵”所确定的相当于以美元为单位的认购价。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/29/49/11/29491182-5df7-ad1e-c9b0-ac2a24f48a2e/1e304ac9-b23f-4e72-95d7-932218b86dd7_5.5_U82f1_U5bf81_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3f/13/3a/3f133a57-559b-71d3-17f5-f735b3e3d016/d917d6b6-78fc-4dbc-b995-dfbb45058b10_5.5_U82f1_U5bf82_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/aa/e8/08aae87f-0536-f70e-2305-f48103fe08ec/13ed63c2-0e3c-4332-95cd-195f01145a81_5.5_U82f1_U5bf83_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/70/a4/0a70a4c4-54e0-8acc-e3ef-8b5b8b46b6c6/294c541f-8023-449d-8c07-5a02b47dd8df_5.5_U82f1_U5bf84_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/18/0a/58180a1a-3f35-a19a-0309-a95f7a7c9c29/f0e65d15-4c0b-46d3-8286-20c61ba8e2ca_5.5_U82f1_U5bf85_cn.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/22/40/23/224023c1-1bd0-8118-6abe-2a75d7bb8d48/e9ae84ee-8b06-411d-82be-64ec8c0b44d5_12.9_U82f1_U5bf81_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/68/ed/d268edcb-346b-40ca-9f1d-f1a1617520b1/a1b344cd-34f3-44dd-98be-468601f88e3a_12.9_U82f1_U5bf82_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3d/11/d9/3d11d970-9c33-4b79-2956-46725b2c8168/b81d0e54-3a35-4aca-be78-4a6d55949114_12.9_U82f1_U5bf83_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b4/64/93/b4649310-9ec4-6e83-2c72-644217fcdd41/e5d7e6ab-9225-4860-9f42-ad553978548d_12.9_U82f1_U5bf84_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e5/97/85/e5978592-d3dc-9a0c-0fcc-1070189f4286/b401ad29-510b-4371-b581-f5e15f9cc8ae_12.9_U82f1_U5bf85_cn.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
