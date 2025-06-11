@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-11T11:22:03.157Z</updated>
+    <updated>2025-06-11T12:43:07.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-11T11:22:03.158Z</updated>
+        <updated>2025-06-11T12:43:07.291Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusWed, 11 Jun 2025 11:22:03 GMT</id>
+        <id>rankingusWed, 11 Jun 2025 12:43:07 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-11T11:22:03.159Z</updated>
+        <updated>2025-06-11T12:43:07.292Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -398,6 +398,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1518518216">Paper - Live Wallpapers</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Upgrade to Plus</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>16</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
       </td>
       <td>
@@ -412,7 +435,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576064082">DeviceMirror -Screen Mirroring</a>
@@ -429,7 +452,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
@@ -452,7 +475,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1598771178">DeviceMirror Lite -Screen Cast</a>
@@ -475,7 +498,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6450397515">Transcribe & Speech to text</a>
@@ -500,7 +523,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6448913901">全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理</a>
@@ -523,7 +546,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6739523960">Allow Right Click for Safari</a>
@@ -540,7 +563,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6738715418">STEP and IGES File Viewer</a>
@@ -557,7 +580,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6738089759">Hide Mouse Cursor</a>
@@ -583,6 +606,81 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paper - Live Wallpapers]]></title>
+        <id>Paper - Live Wallpapers-us-1749645470397</id>
+        <link href="https://apps.apple.com/us/app/paper-live-wallpapers/id1518518216?uo=4"/>
+        <updated>2025-06-11T12:37:50.397Z</updated>
+        <summary type="html"><![CDATA[Upgrade to Plus: $12.99 → $2.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/paper-live-wallpapers/id1518518216?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1e/29/fe/1e29fe6c-0637-27ee-b058-e16646430315/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Upgrade to Plus：</strong><span>$12.99</span> → <b>
+  <strong>$2.99</strong>
+</b><span>[$2.99 ~ $12.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  「Paper - Live Wallpapers & 4k HD Wallpaper」
+
+《Paper - Live Wallpapers》 is a 4K Live Wallpaper that makes stunning photos for your phone wallpaper every day. This is one of the best wallpaper apps ever on the iPhone.
+All wallpapers are carefully selected by our team to make every background look beautiful, including 4K (Ultra HD|Ultra HD) and 5K (Full HD) wallpapers|backgrounds.
+
+Rich live wallpapers give the iPhone desktop agility while occupying as little system resources as possible. If you are still looking for a wallpaper application under iPhone, don't hesitate, "Paper - Live Wallpapers" is what you want!
+
+characteristic:
+
+● Provide 20,000+ exquisite wallpaper materials (iPad contains 10,000+ wallpapers), which are continuously updated, so you don't have to spend time looking for materials.
+
+● Live wallpaper, only supports when the iPhone device is set as the lock screen, press to display the live wallpaper effect. For systems above iOS 16.0, the dynamic effect will not be displayed after setting the dynamic wallpaper.
+
+● Charging animation
+
+● Desktop themes
+
+● Zero app learning cost, simple interaction, and the pursuit of the best experience.
+
+● The interface of Paper wallpaper is exquisite, comfortable experience, supports dark mode, extremely beautiful.
+
+● We strive to simplify the application to provide excellent performance. Save battery.
+
+● Constantly increasing live wallpaper themes: new wallpapers are added every week. If you have a unique live video wallpaper and want to share it with everyone, please submit it to us.
+
+
+Support one-click preview, 20000+ exquisite wallpapers are waiting for you. Happy! Happy!
+
+Install "Paper - Live Wallpapers" now and make your device screen amazing and interesting!
+
+
+This is the normal version. Certain functions will be restricted.
+
+The iPad&iPhone version does not contain live wallpapers.
+
+If you have any problems with the app or wallpaper, please contact us at ninthgame.team@gmail.com, we are happy to help you solve the problem.
+
+Please enjoy!
+
+Regarding Paper's automatic renewal:
+
+-After the purchase is confirmed, the payment will be credited to the iTunes account immediately.
+– Automatic renewal can be turned off at least 24 hours before the end of the current period, otherwise it will be automatically renewed.
+-Account will be deducted for renewal within 24 hours before the end of the current period. The fee depends on the selected plan.
+– Users can manage subscriptions, and go to user account settings after purchase to turn off auto-renewal.
+– Any unused part of the free trial period will be automatically invalidated when the user purchases the applicable subscription.
+
+The following three ways to purchase are now available to enjoy the right to use all wallpapers, updated daily, and no ads:
+
+• Subscription every 6 months  –  $4.99
+• Annual subscription with three-day free trial  –  $8.49
+• One-time buyout  –  $12.99
+
+Privacy Policy: https://artyli.github.io/privacy.html
+Terms of Use: https://artyli.github.io/terms.html
+
+
+If you need help, please contact us: ninthgame.team@gmail.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3f/d7/7c/3fd77c23-6b57-6ab8-b55e-8007b538dc45/c5a4b053-7472-44cd-b8c5-d8925d4b4c20_1242x2208_us_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2f/7e/8d/2f7e8dd5-50eb-d2a5-d054-58aafb398d12/38a6df68-f208-4ea7-b331-aa34aaa51638_1242x2208_us_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4e/04/5c/4e045ce3-80f5-f837-e83e-25e7da8b63f5/4b209e6b-51c2-49be-b007-51a8bc790957_1242x2208_us_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7f/e2/c3/7fe2c328-659f-b078-fef0-3b176bdf52ee/3b37bbc9-39e8-48c7-87b2-ea3fd6304a3c_1242x2208_us_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/05/ec/fd/05ecfdaf-08dc-6c49-2105-d6caa9b024a3/c0fbf362-9b17-4f1b-99af-64cc549e11cd_1242x2208_us_4.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ba/d8/67/bad86727-6f62-dfcb-817a-31945bef1b64/1e906f0a-4ab2-407e-b17b-6a92d35a8066_2048x2732_us_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/61/cf/98/61cf983e-40b8-df11-fb2e-bbfdffa231f0/bf55280e-6525-4b51-bd1a-bf580447cf63_2048x2732_us_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d3/5f/ea/d35fea30-3384-d25a-e7e0-9d3dbeb64937/2f855153-4a1c-4ae9-9364-9369a5cb97c8_2048x2732_us_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f7/c6/39/f7c639bd-1b1a-7fa2-506f-acdfeb4cf01b/478b0bed-6af5-423f-9d1b-f43004953524_2048x2732_us_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4c/17/19/4c17198c-0541-2302-3ad4-b3e6044cfa3e/df80687a-684b-4510-92de-24b43b282a88_2048x2732_us_5.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Live Wallpaper - 4K UHD]]></title>
