@@ -43525,6 +43525,14 @@
     "history": [
       [
         {
+          "timestamp": 1749737891135,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748639756564,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -61763,6 +61771,17 @@
       "不归玄境": "¥10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749737891135,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "五朵金花": "¥16.00",
+            "不归玄境": "¥10.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746540140866,
