@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-12T03:20:03.304Z</updated>
+    <updated>2025-06-12T21:24:08.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-12T03:20:03.305Z</updated>
+        <updated>2025-06-12T21:24:08.171Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusThu, 12 Jun 2025 03:20:03 GMT</id>
+        <id>rankingusThu, 12 Jun 2025 21:24:08 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-12T03:20:03.305Z</updated>
+        <updated>2025-06-12T21:24:08.171Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -455,6 +455,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1588231633">Meitu-AI Photo Editor & Design</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Monthly Auto-renew Meitu SVIP</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>19</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
       </td>
       <td>
@@ -475,7 +498,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1598771178">DeviceMirror Lite -Screen Cast</a>
@@ -498,7 +521,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6450397515">Transcribe & Speech to text</a>
@@ -523,7 +546,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6448913901">全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理</a>
@@ -546,7 +569,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6739523960">Allow Right Click for Safari</a>
@@ -563,7 +586,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6738715418">STEP and IGES File Viewer</a>
@@ -580,7 +603,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6738089759">Hide Mouse Cursor</a>
@@ -597,7 +620,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6737146353">KitVPN – Fast & World NetWork</a>
@@ -629,6 +652,74 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meitu-AI Photo Editor & Design]]></title>
+        <id>Meitu-AI Photo Editor &amp; Design-us-1749763041812</id>
+        <link href="https://apps.apple.com/us/app/meitu-ai-photo-editor-design/id1588231633?mt=12&amp;uo=4"/>
+        <updated>2025-06-12T21:17:21.812Z</updated>
+        <summary type="html"><![CDATA[Monthly Auto-renew Meitu SVIP: $12.49 → $3.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/meitu-ai-photo-editor-design/id1588231633?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/5e/06/0f5e06ce-7271-6cc6-d813-456cedb68710/MTXXPro.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Monthly Auto-renew Meitu SVIP：</strong><span>$12.49</span> → <b>
+  <strong>$3.99</strong>
+</b><span>[$3.99 ~ $12.49]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Meitu is the simplest image processing tool that can quickly achieve professional-level photo editing effects. AI tools are constantly updated, and everyone can make good pictures!
+
+=== AI image modification, intelligent design without effort ===
+[AI Cutout] Efficient in all categories, 3s background removal, one-click change of background color/local pictures
+[AI Remover] One-click removal of redundant text, passers-by, skin acne spots, complex backgrounds, etc., without leaving any traces!
+[AI Enhancer] Ultra-clear image quality rebirth, say goodbye to poor image quality
+[AI Background Change] Enter keywords, AI generates product and portrait scene pictures
+[AI Expand] Freely expand the picture frame, intelligently fill the picture, and the composition does not need to be cropped!
+[AI Smart Selection] Any element can be freely moved, scaled, copied, redrawn, eliminated, and adjusted in color...
+
+===Meitu Batch Editor, efficient and higher quality===
+Import hundreds of pictures at a time, batch cut out pictures to change backgrounds, make them clear, add watermarks, crop and change sizes, compress and convert formats, etc., without repeated operations, efficient and refined!
+
+===Poster design, change pictures and words with one click===
+Massive high-quality templates cover e-commerce, administrative office, new media, WeChat and many other scenarios.
+
+===Puzzle splicing, creative layout===
+Seamless, horizontal and vertical, four-grid, nine-grid, love, triangle and many other puzzle styles, you can also freely assemble, social more colorful!
+
+===Basic picture editing, simple and outstanding===
+[Add text] [Crop, rotate, correct, and adjust size] [Dimming, color adjustment, and filter][Border stickers] [Brush] 
+
+===Medical-grade portrait beauty, high-definition natural face===
+[One-click beauty and whitening] [Facial reshaping] [Face slimming, body slimming, height increase] [Eye and Teeth Refinement] 
+
+————————
+
+[Meitu computer version SVIP automatic renewal service statement]
+
+[Meitu computer SVIP rights] Experience massive materials, personalized functions, and more refreshing without ads.
+
+[Subscription period]
+Meitu Computer SVIP - Continuous Monthly Subscription: Subscription period of 1 month
+Meitu PC SVIP - Continuous Season: Subscription period of 3 months
+Meitu PC SVIP - Consecutive Yearly Subscription: Subscription period of 12 months
+
+[Subscription price]
+The iAP application information shall prevail. For example, continuous monthly subscription products are 20 yuan per month; continuous seasonal subscription products are 50 yuan per quarter; continuous annual subscription products are 168 yuan per year.
+
+[Payment] After the user confirms the purchase and pays, it will be charged to the iTunes account.
+
+[Renewal] "Continuous monthly/quarterly/yearly" products are auto-renewable products, and your iTunes account will be charged after confirming the purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current subscription. Within 24 hours before your subscription period expires, Apple will automatically deduct the fee from your iTunes account, and the membership validity period will be automatically extended by one period after success.
+
+[Cancel renewal]
+If you want to cancel the automatic renewal, please manually go to "Settings" on your iPhone - click "Apple ID", select to enter the "Subscription" page, and select "Meitu SVIP" to cancel the subscription.
+
+[Free Trial] Renew the subscription during the free trial period to cancel the renewal, and the free trial rights will not be recovered from the user, and the user can try it until the trial period ends.
+
+==Related Agreement==
+Membership Service Agreement: https://pc.meitu.com/agreement
+Privacy Policy Address: https://pc.meitu.com/legal-agreement?type=pc
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/28/a3/4f28a3eb-ed57-8f60-d929-e1edb278071d/Meitu.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/c6/24/53c624f4-771c-841f-929d-ac7e1af6c6d1/Meitu_Batch_Editor.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/3a/27/273a2756-bead-3603-d43c-218dc5377dcd/AI_Cutout.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/22/9f/6a229ff1-1ee6-abca-0325-0b9722939856/AI_Enhancer.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KitVPN – Fast & World NetWork]]></title>
@@ -987,152 +1078,5 @@ Please comment in the App Store and you can also email us directly at mac_suppor
 --取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
 --续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/19/d3/bf/19d3bfd6-9e0a-3605-7ddb-1e9913dda13c/132add12-49bd-4d88-8ae5-5ac5488a4ca1_App_Store_U7269_U65991.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/03/a0/da/03a0da78-2838-3c81-c29d-28700c0682f7/80a29786-6e1e-4cd9-8a4a-00e146f32816_App_Store_U7269_U65992.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/32/58/00/325800bb-a68b-32ec-cbe8-5c90b590dc5f/cec956df-a085-48a5-b159-9a135f1e5ef2_App_Store_U7269_U65993.jpg/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾讯视频-折腰 全网独播]]></title>
-        <id>腾讯视频-折腰 全网独播-us-1749496447308</id>
-        <link href="https://apps.apple.com/us/app/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-%E6%8A%98%E8%85%B0-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1231336508?mt=12&amp;uo=4"/>
-        <updated>2025-06-09T19:14:07.308Z</updated>
-        <summary type="html"><![CDATA[该影片: $17.99 → $3.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-%E6%8A%98%E8%85%B0-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1231336508?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/fd/7e/42fd7e5c-49c8-de8c-26b4-8ff5c4e28793/AppIcon-85-220-0-4-2x-sRGB.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>该影片：</strong><span>$17.99</span> → <b>
-  <strong>$3.99</strong>
-</b><span>[$3.99 ~ $17.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  电视剧热播：
-《陷入我们的热恋》现偶之光顶级上头！刘浩存王安宇要谈不谈得暧昧最撩人
-《刑侦12》港式新版七宗罪超敢拍，林保怡陈法蓉陷连环凶案！
-《亲爱的仇敌》细腻戳心！成年人的猜忌权衡野心，高叶陈妍希演绎新型女性关系
-《刑警的日子》现实流刑侦大剧！欧豪张佳宁何冰连破15桩高能奇案
-《榜上佳婿》CP乱炖嗑上头！王子奇卢昱晓放榜捉婿结良缘，青梅竹马苏到腿软
-《狮城山海》热血江湖！巍子杨旭文浴血激战南洋华人圈，搏出帮派传奇
-综艺强档：
-《哈哈哈哈哈 第5季》要碎了！五哈爆笑英文版猜歌，邓超艺术细胞泛滥当场编歌！李乃文一路开挂为自己正名，陈赫被逼到暴走？
-《开始推理吧 第3季》高颜值推理团全员海盗风！刘宇宁超级加辈大哥变“大爸”，跟白宇热巴金靖组成相亲相爱一家人。
-《一见你就笑》刘浩存王安宇《陷入我们的热恋》超甜局～两人贴脸对视拉丝互动，刘浩存为王安宇报“犁地”之仇～小情侣太甜了。
-《毛雪汪》徐艺洋徐志胜爆笑来袭～徐艺洋自曝和黄子韬的婚礼细节，还要和徐志胜组成三口之家？毛毛雪琴在线震惊中！
-《演员请就位 第3季》演员跑组《狂飙》和《山花烂漫时》，杨子变酗酒父亲和猪一起睡觉太拼了，张嘉元冷脸演老默杀鱼适配度满分。
-《奔跑吧》原班人马每周五爆笑开跑，孟子义李昀锐合体马拉松接力。
-《天赐的声音 第6季》张靓颖刘宇宁双人热舞爆改《九万字》，张碧晨谭维维《王招君》唱到哽咽！
-《恋恋不忘的我们》分手情侣的顶级爱情修罗场！前任重逢暗流涌动，是旧情复燃还是奔赴新欢？
-《年轻的战场之太好“校”了》乐华艺人团建，开启游戏大乱斗！蒙眼猜美食pk，猛男俯卧撑对决？
-电影超燃：
-《唐探1900》王宝强、刘昊然笑闹探案！
-《毒液：最后一舞》毒液埃迪共赴终极战斗
-《猩球崛起：新世界》硬核科幻！史诗级人猿对决
-《根本停不下来》包贝尔带全家飙车笑疯了
-《怒水西流》全员狠人！宁理、陈都灵陷连环血案
-《天堂旅行团》彭昱畅杨恩又救赎之旅
-《斗破苍穹4：逃亡》萧炎斗气重燃激战云岚宗
-《不破不立》“哪吒2”幕后，饺子领衔动画人创造奇迹！
-《命中罪爱》尺度猛片！张静初、余皑磊罪案迷局
-强势国漫：
-《王者荣耀荣耀之章命运篇》铠皇回归，单挑王闪现动画一刀万爆！
-《仙逆剧场版 神临之战》王林合体古神之躯再创修魔海
-《遮天》姜神王复苏，叶凡破境四极！
-《画江湖之不良人 第7季》百亿国漫，王者归来！
-《斗罗大陆2》白发唐三在线邀约亡灵天灾
-《斗破苍穹年番》爽看斗尊萧炎携四色异火登场
-《火影忍者》全网独播！重温鸣人来时路，重燃火之意志
-精品短剧：
-《名不虚传》神医下山，超燃爽剧！草根小伙飞针扭转生死，无名小卒逆袭神医！
-《你是我的正午暖阳》豪门千金遭继妹背刺，携手拳王保镖打响复仇之战！
-《我叫赵甲第之锋芒》天才富二代赵甲第归来！一路开挂横扫商海！
-纪录片新热：
-《激流2》商业观察纪录片正在热播，聚焦在时代激流中，正在经受巨变冲击和影响的普通人。
-《寻色中国》首档中国传统色彩人文纪录片，寻找来自天地间的东方美，刻在基因里的中国色。
-《味道大师》遍寻山川湖海，通过24组人物故事，呈现“酸甜苦辣咸鲜臭麻”八大口味美食探索！
-《赵云》真实全面地记述三国名将赵云的一生！立足于正史记载，寻访赵云的生平经历和遗存，挖掘其鲜为人知的故事传说。
-《水底谜案》一封1978年的信件，两具沉没海底的尸体。搁置近40年的谜案重启调查，揭开惊人的案件真相！
-《食行荒野》与硬核冒险家马里奥·卡尔普一起环游世界，经由狩猎与烹饪食物，展示不同的文化和美食。
-《野火“烤”不尽》解锁隐藏在街头巷尾的烧烤小店，送上“烧烤掌门人”最拿手的招牌美食！
-儿童节目：
-《水晶岛守卫者》当猫猫变成人去学校上学之后，会引发什么故事？
-《超级飞侠18》无限合体！超级飞侠迎接更多挑战！
-《汪汪队之小砾与工程家族2》开最棒的挖掘机往前冲！小砾和他的狗狗工程家族来啦！
-《我的同学是美人鱼2》人鱼公主的陆地挑战记再来！看人鱼如何在人类学校里上学
-
-【产品功能】
-腾讯视频客户端是腾讯视频为电脑设备用户量身打造的网络视频播放客户端，采用轻量级的界面设计，提供高清流畅的播放服务，支持分享视频到QQ和微信，内容涵盖最新最热的电视剧、电影、动漫、综艺、少儿、纪录片、NBA、短剧、体育、游戏、时尚、音乐、直播等特色频道。
-1.支持在线观看、离线缓存观看视频。
-2.支持通过频道推荐、观看历史、搜索功能快速找到想看的视频。
-3.支持倍速播放、快速选集、切换清晰度等在线播放观看功能。
-4.支持弹幕互动，在线观看更有趣。
-5.开通腾讯视频VIP会员，畅享院线大片。
-6.支持微信、QQ、手机号登录腾讯视频。
-7.打造我的影院，个性化推荐专区。
-
-【自动订阅服务说明】
-1.订阅服务：
- a）腾讯视频VIP连续包月(1个月)、腾讯视频VIP连续包季(3个月)、腾讯视频VIP连续包年(12个月)
- b）超级影视VIP连续包月(1个月)、超级影视VIP连续包季(3个月)、超级影视VIP连续包年(12个月)
- c）腾讯体育VIP连续包月(1个月)、腾讯体育超级VIP连续包月(1个月)
- 2.订阅价格：
- a）腾讯视频VIP：连续包月产品为25元/月，连续包季产品为68元/季，连续包年产品为238元/年
- b）超级影视VIP：连续包月产品为35元/月、连续包季产品为98元/季、连续包年产品为348元/年
- c）腾讯体育VIP系列会员：腾讯体育VIP连续包月产品为25元/月、腾讯体育超级VIP连续包月产品为60元/月
- 3.付款：用户确认购买并付款后计入iTunes账户
- 4.自动续费：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期
- 5.关闭服务：您可以在苹果手机“设置” --> 进入“iTunes Store 与 App Store”-->点击 “Apple ID”，选择"查看Apple ID"，进入"账户设置"页面，点击“订阅”，管理自动订阅服务，如需取消，每个计费周期结束前24小时关闭即可，到期前24小时内则不再扣费
- 6.服务协议： 
- a）腾讯视频VIP：https://film.qq.com/weixin/term.html
- b）超级影视VIP：https://film.qq.com/weixin/term.html?bizId=svip
- c）腾讯体育VIP系列会员：https://film.qq.com/weixin/term.html?bizId=sport
- 7 .隐私协议：https://privacy.qq.com/document/preview/3fab9c7fc1424ebda42c3ce488322c8a
-
-【意见反馈】
-如遇问题或者有好的建议，欢迎加入QQ体验群反馈，将会有萌哒哒的视频妹为大家解答，并有持续好礼相送！官方QQ群：527288510。
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/16/3e/15163e7c-e03a-d9bb-1d24-42356617484c/IMG_1855.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/b6/33/a4b63375-7c02-6eb8-d3f8-446c5c2e13f2/7014b5a6-7cf4-4e28-a688-ff3eff19ee4a_1.jpeg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/f5/15/82f515cc-1b40-bf32-7c08-59b3fccf967b/7e0ac2f1-59ac-40d4-b333-c7ff5cd3652d_2880x1800-01@1x.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/e2/d9/9ae2d96c-bc6d-e6be-fbdb-5e5fcbab67b7/IMG_1854.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TextSniper - OCR, Copy & Paste]]></title>
-        <id>TextSniper - OCR, Copy &amp; Paste-us-1749486195582</id>
-        <link href="https://apps.apple.com/us/app/textsniper-ocr-copy-paste/id1528890965?mt=12&amp;uo=4"/>
-        <updated>2025-06-09T16:23:15.582Z</updated>
-        <summary type="html"><![CDATA[Price: $11.99 → $7.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/textsniper-ocr-copy-paste/id1528890965?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/7a/b6/2b7ab603-fdee-d92e-f3ea-f3ef5f597aef/AppIcon-new-0-0-85-220-0-2-0-2x.png/60x60bb.png" />
-</a><h2>
-  Discount Information（Price：<span>$11.99</span> → <b>
-  <strong>$7.99</strong>
-</b><span>[$7.99 ~ $11.99]</span>）
-</h2><h2>Application Description</h2><p>
-  TextSniper is an easy-to-use desktop Mac OCR app that can extract and recognize any non-searchable and non-editable text on your Mac's screen. As an extra feature, it can turn OCR text into speech. It is a super convenient alternative to complicated optical character recognition tools.
-
-The tool is intuitive to use and makes extracting text from your images, scanned paper documents, PDFs, or even videos easy. No training or special skills are required, and it fits perfectly home and business Mac users. Easily accessible from the menu bar whenever you need it and has a simple user interface. 
-
-If you have used a built-in Mac screen capture application before, it wouldn't be any trouble to work with TextSniper, too. Select with a mouse any part of an image, photo, PDF document, or anything on your screen, and the app will process and recognize any text within this selection. The text output will be saved into a clipboard so you can paste it into your favourite macOS text editing or note-taking software. 
-
-Finally, the app's optical character recognition engine doesn't need an internet connection to process documents. Great OCR solution for those who are concerned about privacy. The application does not collect any users' data.
-
-Use Cases:
-• Convert different image formats to text (JPEG, PNG, GIF, TIFF, BMP, etc.).
-• Pull text from a non-searchable PDF file without a need to process the whole document.
-• Read text from images, PDF documents, photos, Zoom meetings, or any other sources.
-• Copy text even when it is uncopiable, like in ebooks or web articles.
-• Quickly extract emails, links, phone numbers, etc.
-• Grab text or turn it into speech in video games.
-• Read QR or barcodes.
-• Quickly generate alt text from the screenshot for tweets.
-
-Features:
-• On-device OCR technology. No internet connection is needed.
-• Instant text recognition. No need to upload files into the application. OCR document or file on the fly.
-• High accuracy and performance in processing any documents.
-• Recognizes even tiny text on images with low-quality or dense background.
-• Customizable. Custom keyboard shortcuts to extract text with various options.
-• You can have TextSniper speak the recognized text whenever you need it.
-• Supports optical character recognition in multiple languages: English, Spanish, French, German, Portuguese, Italian,  Traditional and Simplified Chinese.
-• Running macOS Ventura: All the above languages plus Ukrainian, Korean, Japanese and Russian.
-• Running macOS Sonoma: All the above languages plus Thai and Vietnamese.
-• Running macOS Sequoia: All the above languages plus Arabic and Najdi Arabic.
-• Running macOS Catalina: English language only supported.
-• Use your iPad or iPhone camera to capture text from a photo or scanned document quickly.
-• Fully compatible with macOS Sonoma and optimised for Apple's M1-M3 chips.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/78/ec/c778ec00-fd20-75d8-8490-1595db186fe5/874d684d-dee4-4c59-a252-70064415d940_appStore_01_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/04/75/7b047524-c1a5-9579-0bff-ce1aefe96010/374d7e25-b5b4-447f-bdbe-45651cc8884b_appStore_02_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/87/fd/bc87fd48-719b-11e2-1385-1d56379504e3/8d73581b-f46e-4881-a83c-304cbddadc5c_appStore_03_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/0d/68/f30d68d9-9451-0333-7ba4-b12f0b07ae2e/07e2c426-538f-4876-8210-408c3943a5b1_appStore_04_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/50/9a/1f509a06-e7bf-f355-960a-96783793aae9/95ccc544-4cdb-4d91-b7e4-4a7eea3ffa48_appStore_05_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/bd/98/8dbd9870-243d-dbbe-bc5d-1abe5369718b/65a3f23b-cf55-4730-a569-4c661d1da6da_appStore_06_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/4a/19/d34a192d-e9b8-ffeb-cb3e-a6dbf2594d7d/4c5a6f15-dd6f-4964-9414-34b0bef9d62b_appStore_07_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/00/94/6500942d-a32c-3254-3230-201cb9323fc0/0aed8b36-02b2-471c-802c-bfc3bbbea1dc_appStore_08_2560x1600.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>

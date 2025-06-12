@@ -8948,6 +8948,14 @@
     "history": [
       [
         {
+          "timestamp": 1749763041812,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748191896014,
           "price": 0,
           "formattedPrice": "Free",
@@ -66264,27 +66272,54 @@
       "price": 0,
       "formattedPrice": "Free",
       "Monthly Auto-renew Meitu SVIP": "$12.49",
-      "Yearly Auto-renew Meitu SVIP": "$29.99",
+      "Yearly Auto-renew Meitu SVIP": "$84.99",
       "1 month - Meitu SVIP": "$4.99",
       "Quarterly Auto-renew SVIP": "$32.99",
       "880 Monthly Credits": "$9.99",
       "12 months-Meitu SVIP": "$39.99",
       "3 months - Meitu SVIP": "$14.99",
-      "24 months-Meitu SVIP": "$39.99"
+      "24 months-Meitu SVIP": "$39.99",
+      "Meitu- 1000 Credits": "$59.99",
+      "Meitu- 500 Credits": "$25.99",
+      "Meitu- 200 Credits": "$25.99",
+      "35,000 Credits": "$399.99",
+      "250 Credits": "$4.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Monthly Auto-renew Meitu SVIP": "$12.49",
+      "Monthly Auto-renew Meitu SVIP": "$3.99",
       "Yearly Auto-renew Meitu SVIP": "$29.99",
       "1 month - Meitu SVIP": "$4.99",
       "Quarterly Auto-renew SVIP": "$32.99",
       "880 Monthly Credits": "$9.99",
       "12 months-Meitu SVIP": "$39.99",
       "3 months - Meitu SVIP": "$14.99",
-      "24 months-Meitu SVIP": "$39.99"
+      "24 months-Meitu SVIP": "$39.99",
+      "Meitu- 1000 Credits": "$59.99",
+      "Meitu- 500 Credits": "$25.99",
+      "Meitu- 200 Credits": "$25.99",
+      "35,000 Credits": "$399.99",
+      "250 Credits": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749763041812,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "24 months-Meitu SVIP": "$39.99",
+            "Yearly Auto-renew Meitu SVIP": "$84.99",
+            "Meitu- 1000 Credits": "$59.99",
+            "Meitu- 500 Credits": "$25.99",
+            "Meitu- 200 Credits": "$25.99",
+            "Monthly Auto-renew Meitu SVIP": "$3.99",
+            "35,000 Credits": "$399.99",
+            "250 Credits": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,

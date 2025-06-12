@@ -548,6 +548,80 @@
   ],
   "us": [
     {
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/28/a3/4f28a3eb-ed57-8f60-d929-e1edb278071d/Meitu.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/c6/24/53c624f4-771c-841f-929d-ac7e1af6c6d1/Meitu_Batch_Editor.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/3a/27/273a2756-bead-3603-d43c-218dc5377dcd/AI_Cutout.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/22/9f/6a229ff1-1ee6-abca-0325-0b9722939856/AI_Enhancer.png/800x500bb.jpg"
+      ],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/5e/06/0f5e06ce-7271-6cc6-d813-456cedb68710/MTXXPro.png/60x60bb.png",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/5e/06/0f5e06ce-7271-6cc6-d813-456cedb68710/MTXXPro.png/512x512bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/5e/06/0f5e06ce-7271-6cc6-d813-456cedb68710/MTXXPro.png/100x100bb.png",
+      "artistViewUrl": "https://apps.apple.com/us/developer/xiamen-meitu-technology-co-ltd/id416048308?mt=12&uo=4",
+      "kind": "mac-software",
+      "averageUserRating": 0,
+      "trackCensoredName": "Meitu-AI Photo Editor & Design",
+      "languageCodesISO2A": [
+        "ZH",
+        "ZH"
+      ],
+      "fileSizeBytes": "325991934",
+      "formattedPrice": "Free",
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 0,
+      "trackViewUrl": "https://apps.apple.com/us/app/meitu-ai-photo-editor-design/id1588231633?mt=12&uo=4",
+      "trackContentRating": "4+",
+      "minimumOsVersion": "10.15.0",
+      "sellerUrl": "https://pc.meitu.com/pc",
+      "averageUserRatingForCurrentVersion": 0,
+      "artistId": 416048308,
+      "artistName": "Xiamen Meitu Technology Co., Ltd.",
+      "genres": [
+        "Photo & Video",
+        "Graphics & Design"
+      ],
+      "price": 0,
+      "bundleId": "com.meitu.mtxxpro",
+      "releaseDate": "2022-02-17T08:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2025-05-22T15:17:24Z",
+      "trackId": 1588231633,
+      "trackName": "Meitu-AI Photo Editor & Design",
+      "genreIds": [
+        "6008",
+        "6027"
+      ],
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "releaseNotes": "1. Functions such as light effect, color, detail, and AI Recolor have been upgraded to \"Adjust\", which can be used in \"Filters -Adjust\" and enhanced perceptual guidance.\n2. Fix some known issues and optimize the user experience.",
+      "version": "2.1.15",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Meitu is the simplest image processing tool that can quickly achieve professional-level photo editing effects. AI tools are constantly updated, and everyone can make good pictures!\n\n=== AI image modification, intelligent design without effort ===\n[AI Cutout] Efficient in all categories, 3s background removal, one-click change of background color/local pictures\n[AI Remover] One-click removal of redundant text, passers-by, skin acne spots, complex backgrounds, etc., without leaving any traces!\n[AI Enhancer] Ultra-clear image quality rebirth, say goodbye to poor image quality\n[AI Background Change] Enter keywords, AI generates product and portrait scene pictures\n[AI Expand] Freely expand the picture frame, intelligently fill the picture, and the composition does not need to be cropped!\n[AI Smart Selection] Any element can be freely moved, scaled, copied, redrawn, eliminated, and adjusted in color...\n\n===Meitu Batch Editor, efficient and higher quality===\nImport hundreds of pictures at a time, batch cut out pictures to change backgrounds, make them clear, add watermarks, crop and change sizes, compress and convert formats, etc., without repeated operations, efficient and refined!\n\n===Poster design, change pictures and words with one click===\nMassive high-quality templates cover e-commerce, administrative office, new media, WeChat and many other scenarios.\n\n===Puzzle splicing, creative layout===\nSeamless, horizontal and vertical, four-grid, nine-grid, love, triangle and many other puzzle styles, you can also freely assemble, social more colorful!\n\n===Basic picture editing, simple and outstanding===\n[Add text] [Crop, rotate, correct, and adjust size] [Dimming, color adjustment, and filter][Border stickers] [Brush] \n\n===Medical-grade portrait beauty, high-definition natural face===\n[One-click beauty and whitening] [Facial reshaping] [Face slimming, body slimming, height increase] [Eye and Teeth Refinement] \n\n————————\n\n[Meitu computer version SVIP automatic renewal service statement]\n\n[Meitu computer SVIP rights] Experience massive materials, personalized functions, and more refreshing without ads.\n\n[Subscription period]\nMeitu Computer SVIP - Continuous Monthly Subscription: Subscription period of 1 month\nMeitu PC SVIP - Continuous Season: Subscription period of 3 months\nMeitu PC SVIP - Consecutive Yearly Subscription: Subscription period of 12 months\n\n[Subscription price]\nThe iAP application information shall prevail. For example, continuous monthly subscription products are 20 yuan per month; continuous seasonal subscription products are 50 yuan per quarter; continuous annual subscription products are 168 yuan per year.\n\n[Payment] After the user confirms the purchase and pays, it will be charged to the iTunes account.\n\n[Renewal] \"Continuous monthly/quarterly/yearly\" products are auto-renewable products, and your iTunes account will be charged after confirming the purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current subscription. Within 24 hours before your subscription period expires, Apple will automatically deduct the fee from your iTunes account, and the membership validity period will be automatically extended by one period after success.\n\n[Cancel renewal]\nIf you want to cancel the automatic renewal, please manually go to \"Settings\" on your iPhone - click \"Apple ID\", select to enter the \"Subscription\" page, and select \"Meitu SVIP\" to cancel the subscription.\n\n[Free Trial] Renew the subscription during the free trial period to cancel the renewal, and the free trial rights will not be recovered from the user, and the user can try it until the trial period ends.\n\n==Related Agreement==\nMembership Service Agreement: https://pc.meitu.com/agreement\nPrivacy Policy Address: https://pc.meitu.com/legal-agreement?type=pc",
+      "sellerName": "Xiamen Meitu Technology Co., Ltd.",
+      "userRatingCount": 0,
+      "inAppPurchases": {
+        "24 months-Meitu SVIP": "$39.99",
+        "Yearly Auto-renew Meitu SVIP": "$84.99",
+        "Meitu- 1000 Credits": "$59.99",
+        "Meitu- 500 Credits": "$25.99",
+        "Meitu- 200 Credits": "$25.99",
+        "Monthly Auto-renew Meitu SVIP": "$3.99",
+        "35,000 Credits": "$399.99",
+        "250 Credits": "$4.99"
+      },
+      "timestamp": 1749763041812,
+      "discounts": [
+        {
+          "type": "inAppPurchase",
+          "name": "Monthly Auto-renew Meitu SVIP",
+          "from": "$12.49",
+          "to": "$3.99",
+          "range": "[$3.99 ~ $12.49]"
+        }
+      ]
+    },
+    {
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
