@@ -124,6 +124,14 @@
       "inAppPurchase": {
         "Monthly": 1
       }
+    },
+    "6450397515": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "VIP": 1,
+        "每日5小时": 1
+      }
     }
   },
   "us": {
