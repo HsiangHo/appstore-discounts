@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-12T21:24:08.169Z</updated>
+    <updated>2025-06-12T22:23:19.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-12T21:24:08.171Z</updated>
+        <updated>2025-06-12T22:23:19.200Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusThu, 12 Jun 2025 21:24:08 GMT</id>
+        <id>rankingusThu, 12 Jun 2025 22:23:19 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-12T21:24:08.171Z</updated>
+        <updated>2025-06-12T22:23:19.201Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -236,14 +236,22 @@ feedId:49753370488353792+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id673906093">Audio Normalizer - Mp3 Gain</a>
+        <a href="https://apps.apple.com/us/app/id1588231633">Meitu-AI Photo Editor & Design</a>
       </td>
       <td>
         <ul>
           <li>
-            <span>Total Times</span>：<b>1</b>
+            <span>Total Times</span>：<b>2</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Monthly Auto-renew Meitu SVIP</i>：<b>1</b>
+              </li><li>
+                <i>Yearly Auto-renew Meitu SVIP</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -253,7 +261,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id797275229">AudioTunes - FLAC, APE, WMA Converter</a>
+        <a href="https://apps.apple.com/us/app/id673906093">Audio Normalizer - Mp3 Gain</a>
       </td>
       <td>
         <ul>
@@ -270,7 +278,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id966457795">Super PhotoCut</a>
+        <a href="https://apps.apple.com/us/app/id797275229">AudioTunes - FLAC, APE, WMA Converter</a>
       </td>
       <td>
         <ul>
@@ -285,6 +293,23 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>
         <b>10</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id966457795">Super PhotoCut</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1133028347">Cleaner One Pro - Uninstaller</a>
@@ -307,7 +332,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1231336508">腾讯视频-长安的荔枝 全网独播</a>
@@ -330,7 +355,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1403919533">MWeb Pro</a>
@@ -347,7 +372,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1442745175">快帆加速器-海外回国音乐视频加速器</a>
@@ -372,7 +397,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1456235760">Live Wallpaper - 4K UHD</a>
@@ -395,7 +420,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1518518216">Paper - Live Wallpapers</a>
@@ -418,7 +443,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
@@ -435,7 +460,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576064082">DeviceMirror -Screen Mirroring</a>
@@ -446,29 +471,6 @@ feedId:49753370488353792+userId:73658201673997312
             <span>Total Times</span>：<b>1</b>
           </li><li>
             <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>18</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1588231633">Meitu-AI Photo Editor & Design</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Monthly Auto-renew Meitu SVIP</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -652,6 +654,74 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meitu-AI Photo Editor & Design]]></title>
+        <id>Meitu-AI Photo Editor &amp; Design-us-1749766629467</id>
+        <link href="https://apps.apple.com/us/app/meitu-ai-photo-editor-design/id1588231633?mt=12&amp;uo=4"/>
+        <updated>2025-06-12T22:17:09.467Z</updated>
+        <summary type="html"><![CDATA[Yearly Auto-renew Meitu SVIP: $84.99 → $29.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/meitu-ai-photo-editor-design/id1588231633?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/5e/06/0f5e06ce-7271-6cc6-d813-456cedb68710/MTXXPro.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Yearly Auto-renew Meitu SVIP：</strong><span>$84.99</span> → <b>
+  <strong>$29.99</strong>
+</b><span>[$29.99 ~ $84.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Meitu is the simplest image processing tool that can quickly achieve professional-level photo editing effects. AI tools are constantly updated, and everyone can make good pictures!
+
+=== AI image modification, intelligent design without effort ===
+[AI Cutout] Efficient in all categories, 3s background removal, one-click change of background color/local pictures
+[AI Remover] One-click removal of redundant text, passers-by, skin acne spots, complex backgrounds, etc., without leaving any traces!
+[AI Enhancer] Ultra-clear image quality rebirth, say goodbye to poor image quality
+[AI Background Change] Enter keywords, AI generates product and portrait scene pictures
+[AI Expand] Freely expand the picture frame, intelligently fill the picture, and the composition does not need to be cropped!
+[AI Smart Selection] Any element can be freely moved, scaled, copied, redrawn, eliminated, and adjusted in color...
+
+===Meitu Batch Editor, efficient and higher quality===
+Import hundreds of pictures at a time, batch cut out pictures to change backgrounds, make them clear, add watermarks, crop and change sizes, compress and convert formats, etc., without repeated operations, efficient and refined!
+
+===Poster design, change pictures and words with one click===
+Massive high-quality templates cover e-commerce, administrative office, new media, WeChat and many other scenarios.
+
+===Puzzle splicing, creative layout===
+Seamless, horizontal and vertical, four-grid, nine-grid, love, triangle and many other puzzle styles, you can also freely assemble, social more colorful!
+
+===Basic picture editing, simple and outstanding===
+[Add text] [Crop, rotate, correct, and adjust size] [Dimming, color adjustment, and filter][Border stickers] [Brush] 
+
+===Medical-grade portrait beauty, high-definition natural face===
+[One-click beauty and whitening] [Facial reshaping] [Face slimming, body slimming, height increase] [Eye and Teeth Refinement] 
+
+————————
+
+[Meitu computer version SVIP automatic renewal service statement]
+
+[Meitu computer SVIP rights] Experience massive materials, personalized functions, and more refreshing without ads.
+
+[Subscription period]
+Meitu Computer SVIP - Continuous Monthly Subscription: Subscription period of 1 month
+Meitu PC SVIP - Continuous Season: Subscription period of 3 months
+Meitu PC SVIP - Consecutive Yearly Subscription: Subscription period of 12 months
+
+[Subscription price]
+The iAP application information shall prevail. For example, continuous monthly subscription products are 20 yuan per month; continuous seasonal subscription products are 50 yuan per quarter; continuous annual subscription products are 168 yuan per year.
+
+[Payment] After the user confirms the purchase and pays, it will be charged to the iTunes account.
+
+[Renewal] "Continuous monthly/quarterly/yearly" products are auto-renewable products, and your iTunes account will be charged after confirming the purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current subscription. Within 24 hours before your subscription period expires, Apple will automatically deduct the fee from your iTunes account, and the membership validity period will be automatically extended by one period after success.
+
+[Cancel renewal]
+If you want to cancel the automatic renewal, please manually go to "Settings" on your iPhone - click "Apple ID", select to enter the "Subscription" page, and select "Meitu SVIP" to cancel the subscription.
+
+[Free Trial] Renew the subscription during the free trial period to cancel the renewal, and the free trial rights will not be recovered from the user, and the user can try it until the trial period ends.
+
+==Related Agreement==
+Membership Service Agreement: https://pc.meitu.com/agreement
+Privacy Policy Address: https://pc.meitu.com/legal-agreement?type=pc
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/28/a3/4f28a3eb-ed57-8f60-d929-e1edb278071d/Meitu.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/c6/24/53c624f4-771c-841f-929d-ac7e1af6c6d1/Meitu_Batch_Editor.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/3a/27/273a2756-bead-3603-d43c-218dc5377dcd/AI_Cutout.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/22/9f/6a229ff1-1ee6-abca-0325-0b9722939856/AI_Enhancer.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Meitu-AI Photo Editor & Design]]></title>

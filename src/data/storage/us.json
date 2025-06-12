@@ -66305,6 +66305,21 @@
     "history": [
       [
         {
+          "timestamp": 1749766629467,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew Meitu SVIP": "$29.99",
+            "Monthly Auto-renew Meitu SVIP": "$12.49",
+            "1 month - Meitu SVIP": "$4.99",
+            "Quarterly Auto-renew SVIP": "$32.99",
+            "880 Monthly Credits": "$9.99",
+            "12 months-Meitu SVIP": "$39.99",
+            "3 months - Meitu SVIP": "$14.99",
+            "24 months-Meitu SVIP": "$39.99"
+          }
+        },
+        {
           "timestamp": 1749763041812,
           "price": 0,
           "formattedPrice": "Free",

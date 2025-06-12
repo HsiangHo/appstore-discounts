@@ -89,6 +89,13 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1576794157": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "三个月会员": 1
+      }
+    },
     "1598771178": {
       "all": 1,
       "price": 0,
@@ -254,10 +261,11 @@
       "inAppPurchase": {}
     },
     "1588231633": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Monthly Auto-renew Meitu SVIP": 1
+        "Monthly Auto-renew Meitu SVIP": 1,
+        "Yearly Auto-renew Meitu SVIP": 1
       }
     },
     "1594288016": {

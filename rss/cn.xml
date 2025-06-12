@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-12T14:22:05.664Z</updated>
+    <updated>2025-06-12T22:23:19.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-12T14:22:05.665Z</updated>
+        <updated>2025-06-12T22:23:19.185Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnThu, 12 Jun 2025 14:22:05 GMT</id>
+        <id>rankingcnThu, 12 Jun 2025 22:23:19 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-12T14:22:05.666Z</updated>
+        <updated>2025-06-12T22:23:19.186Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -384,6 +384,29 @@ feedId:49753297431966720+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1576794157">飞火动态壁纸-4k超清视频桌面主题壁纸引擎</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>三个月会员</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>16</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1598771178">DeviceMirror Lite -无线手机投屏</a>
       </td>
       <td>
@@ -404,7 +427,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1619925971">UPDF - 新一代 AI 智能 PDF 编辑器</a>
@@ -427,7 +450,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6739523960">允许 Safari 右键单击</a>
@@ -444,7 +467,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6738715418">STEP 和 IGES 文件查看器</a>
@@ -461,7 +484,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6738089759">隐藏鼠标光标</a>
@@ -478,7 +501,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737146353">MateFox - VPN&全球网络加速器&无限流量</a>
@@ -501,7 +524,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6450397515">录音转文字-语音转文字助手</a>
@@ -526,7 +549,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737795387">鬼谷八荒</a>
@@ -560,6 +583,29 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[飞火动态壁纸-4k超清视频桌面主题壁纸引擎]]></title>
+        <id>飞火动态壁纸-4k超清视频桌面主题壁纸引擎-cn-1749766629467</id>
+        <link href="https://apps.apple.com/cn/app/%E9%A3%9E%E7%81%AB%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8-4k%E8%B6%85%E6%B8%85%E8%A7%86%E9%A2%91%E6%A1%8C%E9%9D%A2%E4%B8%BB%E9%A2%98%E5%A3%81%E7%BA%B8%E5%BC%95%E6%93%8E/id1576794157?mt=12&amp;uo=4"/>
+        <updated>2025-06-12T22:17:09.467Z</updated>
+        <summary type="html"><![CDATA[三个月会员: ¥22.00 → ¥15.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E9%A3%9E%E7%81%AB%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8-4k%E8%B6%85%E6%B8%85%E8%A7%86%E9%A2%91%E6%A1%8C%E9%9D%A2%E4%B8%BB%E9%A2%98%E5%A3%81%E7%BA%B8%E5%BC%95%E6%93%8E/id1576794157?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/4c/d2/cb4cd29c-9d6b-6df0-4865-8d6db6ef86bb/AppIcon-85-220-0-4-2x.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>三个月会员：</strong><span>¥22.00</span> → <b>
+  <strong>¥15.00</strong>
+</b><span>[¥15.00 ~ ¥22.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  【动态视频桌面】
+一键设置动态壁纸，唤醒你沉睡的桌面
+【海量超清壁纸】
+每日更新新鲜壁纸，让你的桌面每天焕然一新
+【趣味交互壁纸】各类特色交互壁纸，移动鼠标开启和桌面的有趣互动
+飞火动态壁纸拥有海量壁纸资源，超清无水印动态壁纸、优质静态壁纸大全一键美化你的桌面，让你的桌面动起来！ 更有各种隐藏彩蛋等着你哦！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/ca/73/e9ca7323-84d2-047c-1609-8e657e0eb97e/5a50f404baa27c1488934de8c030e532.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/b5/ff/fcb5ffaf-95f5-7952-9950-298088193e0f/ce8c09195637625df422c61122ad14ae.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/fb/e9/63fbe99d-8074-09f3-3373-2263d3c7509c/_U52a8_U6001.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/9d/81/409d8183-19f5-5fec-e5c3-5804a4d268a4/_U9759_U6001.jpg/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[鬼谷八荒]]></title>
@@ -737,52 +783,5 @@ https://hankinsoft.com/termsofuse.html
 Price:
 SQLPro offers Premium subscriptions (or a single Lifetime purchase) in order to interact with database result sets. Premium subscriptions are available as either a Monthly, or a Yearly duration. Subscriptions auto-renew within 24 hours of the expiration date unless auto-renewal is turned off in the iTunes account settings. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. Payment will be charged to your iTunes Account at confirmation of purchase.
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/d9/f4/9e/d9f49e5d-5543-856a-2f5d-6b8e9f2753fb/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/37/c1/71/37c17106-bdba-ea66-b297-96755021fddf/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/03/92/52/039252ef-5225-9a60-c342-7cdcd7678a1d/pr_source.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TextSniper - OCR, Copy & Paste]]></title>
-        <id>TextSniper - OCR, Copy &amp; Paste-cn-1749486195582</id>
-        <link href="https://apps.apple.com/cn/app/textsniper-ocr-copy-paste/id1528890965?mt=12&amp;uo=4"/>
-        <updated>2025-06-09T16:23:15.582Z</updated>
-        <summary type="html"><![CDATA[价格: ¥58.00 → ¥38.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/textsniper-ocr-copy-paste/id1528890965?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/7a/b6/2b7ab603-fdee-d92e-f3ea-f3ef5f597aef/AppIcon-new-0-0-85-220-0-2-0-2x.png/60x60bb.png" />
-</a><h2>
-  优惠信息（价格：<span>¥58.00</span> → <b>
-  <strong>¥38.00</strong>
-</b><span>[¥38.00 ~ ¥58.00]</span>）
-</h2><h2>应用描述</h2><p>
-  TextSniper is an easy-to-use desktop Mac OCR app that can extract and recognize any non-searchable and non-editable text on your Mac's screen. As an extra feature, it can turn OCR text into speech. It is a super convenient alternative to complicated optical character recognition tools.
-
-The tool is intuitive to use and makes extracting text from your images, scanned paper documents, PDFs, or even videos easy. No training or special skills are required, and it fits perfectly home and business Mac users. Easily accessible from the menu bar whenever you need it and has a simple user interface. 
-
-If you have used a built-in Mac screen capture application before, it wouldn't be any trouble to work with TextSniper, too. Select with a mouse any part of an image, photo, PDF document, or anything on your screen, and the app will process and recognize any text within this selection. The text output will be saved into a clipboard so you can paste it into your favourite macOS text editing or note-taking software. 
-
-Finally, the app's optical character recognition engine doesn't need an internet connection to process documents. Great OCR solution for those who are concerned about privacy. The application does not collect any users' data.
-
-Use Cases:
-• Convert different image formats to text (JPEG, PNG, GIF, TIFF, BMP, etc.).
-• Pull text from a non-searchable PDF file without a need to process the whole document.
-• Read text from images, PDF documents, photos, Zoom meetings, or any other sources.
-• Copy text even when it is uncopiable, like in ebooks or web articles.
-• Quickly extract emails, links, phone numbers, etc.
-• Grab text or turn it into speech in video games.
-• Read QR or barcodes.
-• Quickly generate alt text from the screenshot for tweets.
-
-Features:
-• On-device OCR technology. No internet connection is needed.
-• Instant text recognition. No need to upload files into the application. OCR document or file on the fly.
-• High accuracy and performance in processing any documents.
-• Recognizes even tiny text on images with low-quality or dense background.
-• Customizable. Custom keyboard shortcuts to extract text with various options.
-• You can have TextSniper speak the recognized text whenever you need it.
-• Supports optical character recognition in multiple languages: English, Spanish, French, German, Portuguese, Italian,  Traditional and Simplified Chinese.
-• Running macOS Ventura: All the above languages plus Ukrainian, Korean, Japanese and Russian.
-• Running macOS Sonoma: All the above languages plus Thai and Vietnamese.
-• Running macOS Sequoia: All the above languages plus Arabic and Najdi Arabic.
-• Running macOS Catalina: English language only supported.
-• Use your iPad or iPhone camera to capture text from a photo or scanned document quickly.
-• Fully compatible with macOS Sonoma and optimised for Apple's M1-M3 chips.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/78/ec/c778ec00-fd20-75d8-8490-1595db186fe5/874d684d-dee4-4c59-a252-70064415d940_appStore_01_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/04/75/7b047524-c1a5-9579-0bff-ce1aefe96010/374d7e25-b5b4-447f-bdbe-45651cc8884b_appStore_02_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/87/fd/bc87fd48-719b-11e2-1385-1d56379504e3/8d73581b-f46e-4881-a83c-304cbddadc5c_appStore_03_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/0d/68/f30d68d9-9451-0333-7ba4-b12f0b07ae2e/07e2c426-538f-4876-8210-408c3943a5b1_appStore_04_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/50/9a/1f509a06-e7bf-f355-960a-96783793aae9/95ccc544-4cdb-4d91-b7e4-4a7eea3ffa48_appStore_05_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/bd/98/8dbd9870-243d-dbbe-bc5d-1abe5369718b/65a3f23b-cf55-4730-a569-4c661d1da6da_appStore_06_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/4a/19/d34a192d-e9b8-ffeb-cb3e-a6dbf2594d7d/4c5a6f15-dd6f-4964-9414-34b0bef9d62b_appStore_07_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/00/94/6500942d-a32c-3254-3230-201cb9323fc0/0aed8b36-02b2-471c-802c-bfc3bbbea1dc_appStore_08_2560x1600.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>
