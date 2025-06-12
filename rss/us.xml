@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-11T12:43:07.290Z</updated>
+    <updated>2025-06-12T03:20:03.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-11T12:43:07.291Z</updated>
+        <updated>2025-06-12T03:20:03.305Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusWed, 11 Jun 2025 12:43:07 GMT</id>
+        <id>rankingusThu, 12 Jun 2025 03:20:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-11T12:43:07.292Z</updated>
+        <updated>2025-06-12T03:20:03.305Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -310,7 +310,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1231336508">腾讯视频-折腰 全网独播</a>
+        <a href="https://apps.apple.com/us/app/id1231336508">腾讯视频-长安的荔枝 全网独播</a>
       </td>
       <td>
         <ul>
@@ -595,6 +595,29 @@ feedId:49753370488353792+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>25</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6737146353">KitVPN – Fast & World NetWork</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Monthly</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -606,6 +629,54 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KitVPN – Fast & World NetWork]]></title>
+        <id>KitVPN – Fast &amp; World NetWork-us-1749698079697</id>
+        <link href="https://apps.apple.com/us/app/kitvpn-fast-world-network/id6737146353?uo=4"/>
+        <updated>2025-06-12T03:14:39.697Z</updated>
+        <summary type="html"><![CDATA[Monthly: $6.99 → $4.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/kitvpn-fast-world-network/id6737146353?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/d2/99/a9d29963-0e3c-c1e9-1105-9f7a22cfb2bb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Monthly：</strong><span>$6.99</span> → <b>
+  <strong>$4.99</strong>
+</b><span>[$4.99 ~ $6.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  [Fox VPN - Your Secure Gateway to Uninterrupted Connectivity]
+
+Fox VPN provides a seamless and secure network acceleration experience, empowering users to enjoy reliable internet access anytime, anywhere. Ideal for work, study, or entertainment, FoxVPN delivers efficient and stable connections with cutting-edge encryption and optimized performance. Our advanced infrastructure ensures lightning-fast speeds and minimal latency, supporting applications in gaming, video streaming, music, social media, business, and education. Connect confidently with just one click.
+
+[Key Features]
+
+High-Speed Network Optimization: FoxVPN’s intelligent acceleration technology automatically selects optimal pathways, ensuring ultra-fast speeds and low latency for smooth streaming, gaming, and browsing.
+
+Military-Grade Security: Protect your online activity with advanced encryption, safeguarding your data from unauthorized access and cyber threats. Browse, work, and stream with peace of mind.
+
+Seamless Multi-Device Support: Compatible across PCs, smartphones, tablets, and more, FoxVPN lets you stay connected on all devices without compromising speed or security.
+
+Stable & Reliable Connections: Built on a robust global infrastructure, FoxVPN minimizes downtime and ensures consistent performance for uninterrupted productivity and entertainment.
+
+[Key Use Cases]
+
+Entertainment Scenario
+Kevin loves streaming movies and music but often faces buffering and connectivity issues. With FoxVPN, he enjoys ultra-fast speeds and stable connections, enabling smooth, high-quality streaming. Whether at home or on the go, FoxVPN keeps his entertainment experience seamless and buffer-free.
+
+Work Scenario
+Flora, a global marketing manager, relies on secure access to company resources while traveling. FoxVPN’s encrypted connections ensure her sensitive data stays protected, even on public networks. The one-click acceleration feature guarantees reliable performance, letting her collaborate efficiently with international teams.
+
+Study Scenario
+Michael, a dedicated student, needs uninterrupted access to online learning platforms and academic tools. FoxVPN’s high-speed connections and low latency allow him to attend virtual classes, download resources, and stream educational content without disruptions.
+
+[Technical Support]
+support@matefox.net
+
+[Terms of Service]
+Terms of Service: https://matefox.net/TermsofServiceEng.html
+Privacy Policy: https://matefox.net/PrivacyPolicyEng.html
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Paper - Live Wallpapers]]></title>

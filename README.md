@@ -366,7 +366,7 @@ So far, we've covered `2` `Countries or Regions` and  `853` `Apps` <br />Push no
 |559|1516378834|Automatic|推送通知-客户端||||Push Notification - Client||
 |558|547166701|Automatic|百度网盘||||百度网盘||
 |557|1014945607|Automatic|优酷视频-嘘国王在冬眠 全网独播||||优酷视频-嘘国王在冬眠 全网独播||
-|556|1231336508|Automatic|腾讯视频-折腰 全网独播||||腾讯视频-折腰 全网独播||
+|556|1231336508|Automatic|腾讯视频-长安的荔枝 全网独播||||腾讯视频-长安的荔枝 全网独播||
 |555|6741096204|Automatic|Deep Think AI：询问 AI 聊天机器人||||Think AI: Ask Chatbot Anything||
 |554|1012296988|Automatic|爱奇艺-临江仙 离婚仙侠||||爱奇艺-临江仙 离婚仙侠||
 |553|1327661892|Automatic|Xmind：思维导图||||Xmind: Mind Map||
