@@ -26891,9 +26891,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "解锁完整版": "¥208.00"
+      "解锁完整版": "¥138.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749849438404,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "解锁完整版": "¥138.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
