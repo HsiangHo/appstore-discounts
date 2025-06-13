@@ -26896,6 +26896,14 @@
     "history": [
       [
         {
+          "timestamp": 1749853020218,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "解锁完整版": "¥208.00"
+          }
+        },
+        {
           "timestamp": 1749849438404,
           "price": 0,
           "formattedPrice": "免费",
@@ -40713,6 +40721,21 @@
       "快帆360天VIP": "¥498.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749853020218,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "连续包月": "¥40.00",
+            "快帆30天VIP": "¥48.00",
+            "连续包季": "¥113.00",
+            "90天VIP": "¥118.00",
+            "快帆90天VIP": "¥128.00",
+            "连续包年": "¥418.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
