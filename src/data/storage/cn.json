@@ -68844,5 +68844,26 @@
         }
       ]
     ]
+  },
+  "6612011484": {
+    "name": "怪物乐土",
+    "maxPriceInfo": {
+      "price": 12,
+      "formattedPrice": "¥12.00"
+    },
+    "minPriceInfo": {
+      "price": 12,
+      "formattedPrice": "¥12.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1749803064012,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
   }
 }
