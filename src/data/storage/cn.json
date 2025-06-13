@@ -7012,6 +7012,16 @@
     "history": [
       [
         {
+          "timestamp": 1749824261187,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "VOX Premium Subscription": "¥353.00",
+            "Radio": "¥68.00",
+            "LOOP for VOX Subscription": "¥518.00"
+          }
+        },
+        {
           "timestamp": 1749763041812,
           "price": 0,
           "formattedPrice": "免费",
@@ -39651,6 +39661,14 @@
     "history": [
       [
         {
+          "timestamp": 1749824261187,
+          "price": 228,
+          "formattedPrice": "¥228.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749133081304,
           "price": 128,
           "formattedPrice": "¥128.00",
@@ -67744,6 +67762,14 @@
     "history": [
       [
         {
+          "timestamp": 1749824261187,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749392098889,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -68529,6 +68555,14 @@
     "history": [
       [
         {
+          "timestamp": 1749824261187,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749392098889,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -68822,6 +68856,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749824261187,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749392098889,

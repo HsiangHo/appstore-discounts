@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-12T22:23:19.184Z</updated>
+    <updated>2025-06-13T14:21:12.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-12T22:23:19.185Z</updated>
+        <updated>2025-06-13T14:21:12.747Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnThu, 12 Jun 2025 22:23:19 GMT</id>
+        <id>rankingcnFri, 13 Jun 2025 14:21:12 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-12T22:23:19.186Z</updated>
+        <updated>2025-06-13T14:21:12.747Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -50,13 +50,13 @@ feedId:49753297431966720+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>853</b>
+        <b>854</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>853</b>
+        <b>854</b>
       </td>
       <td>
         <b></b>
@@ -67,13 +67,13 @@ feedId:49753297431966720+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>841</b>
+        <b>842</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>841</b>
+        <b>842</b>
       </td>
       <td>
         <b></b>
@@ -190,6 +190,57 @@ feedId:49753297431966720+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id6739523960">允许 Safari 右键单击</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>6</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6738715418">STEP 和 IGES 文件查看器</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6738089759">隐藏鼠标光标</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>8</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id673906093">歌曲音量调节器Audio Normalizer</a>
       </td>
       <td>
@@ -204,7 +255,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id797275229">AudioTunes - FLAC, APE, WMA Converter</a>
@@ -221,7 +272,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1012296988">爱奇艺-临江仙 离婚仙侠</a>
@@ -244,7 +295,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1058801458">Remixlive - Make Music & Beats</a>
@@ -267,7 +318,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1395152179">奇游加速器 - 全球游戏畅玩</a>
@@ -290,7 +341,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1403919533">MWeb Pro</a>
@@ -307,7 +358,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1518518216">Paper 壁纸 - 超高清4K动态壁纸, 桌面壁纸</a>
@@ -330,7 +381,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
@@ -347,7 +398,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1544190466">避难所：生存</a>
@@ -364,7 +415,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1576064082">DeviceMirror Pro -无线有线手机投屏</a>
@@ -381,7 +432,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1576794157">飞火动态壁纸-4k超清视频桌面主题壁纸引擎</a>
@@ -404,7 +455,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1598771178">DeviceMirror Lite -无线手机投屏</a>
@@ -427,7 +478,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1619925971">UPDF - 新一代 AI 智能 PDF 编辑器</a>
@@ -444,57 +495,6 @@ feedId:49753297431966720+userId:73658201673997312
                 <i>永久授权</i>：<b>1</b>
               </li>
             </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>18</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6739523960">允许 Safari 右键单击</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>19</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6738715418">STEP 和 IGES 文件查看器</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>20</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6738089759">隐藏鼠标光标</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
           </li>
         </ul>
       </td>
@@ -583,6 +583,48 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[允许 Safari 右键单击]]></title>
+        <id>允许 Safari 右键单击-cn-1749824261187</id>
+        <link href="https://apps.apple.com/cn/app/%E5%85%81%E8%AE%B8-safari-%E5%8F%B3%E9%94%AE%E5%8D%95%E5%87%BB/id6739523960?uo=4"/>
+        <updated>2025-06-13T14:17:41.187Z</updated>
+        <summary type="html"><![CDATA[价格: ¥15.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%85%81%E8%AE%B8-safari-%E5%8F%B3%E9%94%AE%E5%8D%95%E5%87%BB/id6739523960?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ea/35/f9ea3591-a3aa-59b0-1a37-183f419f88f2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥15.00</span> → <b>
+  <strong>免费</strong>
+</b><span>[免费 ~ ¥15.00]</span>）
+</h2><h2>应用描述</h2><p>该软件允许在所有网站上使用右键单击、复制、剪切和粘贴功能。它具有简单的界面，易于使用。您可以复制任何内容，无论是文本、图像还是其他媒体。</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STEP 和 IGES 文件查看器]]></title>
+        <id>STEP 和 IGES 文件查看器-cn-1749824261187</id>
+        <link href="https://apps.apple.com/cn/app/step-%E5%92%8C-iges-%E6%96%87%E4%BB%B6%E6%9F%A5%E7%9C%8B%E5%99%A8/id6738715418?mt=12&amp;uo=4"/>
+        <updated>2025-06-13T14:17:41.187Z</updated>
+        <summary type="html"><![CDATA[价格: ¥88.00 → ¥8.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/step-%E5%92%8C-iges-%E6%96%87%E4%BB%B6%E6%9F%A5%E7%9C%8B%E5%99%A8/id6738715418?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/55/f8/ee55f8c1-9e6f-b66e-8745-8fa4073cc1e3/icon.png/60x60bb.png" />
+</a><h2>
+  优惠信息（价格：<span>¥88.00</span> → <b>
+  <strong>¥8.00</strong>
+</b><span>[¥8.00 ~ ¥88.00]</span>）
+</h2><h2>应用描述</h2><p>适用于 STEP/STP、IGES/IGS 和其他 3D 文件格式的专业 3D 查看器。支持轻松打印和转换 3D 文件。</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/84/ec/4984ec88-a04a-e981-64d6-d6fec8d8a2b2/_U65e0_U6807_U989829.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/c7/6d/aec76dd3-5cd8-fe26-ef16-bf4ccf3a72ed/_U65e0_U6807_U9898.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/68/5a/63685a4f-4f46-ce54-b618-f9c0f6c6dada/_U65e0_U6807_U98982.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隐藏鼠标光标]]></title>
+        <id>隐藏鼠标光标-cn-1749824261187</id>
+        <link href="https://apps.apple.com/cn/app/%E9%9A%90%E8%97%8F%E9%BC%A0%E6%A0%87%E5%85%89%E6%A0%87/id6738089759?mt=12&amp;uo=4"/>
+        <updated>2025-06-13T14:17:41.187Z</updated>
+        <summary type="html"><![CDATA[价格: ¥8.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E9%9A%90%E8%97%8F%E9%BC%A0%E6%A0%87%E5%85%89%E6%A0%87/id6738089759?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/3e/95/423e9529-c3a8-daed-aa31-a91b61fc449c/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png" />
+</a><h2>
+  优惠信息（价格：<span>¥8.00</span> → <b>
+  <strong>免费</strong>
+</b><span>[免费 ~ ¥8.00]</span>）
+</h2><h2>应用描述</h2><p>这款应用是一款专为用户隐藏鼠标光标的工具，特别适合全屏演示、视频播放或游戏，让用户能够专注于内容而不受光标的干扰，包括一键隐藏/显示光标、快捷键支持和自定义设置。</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/e7/e9/14e7e980-14b9-dd96-141a-2deecdd1fe0c/Screenshot_2024-11-22_at_5.14.01_U202fPM_copy.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/48/67/b748678b-92ca-24f1-ea97-72ecc7924d6b/Screenshot_2024-11-22_at_5.14.01_U202fPM.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[飞火动态壁纸-4k超清视频桌面主题壁纸引擎]]></title>

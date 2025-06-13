@@ -8965,6 +8965,18 @@
     "history": [
       [
         {
+          "timestamp": 1749824261187,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "VOX Premium Subscription": "$49.99",
+            "Radio": "$9.99",
+            "LOOP for VOX Subscription": "$49.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749763041812,
           "price": 0,
           "formattedPrice": "Free",
