@@ -30841,6 +30841,22 @@
     "history": [
       [
         {
+          "timestamp": 1749921251112,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Remixlive Premium (Monthly)": "$9.99",
+            "Trap": "$2.99",
+            "Electro": "$2.99",
+            "Drum & Bass": "$2.99",
+            "Deep House": "$2.99",
+            "Hip-Hop": "$2.99",
+            "Full Access to PRO": "$9.99",
+            "Future Beat": "$2.99",
+            "Dubstep": "$2.99"
+          }
+        },
+        {
           "timestamp": 1749918025609,
           "price": 0,
           "formattedPrice": "Free",
@@ -41763,6 +41779,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749921251112,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "订阅一个周.": "$2.49",
+            "Permanent membership": "$11.99",
+            "Subscription for 1 month.": "$4.49",
+            "订阅一年": "$9.99",
+            "Monthly membership": "$4.99",
+            "月度会员": "$4.99",
+            "Annual membership": "$9.99",
+            "Subscription for 1 year.": "$13.49"
+          }
+        },
         {
           "timestamp": 1749918025609,
           "price": 0,
