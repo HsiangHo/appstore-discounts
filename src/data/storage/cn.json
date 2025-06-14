@@ -46134,6 +46134,17 @@
     "history": [
       [
         {
+          "timestamp": 1749932282025,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "1个月VIP": "¥48.00",
+            "3个月VIP": "¥128.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749892709478,
           "price": 0,
           "formattedPrice": "免费",
