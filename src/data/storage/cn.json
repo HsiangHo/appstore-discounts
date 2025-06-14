@@ -47551,6 +47551,19 @@
     "history": [
       [
         {
+          "timestamp": 1749910485550,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "专业版（内网）": "¥398.00",
+            "商业版（内网）": "¥688.00",
+            "旗舰版（公网）": "¥928.00",
+            "商业版（公网）": "¥568.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748191896014,
           "price": 0,
           "formattedPrice": "免费",
@@ -49669,6 +49682,14 @@
       "formattedPrice": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749910485550,
+          "price": 58,
+          "formattedPrice": "¥58.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749486195582,
