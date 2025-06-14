@@ -75,10 +75,10 @@
       "inAppPurchase": {}
     },
     "1518518216": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Upgrade to Plus": 1
+        "Upgrade to Plus": 2
       }
     },
     "1528890965": {
@@ -256,10 +256,10 @@
       "inAppPurchase": {}
     },
     "1550581532": {
-      "all": 2,
+      "all": 3,
       "price": 0,
       "inAppPurchase": {
-        "All features and modes": 2
+        "All features and modes": 3
       }
     },
     "1576064082": {

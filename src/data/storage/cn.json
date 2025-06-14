@@ -44600,6 +44600,17 @@
     "history": [
       [
         {
+          "timestamp": 1749904408691,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "三个月版VIP": "¥38.00",
+            "五年版VIP": "¥198.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748191896014,
           "price": 0,
           "formattedPrice": "免费",
@@ -48598,6 +48609,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749904408691,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Upgrade to Plus version": "¥38.00",
+            "Upgrade to Plus": "¥22.00",
+            "升级至Plus版本": "¥58.00",
+            "Upgrade to Plus Version": "¥58.00"
+          }
+        },
         {
           "timestamp": 1749899604881,
           "price": 0,

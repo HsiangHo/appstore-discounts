@@ -41745,6 +41745,21 @@
     "history": [
       [
         {
+          "timestamp": 1749904408691,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "订阅一个周.": "$2.49",
+            "Permanent membership": "$11.99",
+            "Subscription for 1 month.": "$4.49",
+            "订阅一年": "$9.99",
+            "Monthly membership": "$4.99",
+            "月度会员": "$4.99",
+            "Annual membership": "$9.99",
+            "Subscription for 1 year.": "$13.49"
+          }
+        },
+        {
           "timestamp": 1749899604881,
           "price": 0,
           "formattedPrice": "Free",
@@ -63047,6 +63062,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749904408691,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Vythm PRO": "$9.99",
+            "All features and modes": "$29.99",
+            "Unlock all (including updates)": "$139.99",
+            "Psychedelic mode for mobile": "$4.99",
+            "Mandala mode on mobile devices": "$4.99",
+            "Dreaming mode for mobile": "$4.99",
+            "Fluids mode for mobile devices": "$4.99"
+          }
+        },
         {
           "timestamp": 1749899604881,
           "price": 0,
