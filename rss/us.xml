@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-14T03:14:05.747Z</updated>
+    <updated>2025-06-14T11:19:03.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-14T03:14:05.749Z</updated>
+        <updated>2025-06-14T11:19:03.067Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSat, 14 Jun 2025 03:14:05 GMT</id>
+        <id>rankingusSat, 14 Jun 2025 11:19:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-14T03:14:05.749Z</updated>
+        <updated>2025-06-14T11:19:03.067Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -117,6 +117,31 @@ feedId:49753370488353792+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1339124759">Audio Editor & Music Mixer</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>3</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Permanent membership</i>：<b>2</b>
+              </li><li>
+                <i>Annual membership</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1395152179">奇游加速器 - 全球游戏畅玩</a>
       </td>
       <td>
@@ -137,7 +162,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1514073011">QuickFox-海外回国加速器追剧听歌游戏留学生必备</a>
@@ -162,7 +187,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1012296988">爱奇艺-临江仙 离婚仙侠</a>
@@ -177,31 +202,6 @@ feedId:49753370488353792+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>连续包月</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1339124759">Audio Editor & Music Mixer</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>2</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Annual membership</i>：<b>1</b>
-              </li><li>
-                <i>Permanent membership</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -656,6 +656,42 @@ feedId:49753370488353792+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audio Editor & Music Mixer]]></title>
+        <id>Audio Editor &amp; Music Mixer-us-1749899604881</id>
+        <link href="https://apps.apple.com/us/app/audio-editor-music-mixer/id1339124759?uo=4"/>
+        <updated>2025-06-14T11:13:24.881Z</updated>
+        <summary type="html"><![CDATA[Permanent membership: $11.99 → $9.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/audio-editor-music-mixer/id1339124759?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/9f/00/cf9f0079-ce90-8228-c4e5-1e03c6311f25/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Permanent membership：</strong><span>$11.99</span> → <b>
+  <strong>$9.99</strong>
+</b><span>[$9.99 ~ $14.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Want to make your own unique phone ringtones? Or want to combine multiple songs and synthesize the music you want? Or want to know the effect of mixing different songs?
+
+Audio Editor & Music Mixer is an easy to operate music cutting and mixing tool. Simple and excellent, functional and practical! Whether you are a professional musician or music amateur, you can play easily.
+ 
+Features:
+1.Professional ringtone clip: free to edit, the maximum clipping of the ringtone is 40s (in line with the characteristics of ringtones)
+2.Simple music stitching: song editing and splicing as a whole,connect the favorite songs
+3.Unique music mixing: free to cut the two songs, mixed together to play, feel different music effects!
+
+Subscription instrutions：
+- After you subscribe to the VIP, you have unlimited access to all features
+- Subscribe to provide 4 types of VIP services, including: weekly VIP service, monthly VIP service, yearly VIP service, permanent VIP service
+- Subscribe to $2.49 per week, $4.49 per month, $13.49 for 1 year and $14.99 for permanent
+- The purchase process is to deduct the purchase amount from the iTunes account
+- Account will be charged at the cost of the selected package within 24 hours prior to the current period
+- Cancellation of current subscription is not allowed during active subscription period.But you can cancel next subscription.
+- You can access our privacy policy by visiting (long press) https://www.camoryapps.com/netpower/privacy_policy/musicmixer_en.html 
+- You can access (long press) https://www.camoryapps.com/netpower/service/musicmixer_en.html  to read the Terms of Service
+*The price is equivalent to the 'Apple App Store Matrix' which is equivalent to the subscription price in US dollars.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/04/d6/74/04d67449-289f-2f92-fb36-4a08346f8e28/4a1a840b-5ad5-4865-baad-e79ae521855a_5.5_U82f1_U5bf81_en.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/33/c6/0e/33c60e7a-3f1f-a1b5-ba0a-2a2f8d2f275d/f5f26ef2-3985-4897-8b0f-cc42160e0a7b_5.5_U82f1_U5bf82_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1b/49/be/1b49be06-9cb6-62c8-4136-06b752a1a90f/c4f80133-bb8f-4ea7-8c29-9e12ba482e16_5.5_U82f1_U5bf83_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/b2/e8/dfb2e864-3ff8-37bf-535f-ad070336ad9f/13e6da7b-75fc-4a77-8a6a-07d96936c8d7_5.5_U82f1_U5bf84_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e4/27/dd/e427ddd6-c8c1-5500-c318-f7947ef2277c/89333db5-5bac-449c-b616-efe85f8bc3fd_5.5_U82f1_U5bf85_cn.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c6/d9/72/c6d972aa-5783-cf17-9864-36fcd653ba04/6cec7242-29da-4348-928e-30c0ec66f06d_12.9_U82f1_U5bf81_en.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/1d/b7/f71db7fe-09b2-3396-fa61-706da4a96554/224303f7-1265-48de-8acc-6fbe25c4a929_12.9_U82f1_U5bf82_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/b7/6a/a4b76a12-05ad-265e-b8d2-a8ae9437f75a/72f57bfb-295e-450b-b349-e08b588132eb_12.9_U82f1_U5bf83_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/50/d4/2d/50d42d1c-a37b-27bf-a77e-20a0c21be051/e3f8b0a4-1e9a-49a7-8ea0-1b6a4ce57fb6_12.9_U82f1_U5bf84_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c4/d2/a7/c4d2a7e9-23bb-760a-f87e-5462800a4168/8feea930-614f-4c92-bde7-6856edd0ceed_12.9_U82f1_U5bf85_cn.jpg/576x768bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Allow Right Click for Safari]]></title>
         <id>Allow Right Click for Safari-us-1749870626711</id>
         <link href="https://apps.apple.com/us/app/allow-right-click-for-safari/id6739523960?uo=4"/>
@@ -955,164 +991,5 @@ Terms of Use: https://artyli.github.io/terms.html
 
 If you need help, please contact us: ninthgame.team@gmail.com
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3f/d7/7c/3fd77c23-6b57-6ab8-b55e-8007b538dc45/c5a4b053-7472-44cd-b8c5-d8925d4b4c20_1242x2208_us_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2f/7e/8d/2f7e8dd5-50eb-d2a5-d054-58aafb398d12/38a6df68-f208-4ea7-b331-aa34aaa51638_1242x2208_us_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4e/04/5c/4e045ce3-80f5-f837-e83e-25e7da8b63f5/4b209e6b-51c2-49be-b007-51a8bc790957_1242x2208_us_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7f/e2/c3/7fe2c328-659f-b078-fef0-3b176bdf52ee/3b37bbc9-39e8-48c7-87b2-ea3fd6304a3c_1242x2208_us_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/05/ec/fd/05ecfdaf-08dc-6c49-2105-d6caa9b024a3/c0fbf362-9b17-4f1b-99af-64cc549e11cd_1242x2208_us_4.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ba/d8/67/bad86727-6f62-dfcb-817a-31945bef1b64/1e906f0a-4ab2-407e-b17b-6a92d35a8066_2048x2732_us_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/61/cf/98/61cf983e-40b8-df11-fb2e-bbfdffa231f0/bf55280e-6525-4b51-bd1a-bf580447cf63_2048x2732_us_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d3/5f/ea/d35fea30-3384-d25a-e7e0-9d3dbeb64937/2f855153-4a1c-4ae9-9364-9369a5cb97c8_2048x2732_us_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f7/c6/39/f7c639bd-1b1a-7fa2-506f-acdfeb4cf01b/478b0bed-6af5-423f-9d1b-f43004953524_2048x2732_us_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4c/17/19/4c17198c-0541-2302-3ad4-b3e6044cfa3e/df80687a-684b-4510-92de-24b43b282a88_2048x2732_us_5.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live Wallpaper - 4K UHD]]></title>
-        <id>Live Wallpaper - 4K UHD-us-1749640570808</id>
-        <link href="https://apps.apple.com/us/app/live-wallpaper-4k-uhd/id1456235760?mt=12&amp;uo=4"/>
-        <updated>2025-06-11T11:16:10.808Z</updated>
-        <summary type="html"><![CDATA[Upgrade to Pro Version: $4.99 → $2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/live-wallpaper-4k-uhd/id1456235760?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/17/78/e51778f4-b96b-75c7-59e3-6d2f6c26c96d/AppIcon-0-0-85-220-0-5-0-2x.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Upgrade to Pro Version：</strong><span>$4.99</span> → <b>
-  <strong>$2.99</strong>
-</b><span>[$2.99 ~ $4.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Live Wallpaper offers over 4000+ 4K wallpapers. If you're searching for Wallpaper Engine for your Mac, this app is exactly what you need!
-
-More features:
-● "Smart Control" – Automatically pauses when using other apps, so your work is not interrupted.
-● "Break Reminder" – Customize reminder times to prompt users to take breaks.
-● "Scheduled Switching" – Automatically changes wallpapers every half hour, hour, or daily.
-● Multi-monitor support – Set different wallpapers for different displays.
-● "Hide Desktop Icons" – For an immersive experience.
-● "Global Hotkeys" – Switch wallpapers, hide desktop icons, or display screensaver with one key press.
-
-Live Wallpaper is designed to provide an interesting experience while consuming as little system resources as possible.
-
-"Works like a charm. Lets me play videos as my wallpaper and overall is easy to use. I would suggest to anyone looking for a wallpaper engine like software for mac."  —— mono.mirrorz
-
-"This is a great alternative for Wallpaper Engine and is also incredibly easy to use. The wallpapers are beautiful and clear. The app is updated with different backgrounds often as well. I highly recommend if you have been looking for an app that offers beautiful, dynamic wallpapers! :)" —— HelloMyNameisNickel
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/d0/10/96d0106b-1d50-df71-6b5f-e7e10e837308/1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/37/c4/c737c4a5-3b04-f92b-53f9-ae090b15b01a/2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/a0/ac/a8a0acf0-3312-806d-c900-6bd5ef225c9c/3.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/99/b2/8999b263-be64-ca51-30a0-47410e02d36d/4.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/25/87/972587fe-5bb3-808c-379b-1795aca0e781/5.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/e9/0c/25e90c81-b9a0-f844-bd1e-c48763366a58/6.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/2e/d9/2a2ed908-ac23-ce48-fabc-f6986d57d65a/7.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/ab/5b/0aab5bad-53c1-38e1-1d3f-d7af9a487d84/8.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/4b/1b/7b4b1b5d-65d3-9908-0211-e82291a531e6/9.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/76/a5/ae76a52e-452e-5829-e652-a83d82c42ac6/10.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QuickFox-海外回国加速器追剧听歌游戏留学生必备]]></title>
-        <id>QuickFox-海外回国加速器追剧听歌游戏留学生必备-us-1749640570808</id>
-        <link href="https://apps.apple.com/us/app/quickfox-%E6%B5%B7%E5%A4%96%E5%9B%9E%E5%9B%BD%E5%8A%A0%E9%80%9F%E5%99%A8%E8%BF%BD%E5%89%A7%E5%90%AC%E6%AD%8C%E6%B8%B8%E6%88%8F%E7%95%99%E5%AD%A6%E7%94%9F%E5%BF%85%E5%A4%87/id1514073011?uo=4"/>
-        <updated>2025-06-11T11:16:10.808Z</updated>
-        <summary type="html"><![CDATA[Annual VIP: $84.99 → $39.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/quickfox-%E6%B5%B7%E5%A4%96%E5%9B%9E%E5%9B%BD%E5%8A%A0%E9%80%9F%E5%99%A8%E8%BF%BD%E5%89%A7%E5%90%AC%E6%AD%8C%E6%B8%B8%E6%88%8F%E7%95%99%E5%AD%A6%E7%94%9F%E5%BF%85%E5%A4%87/id1514073011?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/9d/c6/299dc64b-3e7a-1a46-9d41-e9717d3e8c32/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Annual VIP：</strong><span>$84.99</span> → <b>
-  <strong>$39.99</strong>
-</b><span>[$39.99 ~ $84.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  QuickFox is a high-quality accelerator specially created for overseas Chinese and students. It is a accelerator for overseas Chinese to watch TV dramas, listen to songs, play games, live events, business offices, futures and stock trading, etc.
-
-It has now provided high-quality return acceleration services to millions of overseas Chinese students around the world. It is one-click direct connection, stable and easy to use, and is the first choice for overseas Chinese around the world to accelerate their links to China.
-
-Please note: This product is only available to overseas users. Users in mainland China cannot use this product service normally, please download with caution.
-
-【QuickFox main functions】
-*Connect to the domestic network with one click, and visit domestic applications and web pages with low latency.
-*Reduced latency for Chinese server games: various popular Chinese server games such as Honor of Kings, Identity V, Peace Elite, Eggboy Party, DNF, Genshin Impact, Steam, etc. have stable connections and ultra-low latency.
-- Covering global dedicated servers, high-speed connection with low latency fluctuations, stable switching and continuous connection.
-- One account can be switched seamlessly, and multiple devices can be logged in at the same time, making it convenient and fast.
-
-[QuickFox technical advantages]
-*High-speed dedicated server.
-*Global nodes, stable acceleration.
-*High-level encryption, privacy guaranteed.
-
-[Continuous monthly membership]
-1. Benefits: accelerated advertising-free, exclusive super VIP member servers, etc.
-2. 1-month subscription.
-3. Subscription price: Continuous monthly subscription for RMB 40
-4. Payment: Credited to the iTunes account after payment
-5. Cancel renewal: Manually turn off the automatic renewal function in iTunes/Apple ID settings within 24 hours before the current subscription period expires.
-6. Renewal: Apple's iTunes account will be deducted within 24 hours before expiration. After the deduction is successful, the subscription period will be extended by one subscription period.
-7. Privacy Policy: https://inside.quickfox.com.cn/agreement
-8. Continuous monthly membership service agreement: https://inside.quickfox.com.cn/monthlyVipAgreement
-9. VIP Service Agreement: https://inside.quickfox.com.cn/memberServiceAgreement
-10. Terms of Service: https://inside.quickfox.com.cn/clause
-============================
-Email: info@quickfox.com.cn
-WeChat public account: QuickFox
-============================
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/68/10/276810a4-2c6f-ef94-0400-3e9043c23e93/1f86a32d-7e2b-45d3-8c23-9af542180541_1242x2208-ASA_U63a8_U5e7f_U9875.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/c2/63/0bc26310-44fd-52d8-4aab-a92d60faf83a/aa43dd4f-124e-4d4a-8720-a904dc3fa03c_1242x2208-_U5c4f_U5e55_U5feb_U71671.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/28/40/332840d6-91d3-9a72-6b88-46b2db286694/ff0afd87-9fcc-4dae-8fb3-ed1ab5e65faf_1242x2208-_U5c4f_U5e55_U5feb_U71672.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/3e/e9/db3ee950-4143-6e99-2f68-b8be7ed14b47/2ef597ed-f4dc-429a-acf6-77d9c2858ce0_1242x2208-_U5c4f_U5e55_U5feb_U71674.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/59/49/5b594951-263f-e1ff-c829-310079bf1233/ed62d4f0-f8b9-4ef6-9872-01c2e9e4b5fd_1242x2208-_U5c4f_U5e55_U5feb_U71673.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/07/03/1d0703ac-f9a6-db7c-d6a2-6e647d2289ac/1242x2208-_U5c4f_U5e55_U5feb_U7167-5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/f7/b6/e2f7b620-326e-20d4-7339-a012408e641e/f1155b3c-fc29-4080-b5bf-55309fa0c3fb_2048x2732-_U5c4f_U5e55_U5feb_U71671.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/72/9f/e7729f27-4775-8048-b906-c2fb4054fc94/c25076fc-63a7-4421-a176-a1792de6888d_2048x2732-_U5c4f_U5e55_U5feb_U71672.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/49/6e/a6496e9e-6e11-8908-ebd3-2b4548150156/6bd2d2ff-3773-49cf-9cf3-15fce8514cd6_2048x2732-_U5c4f_U5e55_U5feb_U71674.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/e0/d4/a9e0d421-fef2-7deb-fb98-a84fa998612f/b81fdd19-f57d-44c2-b6ea-55ef5df6af06_2048x2732-_U5c4f_U5e55_U5feb_U71673.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cleaner One Pro - Uninstaller]]></title>
-        <id>Cleaner One Pro - Uninstaller-us-1749640570808</id>
-        <link href="https://apps.apple.com/us/app/cleaner-one-pro-uninstaller/id1133028347?mt=12&amp;uo=4"/>
-        <updated>2025-06-11T11:16:10.808Z</updated>
-        <summary type="html"><![CDATA[Unlock Full Version: $29.99 → $19.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/cleaner-one-pro-uninstaller/id1133028347?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/19/b4/b819b4d7-860b-4f2a-5013-a109d2117cc9/AppIcon-0-0-85-220-0-4-2x-sRGB.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Unlock Full Version：</strong><span>$29.99</span> → <b>
-  <strong>$19.99</strong>
-</b><span>[$19.99 ~ $29.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Cleaner One Pro is the all-in-one Mac Master Cleaner App. It can optimize your disk usage, free up space on your Mac, keep the hard drive clean, remove duplicate photos and other files, manage your apps, and much more. 
-
-Fully compatible with macOS Monterey and Apple Silicon.
-
-PRIMARY FEATURES
-[Junk Files Cleaner]
-• Has Quick Disk Clean feature you can click from the Status Bar Menu
-• Clean temporary files, including logs, mail caches, iTunes and iOS temporary files, etc. Empty Trash for current user
-• Detect remaining files after deleting Apps
-• Clean Junk Files in removable storage on your Mac
- 
-[Duplicate File Scanner]
-• Thorough and quick scan — fast and accurate scanning technique covers your entire home folder
-• Smart and Accurate Filter — duplicates are selected not only by file name but also by their content. Files are shown in detailed preview. Click the Auto Select button to help you decide which copy you wish to delete.
-• Easy and safe decision — duplicates can be sorted by file type and listed in their full route for you to track. You can decide which way to clean these files; either by sending them to Trash or deleting them permanently (In-App Purchase required)
-
-[Photo Manager]
-• Quickly find similar photos, blurry photos, and screenshots
-• Preview photos in groups after scanning
-• Organize your photo library
-• Easily remove photos that may be safe to delete to free up space (In-App Purchase required)
- 
-[Intelligent App Manager]
-• Auto-clean leftovers of deleted Apps
-• Manage all installed applications with the All-in-One App Optimizer
-• Detect and remove leftover files of deleted apps with the App Manager
-• List all the applications installed on your Mac by name, size, and last opened date
-• Remove unwanted applications with Mac Disk Clean (In-App Purchase required)
-• Remove all the associated files of uninstalled applications (In-App Purchase required)
-• Added Vulnerability Scan in the App Manager to enhance security (In-App Purchase required)
-
-[Big Files Scanner]
-• 1-click scan of big files (customizable size from 10 MB and above)
-• Multiple filters of size, date, name and type
-• Local files in sync with your cloud drives can also be found
-* Important big files can be ""locked"" into the protected list to avoid accidental deletion
-
-[Mac Disk Clean Map]
-• Mac Disk Clean scans all your disk drives and creates a clickable map of the files on your disk, color-coded by type
-• Provides additional information about files when you click on an item on the map
-• View your entire disk by file or folder size to determine which files or folders use the most space with Clean Master
-
-[Real-Time System Status]
-• Real-time network usage
-• Real-time CPU usage
-• See detailed network and CPU information (In-App Purchase required)
-
-The paid version costs as little as $19.99 per year (this price may vary by location).
- 
-Subscriptions will auto-renew unless canceled.
-— Payment will be charged to iTunes Account at confirmation of purchase
-— Subscription may be managed by the user and auto-renewal may be turned off by going to the user’s Account Setting after purchase.
-— No cancellation of the current subscription is allowed during active subscription period.
-— Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
-— Your account will be charged for renewal for the amount of your current subscription within 24-hours prior to the end of the current period. All cost for subscriptions are mentioned above.
-
-Privacy Policy and Terms of Use
-Privacy Policy: http://gr.trendmicro.com/GREntry/NonPayment?Target=TrendCleaner&OS=&SP=&PID=TCS60&FunID=PrivacyPolicy&VID=&Locale=en
-Terms of Use: http://gr.trendmicro.com/GREntry/NonPayment?Target=TrendCleaner&OS=&SP=&PID=TCS60&FunID=EULA&VID=&Locale=en
-
-Please comment in the App Store and you can also email us directly at mac_support@trendmicro.com.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/47/df/0647dfec-9e40-5f35-74c1-fe202f37c1f0/d2ac6b69-4c5e-400a-8199-4641b7350179_1_en_Global.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/71/51/ec7151dc-454c-841e-7076-280f0b0408d7/725634c6-1687-4171-a8fc-807a0fa55ca1_2_Global.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/a9/56/1fa956a3-bdd9-e5df-ebe1-d4673f762514/87a95753-0d24-4a32-8493-c3426eee8bc7_3_Global.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/20/88/312088c9-130a-68a5-f0b0-2305c04ba544/9f67a9e8-48d6-400f-803c-dd3cea59041d_4_Global.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/3c/c0/4d3cc0bb-96e9-929c-d90b-ab38dd3ffa6b/COP_PhotoManager_Global.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>

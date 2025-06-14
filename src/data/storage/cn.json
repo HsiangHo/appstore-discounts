@@ -48599,6 +48599,19 @@
     "history": [
       [
         {
+          "timestamp": 1749899604881,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Upgrade to Plus version": "¥38.00",
+            "升级至Plus版本": "¥58.00",
+            "Upgrade to Plus Version": "¥58.00",
+            "Upgrade to Plus": "¥48.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748982014078,
           "price": 0,
           "formattedPrice": "免费",
