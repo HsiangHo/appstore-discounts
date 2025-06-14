@@ -33,10 +33,10 @@
       }
     },
     "1058801458": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Full Access to PRO": 1
+        "Full Access to PRO": 2
       }
     },
     "1133028347": {
@@ -201,11 +201,11 @@
       }
     },
     "1339124759": {
-      "all": 3,
+      "all": 4,
       "price": 0,
       "inAppPurchase": {
         "Annual membership": 1,
-        "Permanent membership": 2
+        "Permanent membership": 3
       }
     },
     "1395152179": {

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-14T12:37:05.603Z</updated>
+    <updated>2025-06-14T16:26:03.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-14T12:37:05.603Z</updated>
+        <updated>2025-06-14T16:26:03.581Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSat, 14 Jun 2025 12:37:05 GMT</id>
+        <id>rankingusSat, 14 Jun 2025 16:26:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-14T12:37:05.604Z</updated>
+        <updated>2025-06-14T16:26:03.581Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -122,13 +122,13 @@ feedId:49753370488353792+userId:73658201673997312
       <td>
         <ul>
           <li>
-            <span>Total Times</span>：<b>3</b>
+            <span>Total Times</span>：<b>4</b>
           </li><li>
             <span>Price</span>：<b>0</b>
           </li><li>
             <span>In-App Purchases</span><ol>
               <li>
-                <i>Permanent membership</i>：<b>2</b>
+                <i>Permanent membership</i>：<b>3</b>
               </li><li>
                 <i>Annual membership</i>：<b>1</b>
               </li>
@@ -656,6 +656,42 @@ feedId:49753370488353792+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audio Editor & Music Mixer]]></title>
+        <id>Audio Editor &amp; Music Mixer-us-1749918025609</id>
+        <link href="https://apps.apple.com/us/app/audio-editor-music-mixer/id1339124759?uo=4"/>
+        <updated>2025-06-14T16:20:25.609Z</updated>
+        <summary type="html"><![CDATA[Permanent membership: $11.99 → $9.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/audio-editor-music-mixer/id1339124759?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/9f/00/cf9f0079-ce90-8228-c4e5-1e03c6311f25/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Permanent membership：</strong><span>$11.99</span> → <b>
+  <strong>$9.99</strong>
+</b><span>[$9.99 ~ $14.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Want to make your own unique phone ringtones? Or want to combine multiple songs and synthesize the music you want? Or want to know the effect of mixing different songs?
+
+Audio Editor & Music Mixer is an easy to operate music cutting and mixing tool. Simple and excellent, functional and practical! Whether you are a professional musician or music amateur, you can play easily.
+ 
+Features:
+1.Professional ringtone clip: free to edit, the maximum clipping of the ringtone is 40s (in line with the characteristics of ringtones)
+2.Simple music stitching: song editing and splicing as a whole,connect the favorite songs
+3.Unique music mixing: free to cut the two songs, mixed together to play, feel different music effects!
+
+Subscription instrutions：
+- After you subscribe to the VIP, you have unlimited access to all features
+- Subscribe to provide 4 types of VIP services, including: weekly VIP service, monthly VIP service, yearly VIP service, permanent VIP service
+- Subscribe to $2.49 per week, $4.49 per month, $13.49 for 1 year and $14.99 for permanent
+- The purchase process is to deduct the purchase amount from the iTunes account
+- Account will be charged at the cost of the selected package within 24 hours prior to the current period
+- Cancellation of current subscription is not allowed during active subscription period.But you can cancel next subscription.
+- You can access our privacy policy by visiting (long press) https://www.camoryapps.com/netpower/privacy_policy/musicmixer_en.html 
+- You can access (long press) https://www.camoryapps.com/netpower/service/musicmixer_en.html  to read the Terms of Service
+*The price is equivalent to the 'Apple App Store Matrix' which is equivalent to the subscription price in US dollars.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/04/d6/74/04d67449-289f-2f92-fb36-4a08346f8e28/4a1a840b-5ad5-4865-baad-e79ae521855a_5.5_U82f1_U5bf81_en.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/33/c6/0e/33c60e7a-3f1f-a1b5-ba0a-2a2f8d2f275d/f5f26ef2-3985-4897-8b0f-cc42160e0a7b_5.5_U82f1_U5bf82_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1b/49/be/1b49be06-9cb6-62c8-4136-06b752a1a90f/c4f80133-bb8f-4ea7-8c29-9e12ba482e16_5.5_U82f1_U5bf83_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/b2/e8/dfb2e864-3ff8-37bf-535f-ad070336ad9f/13e6da7b-75fc-4a77-8a6a-07d96936c8d7_5.5_U82f1_U5bf84_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e4/27/dd/e427ddd6-c8c1-5500-c318-f7947ef2277c/89333db5-5bac-449c-b616-efe85f8bc3fd_5.5_U82f1_U5bf85_cn.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c6/d9/72/c6d972aa-5783-cf17-9864-36fcd653ba04/6cec7242-29da-4348-928e-30c0ec66f06d_12.9_U82f1_U5bf81_en.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/1d/b7/f71db7fe-09b2-3396-fa61-706da4a96554/224303f7-1265-48de-8acc-6fbe25c4a929_12.9_U82f1_U5bf82_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/b7/6a/a4b76a12-05ad-265e-b8d2-a8ae9437f75a/72f57bfb-295e-450b-b349-e08b588132eb_12.9_U82f1_U5bf83_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/50/d4/2d/50d42d1c-a37b-27bf-a77e-20a0c21be051/e3f8b0a4-1e9a-49a7-8ea0-1b6a4ce57fb6_12.9_U82f1_U5bf84_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c4/d2/a7/c4d2a7e9-23bb-760a-f87e-5462800a4168/8feea930-614f-4c92-bde7-6856edd0ceed_12.9_U82f1_U5bf85_cn.jpg/576x768bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vythm VJ - Music Visualizer DJ]]></title>
         <id>Vythm VJ - Music Visualizer DJ-us-1749904408691</id>
         <link href="https://apps.apple.com/us/app/vythm-vj-music-visualizer-dj/id1550581532?uo=4"/>
@@ -965,80 +1001,5 @@ support@matefox.net
 Terms of Service: https://matefox.net/TermsofServiceEng.html
 Privacy Policy: https://matefox.net/PrivacyPolicyEng.html
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paper - Live Wallpapers]]></title>
-        <id>Paper - Live Wallpapers-us-1749645470397</id>
-        <link href="https://apps.apple.com/us/app/paper-live-wallpapers/id1518518216?uo=4"/>
-        <updated>2025-06-11T12:37:50.397Z</updated>
-        <summary type="html"><![CDATA[Upgrade to Plus: $12.99 → $2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/paper-live-wallpapers/id1518518216?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1e/29/fe/1e29fe6c-0637-27ee-b058-e16646430315/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Upgrade to Plus：</strong><span>$12.99</span> → <b>
-  <strong>$2.99</strong>
-</b><span>[$2.99 ~ $12.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  「Paper - Live Wallpapers & 4k HD Wallpaper」
-
-《Paper - Live Wallpapers》 is a 4K Live Wallpaper that makes stunning photos for your phone wallpaper every day. This is one of the best wallpaper apps ever on the iPhone.
-All wallpapers are carefully selected by our team to make every background look beautiful, including 4K (Ultra HD|Ultra HD) and 5K (Full HD) wallpapers|backgrounds.
-
-Rich live wallpapers give the iPhone desktop agility while occupying as little system resources as possible. If you are still looking for a wallpaper application under iPhone, don't hesitate, "Paper - Live Wallpapers" is what you want!
-
-characteristic:
-
-● Provide 20,000+ exquisite wallpaper materials (iPad contains 10,000+ wallpapers), which are continuously updated, so you don't have to spend time looking for materials.
-
-● Live wallpaper, only supports when the iPhone device is set as the lock screen, press to display the live wallpaper effect. For systems above iOS 16.0, the dynamic effect will not be displayed after setting the dynamic wallpaper.
-
-● Charging animation
-
-● Desktop themes
-
-● Zero app learning cost, simple interaction, and the pursuit of the best experience.
-
-● The interface of Paper wallpaper is exquisite, comfortable experience, supports dark mode, extremely beautiful.
-
-● We strive to simplify the application to provide excellent performance. Save battery.
-
-● Constantly increasing live wallpaper themes: new wallpapers are added every week. If you have a unique live video wallpaper and want to share it with everyone, please submit it to us.
-
-
-Support one-click preview, 20000+ exquisite wallpapers are waiting for you. Happy! Happy!
-
-Install "Paper - Live Wallpapers" now and make your device screen amazing and interesting!
-
-
-This is the normal version. Certain functions will be restricted.
-
-The iPad&iPhone version does not contain live wallpapers.
-
-If you have any problems with the app or wallpaper, please contact us at ninthgame.team@gmail.com, we are happy to help you solve the problem.
-
-Please enjoy!
-
-Regarding Paper's automatic renewal:
-
--After the purchase is confirmed, the payment will be credited to the iTunes account immediately.
-– Automatic renewal can be turned off at least 24 hours before the end of the current period, otherwise it will be automatically renewed.
--Account will be deducted for renewal within 24 hours before the end of the current period. The fee depends on the selected plan.
-– Users can manage subscriptions, and go to user account settings after purchase to turn off auto-renewal.
-– Any unused part of the free trial period will be automatically invalidated when the user purchases the applicable subscription.
-
-The following three ways to purchase are now available to enjoy the right to use all wallpapers, updated daily, and no ads:
-
-• Subscription every 6 months  –  $4.99
-• Annual subscription with three-day free trial  –  $8.49
-• One-time buyout  –  $12.99
-
-Privacy Policy: https://artyli.github.io/privacy.html
-Terms of Use: https://artyli.github.io/terms.html
-
-
-If you need help, please contact us: ninthgame.team@gmail.com
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3f/d7/7c/3fd77c23-6b57-6ab8-b55e-8007b538dc45/c5a4b053-7472-44cd-b8c5-d8925d4b4c20_1242x2208_us_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2f/7e/8d/2f7e8dd5-50eb-d2a5-d054-58aafb398d12/38a6df68-f208-4ea7-b331-aa34aaa51638_1242x2208_us_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4e/04/5c/4e045ce3-80f5-f837-e83e-25e7da8b63f5/4b209e6b-51c2-49be-b007-51a8bc790957_1242x2208_us_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7f/e2/c3/7fe2c328-659f-b078-fef0-3b176bdf52ee/3b37bbc9-39e8-48c7-87b2-ea3fd6304a3c_1242x2208_us_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/05/ec/fd/05ecfdaf-08dc-6c49-2105-d6caa9b024a3/c0fbf362-9b17-4f1b-99af-64cc549e11cd_1242x2208_us_4.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ba/d8/67/bad86727-6f62-dfcb-817a-31945bef1b64/1e906f0a-4ab2-407e-b17b-6a92d35a8066_2048x2732_us_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/61/cf/98/61cf983e-40b8-df11-fb2e-bbfdffa231f0/bf55280e-6525-4b51-bd1a-bf580447cf63_2048x2732_us_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d3/5f/ea/d35fea30-3384-d25a-e7e0-9d3dbeb64937/2f855153-4a1c-4ae9-9364-9369a5cb97c8_2048x2732_us_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f7/c6/39/f7c639bd-1b1a-7fa2-506f-acdfeb4cf01b/478b0bed-6af5-423f-9d1b-f43004953524_2048x2732_us_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4c/17/19/4c17198c-0541-2302-3ad4-b3e6044cfa3e/df80687a-684b-4510-92de-24b43b282a88_2048x2732_us_5.png/576x768bb.png" />]]></content>
     </entry>
 </feed>

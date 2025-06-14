@@ -22479,6 +22479,24 @@
     "history": [
       [
         {
+          "timestamp": 1749918025609,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Trap": "¥22.00",
+            "Remixlive Premium (Monthly)": "¥68.00",
+            "Electro": "¥22.00",
+            "Drum & Bass": "¥22.00",
+            "Deep House": "¥22.00",
+            "Hip-Hop": "¥22.00",
+            "Dubstep": "¥22.00",
+            "Future Beat": "¥22.00",
+            "Full Access to PRO": "¥198.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749582841944,
           "price": 0,
           "formattedPrice": "免费",
@@ -40821,6 +40839,21 @@
       "快帆360天VIP": "¥498.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749918025609,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "连续包月": "¥40.00",
+            "快帆30天VIP": "¥48.00",
+            "连续包季": "¥113.00",
+            "90天VIP": "¥118.00",
+            "快帆90天VIP": "¥128.00",
+            "连续包年": "¥418.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749874910744,

@@ -30841,6 +30841,25 @@
     "history": [
       [
         {
+          "timestamp": 1749918025609,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Speed Hardgroove": "$2.99",
+            "Drip Tech House": "$2.99",
+            "Altered Hip-Hop": "$2.99",
+            "Glow Trap": "$2.99",
+            "Phonk": "$2.99",
+            "Indigo Beats": "$2.99",
+            "Voyager Synthwave": "$2.99",
+            "Titanium Bass": "$2.99",
+            "Sphere Electro": "$2.99",
+            "Chill Boom Bap": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749582841944,
           "price": 0,
           "formattedPrice": "Free",
@@ -41744,6 +41763,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1749918025609,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "年度会员": "$12.99",
+            "订阅一年": "$9.99",
+            "月度会员": "$4.99",
+            "40次按次付费功能使用资格": "$3.99",
+            "订阅一个周.": "$2.49",
+            "60次按次付费功能使用资格": "$4.99",
+            "18次按次付费功能使用资格": "$2.99",
+            "10次按次付费功能使用资格": "$1.99",
+            "3次按次付费功能使用资格": "$0.99",
+            "Permanent membership": "$9.99"
+          }
+        },
         {
           "timestamp": 1749904408691,
           "price": 0,
