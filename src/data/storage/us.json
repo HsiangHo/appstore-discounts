@@ -5753,6 +5753,25 @@
     "history": [
       [
         {
+          "timestamp": 1749874910744,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Synth Lead": "$1.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Synth Plucks": "$1.99",
+            "Groove Machine Synth": "$0.00",
+            "Transistor Bass": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749777987149,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -11193,6 +11212,22 @@
       "有道词典超级会员1年": "$59.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749874910744,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "有道词典会员连续包月": "$3.99",
+            "有道词典超级会员": "$14.99",
+            "有道词典超级会员1个月": "$5.99",
+            "50万字符加量包": "$3.99",
+            "6充值币": "$0.99",
+            "10万字符加量包": "$0.99",
+            "30充值币": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749809984835,
@@ -23432,6 +23467,21 @@
       "362.6虎牙币": "$69.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749874910744,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "75600 金豆": "$14.99",
+            "362600 金豆": "$69.99",
+            "35000 金豆": "$6.99",
+            "61600 金豆": "$12.99",
+            "75.6虎牙币": "$14.99",
+            "35虎牙币": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749705479232,
