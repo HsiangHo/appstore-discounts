@@ -1,6 +1,72 @@
 {
   "cn": [
     {
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/98/55/86/985586ca-43d2-35e2-8cb3-62d1fa82b4ac/5e3cf5c7-d3dd-444e-9dc7-ec0126dabcbf_notepad-1.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6f/c3/ea/6fc3ea22-d20b-6ae2-8610-94fb00658da1/2ef87a69-777c-45a9-9dec-4550278cba94_notepad-2.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0a/fb/85/0afb8567-fa5f-9896-0d06-f1df0b9f3f43/c5de7e6f-59a7-4f7d-bcca-a31e5983c6b1_notepad-6.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a6/49/ed/a649ed6b-aa73-3f8c-d6e5-f6d254a62d4d/fbd922e9-6d2c-403a-9577-fcbc37fe44a2_notepad-3.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/85/ab/6c85ab5d-8475-1b10-2024-d8d70ea00ba0/f7acc87d-b575-459c-8677-261b04618cee_notepad-4.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/43/29/2f/43292f07-c486-0a61-1b7c-1f45a566bb7b/91c34706-0bde-4ccb-acb5-f063c8f5d662_notepad-5.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/eb/05/9a/eb059aa4-4032-725f-099c-5475c1412b87/c3365acf-80f1-48d1-8f58-931e042d6bef_notepad-7.png/800x500bb.jpg"
+      ],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/9e/81/7c9e8114-abae-93a6-fb7c-41ccf9f7cde5/AppIcon-0-0-85-220-0-0-4-0-2x.png/60x60bb.png",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/9e/81/7c9e8114-abae-93a6-fb7c-41ccf9f7cde5/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/9e/81/7c9e8114-abae-93a6-fb7c-41ccf9f7cde5/AppIcon-0-0-85-220-0-0-4-0-2x.png/100x100bb.png",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E6%B3%A2-%E9%AB%98/id964019392?mt=12&uo=4",
+      "kind": "mac-software",
+      "averageUserRating": 0,
+      "averageUserRatingForCurrentVersion": 0,
+      "trackCensoredName": "记事本++",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "2031979",
+      "formattedPrice": "免费",
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 0,
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E8%AE%B0%E4%BA%8B%E6%9C%AC/id6444789815?mt=12&uo=4",
+      "trackContentRating": "4+",
+      "artistId": 964019392,
+      "artistName": "波 高",
+      "genres": [
+        "工具",
+        "效率"
+      ],
+      "price": 0,
+      "bundleId": "com.Gsubo.Notepad",
+      "trackId": 6444789815,
+      "trackName": "记事本++",
+      "releaseDate": "2022-12-02T08:00:00Z",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "波 高",
+      "currentVersionReleaseDate": "2024-05-17T19:18:42Z",
+      "releaseNotes": "修复获取IP地址和天气时因接口错误导致的崩溃问题",
+      "version": "4.3",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "1、完全照顾你的记事本使用习惯\n记事本+ 启动速度快，界面简洁，和其它平台记事本高度兼容，同样支持在左下角显示行列数字、字符数。右下角还可以显示文件类型，支持几十种代码格式的语法高亮显示。\n同时，使用这款记事本可以有效的消除乱码。当你使用Mac内置的 文本编辑 打开文件出现乱码时，你需要 记事本+ 的帮助。\n可以支持古老的ANSI编码文件，支持GBK文本，方便阅读各类中文小说，界面右下角可显示文件编码格式。\n支持快速打开超大文件而不会崩溃，实测19M大小文件(13万行)可以秒开。\n\n2、个性化风格设置\n通过 偏好设置，你可以个性化配置你喜欢的编辑器样式，包括界面主题、字体类型、字体大小、是否自动换行。在菜单栏的“显示”菜单中，也提供了“自动换行”的快速切换，和其它平台记事本一样方便。\n\n3、就连插入日期/时间也同样复刻\n在其它平台记事本中，你可以很方便的插入日期/时间，现在你可以在Mac的 记事本+ 中保留这一体验。\n\n4、延续经典的.LOG功能\n通过在文件第一行加入 .LOG标记，每次打开文档时，即可自动插入当前日期和时间，便于进行日志记录。\n\n5、AI实验室，智能助手功能强大\n文本翻译，支持201种语言自动识别，翻译为中文或者英文，选中文字后点击翻译菜单即可\n查询本机IP地址，包括地理位置\n今日天气，明日天气，显示所在地区天气和空气质量\n今日历史，显示历史上的今天\n名人名言，随机显示多条名人名言\n人民币大写，选中数字后，转换为人民币大写金额\n\n更多AI实验室功能将陆续加入：\n智能创作，全文校对，文章简报，主题词提取...",
+      "minimumOsVersion": "10.14.6",
+      "userRatingCount": 0,
+      "inAppPurchases": {},
+      "timestamp": 1750011788392,
+      "discounts": [
+        {
+          "type": "price",
+          "name": "价格",
+          "from": "¥15.00",
+          "to": "免费",
+          "range": "[免费 ~ ¥15.00]"
+        }
+      ]
+    },
+    {
       "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%85%A8%E5%88%A9-%E8%B0%A2/id1502010074?mt=12&uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/45/fd/af45fd74-8295-497a-b50b-38d1fa398833/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/60x60bb.png",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/45/fd/af45fd74-8295-497a-b50b-38d1fa398833/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/100x100bb.png",
@@ -1720,6 +1786,72 @@
     }
   ],
   "us": [
+    {
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/98/55/86/985586ca-43d2-35e2-8cb3-62d1fa82b4ac/5e3cf5c7-d3dd-444e-9dc7-ec0126dabcbf_notepad-1.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6f/c3/ea/6fc3ea22-d20b-6ae2-8610-94fb00658da1/2ef87a69-777c-45a9-9dec-4550278cba94_notepad-2.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0a/fb/85/0afb8567-fa5f-9896-0d06-f1df0b9f3f43/c5de7e6f-59a7-4f7d-bcca-a31e5983c6b1_notepad-6.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a6/49/ed/a649ed6b-aa73-3f8c-d6e5-f6d254a62d4d/fbd922e9-6d2c-403a-9577-fcbc37fe44a2_notepad-3.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/85/ab/6c85ab5d-8475-1b10-2024-d8d70ea00ba0/f7acc87d-b575-459c-8677-261b04618cee_notepad-4.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/43/29/2f/43292f07-c486-0a61-1b7c-1f45a566bb7b/91c34706-0bde-4ccb-acb5-f063c8f5d662_notepad-5.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/eb/05/9a/eb059aa4-4032-725f-099c-5475c1412b87/c3365acf-80f1-48d1-8f58-931e042d6bef_notepad-7.png/800x500bb.jpg"
+      ],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/9e/81/7c9e8114-abae-93a6-fb7c-41ccf9f7cde5/AppIcon-0-0-85-220-0-0-4-0-2x.png/60x60bb.png",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/9e/81/7c9e8114-abae-93a6-fb7c-41ccf9f7cde5/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/9e/81/7c9e8114-abae-93a6-fb7c-41ccf9f7cde5/AppIcon-0-0-85-220-0-0-4-0-2x.png/100x100bb.png",
+      "artistViewUrl": "https://apps.apple.com/us/developer/%E6%B3%A2-%E9%AB%98/id964019392?mt=12&uo=4",
+      "kind": "mac-software",
+      "userRatingCountForCurrentVersion": 0,
+      "averageUserRatingForCurrentVersion": 0,
+      "averageUserRating": 0,
+      "trackCensoredName": "记事本++",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "2031979",
+      "formattedPrice": "Free",
+      "contentAdvisoryRating": "4+",
+      "trackViewUrl": "https://apps.apple.com/us/app/%E8%AE%B0%E4%BA%8B%E6%9C%AC/id6444789815?mt=12&uo=4",
+      "trackContentRating": "4+",
+      "artistId": 964019392,
+      "artistName": "波 高",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "price": 0,
+      "bundleId": "com.Gsubo.Notepad",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "releaseDate": "2022-12-02T08:00:00Z",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "波 高",
+      "currentVersionReleaseDate": "2024-05-17T19:18:42Z",
+      "trackId": 6444789815,
+      "trackName": "记事本++",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "修复获取IP地址和天气时因接口错误导致的崩溃问题",
+      "version": "4.3",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "1、完全照顾你的记事本使用习惯\n记事本+ 启动速度快，界面简洁，和其它平台记事本高度兼容，同样支持在左下角显示行列数字、字符数。右下角还可以显示文件类型，支持几十种代码格式的语法高亮显示。\n同时，使用这款记事本可以有效的消除乱码。当你使用Mac内置的 文本编辑 打开文件出现乱码时，你需要 记事本+ 的帮助。\n可以支持古老的ANSI编码文件，支持GBK文本，方便阅读各类中文小说，界面右下角可显示文件编码格式。\n支持快速打开超大文件而不会崩溃，实测19M大小文件(13万行)可以秒开。\n\n2、个性化风格设置\n通过 偏好设置，你可以个性化配置你喜欢的编辑器样式，包括界面主题、字体类型、字体大小、是否自动换行。在菜单栏的“显示”菜单中，也提供了“自动换行”的快速切换，和其它平台记事本一样方便。\n\n3、就连插入日期/时间也同样复刻\n在其它平台记事本中，你可以很方便的插入日期/时间，现在你可以在Mac的 记事本+ 中保留这一体验。\n\n4、延续经典的.LOG功能\n通过在文件第一行加入 .LOG标记，每次打开文档时，即可自动插入当前日期和时间，便于进行日志记录。\n\n5、AI实验室，智能助手功能强大\n文本翻译，支持201种语言自动识别，翻译为中文或者英文，选中文字后点击翻译菜单即可\n查询本机IP地址，包括地理位置\n今日天气，明日天气，显示所在地区天气和空气质量\n今日历史，显示历史上的今天\n名人名言，随机显示多条名人名言\n人民币大写，选中数字后，转换为人民币大写金额\n\n更多AI实验室功能将陆续加入：\n智能创作，全文校对，文章简报，主题词提取...",
+      "minimumOsVersion": "10.14.6",
+      "userRatingCount": 0,
+      "inAppPurchases": {},
+      "timestamp": 1750011788392,
+      "discounts": [
+        {
+          "type": "price",
+          "name": "Price",
+          "from": "$1.99",
+          "to": "Free",
+          "range": "[Free ~ $1.99]"
+        }
+      ]
+    },
     {
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/04/d6/74/04d67449-289f-2f92-fb36-4a08346f8e28/4a1a840b-5ad5-4865-baad-e79ae521855a_5.5_U82f1_U5bf81_en.jpg/392x696bb.jpg",

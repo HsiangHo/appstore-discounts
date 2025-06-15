@@ -161,6 +161,11 @@
         "五朵金花": 1,
         "不归玄境": 1
       }
+    },
+    "6444789815": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   },
   "us": {
@@ -332,6 +337,11 @@
       "inAppPurchase": {
         "Monthly": 1
       }
+    },
+    "6444789815": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   }
 }
