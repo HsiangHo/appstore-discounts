@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-14T16:26:03.572Z</updated>
+    <updated>2025-06-15T04:31:07.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-14T16:26:03.573Z</updated>
+        <updated>2025-06-15T04:31:07.411Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnSat, 14 Jun 2025 16:26:03 GMT</id>
+        <id>rankingcnSun, 15 Jun 2025 04:31:07 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-14T16:26:03.574Z</updated>
+        <updated>2025-06-15T04:31:07.411Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -167,6 +167,29 @@ feedId:49753297431966720+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1395152179">奇游加速器 - 全球游戏畅玩</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>3</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>移动端会员-年卡</i>：<b>3</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id491854842">网易有道翻译</a>
       </td>
       <td>
@@ -187,7 +210,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1058801458">Remixlive - Make Music & Beats</a>
@@ -202,29 +225,6 @@ feedId:49753297431966720+userId:73658201673997312
             <span>App 内购买项目</span><ol>
               <li>
                 <i>Full Access to PRO</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>6</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1395152179">奇游加速器 - 全球游戏畅玩</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>移动端会员-年卡</i>：<b>2</b>
               </li>
             </ol>
           </li>
@@ -606,6 +606,49 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奇游加速器 - 全球游戏畅玩]]></title>
+        <id>奇游加速器 - 全球游戏畅玩-cn-1749961644351</id>
+        <link href="https://apps.apple.com/cn/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4"/>
+        <updated>2025-06-15T04:27:24.351Z</updated>
+        <summary type="html"><![CDATA[移动端会员-年卡: ¥108.00 → ¥88.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/24/0d/5d240d0a-4401-ac6e-fe9f-165012b8adf4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>移动端会员-年卡：</strong><span>¥108.00</span> → <b>
+  <strong>¥88.00</strong>
+</b><span>[¥88.00 ~ ¥108.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  【 热门游戏，“游”先支持】
+支持PUBGM、王者荣耀国际服 、使命召唤战区、绝地求生：刺激战场 、吃鸡外服、鹅鸭杀手游，暗区突围国际服、飞机大厨、咒术回战、炉石传说国际服、ROBLOX国际版、原神国际服、英雄联盟手游（lol：wild rift）、云顶之弈手游、方舟：终极移动版等游戏加速！
+
+【海量手游库 新游上线快 】
+支持PUBGM、王者国际服、使命召唤战区、星际战甲国际服、炉石传说国际服、暗区突围国际服、飞机大厨、对峙2、云顶之奕PBE、鹅鸭杀、赛马娘、pubg2、暗黑破坏神不朽、apex手游、二之国、全境封锁手游、战地手游、瓦罗兰特手游、绝地求生刺激战场全球服、使命召唤手游全球服、八方旅人、符文大地传说、Among US、游戏王、方舟生存进化、黎明杀机、公主连接、冒险岛M、地球末日生存、Teon中文版、剑灵：革命、战争机器人、地牢猎手5、FIFA、碧蓝幻想全球服、iron force、世界计划、多彩舞台、第七史诗（epic 7）、和平精英全球服、堡垒之夜、fgo、影之诗、失落龙约黑色沙漠、文明重启全球服、荒野乱斗、狂野飙车9等游戏加速！游戏库包罗千款好玩游戏，热游新游排行一目了然。平均每天3款游戏的速度上新。App内可以随时提交想玩的游戏，你想玩的我们都支持！
+
+【 奇游电竞级加速 】
+奇游全自研“Qiy”电竞级加速引擎震撼上线，加速稳定性更胜一筹，不惧移动网络的波动。基于奇游电竞级游戏网络，带你感受稳定流畅的游戏体验。低延迟、不掉线，WIFI/5G随心切换。
+
+【新游推荐 硬核攻略 】
+新增游戏清单、新游预上线时间表等功能，更多实用、funny的游戏主题等你探索。游戏介绍、新游推荐、硬核攻略，丰富的游戏深度内容带你打开新世界的大门！
+
+【客服小队 随时待命 】
+奇游客服小队7x12h陪伴你的左右。使用过程中有任何疑问和反馈，我们随时待命。
+
+【自动续费套餐说明】
+1、订阅周期及套餐名称：1个月（连续包月），3个月(连续包季)
+2、订阅价格：以IAP申请信息为准，例如连续包月价格为首月15元，次月15元/月自动续费 
+3、付款：用户确认购买并付款后计入iTunes账户。
+4、取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能，到期前24小时内取消，将会收取订阅费用。
+5、续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+6、隐私政策：https://www.qiyou.cn/specials/qymobile-protocol.html
+7、服务协议：https://mfront.qiyou.cn/protocol.html
+8、自动续费会员服务协议：https://mfront.qiyou.cn/renewal-protocol.html
+
+*本加速器的加速功能仅针对游戏使用，无法访问海外网站。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/30/d9/a730d9aa-62c0-a310-ef97-258622bbd228/94e6bc59-0ed1-4662-9fe9-c6c451e5eff8_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/7b/26/067b26e4-94e4-e8dd-81e9-14a0ec0a4354/962aa0d0-12c7-4e94-8ce1-f6f9024c412c_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/10/80/20108048-f87d-5509-ee46-993017f4cee9/754dd371-0572-496e-b317-f4f78754097a_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/da/24/c5da242f-ed7d-eee2-aafd-7a134b8a2c1a/a6457b28-d217-4eb7-abbc-b84793c7a4ad_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/98/a2/1998a286-c405-6ee7-2549-d48179653067/5ab7ea42-5dde-488b-8677-e35e2767c474_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/20/76/ab207675-21ca-afc8-418b-a6e058a5628b/c1b12273-03dc-4645-bd76-2ec11fd06f72_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/2d/f0/c12df094-fd43-860b-b9f7-f4ed06d03635/3f45d5df-bae8-4a85-90be-b5c11e6b5d3f_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/fd/2c/35fd2c48-a4ce-0a15-cb14-eba428cdcf3d/57a9a98a-65a9-4a6f-b77f-09227a1a4252_5.jpg/576x768bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Remixlive - Make Music & Beats]]></title>
