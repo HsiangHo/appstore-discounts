@@ -10133,6 +10133,18 @@
     "history": [
       [
         {
+          "timestamp": 1750018721502,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "永久有效订阅": "¥148.00",
+            "一个月订阅": "¥48.00",
+            "Edit Advance And Custom Tags": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748191896014,
           "price": 0,
           "formattedPrice": "免费",
