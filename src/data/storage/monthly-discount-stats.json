@@ -198,6 +198,13 @@
         "连续包月": 2
       }
     },
+    "1027093462": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Manage your audio library": 1
+      }
+    },
     "1133028347": {
       "all": 1,
       "price": 0,

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-15T18:29:04.097Z</updated>
+    <updated>2025-06-15T21:22:02.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-15T18:29:04.097Z</updated>
+        <updated>2025-06-15T21:22:02.343Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSun, 15 Jun 2025 18:29:04 GMT</id>
+        <id>rankingusSun, 15 Jun 2025 21:22:02 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-15T18:29:04.097Z</updated>
+        <updated>2025-06-15T21:22:02.343Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -363,6 +363,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1027093462">Visual Cue FLAC DMX MP3 Player</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Manage your audio library</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>15</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1133028347">Cleaner One Pro - Uninstaller</a>
       </td>
       <td>
@@ -383,7 +406,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1231336508">腾讯视频-长安的荔枝 全网独播</a>
@@ -406,7 +429,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1403919533">MWeb Pro</a>
@@ -423,7 +446,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1442745175">快帆加速器-海外回国音乐视频加速器</a>
@@ -448,7 +471,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1456235760">Live Wallpaper - 4K UHD</a>
@@ -471,7 +494,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1518518216">Paper - Live Wallpapers</a>
@@ -494,7 +517,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
@@ -511,7 +534,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576064082">DeviceMirror -Screen Mirroring</a>
@@ -528,7 +551,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
@@ -551,7 +574,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1598771178">DeviceMirror Lite -Screen Cast</a>
@@ -574,7 +597,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6450397515">Transcribe & Speech to text</a>
@@ -599,7 +622,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6448913901">全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理</a>
@@ -622,7 +645,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6737146353">KitVPN – Fast & World NetWork</a>
@@ -645,7 +668,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6444789815">记事本++</a>
@@ -671,6 +694,70 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Cue FLAC DMX MP3 Player]]></title>
+        <id>Visual Cue FLAC DMX MP3 Player-us-1750022137927</id>
+        <link href="https://apps.apple.com/us/app/visual-cue-flac-dmx-mp3-player/id1027093462?uo=4"/>
+        <updated>2025-06-15T21:15:37.927Z</updated>
+        <summary type="html"><![CDATA[Manage your audio library: $79.99 → $4.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/visual-cue-flac-dmx-mp3-player/id1027093462?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/e3/6c/42e36c62-9e9e-de1f-f8d3-1b330291fd87/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Manage your audio library：</strong><span>$79.99</span> → <b>
+  <strong>$4.99</strong>
+</b><span>[$4.99 ~ $79.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Visual Cue Pro is an advanced, easy-to-use audio player for iOS and iPadOS.
+
+Main Features:
+• Waveform view for visual seeking and setting up cue points
+• Zoom functionality for more precise seeking on longer waveforms
+• Caches waveforms for fast display
+• Supports unlimited cue points per file
+• Quickly switch between cue points across multiple audio files
+• Does not alter your precious source files in any way
+• Drag & drop files directly from Files and other apps
+• Designed for speed and efficiency
+• GPU-based waveform renderer
+• Supports Dark Mode
+
+Collections:
+• Import files from Files using drag & drop
+• Manage your music library
+• Create cue points within each item
+
+Playlists:
+• Import files from Collections using drag & drop (cue points included)
+• Import files from Files using drag & drop (without cue points)
+• Create cue points within each item (shared across playlists if the item is from a Collection)
+• Reorder items using drag & drop in your desired order
+
+For Music Producers:
+• Manage your library of reference tracks to compare with your own
+• Quickly jump between cue points in your reference tracks
+• Manage and listen to your own tracks
+• Organize production elements and recorded source material
+
+For DJs:
+• Manage your library of tracks
+• Set up cue points in your tracks
+• Compile DJ sets by quickly jumping between cue points in different tracks
+• Manage and listen to your own mixes
+• Bookmark tracks in other DJs’ sets and discover new music faster
+
+Visual Cue Pro is an offline music player, music library manager, and music organizer with lossless playback, widely used in sound studios, by music directors, A&R, and for audio transcribing. It's also perfect for venues, theaters, churches, DJs, and more! It features full-screen support, native Apple Silicon support, Dark Mode, and cloud drive compatibility. The best reliable alternative to iTunes, plays audio files and formats supported by macOS, including WAV, AIFF, FLAC, MP3, M4A, and more.
+
+Free to download and try. Purchase modules via in-app purchase (subscriptions or lifetime permanent license).
+
+If you have a Mac, check out the macOS version too, which offers even more functionality!
+
+Privacy Policy: http://visualcueplayer.com/privacy.html
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[记事本++]]></title>
@@ -888,74 +975,6 @@ Subscription instrutions：
     <strong>Yearly Auto-renew Meitu SVIP：</strong><span>$84.99</span> → <b>
   <strong>$29.99</strong>
 </b><span>[$29.99 ~ $84.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Meitu is the simplest image processing tool that can quickly achieve professional-level photo editing effects. AI tools are constantly updated, and everyone can make good pictures!
-
-=== AI image modification, intelligent design without effort ===
-[AI Cutout] Efficient in all categories, 3s background removal, one-click change of background color/local pictures
-[AI Remover] One-click removal of redundant text, passers-by, skin acne spots, complex backgrounds, etc., without leaving any traces!
-[AI Enhancer] Ultra-clear image quality rebirth, say goodbye to poor image quality
-[AI Background Change] Enter keywords, AI generates product and portrait scene pictures
-[AI Expand] Freely expand the picture frame, intelligently fill the picture, and the composition does not need to be cropped!
-[AI Smart Selection] Any element can be freely moved, scaled, copied, redrawn, eliminated, and adjusted in color...
-
-===Meitu Batch Editor, efficient and higher quality===
-Import hundreds of pictures at a time, batch cut out pictures to change backgrounds, make them clear, add watermarks, crop and change sizes, compress and convert formats, etc., without repeated operations, efficient and refined!
-
-===Poster design, change pictures and words with one click===
-Massive high-quality templates cover e-commerce, administrative office, new media, WeChat and many other scenarios.
-
-===Puzzle splicing, creative layout===
-Seamless, horizontal and vertical, four-grid, nine-grid, love, triangle and many other puzzle styles, you can also freely assemble, social more colorful!
-
-===Basic picture editing, simple and outstanding===
-[Add text] [Crop, rotate, correct, and adjust size] [Dimming, color adjustment, and filter][Border stickers] [Brush] 
-
-===Medical-grade portrait beauty, high-definition natural face===
-[One-click beauty and whitening] [Facial reshaping] [Face slimming, body slimming, height increase] [Eye and Teeth Refinement] 
-
-————————
-
-[Meitu computer version SVIP automatic renewal service statement]
-
-[Meitu computer SVIP rights] Experience massive materials, personalized functions, and more refreshing without ads.
-
-[Subscription period]
-Meitu Computer SVIP - Continuous Monthly Subscription: Subscription period of 1 month
-Meitu PC SVIP - Continuous Season: Subscription period of 3 months
-Meitu PC SVIP - Consecutive Yearly Subscription: Subscription period of 12 months
-
-[Subscription price]
-The iAP application information shall prevail. For example, continuous monthly subscription products are 20 yuan per month; continuous seasonal subscription products are 50 yuan per quarter; continuous annual subscription products are 168 yuan per year.
-
-[Payment] After the user confirms the purchase and pays, it will be charged to the iTunes account.
-
-[Renewal] "Continuous monthly/quarterly/yearly" products are auto-renewable products, and your iTunes account will be charged after confirming the purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current subscription. Within 24 hours before your subscription period expires, Apple will automatically deduct the fee from your iTunes account, and the membership validity period will be automatically extended by one period after success.
-
-[Cancel renewal]
-If you want to cancel the automatic renewal, please manually go to "Settings" on your iPhone - click "Apple ID", select to enter the "Subscription" page, and select "Meitu SVIP" to cancel the subscription.
-
-[Free Trial] Renew the subscription during the free trial period to cancel the renewal, and the free trial rights will not be recovered from the user, and the user can try it until the trial period ends.
-
-==Related Agreement==
-Membership Service Agreement: https://pc.meitu.com/agreement
-Privacy Policy Address: https://pc.meitu.com/legal-agreement?type=pc
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/28/a3/4f28a3eb-ed57-8f60-d929-e1edb278071d/Meitu.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/c6/24/53c624f4-771c-841f-929d-ac7e1af6c6d1/Meitu_Batch_Editor.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/3a/27/273a2756-bead-3603-d43c-218dc5377dcd/AI_Cutout.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/22/9f/6a229ff1-1ee6-abca-0325-0b9722939856/AI_Enhancer.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meitu-AI Photo Editor & Design]]></title>
-        <id>Meitu-AI Photo Editor &amp; Design-us-1749763041812</id>
-        <link href="https://apps.apple.com/us/app/meitu-ai-photo-editor-design/id1588231633?mt=12&amp;uo=4"/>
-        <updated>2025-06-12T21:17:21.812Z</updated>
-        <summary type="html"><![CDATA[Monthly Auto-renew Meitu SVIP: $12.49 → $3.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/meitu-ai-photo-editor-design/id1588231633?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/5e/06/0f5e06ce-7271-6cc6-d813-456cedb68710/MTXXPro.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Monthly Auto-renew Meitu SVIP：</strong><span>$12.49</span> → <b>
-  <strong>$3.99</strong>
-</b><span>[$3.99 ~ $12.49]</span>
   </li>
 </ul><h2>Application Description</h2><p>
   Meitu is the simplest image processing tool that can quickly achieve professional-level photo editing effects. AI tools are constantly updated, and everyone can make good pictures!
