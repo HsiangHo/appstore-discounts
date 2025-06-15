@@ -20508,6 +20508,17 @@
     "history": [
       [
         {
+          "timestamp": 1750004429333,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "SQLPro Premium": "¥698.00",
+            "SQLPro Premium - Lifetime": "¥1,498.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749630287215,
           "price": 0,
           "formattedPrice": "免费",
@@ -21327,6 +21338,16 @@
       "Upgrade to iStatistica Pro": "¥28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750004429333,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "Upgrade to iStatistica Pro": "¥28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750000611541,
@@ -52840,6 +52861,17 @@
       "Upgrade to Plus": "¥88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750004429333,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Upgrade to Plus Version": "¥78.00",
+            "Upgrade to Plus": "¥88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750000611541,
