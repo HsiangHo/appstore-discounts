@@ -47781,6 +47781,16 @@
     "history": [
       [
         {
+          "timestamp": 1749990846294,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Whisk": "¥98.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748191896014,
           "price": 0,
           "formattedPrice": "免费",
