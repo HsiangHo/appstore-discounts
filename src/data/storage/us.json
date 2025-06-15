@@ -5753,6 +5753,23 @@
     "history": [
       [
         {
+          "timestamp": 1749951763446,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Synth Lead": "$1.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Synth Plucks": "$1.99",
+            "Groove Machine Synth": "$0.00",
+            "Chill-Lo-Fi Mobile": "$1.99"
+          }
+        },
+        {
           "timestamp": 1749874910744,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -36912,6 +36929,20 @@
       "99元商品": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1749951763446,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "1个月腾讯视频VIP": "$3.99",
+            "付费商品": "$2.99",
+            "该付费商品": "$0.99",
+            "3个月腾讯视频VIP": "$9.99",
+            "1年腾讯视频VIP": "$39.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749723599178,
