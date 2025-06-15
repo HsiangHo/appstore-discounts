@@ -21329,6 +21329,14 @@
     "history": [
       [
         {
+          "timestamp": 1750000611541,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748191896014,
           "price": 38,
           "formattedPrice": "¥38.00",
@@ -52822,7 +52830,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "Upgrade to Plus Version": "¥78.00",
+      "Upgrade to Plus Version": "¥88.00",
       "Upgrade to Plus": "¥88.00"
     },
     "minPriceInfo": {
@@ -52832,6 +52840,17 @@
       "Upgrade to Plus": "¥88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750000611541,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Upgrade to Plus": "¥88.00",
+            "Upgrade to Plus Version": "¥88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
