@@ -62461,6 +62461,18 @@
     "history": [
       [
         {
+          "timestamp": 1750044031300,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Upgrade to VIP(Lifetime)": "$7.99",
+            "Upgrade to VIP(Month renewal)": "$2.99",
+            "Upgrade to VIP(Annual renewal)": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749093281237,
           "price": 0,
           "formattedPrice": "Free",
@@ -87324,6 +87336,14 @@
     "history": [
       [
         {
+          "timestamp": 1750044031300,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749870626711,
           "price": 0,
           "formattedPrice": "Free",
@@ -88188,6 +88208,14 @@
     "history": [
       [
         {
+          "timestamp": 1750044031300,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749870626711,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -88495,6 +88523,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750044031300,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749870626711,

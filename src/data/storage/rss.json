@@ -1983,6 +1983,75 @@
   ],
   "us": [
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/%E4%B8%87%E6%9E%97-%E5%BD%AD/id1397686086?mt=12&uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/b7/3b/23b73bfc-ecc4-f544-749c-f8789247d998/AppIcon-0-0-85-220-0-0-4-0-2x-sRGB.png/60x60bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/b7/3b/23b73bfc-ecc4-f544-749c-f8789247d998/AppIcon-0-0-85-220-0-0-4-0-2x-sRGB.png/100x100bb.png",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5f/92/6e/5f926e8c-e263-e142-563d-aca5be6c35ad/0fa1125d-105b-46ca-8c4a-9c9db28fb143_1.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0c/56/e4/0c56e4fb-9bb8-1b1e-a594-5b56ce775fbd/6c1f4268-dfcf-4f0a-aec3-21dba8102b9e_2.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8c/91/01/8c9101d1-6334-6f77-6beb-b47c7bce0a5e/024ac7df-17e2-419f-b741-e85d7e562893_5.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/14/40/e2/1440e22c-a401-bd94-f238-774861d02226/2f414909-4219-4fad-8e87-33491d2c596e_3.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8f/90/50/8f90502c-f825-4a24-6d0c-33c887e99478/69d3d1ac-5cd8-46dd-8e26-7e5c58b9366c_4.png/800x500bb.jpg"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/b7/3b/23b73bfc-ecc4-f544-749c-f8789247d998/AppIcon-0-0-85-220-0-0-4-0-2x-sRGB.png/512x512bb.png",
+      "kind": "mac-software",
+      "trackCensoredName": "RAR Extractor - Unzip File",
+      "trackViewUrl": "https://apps.apple.com/us/app/rar-extractor-unzip-file/id1535136051?mt=12&uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "fileSizeBytes": "7851150",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "languageCodesISO2A": [
+        "EN",
+        "ZH"
+      ],
+      "minimumOsVersion": "10.13",
+      "averageUserRatingForCurrentVersion": 0,
+      "artistId": 1397686086,
+      "artistName": "万林 彭",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "price": 0,
+      "bundleId": "com.elimisoft.rarextract",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "releaseDate": "2020-10-09T07:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 1535136051,
+      "trackName": "RAR Extractor - Unzip File",
+      "sellerName": "万林 彭",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "currentVersionReleaseDate": "2025-04-28T17:43:27Z",
+      "releaseNotes": "● Add Month and annual renewal\n● Fix a minior bug",
+      "version": "12.6",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "● Extract 7Z, ZIP, RAR, TAR, GZIP, BZIP2, GZ, XZ, LZIP, ACE, ISO, LZMA, CBR, EXE, MSI, LZH, CPIO, CAB, JAR, PAK, PKG, APK, ACE, ARJ, LQR, SPK, SWF, NSA, RPM, CPT, etc… \n● Create password-protected 7Z, RAR and ZIP compressed files \n● Extract images from PDF file\n\n「MAIN FEATURES」\n● Extract over 60 kinds of archive (compressed file) formats.\n● Preview winmail.dat sent from Microsoft Outlook\n● Extract the encrypted archive.\n● Double click to decompress / preview the compressed file  (Like WinRAR).\n● Drag the compressed file to DOCK ICON to decompress or preview directly.\n● Decompress to the same folder as the archive. \n● Extract any file in the archive.\n● Batch decompress archives\n● AES256 encryption algorithm to create 7Z, RAR and ZIP compressed files . \n● Support different display windows\n\n「EMAIL」\n● zhiminl@qq.com\n\n「Terms of Use」\n● https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\n「Privacy Policy」\n● https://dami0209.github.io/privacy.html",
+      "userRatingCount": 0,
+      "inAppPurchases": {
+        "Upgrade to VIP(Lifetime)": "$7.99",
+        "Upgrade to VIP(Month renewal)": "$2.99",
+        "Upgrade to VIP(Annual renewal)": "$4.99"
+      },
+      "timestamp": 1750044031300,
+      "discounts": [
+        {
+          "type": "inAppPurchase",
+          "name": "Upgrade to VIP(Annual renewal)",
+          "from": "$5.99",
+          "to": "$4.99",
+          "range": "[$4.99 ~ $5.99]"
+        }
+      ]
+    },
+    {
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
