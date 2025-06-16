@@ -183,6 +183,13 @@
         "Full Access to PRO": 6
       }
     },
+    "461369673": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "VOX Premium Subscription": 1
+      }
+    },
     "673906093": {
       "all": 1,
       "price": 1,
@@ -199,10 +206,10 @@
       "inAppPurchase": {}
     },
     "1012296988": {
-      "all": 2,
+      "all": 3,
       "price": 0,
       "inAppPurchase": {
-        "连续包月": 2
+        "连续包月": 3
       }
     },
     "1027093462": {
@@ -220,18 +227,19 @@
       }
     },
     "1231336508": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "该影片": 1
+        "该影片": 1,
+        "付费商品": 1
       }
     },
     "1339124759": {
-      "all": 4,
+      "all": 5,
       "price": 0,
       "inAppPurchase": {
         "Annual membership": 1,
-        "Permanent membership": 3
+        "Permanent membership": 4
       }
     },
     "1395152179": {

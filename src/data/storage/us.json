@@ -5753,6 +5753,25 @@
     "history": [
       [
         {
+          "timestamp": 1750048238684,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Synth Lead": "$1.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Sliced Beats": "$0.99",
+            "Voices": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Groove Machine Synth": "$0.00",
+            "Synth Plucks": "$1.99",
+            "Transistor Bass": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750037875779,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -9025,16 +9044,27 @@
       "formattedPrice": "Free",
       "VOX Premium Subscription": "$49.99",
       "Radio": "$9.99",
-      "LOOP for VOX Subscription": "$49.99"
+      "LOOP for VOX Subscription": "$109.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "VOX Premium Subscription": "$49.99",
+      "VOX Premium Subscription": "$15.99",
       "Radio": "$9.99",
       "LOOP for VOX Subscription": "$49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750048238684,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "VOX Premium Subscription": "$15.99",
+            "LOOP for VOX Subscription": "$109.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749824261187,
@@ -28325,6 +28355,22 @@
     "history": [
       [
         {
+          "timestamp": 1750048238684,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "黄金会员连续包月": "$3.99",
+            "月卡": "$3.99",
+            "黄金会员连续包季": "$10.49",
+            "季卡": "$9.99",
+            "黄金会员连续包年": "$29.99",
+            "连续包月": "$3.99",
+            "年卡": "$29.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749993942436,
           "price": 0,
           "formattedPrice": "Free",
@@ -37054,6 +37100,20 @@
     "history": [
       [
         {
+          "timestamp": 1750048238684,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "1个月腾讯视频VIP": "$3.99",
+            "付费商品": "$1.99",
+            "该付费商品": "$0.99",
+            "3个月腾讯视频VIP": "$9.99",
+            "1年腾讯视频VIP": "$39.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749951763446,
           "price": 0,
           "formattedPrice": "Free",
@@ -42005,6 +42065,25 @@
       "3次按次付费功能使用资格": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750048238684,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "年度会员": "$12.99",
+            "订阅一年": "$9.99",
+            "月度会员": "$4.99",
+            "40次按次付费功能使用资格": "$3.99",
+            "订阅一个周.": "$2.49",
+            "60次按次付费功能使用资格": "$4.99",
+            "18次按次付费功能使用资格": "$2.99",
+            "10次按次付费功能使用资格": "$1.99",
+            "3次按次付费功能使用资格": "$0.99",
+            "Permanent membership": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749921251112,
