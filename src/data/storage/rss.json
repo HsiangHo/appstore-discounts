@@ -1,6 +1,72 @@
 {
   "cn": [
     {
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/a2/d1/ffa2d123-4659-3895-4a12-744a31e14f2a/AppIcon-0-0-85-220-0-0-0-4-0-2x.png/100x100bb.png",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/hankinsoft-development-inc/id305178629?mt=12&uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/a2/d1/ffa2d123-4659-3895-4a12-744a31e14f2a/AppIcon-0-0-85-220-0-0-0-4-0-2x.png/60x60bb.png",
+      "kind": "mac-software",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/a2/d1/ffa2d123-4659-3895-4a12-744a31e14f2a/AppIcon-0-0-85-220-0-0-0-4-0-2x.png/512x512bb.png",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/2d/fb/7a/2dfb7a03-6dd9-fa01-9d65-1e15b5d037e2/pr_source.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/80/8e/40/808e4087-8653-82f7-041e-a40491521617/pr_source.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/4b/69/95/4b69951f-7c3c-1957-2a8e-03f642e13691/pr_source.png/800x500bb.jpg"
+      ],
+      "minimumOsVersion": "10.13",
+      "averageUserRating": 0,
+      "trackCensoredName": "SQLPro for MSSQL",
+      "trackViewUrl": "https://apps.apple.com/cn/app/sqlpro-for-mssql/id828466809?mt=12&uo=4",
+      "artistId": 305178629,
+      "artistName": "Hankinsoft Development Inc",
+      "genres": [
+        "软件开发工具",
+        "工具"
+      ],
+      "price": 0,
+      "bundleId": "com.hankinsoft.osx.tinysqlstudio",
+      "trackId": 828466809,
+      "trackName": "SQLPro for MSSQL",
+      "currentVersionReleaseDate": "2024-04-10T18:31:01Z",
+      "releaseDate": "2014-03-12T00:47:51Z",
+      "primaryGenreName": "Developer Tools",
+      "primaryGenreId": 6026,
+      "genreIds": [
+        "6026",
+        "6002"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Hankinsoft Development Inc",
+      "releaseNotes": "+ Fixed an issue that could cause a crash when deleting records. [#965](https://github.com/hankinsoft/SQLPro/issues/965)\n+ Fixed an issue that could cause a crash when removing the 'format query' shortcut. [#964](https://github.com/hankinsoft/SQLPro/issues/964)",
+      "contentAdvisoryRating": "4+",
+      "version": "2024.21",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "SQLPro for MSSQL is a lightweight Microsoft SQL Server database client, allowing quick and simple access to MSSQL Servers, including those hosted via cloud services such as SQL Azure or Amazon RDS.\n\nFeatures include:\n+ Syntax highlighting (including customizable themes).\n+ Intellisense.\n+ Tabbed based interface.\n+ Support for executing multiple queries at once.\n+ Quick access to tables, columns and more.\n+ Stored procedure execution.\n+ NTLMv2 supported (but not required).\n\nSQLPro for MSSQL can be used to connect with the following databases:\n+ Microsoft SQL Azure\n+ Microsoft SQL Server 2005\n+ Microsoft SQL Server 2008\n+ Microsoft SQL Server 2008 R2\n+ Microsoft SQL Server 2012\n+ Microsoft SQL Server 2014\n+ Microsoft SQL Server 2016\n\nThanks to the FreeTDS project (http://www.freetds.org/) for their great library.\n\nThis SQL Client does NOT work with MySQL or Postgres. Please ensure that your server is a Microsoft SQL Server (2005 or above).\n\nNote 1: SQL Server Express is supported, however using it makes me sad. Please confirm that the SQL Server Express installation has been configured properly for remote connections over TCP/IP, and that you can connect remotely from another windows pc before requesting support.\n\nNote 2: SQLPro for MSSQL can connect to Microsoft SQL Server 2000 however it is not supported.\n\nPrivacy Policy:\nhttps://hankinsoft.com/privacypolicy.html\n\nTerms of Use:\nhttps://hankinsoft.com/termsofuse.html\n\nPrice:\nSQLPro offers Premium subscriptions in order to interact with database result sets. Premium subscriptions are available as either a Monthly, or a Yearly duration. Subscriptions auto-renew within 24 hours of the expiration date unless auto-renewal is turned off in the iTunes account settings. Payment will be charged to your iTunes Account at confirmation of purchase.",
+      "sellerUrl": "http://www.macsqlclient.com/",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "19701684",
+      "formattedPrice": "免费",
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 0,
+      "userRatingCountForCurrentVersion": 0,
+      "userRatingCount": 0,
+      "inAppPurchases": {
+        "SQLPro Premium": "¥70.00",
+        "SQLPro Premium - Lifetime": "¥1,298.00"
+      },
+      "timestamp": 1750037875779,
+      "discounts": [
+        {
+          "type": "inAppPurchase",
+          "name": "SQLPro Premium",
+          "from": "¥558.00",
+          "to": "¥70.00",
+          "range": "[¥70.00 ~ ¥558.00]"
+        }
+      ]
+    },
+    {
       "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/30/d9/a730d9aa-62c0-a310-ef97-258622bbd228/94e6bc59-0ed1-4662-9fe9-c6c451e5eff8_1.jpg/392x696bb.jpg",

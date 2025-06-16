@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-15T22:20:09.396Z</updated>
+    <updated>2025-06-16T01:42:06.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-15T22:20:09.397Z</updated>
+        <updated>2025-06-16T01:42:06.880Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnSun, 15 Jun 2025 22:20:09 GMT</id>
+        <id>rankingcnMon, 16 Jun 2025 01:42:06 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-15T22:20:09.398Z</updated>
+        <updated>2025-06-16T01:42:06.880Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -369,6 +369,29 @@ feedId:49753297431966720+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id828466809">SQLPro for MSSQL</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>SQLPro Premium</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>15</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1012296988">爱奇艺-临江仙 离婚仙侠</a>
       </td>
       <td>
@@ -389,7 +412,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1133028347">Cleaner One Pro - Uninstaller</a>
@@ -412,7 +435,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1403919533">MWeb Pro</a>
@@ -429,7 +452,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
@@ -446,7 +469,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1544190466">避难所：生存</a>
@@ -463,7 +486,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1575178082">Max NTFS - NTFS磁盘读写助手</a>
@@ -486,7 +509,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1576064082">DeviceMirror Pro -无线有线手机投屏</a>
@@ -503,7 +526,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1576794157">飞火动态壁纸-4k超清视频桌面主题壁纸引擎</a>
@@ -526,7 +549,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1598771178">DeviceMirror Lite -无线手机投屏</a>
@@ -549,7 +572,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1619925971">UPDF - 新一代 AI 智能 PDF 编辑器</a>
@@ -572,7 +595,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737146353">MateFox - VPN&全球网络加速器&无限流量</a>
@@ -595,7 +618,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737795387">鬼谷八荒</a>
@@ -620,7 +643,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6444789815">记事本++</a>
@@ -646,6 +669,59 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLPro for MSSQL]]></title>
+        <id>SQLPro for MSSQL-cn-1750037875779</id>
+        <link href="https://apps.apple.com/cn/app/sqlpro-for-mssql/id828466809?mt=12&amp;uo=4"/>
+        <updated>2025-06-16T01:37:55.779Z</updated>
+        <summary type="html"><![CDATA[SQLPro Premium: ¥558.00 → ¥70.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/sqlpro-for-mssql/id828466809?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/a2/d1/ffa2d123-4659-3895-4a12-744a31e14f2a/AppIcon-0-0-85-220-0-0-0-4-0-2x.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>SQLPro Premium：</strong><span>¥558.00</span> → <b>
+  <strong>¥70.00</strong>
+</b><span>[¥70.00 ~ ¥558.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  SQLPro for MSSQL is a lightweight Microsoft SQL Server database client, allowing quick and simple access to MSSQL Servers, including those hosted via cloud services such as SQL Azure or Amazon RDS.
+
+Features include:
++ Syntax highlighting (including customizable themes).
++ Intellisense.
++ Tabbed based interface.
++ Support for executing multiple queries at once.
++ Quick access to tables, columns and more.
++ Stored procedure execution.
++ NTLMv2 supported (but not required).
+
+SQLPro for MSSQL can be used to connect with the following databases:
++ Microsoft SQL Azure
++ Microsoft SQL Server 2005
++ Microsoft SQL Server 2008
++ Microsoft SQL Server 2008 R2
++ Microsoft SQL Server 2012
++ Microsoft SQL Server 2014
++ Microsoft SQL Server 2016
+
+Thanks to the FreeTDS project (http://www.freetds.org/) for their great library.
+
+This SQL Client does NOT work with MySQL or Postgres. Please ensure that your server is a Microsoft SQL Server (2005 or above).
+
+Note 1: SQL Server Express is supported, however using it makes me sad. Please confirm that the SQL Server Express installation has been configured properly for remote connections over TCP/IP, and that you can connect remotely from another windows pc before requesting support.
+
+Note 2: SQLPro for MSSQL can connect to Microsoft SQL Server 2000 however it is not supported.
+
+Privacy Policy:
+https://hankinsoft.com/privacypolicy.html
+
+Terms of Use:
+https://hankinsoft.com/termsofuse.html
+
+Price:
+SQLPro offers Premium subscriptions in order to interact with database result sets. Premium subscriptions are available as either a Monthly, or a Yearly duration. Subscriptions auto-renew within 24 hours of the expiration date unless auto-renewal is turned off in the iTunes account settings. Payment will be charged to your iTunes Account at confirmation of purchase.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/2d/fb/7a/2dfb7a03-6dd9-fa01-9d65-1e15b5d037e2/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/80/8e/40/808e4087-8653-82f7-041e-a40491521617/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/4b/69/95/4b69951f-7c3c-1957-2a8e-03f642e13691/pr_source.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[奇游加速器 - 全球游戏畅玩]]></title>

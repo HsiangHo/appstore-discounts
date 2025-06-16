@@ -18,6 +18,13 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "828466809": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "SQLPro Premium": 1
+      }
+    },
     "985614903": {
       "all": 3,
       "price": 0,
