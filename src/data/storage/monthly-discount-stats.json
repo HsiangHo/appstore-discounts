@@ -220,6 +220,20 @@
         "Manage your audio library": 1
       }
     },
+    "1068435535": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Upgrade to Pro": 1
+      }
+    },
+    "1081480270": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Premium Pass": 1
+      }
+    },
     "1133028347": {
       "all": 1,
       "price": 0,
@@ -340,10 +354,10 @@
       }
     },
     "6448913901": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "积分": 1
+        "积分": 2
       }
     },
     "6739523960": {

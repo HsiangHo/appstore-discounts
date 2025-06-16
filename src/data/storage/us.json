@@ -31889,6 +31889,18 @@
     "history": [
       [
         {
+          "timestamp": 1750077497428,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Upgrade to Bundle": "$19.99",
+            "Upgrade To Pro": "$29.99",
+            "Upgrade to Pro": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748362981135,
           "price": 0,
           "formattedPrice": "Free",
@@ -32077,11 +32089,23 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Premium Pass": "$19.99",
+      "Premium Pass": "$1.99",
       "Lifetime Pass": "$9.99",
       "Lifetime Pass Promo": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750077497428,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Pass": "$1.99",
+            "Lifetime Pass Promo": "$0.00",
+            "Lifetime Pass": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -88008,6 +88032,20 @@
       "月会员": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750077497428,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro会员": "$19.99",
+            "季度会员": "$19.99",
+            "周会员": "$4.99",
+            "月会员": "$9.99",
+            "积分": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748957535442,
