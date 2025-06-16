@@ -9453,6 +9453,21 @@
     "history": [
       [
         {
+          "timestamp": 1750105207546,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Global Weather": "$2.99",
+            "Photos & Additional Info": "$2.99",
+            "Human World Add-on": "$2.99",
+            "Animal World Add-on": "$2.99",
+            "Plant World Add-on": "$2.99",
+            "Language Map": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748191896014,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -13037,6 +13052,18 @@
       "three year subscription": "$20.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Edit Advance And Custom Tags": "$5.99",
+            "lifetime subscription": "$34.99",
+            "one Month subscription": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -37644,6 +37671,14 @@
     "history": [
       [
         {
+          "timestamp": 1750105207546,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748191896014,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -42523,6 +42558,19 @@
       "Unlock Features 2026": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750105207546,
+          "price": 3.29,
+          "formattedPrice": "$3.29",
+          "inAppPurchases": {
+            "Feature Update 2023": "$1.99",
+            "Feature Update 2024": "$1.99",
+            "Feature Update 2022": "$1.99",
+            "Unlock Features 2026": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -56028,6 +56076,17 @@
     "history": [
       [
         {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly auto-renew VIP": "$5.99",
+            "Monthly auto-renew VIP": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748191896014,
           "price": 0,
           "formattedPrice": "Free",
@@ -56964,6 +57023,17 @@
       "One Year VIP": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Three Months VIP": "$5.99",
+            "Five Years VIP": "$29.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -58130,6 +58200,23 @@
     "history": [
       [
         {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Enjoy HD screens": "$5.99",
+            "Mac LetsView Pro(monthly)": "$7.99",
+            "15 minutes": "$0.99",
+            "LetsView Pro (Lifetime)": "$49.99",
+            "Mac LetsView Pro(annual)": "$29.99",
+            "Annual Subscription (Pro)": "$29.99",
+            "900 minutes": "$9.99",
+            "360 minutes": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748191896014,
           "price": 0,
           "formattedPrice": "Free",
@@ -58636,7 +58723,7 @@
       "price": 0,
       "formattedPrice": "Free",
       "1 Month VIP": "$6.99",
-      "1 Year VIP": "$29.99",
+      "1 Year VIP": "$45.00",
       "3 Month VIP": "$19.99"
     },
     "minPriceInfo": {
@@ -58647,6 +58734,18 @@
       "3 Month VIP": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "1 Month VIP": "$6.99",
+            "1 Year VIP": "$45.00",
+            "3 Month VIP": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -59495,6 +59594,19 @@
     "history": [
       [
         {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Continuous cycle": "$5.49",
+            "500 hour VIP members": "$7.99",
+            "Continuous monthly payment": "$5.49",
+            "Continuous cropping season": "$15.99",
+            "1800 hours VIP members": "$15.99",
+            "Monthly package": "$6.99"
+          }
+        },
+        {
           "timestamp": 1750101241971,
           "price": 0,
           "formattedPrice": "Free",
@@ -60059,6 +60171,14 @@
     "history": [
       [
         {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748191896014,
           "price": 0,
           "formattedPrice": "Free",
@@ -60225,6 +60345,14 @@
     "history": [
       [
         {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748191896014,
           "price": 0,
           "formattedPrice": "Free",
@@ -60349,6 +60477,16 @@
       "Whisk": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Whisk": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -62185,6 +62323,14 @@
       "Full Unlock": "$49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -66467,6 +66613,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "5张壁纸券": "$3.99",
+            "三个月会员": "$1.99",
+            "新1年会员": "$5.99",
+            "一个月会员": "$0.99",
+            "一年会员": "$7.99"
+          }
+        },
         {
           "timestamp": 1750101241971,
           "price": 0,
@@ -71171,6 +71329,14 @@
       "Pro Edition": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,

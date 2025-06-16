@@ -7392,6 +7392,21 @@
     "history": [
       [
         {
+          "timestamp": 1750105207546,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Photos & Additional Info": "¥22.00",
+            "Global Weather": "¥22.00",
+            "Animal World Add-on": "¥22.00",
+            "Human World Add-on": "¥22.00",
+            "Plant World Add-on": "¥22.00",
+            "Language Map": "¥15.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748191896014,
           "price": 22,
           "formattedPrice": "¥22.00",
@@ -10131,6 +10146,18 @@
       "three year subscription": "¥148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "永久有效订阅": "¥148.00",
+            "一个月订阅": "¥48.00",
+            "Edit Advance And Custom Tags": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750022137927,
@@ -31005,6 +31032,14 @@
     "history": [
       [
         {
+          "timestamp": 1750105207546,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748191896014,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -36549,6 +36584,19 @@
       "Feature Update 2022": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750105207546,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Feature Update 2024": "¥15.00",
+            "Unlock Features 2026": "¥15.00",
+            "Feature Update 2023": "¥15.00",
+            "Feature Update 2022": "¥15.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -44238,6 +44286,17 @@
     "history": [
       [
         {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "升级为VIP 按月自动续订": "¥15.00",
+            "升级为VIP 按年自动续订": "¥43.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1748191896014,
           "price": 0,
           "formattedPrice": "免费",
@@ -44595,6 +44654,14 @@
       "Unlock Standard Features": "¥98.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -45116,6 +45183,17 @@
       "一年版VIP": "¥128.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "三个月版VIP": "¥38.00",
+            "五年版VIP": "¥198.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749907517111,
@@ -46229,6 +46307,20 @@
     "history": [
       [
         {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "即刻畅享高清投屏": "¥23.00",
+            "Mac 幕连月度订阅(高级版)": "¥19.00",
+            "15分钟": "¥1.00",
+            "幕连年度订阅(高级版)": "¥99.00",
+            "Mac幕连年度订阅(高级版)": "¥99.00",
+            "360分钟": "¥28.00",
+            "900分钟": "¥68.00"
+          }
+        },
+        {
           "timestamp": 1750101241971,
           "price": 0,
           "formattedPrice": "免费",
@@ -46634,6 +46726,17 @@
       "3个月VIP": "¥128.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "1个月VIP": "¥48.00",
+            "3个月VIP": "¥128.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749935744153,
@@ -47955,6 +48058,14 @@
     "history": [
       [
         {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748191896014,
           "price": 0,
           "formattedPrice": "免费",
@@ -48105,6 +48216,14 @@
     "history": [
       [
         {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748191896014,
           "price": 0,
           "formattedPrice": "免费",
@@ -48230,6 +48349,16 @@
       "Whisk": "¥98.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Whisk": "¥98.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749993942436,
@@ -48438,6 +48567,14 @@
       "升级高级版": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -50070,6 +50207,14 @@
       "Full Unlock": "¥328.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -57284,6 +57429,14 @@
       "专业版": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750105207546,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
