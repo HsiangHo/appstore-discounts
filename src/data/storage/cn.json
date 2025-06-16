@@ -22638,7 +22638,8 @@
       "Voyager Synthwave": "¥22.00",
       "Titanium Bass": "¥22.00",
       "Sphere Electro": "¥22.00",
-      "Chill Boom Bap": "¥22.00"
+      "Chill Boom Bap": "¥22.00",
+      "Terraform Techno": "¥22.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -22661,9 +22662,29 @@
       "Voyager Synthwave": "¥22.00",
       "Titanium Bass": "¥22.00",
       "Sphere Electro": "¥22.00",
-      "Chill Boom Bap": "¥22.00"
+      "Chill Boom Bap": "¥22.00",
+      "Terraform Techno": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750058384282,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Terraform Techno": "¥22.00",
+            "Speed Hardgroove": "¥22.00",
+            "Drip Tech House": "¥22.00",
+            "Altered Hip-Hop": "¥22.00",
+            "Glow Trap": "¥22.00",
+            "Phonk": "¥22.00",
+            "Indigo Beats": "¥22.00",
+            "Voyager Synthwave": "¥22.00",
+            "Titanium Bass": "¥22.00",
+            "Sphere Electro": "¥22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749961644351,
@@ -54975,6 +54996,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750058384282,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Wink- AI Photo Restore": "¥12.00",
+            "Wink VIP连续包月": "¥18.00",
+            "Wink VIP 连续包年": "¥168.00",
+            "Wink VIP 连续包周": "¥18.00",
+            "AI Remoji": "¥12.00",
+            "12个月Wink VIP赠送1个月SVIP": "¥150.00",
+            "Wink SVIP 连续包月": "¥39.00"
+          }
+        },
         {
           "timestamp": 1750051194078,
           "price": 0,
