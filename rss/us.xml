@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-16T19:20:07.961Z</updated>
+    <updated>2025-06-16T22:25:20.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-16T19:20:07.962Z</updated>
+        <updated>2025-06-16T22:25:20.617Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusMon, 16 Jun 2025 19:20:07 GMT</id>
+        <id>rankingusMon, 16 Jun 2025 22:25:20 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-16T19:20:07.962Z</updated>
+        <updated>2025-06-16T22:25:20.617Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -461,6 +461,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1014945607">优酷视频-嘘国王在冬眠 全网独播</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>优酷视频点播</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>19</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1027093462">Visual Cue FLAC DMX MP3 Player</a>
       </td>
       <td>
@@ -481,7 +504,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1081480270">The Audio Converter</a>
@@ -504,7 +527,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1133028347">Cleaner One Pro - Uninstaller</a>
@@ -527,7 +550,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1403919533">MWeb Pro</a>
@@ -544,7 +567,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1442745175">快帆加速器-海外回国音乐视频加速器</a>
@@ -569,7 +592,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1456235760">Live Wallpaper - 4K UHD</a>
@@ -592,7 +615,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1518518216">Paper - Live Wallpapers</a>
@@ -615,7 +638,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
@@ -632,7 +655,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1535136051">RAR Extractor - Unzip File</a>
@@ -655,7 +678,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576064082">DeviceMirror -Screen Mirroring</a>
@@ -672,7 +695,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576794157">飞火动态壁纸-4k超清视频桌面主题壁纸引擎</a>
@@ -695,7 +718,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
@@ -718,7 +741,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1598771178">DeviceMirror Lite -Screen Cast</a>
@@ -741,7 +764,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6450397515">Transcribe & Speech to text</a>
@@ -766,7 +789,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6737146353">KitVPN – Fast & World NetWork</a>
@@ -789,7 +812,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6444789815">记事本++</a>
@@ -815,6 +838,27 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[优酷视频-嘘国王在冬眠 全网独播]]></title>
+        <id>优酷视频-嘘国王在冬眠 全网独播-us-1750112256237</id>
+        <link href="https://apps.apple.com/us/app/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91-%E5%98%98%E5%9B%BD%E7%8E%8B%E5%9C%A8%E5%86%AC%E7%9C%A0-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1014945607?mt=12&amp;uo=4"/>
+        <updated>2025-06-16T22:17:36.237Z</updated>
+        <summary type="html"><![CDATA[优酷视频点播: $5.99 → $0.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91-%E5%98%98%E5%9B%BD%E7%8E%8B%E5%9C%A8%E5%86%AC%E7%9C%A0-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1014945607?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/ca/f6/afcaf62c-52c9-f8ae-5817-e4ef8e8e05c8/icon.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>优酷视频点播：</strong><span>$5.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $5.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  优酷Mac客户端，聚焦全网精品内容，提供电影、电视剧、综艺、动漫、少儿等海量高清视频在线观看
+提供优质Mac本地视频播放器，同时支持优酷缓存视频和电脑本地视频播放
+支持4K画质，畅享极致视觉盛宴
+支持优酷账号及第三方登录，视频云记录，多屏同步看
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/4f/67/cd4f67e5-652e-3291-cfcc-61108e59a326/1280_U002a800-p1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/03/79/700379d4-5e0c-b64d-9118-5598426638d6/1280_U002a800-p2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/c9/48/7ec9485b-3ae7-eee3-dc9a-04da21cb21c2/1280_U002a800-p3.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[飞火动态壁纸-4k超清视频桌面主题壁纸引擎]]></title>
