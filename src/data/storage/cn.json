@@ -9127,6 +9127,23 @@
     "history": [
       [
         {
+          "timestamp": 1750115815441,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Editor Pro - Annual Plan": "¥328.00",
+            "Editor Pro - Monthly Plan": "¥58.00",
+            "Pro - Annual Plan.cn.2024": "¥298.00",
+            "Editor Pro - Annual Plan CN": "¥328.00",
+            "Editor Pro - Annual Plan.2024": "¥298.00",
+            "Editor Pro - Monthly Plan.cn": "¥58.00",
+            "FotorPro+ - Monthly Plan": "¥128.00",
+            "Pro discount - Monthly Plan": "¥58.00",
+            "FotorPro+ - Annual Plan": "¥578.00",
+            "Pro discount - Annual Plan": "¥298.00"
+          }
+        },
+        {
           "timestamp": 1750112256237,
           "price": 0,
           "formattedPrice": "免费",
@@ -22800,6 +22817,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750115815441,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Trap": "¥22.00",
+            "Remixlive Premium (Monthly)": "¥68.00",
+            "Electro": "¥22.00",
+            "Drum & Bass": "¥22.00",
+            "Deep House": "¥22.00",
+            "Hip-Hop": "¥22.00",
+            "Dubstep": "¥22.00",
+            "Future Beat": "¥22.00",
+            "Full Access to PRO": "¥228.00"
+          }
+        },
         {
           "timestamp": 1750112256237,
           "price": 0,
@@ -68196,6 +68229,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750115815441,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "18元礼包": "¥18.00",
+            "6元礼包": "¥6.00",
+            "30元礼包": "¥30.00",
+            "68元礼包": "¥68.00",
+            "1元礼包": "¥1.00",
+            "98元礼包": "¥98.00",
+            "648元钻石": "¥648.00",
+            "88元礼包": "¥88.00",
+            "328元钻石": "¥328.00",
+            "68元钻石": "¥68.00"
+          }
+        },
         {
           "timestamp": 1750112256237,
           "price": 1,
