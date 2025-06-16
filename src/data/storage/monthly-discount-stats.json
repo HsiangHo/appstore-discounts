@@ -184,10 +184,11 @@
       }
     },
     "461369673": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "VOX Premium Subscription": 1
+        "VOX Premium Subscription": 1,
+        "LOOP for VOX Subscription": 1
       }
     },
     "673906093": {

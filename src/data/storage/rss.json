@@ -1983,6 +1983,77 @@
   ],
   "us": [
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/coppertino-inc/id410801091?mt=12&uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/0c/59/5c0c59d6-9f05-4fb0-836a-15f1e3459b39/AppIconNew-0-0-85-220-0-0-0-4-0-2x.png/60x60bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/0c/59/5c0c59d6-9f05-4fb0-836a-15f1e3459b39/AppIconNew-0-0-85-220-0-0-0-4-0-2x.png/100x100bb.png",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/7c/36/637c3612-0070-f326-819e-1e7bcce9c2af/pr_source.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/82/a4/09/82a40990-99b5-c706-fadb-c1f8ac3651e0/mzl.ptafbcyi.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/0d/27/a70d27b3-0fe0-3c9f-4216-33ee99423452/pr_source.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/76/4b/44/764b4485-6790-5152-c984-7d9e4154bc71/mzl.lfjljoip.png/800x500bb.jpg"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/0c/59/5c0c59d6-9f05-4fb0-836a-15f1e3459b39/AppIconNew-0-0-85-220-0-0-0-4-0-2x.png/512x512bb.png",
+      "kind": "mac-software",
+      "averageUserRating": 0,
+      "trackCensoredName": "VOX: MP3 & FLAC Music Player",
+      "trackViewUrl": "https://apps.apple.com/us/app/vox-mp3-flac-music-player/id461369673?mt=12&uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 0,
+      "sellerUrl": "https://vox.rocks/mac-music-player",
+      "languageCodesISO2A": [
+        "EN",
+        "JA",
+        "RU",
+        "ZH"
+      ],
+      "fileSizeBytes": "44153084",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "minimumOsVersion": "10.11",
+      "artistId": 410801091,
+      "artistName": "Coppertino Inc.",
+      "genres": [
+        "Music",
+        "Utilities"
+      ],
+      "price": 0,
+      "bundleId": "com.coppertino.Vox",
+      "releaseDate": "2013-07-27T07:00:00Z",
+      "genreIds": [
+        "6011",
+        "6002"
+      ],
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "trackId": 461369673,
+      "trackName": "VOX: MP3 & FLAC Music Player",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Coppertino Inc.",
+      "currentVersionReleaseDate": "2024-04-25T22:52:44Z",
+      "releaseNotes": "- Fixed Youtube playback;\n- Fixed launch issue related to companion VOX Cloud app.",
+      "version": "3.6.1",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "#1 Hi-Res audio player for Mac & iPhone. Music just sounds better! \n\n*NEW*\nIntroducing VOX Premium – Your Ultimate Music Experience. VOX Premium adds a stunning cloud streaming features and unlimited music storage without a decline in quality. Sync, stream and cache your entire music library on Mac and iPhone in a way that suits you best!\n\nListen to your music regardless of the format:\n• Play numerous lossy and lossless (FLAC, APE, WAV, DSD, etc.) audio formats;\n• Export playlists in various formats (PLS, M3U, XSPF);\n• Open different playlist types including M3U, PLS, XSPF, and the popular CUE format used to store CD rips;\n• Play audio files stored on NAS devices and other network drives.\n\nManage your music easily: \n• Control the player from the main interface, Dock context menu or main menu controls;\n• Automatically search for all the missing album artwork from MusicBrainz and Last.fm databases;\n• Use keyboard media keys, headphones controls, and Apple Remote to control the playback (requires VOX Preference Pane);\n• Easily add music via smart drop zones, open dialog and Finder context menu;\n• Use the Equalizer with presets & custom mode, crossfade, fade on play/pause, converting music to 5.1 or 7.1 format;\n• Preview album artwork from your Dock icon;\n• Gapless playback support;\n• Get system or Growl playback notifications.\n\nFocus on music, not the source: \n• Work with different audio sources including custom Playlists, iTunes Library, online radio and much more;\n• Scrobble to Last.fm to keep your listening stats up-to-date;\n• Play any song, any playlist you find on YouTube via VOX FLAC Player, put all your YouTube songs into one media collection.\n\nFull SoundCloud integration:\n• Easily control SoundCloud via VOX;\n• Access the largest music database in the world and discover new tunes;\n• Bring your SoundCloud stream and likes directly into VOX.\n\nYouTube source:\n• Press CMD+U and paste any link from YouTube to play it in VOX. You can add it to VOX collections as well.\n\nLast.fm:\n• Scrobbling for your music stream;\n\nRadio access for VOX Premium subscribers (**NEW**):\n• 30'000+ Radio stations categorized by genres and countries! \n\nEquip yourself with all of the audiophile tools of VOX Premium:\n• Advanced Audio Features: HOG Mode; Improved multi-output device support;\n• Convert stereophonic audio in your headphones to binaural using Bauer DSP (BS2B) technology;\n• Automatically Pause playback on headphones disconnection;\n• Take full advantage of AirPlay (10.8+) to listen with any of your wireless output devices.\n• VOX also supports SONOS wireless speakers systems.\n\n\nThe beauty of VOX Player is in its simplicity, yet behind the minimal exterior lies a powerful Music Player with a ton of features and support for all audio formats you may ever need. \n\n\n––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\n\n\nVOX Premium is available by auto-renewable subscriptions:\n\n- $4.99 per month;\n- $49.99 per year.\n\nYour credit card will be charged through your iTunes Account after the purchase confirmation. Your subscription will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current period. \nYour subscriptions can be managed in your iTunes Account Settings after purchase is made. No cancellation of the current subscription is allowed during active subscription period. Any unused portion of a free trial period will be forfeited when you purchase a subscription.\n\nVOX Premium privacy policy: https://vox.rocks/privacy\nVOX Premium terms and conditions: https://vox.rocks/terms\n\nP.S.: FLAC Player, ALAC Player, Lossless Player, SoundCloud Stream Solution, YouTube MP3 Music, Hi-Res audio Player - check all of them in one VOX Music Player.",
+      "userRatingCount": 0,
+      "inAppPurchases": {
+        "VOX Premium Subscription": "$49.99",
+        "Radio": "$9.99",
+        "LOOP for VOX Subscription": "$49.99"
+      },
+      "timestamp": 1750051194078,
+      "discounts": [
+        {
+          "type": "inAppPurchase",
+          "name": "LOOP for VOX Subscription",
+          "from": "$109.99",
+          "to": "$49.99",
+          "range": "[$49.99 ~ $109.99]"
+        }
+      ]
+    },
+    {
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/aa/41/28aa41a0-daaa-20f3-8727-b791bc86b3db/AppIcon-85-220-0-4-2x-sRGB.png/512x512bb.png",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/16/3e/15163e7c-e03a-d9bb-1d24-42356617484c/IMG_1855.png/800x500bb.jpg",

@@ -9056,6 +9056,16 @@
     "history": [
       [
         {
+          "timestamp": 1750051194078,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "VOX Premium Subscription": "$49.99",
+            "Radio": "$9.99",
+            "LOOP for VOX Subscription": "$49.99"
+          }
+        },
+        {
           "timestamp": 1750048238684,
           "price": 0,
           "formattedPrice": "Free",
@@ -42066,6 +42076,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750051194078,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "订阅一个周.": "$2.49",
+            "Permanent membership": "$11.99",
+            "Subscription for 1 month.": "$4.49",
+            "Monthly membership": "$4.99",
+            "订阅一年": "$9.99",
+            "月度会员": "$4.99",
+            "Annual membership": "$9.99",
+            "Subscription for 1 year.": "$13.49"
+          }
+        },
         {
           "timestamp": 1750048238684,
           "price": 0,
