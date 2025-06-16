@@ -221,10 +221,11 @@
       }
     },
     "1068435535": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Upgrade to Pro": 1
+        "Upgrade to Pro": 1,
+        "Upgrade To Pro": 1
       }
     },
     "1081480270": {
