@@ -11332,6 +11332,20 @@
     "history": [
       [
         {
+          "timestamp": 1750148720760,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "有道词典会员连续包月": "$3.99",
+            "有道词典超级会员": "$14.99",
+            "有道词典超级会员1个月": "$5.99",
+            "50万字符加量包": "$3.99",
+            "6充值币": "$0.99",
+            "有道词典超级会员1年": "$59.99",
+            "10万字符加量包": "$0.99"
+          }
+        },
+        {
           "timestamp": 1750144701413,
           "price": 0,
           "formattedPrice": "Free",
@@ -11845,6 +11859,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750148720760,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Editor Pro - Annual Plan": "$47.99",
+            "Editor Pro - Monthly Plan": "$8.99",
+            "Editor Pro - Annual Plan.2024": "$47.99",
+            "FotorPro+ - Monthly Plan": "$19.99",
+            "Pro discount - Monthly Plan": "$8.99",
+            "FotorPro+ - Annual Plan": "$89.99",
+            "Pro discount - Annual Plan": "$47.99",
+            "Fotor Pro - Recommend Offer": "$47.99",
+            "Pro - Annual Plan.cn.2024": "$47.99",
+            "200 credits for pro": "$9.99"
+          }
+        },
         {
           "timestamp": 1750144701413,
           "price": 0,
@@ -13990,6 +14021,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750148720760,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "百度网盘自动续费超级会员（1个月）": "$3.99",
+            "百度网盘超级会员折扣价(3个月)": "$9.99",
+            "百度网盘超级会员(1个月)": "$5.99",
+            "百度网盘超级会员(1个月-自动续费)(首充)": "$2.99",
+            "百度网盘超级会员折扣价(6个月)": "$19.99",
+            "百度网盘会员(3个月)": "$3.99",
+            "百度网盘超级会员1年（7.5折）": "$39.99",
+            "百度网盘超级会员(1个月-自动续费)": "$3.99",
+            "百度网盘自动续费超级会员（3个月）": "$10.49",
+            "百度网盘自动续费超级会员（12个月）": "$39.99"
+          }
+        },
         {
           "timestamp": 1750144701413,
           "price": 0,
@@ -28511,6 +28559,20 @@
     "history": [
       [
         {
+          "timestamp": 1750148720760,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "黄金会员连续包月": "$3.99",
+            "月卡": "$3.99",
+            "黄金会员连续包季": "$10.49",
+            "季卡": "$9.99",
+            "黄金会员连续包年": "$29.99",
+            "连续包月": "$3.99",
+            "年卡": "$29.99"
+          }
+        },
+        {
           "timestamp": 1750144701413,
           "price": 0,
           "formattedPrice": "Free",
@@ -28693,6 +28755,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750148720760,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "月度VIP会员": "$3.99",
+            "年度VIP会员": "$29.99",
+            "优酷月度VIP会员": "$3.99",
+            "优酷视频点播": "$0.99",
+            "季度VIP会员": "$9.99",
+            "优酷季度VIP会员": "$9.99"
+          }
+        },
         {
           "timestamp": 1750144701413,
           "price": 0,
@@ -37442,6 +37517,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750148720760,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "1个月腾讯视频VIP": "$3.99",
+            "付费商品": "$1.99",
+            "该付费商品": "$0.99",
+            "3个月腾讯视频VIP": "$9.99",
+            "1年腾讯视频VIP": "$39.99"
+          }
+        },
         {
           "timestamp": 1750144701413,
           "price": 0,
@@ -67591,6 +67678,21 @@
     "history": [
       [
         {
+          "timestamp": 1750148720760,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly Auto-renew Meitu SVIP": "$12.49",
+            "Yearly Auto-renew Meitu SVIP": "$29.99",
+            "1 month - Meitu SVIP": "$4.99",
+            "Quarterly Auto-renew SVIP": "$32.99",
+            "880 Monthly Credits": "$9.99",
+            "12 months-Meitu SVIP": "$39.99",
+            "3 months - Meitu SVIP": "$14.99",
+            "24 months-Meitu SVIP": "$39.99"
+          }
+        },
+        {
           "timestamp": 1750144701413,
           "price": 0,
           "formattedPrice": "Free",
@@ -72028,6 +72130,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750148720760,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Annual Subscription": "$39.99",
+            "Perpetual License": "$128.99",
+            "UPDF AI Standard": "$15.00",
+            "UPDF Pro + AI Unlimited": "$108.99",
+            "UPDF AI Unlimited": "$79.00",
+            "Quarterly Subscription": "$19.00",
+            "UPDF Pro + AI Standard": "$98.99"
+          }
+        },
         {
           "timestamp": 1750144701413,
           "price": 0,

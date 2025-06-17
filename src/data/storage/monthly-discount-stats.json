@@ -191,6 +191,13 @@
         "LOOP for VOX Subscription": 1
       }
     },
+    "491854842": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "有道词典超级会员": 1
+      }
+    },
     "673906093": {
       "all": 1,
       "price": 1,
@@ -214,10 +221,10 @@
       }
     },
     "1014945607": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "优酷视频点播": 1
+        "优酷视频点播": 2
       }
     },
     "1027093462": {
@@ -339,11 +346,11 @@
       }
     },
     "1588231633": {
-      "all": 3,
+      "all": 4,
       "price": 0,
       "inAppPurchase": {
         "Monthly Auto-renew Meitu SVIP": 2,
-        "Yearly Auto-renew Meitu SVIP": 1
+        "Yearly Auto-renew Meitu SVIP": 2
       }
     },
     "1594288016": {
