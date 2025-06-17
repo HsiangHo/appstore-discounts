@@ -68742,7 +68742,8 @@
       "Yearly SVIP": "$99.99",
       "Upgrade to SVIP": "$1.99",
       "3-Time AI Effects": "$1.99",
-      "Save Current Result": "$1.99"
+      "Save Current Result": "$1.99",
+      "Wink- 200 Credits": "$39.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -68760,9 +68761,25 @@
       "Yearly SVIP": "$99.99",
       "Upgrade to SVIP": "$1.99",
       "3-Time AI Effects": "$1.99",
-      "Save Current Result": "$1.99"
+      "Save Current Result": "$1.99",
+      "Wink- 200 Credits": "$39.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750198613947,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- 25 Credits": "$7.99",
+            "Wink- 100 Credits": "$24.99",
+            "10-second AI animation": "$1.99",
+            "Wink- 200 Credits": "$39.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750101241971,
