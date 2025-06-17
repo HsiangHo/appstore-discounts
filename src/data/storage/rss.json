@@ -1763,6 +1763,73 @@
   ],
   "us": [
     {
+      "kind": "mac-software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/beijing-honghu-yuntu-technology-co-ltd/id1480505512?mt=12&uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/d4/c3/d7d4c334-8c37-ff19-5733-d6bbb7199bb1/Icon.png/60x60bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/d4/c3/d7d4c334-8c37-ff19-5733-d6bbb7199bb1/Icon.png/100x100bb.png",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/49/56/68495645-c372-0d50-2f9e-d6e22a592384/9cbdec95-8743-48d6-8ade-0c34d2619b27_1.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/d4/a9/8cd4a9ca-0732-d3d7-5b94-edd8f2a5ac79/0ac3ceca-0ffb-4339-b39d-34b50e5b08a4_2.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/4a/71/994a71cd-e8b0-076f-bc5a-d43f276cf09f/62e00376-e405-4b8d-a3a2-a6bf5230288d_3.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/56/76/ed56764b-c879-cfb6-7b71-48cdb59b08d4/a1062e6e-6eab-46c7-950f-3c09e7ee846e_4.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/38/fd/2438fdfd-899e-7222-efba-df06b7920940/157b9db5-dc50-4abb-afe4-01ec8ccdea47_5.png/800x500bb.jpg"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/d4/c3/d7d4c334-8c37-ff19-5733-d6bbb7199bb1/Icon.png/512x512bb.png",
+      "averageUserRating": 0,
+      "minimumOsVersion": "10.13",
+      "artistId": 1480505512,
+      "artistName": "Beijing Honghu Yuntu Technology Co., Ltd.",
+      "genres": [
+        "Productivity"
+      ],
+      "price": 0,
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "bundleId": "com.glodonyuntu.cadreadermac",
+      "trackId": 1484905765,
+      "trackName": "Fast CAD Reader",
+      "genreIds": [
+        "6007"
+      ],
+      "releaseDate": "2020-01-16T08:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Beijing Honghu Yuntu Technology Co., Ltd.",
+      "currentVersionReleaseDate": "2025-02-25T15:06:59Z",
+      "releaseNotes": "1. Support exporting the identified shape list to Excel\n2. Optimize the display of drawings",
+      "version": "4.1.5",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "CADReader is a cross-platform CAD software that is fully compatible with DWG, DXF formats. It provides essential tools such as Viewing, Measuring and Annotations Tools to meet the demands of engineers, designers and quantity surveyors alike.\n\nCADReader Highlights:\n\n1. Fast Access to Drawings\n• View multiple drawings at once (Fully compatible with AutoCAD)\n• Supports both DWG and DXF Formats\n\n2. Quick Measurement Tools\n• Scale drawing tool\n• Continuous measure in length (m)\n• Measure polygon area (m2)\n• Measure radius, angles, arc length, coordinates etc.\n• Automatic snapping points for better accuracy\n\n3. Efficient Collaboration Tools\n• Draw lines, shapes, revision clouds\n• Import/Export drawing comments/annotations\n• Add texts\n\n4. Advanced Features\n• Convert CAD to PDF \n• Layer management\n• Switching between model and layout view\n\n\n\nStill have questions? Feel free to contact our technical support via whatsapp or email, we provide 1-to-1 services for free!\n\nEmail: cadreaderservice@gmail.com\nWA: https://wa.me/8613681244152\n\nDon't forget to follow our social media pages to learn more tips and tutorials!\n\nYouTube: https://www.youtube.com/@cadreader\nTikTok: https://www.tiktok.com/@officialcadreader\nLinkedIn: https://www.linkedin.com/company/cadreader/\nWebsite: https://dwg.fastcadreader.com/",
+      "languageCodesISO2A": [
+        "EN",
+        "ZH"
+      ],
+      "fileSizeBytes": "71555119",
+      "formattedPrice": "Free",
+      "trackContentRating": "4+",
+      "trackCensoredName": "Fast CAD Reader",
+      "trackViewUrl": "https://apps.apple.com/us/app/fast-cad-reader/id1484905765?mt=12&uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 0,
+      "userRatingCountForCurrentVersion": 0,
+      "userRatingCount": 0,
+      "inAppPurchases": {
+        "1 Month VIP": "$6.99",
+        "1 Year VIP": "$29.99",
+        "3 Month VIP": "$19.99"
+      },
+      "timestamp": 1750152019196,
+      "discounts": [
+        {
+          "type": "inAppPurchase",
+          "name": "1 Year VIP",
+          "from": "$45.00",
+          "to": "$29.99",
+          "range": "[$29.99 ~ $45.00]"
+        }
+      ]
+    },
+    {
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/4f/67/cd4f67e5-652e-3291-cfcc-61108e59a326/1280_U002a800-p1.png/800x500bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/03/79/700379d4-5e0c-b64d-9118-5598426638d6/1280_U002a800-p2.png/800x500bb.jpg",

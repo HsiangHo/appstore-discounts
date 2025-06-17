@@ -7411,6 +7411,21 @@
     "history": [
       [
         {
+          "timestamp": 1750152019196,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Political Map": "¥15.00",
+            "Photos & Additional Info": "¥22.00",
+            "Global Weather": "¥22.00",
+            "Animal World Add-on": "¥22.00",
+            "Human World Add-on": "¥22.00",
+            "Plant World Add-on": "¥22.00",
+            "Language Map": "¥15.00",
+            "Vegetation Map": "¥15.00"
+          }
+        },
+        {
           "timestamp": 1750105207546,
           "price": 22,
           "formattedPrice": "¥22.00",
@@ -10203,6 +10218,18 @@
     "history": [
       [
         {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "永久有效订阅": "¥148.00",
+            "一个月订阅": "¥48.00",
+            "一年订阅": "¥68.00",
+            "Edit Advance And Custom Tags": "¥38.00",
+            "three year subscription": "¥148.00"
+          }
+        },
+        {
           "timestamp": 1750105207546,
           "price": 0,
           "formattedPrice": "免费",
@@ -11637,6 +11664,16 @@
     "history": [
       [
         {
+          "timestamp": 1750152019196,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "Premium Package": "¥38.00",
+            "Premium Subscription (1 week)": "¥14.00",
+            "One year Premium": "¥333.00"
+          }
+        },
+        {
           "timestamp": 1750101241971,
           "price": 38,
           "formattedPrice": "¥38.00",
@@ -12454,6 +12491,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750152019196,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {
+            "Video Profile": "¥68.00",
+            "Movie Maker": "¥68.00",
+            "Toolbox": "¥68.00",
+            "Video Collage Maker": "¥68.00"
+          }
+        },
         {
           "timestamp": 1750101241971,
           "price": 98,
@@ -13946,6 +13994,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750152019196,
+          "price": 128,
+          "formattedPrice": "¥128.00",
+          "inAppPurchases": {
+            "Video Collage Maker": "¥68.00",
+            "Video Toolbox": "¥68.00",
+            "MV Movie Maker": "¥68.00",
+            "Toolbox": "¥68.00",
+            "Movie Maker": "¥68.00"
+          }
+        },
         {
           "timestamp": 1750101241971,
           "price": 128,
@@ -20722,6 +20782,15 @@
     "history": [
       [
         {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "录屏功能": "¥68.00",
+            "多音轨字幕功能": "¥68.00"
+          }
+        },
+        {
           "timestamp": 1750101241971,
           "price": 0,
           "formattedPrice": "免费",
@@ -21686,6 +21755,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750152019196,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "Upgrade to iStatistica Pro": "¥28.00"
+          }
+        },
         {
           "timestamp": 1750101241971,
           "price": 38,
@@ -27889,6 +27966,14 @@
     "history": [
       [
         {
+          "timestamp": 1750152019196,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {
+            "视频格式": "¥88.00"
+          }
+        },
+        {
           "timestamp": 1750101241971,
           "price": 68,
           "formattedPrice": "¥68.00",
@@ -28121,6 +28206,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Unlock All Kits": "¥38.00",
+            "订阅三个月完整版": "¥8.00",
+            "订阅1年完整版": "¥15.00"
+          }
+        },
         {
           "timestamp": 1750101241971,
           "price": 0,
@@ -28583,6 +28678,15 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750152019196,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "音视频播放器": "¥0.00",
+            "压缩包浏览器": "¥0.00"
+          }
+        },
         {
           "timestamp": 1750101241971,
           "price": 15,
@@ -30922,6 +31026,17 @@
     "history": [
       [
         {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "永久有效订阅": "¥228.00",
+            "one month subscription": "¥48.00",
+            "one year for full function": "¥98.00",
+            "six month subscription": "¥48.00"
+          }
+        },
+        {
           "timestamp": 1750101241971,
           "price": 0,
           "formattedPrice": "免费",
@@ -31271,6 +31386,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750152019196,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "Bandwidth graph": "¥8.00"
+          }
+        },
         {
           "timestamp": 1750105207546,
           "price": 8,
@@ -36726,6 +36849,19 @@
     "history": [
       [
         {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "包月自动订阅": "¥30.00",
+            "包季度自动订阅": "¥78.00",
+            "包年自动订阅": "¥263.00",
+            "30天穿梭VIP": "¥38.00",
+            "90天会员": "¥88.00",
+            "360天会员": "¥298.00"
+          }
+        },
+        {
           "timestamp": 1750101241971,
           "price": 0,
           "formattedPrice": "免费",
@@ -36825,6 +36961,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750152019196,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Feature Update 2024": "¥15.00",
+            "Unlock Features 2026": "¥15.00",
+            "Unlock Features 2025": "¥15.00",
+            "Feature Update 2023": "¥15.00",
+            "Feature Update 2022": "¥15.00"
+          }
+        },
         {
           "timestamp": 1750105207546,
           "price": 22,
@@ -44555,6 +44703,16 @@
     "history": [
       [
         {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "升级为终身VIP": "¥68.00",
+            "升级为VIP 按月自动续订": "¥15.00",
+            "升级为VIP 按年自动续订": "¥43.00"
+          }
+        },
+        {
           "timestamp": 1750105207546,
           "price": 0,
           "formattedPrice": "免费",
@@ -44924,6 +45082,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Unlock Standard Features": "¥98.00"
+          }
+        },
         {
           "timestamp": 1750105207546,
           "price": 0,
@@ -45453,6 +45619,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "三个月版VIP": "¥38.00",
+            "六个月版VIP": "¥68.00",
+            "五年版VIP": "¥198.00",
+            "一年版VIP": "¥128.00"
+          }
+        },
         {
           "timestamp": 1750105207546,
           "price": 0,
@@ -46576,6 +46753,23 @@
     "history": [
       [
         {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "即刻畅享高清投屏": "¥23.00",
+            "Mac 幕连月度订阅(高级版)": "¥19.00",
+            "15分钟": "¥1.00",
+            "幕连年度订阅(高级版)": "¥99.00",
+            "3年会员": "¥198.00",
+            "Mac幕连年度订阅(高级版)": "¥99.00",
+            "360分钟": "¥28.00",
+            "买3年送3年": "¥198.00",
+            "900分钟": "¥68.00",
+            "1800分钟": "¥88.00"
+          }
+        },
+        {
           "timestamp": 1750105207546,
           "price": 0,
           "formattedPrice": "免费",
@@ -46996,6 +47190,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "1个月VIP": "¥48.00",
+            "1年VIP": "¥228.00",
+            "3个月VIP": "¥128.00"
+          }
+        },
         {
           "timestamp": 1750105207546,
           "price": 0,
@@ -47788,6 +47992,23 @@
     "history": [
       [
         {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "连续包周": "¥35.00",
+            "500小时vip会员": "¥58.00",
+            "连续包月": "¥40.00",
+            "体验套餐": "¥22.00",
+            "1800小时VIP会员": "¥98.00",
+            "连续包季": "¥118.00",
+            "包月套餐": "¥48.00",
+            "1个设备/月": "¥38.00",
+            "2个设备/月": "¥88.00",
+            "包季套餐": "¥128.00"
+          }
+        },
+        {
           "timestamp": 1750101241971,
           "price": 0,
           "formattedPrice": "免费",
@@ -48327,6 +48548,14 @@
     "history": [
       [
         {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "SpeakerAmp PRO": "¥88.00"
+          }
+        },
+        {
           "timestamp": 1750105207546,
           "price": 0,
           "formattedPrice": "免费",
@@ -48485,6 +48714,14 @@
     "history": [
       [
         {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "永久高级版": "¥22.00"
+          }
+        },
+        {
           "timestamp": 1750105207546,
           "price": 0,
           "formattedPrice": "免费",
@@ -48548,6 +48785,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "专业版（内网）": "¥398.00",
+            "商业版（内网）": "¥688.00",
+            "专业版（公网）": "¥288.00",
+            "旗舰版（内网）": "¥1,148.00",
+            "旗舰版（公网）": "¥928.00",
+            "商业版（公网）": "¥568.00"
+          }
+        },
         {
           "timestamp": 1750101241971,
           "price": 0,
@@ -48619,6 +48869,15 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "14 天试用": "¥0.00",
+            "Whisk": "¥98.00"
+          }
+        },
         {
           "timestamp": 1750105207546,
           "price": 0,
@@ -48837,6 +49096,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "升级高级版": "¥38.00"
+          }
+        },
         {
           "timestamp": 1750105207546,
           "price": 0,
@@ -49204,6 +49471,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Pro Version": "¥38.00",
+            "按每季度订阅专业版": "¥3.99",
+            "按年订阅专业版": "¥12.00"
+          }
+        },
         {
           "timestamp": 1750101241971,
           "price": 0,
@@ -49896,6 +50173,16 @@
     "history": [
       [
         {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Generous Tip": "¥8.00",
+            "Legendary Tip": "¥28.00",
+            "Amazing Tip": "¥15.00"
+          }
+        },
+        {
           "timestamp": 1750101241971,
           "price": 0,
           "formattedPrice": "免费",
@@ -50477,6 +50764,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Full Unlock": "¥328.00"
+          }
+        },
         {
           "timestamp": 1750105207546,
           "price": 0,
@@ -51084,6 +51379,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "VIP免费试用7天": "¥68.00",
+            "升级为VIP 按月自动续订": "¥27.00",
+            "终身VIP": "¥148.00"
+          }
+        },
         {
           "timestamp": 1750101241971,
           "price": 0,
@@ -54399,6 +54704,20 @@
     "history": [
       [
         {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "一个月会员": "¥8.00",
+            "新1年会员": "¥39.00",
+            "三个月会员": "¥22.00",
+            "一年会员": "¥58.00",
+            "永久会员": "¥188.00",
+            "3年会员": "¥88.00",
+            "1年会员-超低价": "¥29.00"
+          }
+        },
+        {
           "timestamp": 1750101241971,
           "price": 0,
           "formattedPrice": "免费",
@@ -54994,6 +55313,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "高级用户，功能无限制使用": "¥18.00"
+          }
+        },
         {
           "timestamp": 1750101241971,
           "price": 0,
@@ -57714,6 +58041,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "专业版": "¥22.00"
+          }
+        },
         {
           "timestamp": 1750105207546,
           "price": 0,
@@ -70264,6 +70599,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750152019196,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "一个月VIP": "¥12.00",
+            "三个月VIP": "¥28.80",
+            "100 发子弹": "¥1.00",
+            "一年VIP": "¥128.00",
+            "2688 发子弹": "¥18.00"
+          }
+        },
         {
           "timestamp": 1750101241971,
           "price": 0,

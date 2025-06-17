@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-17T08:30:07.761Z</updated>
+    <updated>2025-06-17T09:24:05.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-17T08:30:07.762Z</updated>
+        <updated>2025-06-17T09:24:05.396Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 17 Jun 2025 08:30:07 GMT</id>
+        <id>rankingusTue, 17 Jun 2025 09:24:05 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-17T08:30:07.763Z</updated>
+        <updated>2025-06-17T09:24:05.397Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -666,6 +666,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>27</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1484905765">Fast CAD Reader</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>1 Year VIP</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>28</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1518518216">Paper - Live Wallpapers</a>
       </td>
       <td>
@@ -686,7 +709,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
@@ -703,7 +726,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1535136051">RAR Extractor - Unzip File</a>
@@ -726,7 +749,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576064082">DeviceMirror -Screen Mirroring</a>
@@ -743,7 +766,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576794157">飞火动态壁纸-4k超清视频桌面主题壁纸引擎</a>
@@ -766,7 +789,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
@@ -789,7 +812,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1598771178">DeviceMirror Lite -Screen Cast</a>
@@ -812,7 +835,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6737146353">KitVPN – Fast & World NetWork</a>
@@ -835,7 +858,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6444789815">记事本++</a>
@@ -861,6 +884,61 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast CAD Reader]]></title>
+        <id>Fast CAD Reader-us-1750152019196</id>
+        <link href="https://apps.apple.com/us/app/fast-cad-reader/id1484905765?mt=12&amp;uo=4"/>
+        <updated>2025-06-17T09:20:19.196Z</updated>
+        <summary type="html"><![CDATA[1 Year VIP: $45.00 → $29.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/fast-cad-reader/id1484905765?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/d4/c3/d7d4c334-8c37-ff19-5733-d6bbb7199bb1/Icon.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>1 Year VIP：</strong><span>$45.00</span> → <b>
+  <strong>$29.99</strong>
+</b><span>[$29.99 ~ $45.00]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  CADReader is a cross-platform CAD software that is fully compatible with DWG, DXF formats. It provides essential tools such as Viewing, Measuring and Annotations Tools to meet the demands of engineers, designers and quantity surveyors alike.
+
+CADReader Highlights:
+
+1. Fast Access to Drawings
+• View multiple drawings at once (Fully compatible with AutoCAD)
+• Supports both DWG and DXF Formats
+
+2. Quick Measurement Tools
+• Scale drawing tool
+• Continuous measure in length (m)
+• Measure polygon area (m2)
+• Measure radius, angles, arc length, coordinates etc.
+• Automatic snapping points for better accuracy
+
+3. Efficient Collaboration Tools
+• Draw lines, shapes, revision clouds
+• Import/Export drawing comments/annotations
+• Add texts
+
+4. Advanced Features
+• Convert CAD to PDF 
+• Layer management
+• Switching between model and layout view
+
+
+
+Still have questions? Feel free to contact our technical support via whatsapp or email, we provide 1-to-1 services for free!
+
+Email: cadreaderservice@gmail.com
+WA: https://wa.me/8613681244152
+
+Don't forget to follow our social media pages to learn more tips and tutorials!
+
+YouTube: https://www.youtube.com/@cadreader
+TikTok: https://www.tiktok.com/@officialcadreader
+LinkedIn: https://www.linkedin.com/company/cadreader/
+Website: https://dwg.fastcadreader.com/
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/49/56/68495645-c372-0d50-2f9e-d6e22a592384/9cbdec95-8743-48d6-8ade-0c34d2619b27_1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/d4/a9/8cd4a9ca-0732-d3d7-5b94-edd8f2a5ac79/0ac3ceca-0ffb-4339-b39d-34b50e5b08a4_2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/4a/71/994a71cd-e8b0-076f-bc5a-d43f276cf09f/62e00376-e405-4b8d-a3a2-a6bf5230288d_3.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/56/76/ed56764b-c879-cfb6-7b71-48cdb59b08d4/a1062e6e-6eab-46c7-950f-3c09e7ee846e_4.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/38/fd/2438fdfd-899e-7222-efba-df06b7920940/157b9db5-dc50-4abb-afe4-01ec8ccdea47_5.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[优酷视频-嘘国王在冬眠 全网独播]]></title>
