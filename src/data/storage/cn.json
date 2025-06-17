@@ -4737,6 +4737,25 @@
     "history": [
       [
         {
+          "timestamp": 1750134406591,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "Acoustic Guitars": "¥8.00",
+            "Voices": "¥8.00",
+            "Tuned 808 Bass": "¥8.00",
+            "Varazdin Orchestral Mobile": "¥28.00",
+            "Amped Guitar & Bass": "¥22.00",
+            "Synth Lead": "¥15.00",
+            "Synth Plucks": "¥15.00",
+            "Groove Machine Synth": "¥0.00",
+            "Sliced Beats": "¥8.00",
+            "Transistor Bass": "¥0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749885353580,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -10831,6 +10850,23 @@
     "history": [
       [
         {
+          "timestamp": 1750134406591,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "百度网盘自动续费超级会员（1个月）": "¥25.00",
+            "百度网盘超级会员(1个月-自动续费)(首充)": "¥18.00",
+            "百度网盘会员(3个月)": "¥30.00",
+            "百度网盘云解压券6元": "¥6.00",
+            "百度网盘超级会员(1个月)": "¥40.00",
+            "百度网盘自动续费超级会员（3个月）": "¥68.00",
+            "百度网盘连续包月备份套餐(1个月)": "¥10.00",
+            "百度网盘极速下载券1张": "¥6.00",
+            "百度网盘会员(1个月-自动续费)": "¥19.00",
+            "百度网盘转存券6元": "¥6.00"
+          }
+        },
+        {
           "timestamp": 1750123598479,
           "price": 0,
           "formattedPrice": "免费",
@@ -15677,6 +15713,25 @@
     "history": [
       [
         {
+          "timestamp": 1750134406591,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Telegram Premium": "¥33.00",
+            "Telegram Premium Annual": "¥268.00",
+            "1x Premium (3 Months)": "¥98.00",
+            "1x Premium (1 Year)": "¥268.00",
+            "Telegram Premium (3-Month)": "¥98.00",
+            "1x Premium (6 Months)": "¥148.00",
+            "250 Telegram Stars": "¥41.80",
+            "Telegram Premium (1 Year)": "¥298.00",
+            "Telegram Premium (6 month)": "¥168.00",
+            "75 Telegram Stars": "¥12.80"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750055330339,
           "price": 0,
           "formattedPrice": "免费",
@@ -16754,6 +16809,17 @@
       "SQLPro Premium - Lifetime": "¥1,298.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750134406591,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "SQLPro Premium": "¥558.00",
+            "SQLPro Premium - Lifetime": "¥1,298.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750037875779,
@@ -22834,6 +22900,22 @@
     "history": [
       [
         {
+          "timestamp": 1750134406591,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Trap": "¥22.00",
+            "Remixlive Premium (Monthly)": "¥68.00",
+            "Electro": "¥22.00",
+            "Drum & Bass": "¥22.00",
+            "Deep House": "¥22.00",
+            "Hip-Hop": "¥22.00",
+            "Dubstep": "¥22.00",
+            "Future Beat": "¥22.00",
+            "Full Access to PRO": "¥228.00"
+          }
+        },
+        {
           "timestamp": 1750123598479,
           "price": 0,
           "formattedPrice": "免费",
@@ -27519,6 +27601,25 @@
       "获得关于这块神秘石头3的提示": "¥1.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750134406591,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "购买游戏": "¥1.00",
+            "道具提示【一些秘密】神庙角落": "¥1.00",
+            "道具提示【一些秘密】金字塔": "¥1.00",
+            "道具提示【一些秘密】一朵花": "¥1.00",
+            "获得关于全息摄像头的提示": "¥1.00",
+            "获得关于二周目工厂箱子眼睛的提示": "¥1.00",
+            "获得关于三角块(1-6)的提示": "¥1.00",
+            "获得关于水桶（无水）的提示": "¥1.00",
+            "获得关于石头眼珠（未充能）的提示": "¥1.00",
+            "获得关于这块神秘石头3的提示": "¥1.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749645470397,
@@ -39888,6 +39989,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750134406591,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "移动端会员-月卡": "¥18.00",
+            "移动端会员-连续包月": "¥15.00",
+            "移动端会员-连续包季": "¥36.00",
+            "移动端会员-季卡": "¥40.00",
+            "移动端会员-半年卡": "¥60.00",
+            "移动端会员-年卡": "¥108.00",
+            "Mac-月卡套餐": "¥39.00"
+          }
+        },
         {
           "timestamp": 1750123598479,
           "price": 0,
