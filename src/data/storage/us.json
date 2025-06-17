@@ -31164,6 +31164,22 @@
     "history": [
       [
         {
+          "timestamp": 1750141636166,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Remixlive Premium (Monthly)": "$9.99",
+            "Trap": "$2.99",
+            "Electro": "$2.99",
+            "Drum & Bass": "$2.99",
+            "Deep House": "$2.99",
+            "Hip-Hop": "$2.99",
+            "Full Access to PRO": "$9.99",
+            "Future Beat": "$2.99",
+            "Dubstep": "$2.99"
+          }
+        },
+        {
           "timestamp": 1750137470388,
           "price": 0,
           "formattedPrice": "Free",
@@ -70204,6 +70220,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750141636166,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "笔记高级会员连续包月": "$2.99",
+            "有道云笔记月会员": "$2.99",
+            "有道云笔记超级会员包月会员": "$3.99",
+            "笔记超级会员连续包月": "$3.99",
+            "有道云笔记超级会员包年会员": "$36.99",
+            "有道云笔记超级会员包季会员": "$10.49",
+            "有道云笔记高级会员包季会员": "$6.99",
+            "2年笔记高级会员": "$59.99",
+            "有道云笔记年会员": "$30.99"
+          }
+        },
         {
           "timestamp": 1750137470388,
           "price": 0,
