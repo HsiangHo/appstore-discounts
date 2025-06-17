@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-17T09:24:05.395Z</updated>
+    <updated>2025-06-17T13:37:08.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-17T09:24:05.396Z</updated>
+        <updated>2025-06-17T13:37:08.220Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 17 Jun 2025 09:24:05 GMT</id>
+        <id>rankingusTue, 17 Jun 2025 13:37:08 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-17T09:24:05.397Z</updated>
+        <updated>2025-06-17T13:37:08.220Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -483,6 +483,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id417375580">BetterSnapTool</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>BetterTouchTool License</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>19</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id491854842">Youdao Translate</a>
       </td>
       <td>
@@ -503,7 +526,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id673906093">Audio Normalizer - Mp3 Gain</a>
@@ -520,7 +543,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id797275229">AudioTunes - FLAC, APE, WMA Converter</a>
@@ -537,7 +560,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id966457795">Super PhotoCut</a>
@@ -554,7 +577,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1027093462">Visual Cue FLAC DMX MP3 Player</a>
@@ -577,7 +600,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1081480270">The Audio Converter</a>
@@ -600,7 +623,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1133028347">Cleaner One Pro - Uninstaller</a>
@@ -623,7 +646,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1403919533">MWeb Pro</a>
@@ -640,7 +663,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1456235760">Live Wallpaper - 4K UHD</a>
@@ -663,7 +686,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1484905765">Fast CAD Reader</a>
@@ -686,7 +709,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1518518216">Paper - Live Wallpapers</a>
@@ -709,7 +732,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
@@ -726,7 +749,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1535136051">RAR Extractor - Unzip File</a>
@@ -749,7 +772,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576064082">DeviceMirror -Screen Mirroring</a>
@@ -766,7 +789,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576794157">飞火动态壁纸-4k超清视频桌面主题壁纸引擎</a>
@@ -789,7 +812,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
@@ -812,7 +835,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1598771178">DeviceMirror Lite -Screen Cast</a>
@@ -835,7 +858,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6737146353">KitVPN – Fast & World NetWork</a>
@@ -858,7 +881,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6444789815">记事本++</a>
@@ -884,6 +907,40 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BetterSnapTool]]></title>
+        <id>BetterSnapTool-us-1750167081870</id>
+        <link href="https://apps.apple.com/us/app/bettersnaptool/id417375580?mt=12&amp;uo=4"/>
+        <updated>2025-06-17T13:31:21.870Z</updated>
+        <summary type="html"><![CDATA[BetterTouchTool License: $17.99 → $12.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/bettersnaptool/id417375580?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/0f/ce/8f0fce9e-f422-1027-4688-a3a490902f4f/AppIcon-0-0-85-220-0-4-0-2x.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>BetterTouchTool License：</strong><span>$17.99</span> → <b>
+  <strong>$12.99</strong>
+</b><span>[$12.99 ~ $17.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  BetterSnapTool allows you to easily manage your window positions and sizes by either dragging them to one of the screen's corners or to the top, left or right side of the screen. This enables you to easily maximize your windows, position them side by side or even resize them to quarters of the screen. 
+
+If you need even more than those standard snap areas, BetterSnapTool now allows you to create your own, custom snap areas anywhere on your display. These can resize & move windows to any possible position.
+
+More features included are:
+
+• support for multiple monitors
+• customizable keyboard shortcuts to trigger any snap area
+• lots of design customization options
+• always accessible  pop up menu showing all possible snap sizes / positions
+• move or resize the window below the cursor while holding customizable modifier keys.
+• select what happens when double-clicking a window's titlebar
+• select what happens when right-clicking any of the red/orange/green window buttons of any window
+
+BetterSnapTool is very customizable and will change the way you work with your Mac!
+
+BetterSnapTool works with almost every application, only some apps with non-standard windows can't be supported.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/46/82/69/46826900-be7b-63f7-44fb-46c6272e4d39/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/4b/b9/fa/4bb9fa79-bf61-c591-e4c0-d4b93408b332/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/31/51/01/315101f0-cd97-9bf1-674a-df0294446a0b/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/8b/e7/66/8be766bd-2cf0-52b9-f10b-8dd0e99520a0/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/14/8c/ca/148cca35-00c2-83a0-7d46-3b75072a1bfc/pr_source.jpg/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fast CAD Reader]]></title>
@@ -2201,91 +2258,6 @@ Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
         <id>Audio Editor &amp; Music Mixer-us-1749918025609</id>
         <link href="https://apps.apple.com/us/app/audio-editor-music-mixer/id1339124759?uo=4"/>
         <updated>2025-06-14T16:20:25.609Z</updated>
-        <summary type="html"><![CDATA[Permanent membership: $11.99 → $9.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/audio-editor-music-mixer/id1339124759?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/9f/00/cf9f0079-ce90-8228-c4e5-1e03c6311f25/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Permanent membership：</strong><span>$11.99</span> → <b>
-  <strong>$9.99</strong>
-</b><span>[$9.99 ~ $14.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Want to make your own unique phone ringtones? Or want to combine multiple songs and synthesize the music you want? Or want to know the effect of mixing different songs?
-
-Audio Editor & Music Mixer is an easy to operate music cutting and mixing tool. Simple and excellent, functional and practical! Whether you are a professional musician or music amateur, you can play easily.
- 
-Features:
-1.Professional ringtone clip: free to edit, the maximum clipping of the ringtone is 40s (in line with the characteristics of ringtones)
-2.Simple music stitching: song editing and splicing as a whole,connect the favorite songs
-3.Unique music mixing: free to cut the two songs, mixed together to play, feel different music effects!
-
-Subscription instrutions：
-- After you subscribe to the VIP, you have unlimited access to all features
-- Subscribe to provide 4 types of VIP services, including: weekly VIP service, monthly VIP service, yearly VIP service, permanent VIP service
-- Subscribe to $2.49 per week, $4.49 per month, $13.49 for 1 year and $14.99 for permanent
-- The purchase process is to deduct the purchase amount from the iTunes account
-- Account will be charged at the cost of the selected package within 24 hours prior to the current period
-- Cancellation of current subscription is not allowed during active subscription period.But you can cancel next subscription.
-- You can access our privacy policy by visiting (long press) https://www.camoryapps.com/netpower/privacy_policy/musicmixer_en.html 
-- You can access (long press) https://www.camoryapps.com/netpower/service/musicmixer_en.html  to read the Terms of Service
-*The price is equivalent to the 'Apple App Store Matrix' which is equivalent to the subscription price in US dollars.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/04/d6/74/04d67449-289f-2f92-fb36-4a08346f8e28/4a1a840b-5ad5-4865-baad-e79ae521855a_5.5_U82f1_U5bf81_en.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/33/c6/0e/33c60e7a-3f1f-a1b5-ba0a-2a2f8d2f275d/f5f26ef2-3985-4897-8b0f-cc42160e0a7b_5.5_U82f1_U5bf82_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1b/49/be/1b49be06-9cb6-62c8-4136-06b752a1a90f/c4f80133-bb8f-4ea7-8c29-9e12ba482e16_5.5_U82f1_U5bf83_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/b2/e8/dfb2e864-3ff8-37bf-535f-ad070336ad9f/13e6da7b-75fc-4a77-8a6a-07d96936c8d7_5.5_U82f1_U5bf84_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e4/27/dd/e427ddd6-c8c1-5500-c318-f7947ef2277c/89333db5-5bac-449c-b616-efe85f8bc3fd_5.5_U82f1_U5bf85_cn.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c6/d9/72/c6d972aa-5783-cf17-9864-36fcd653ba04/6cec7242-29da-4348-928e-30c0ec66f06d_12.9_U82f1_U5bf81_en.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/1d/b7/f71db7fe-09b2-3396-fa61-706da4a96554/224303f7-1265-48de-8acc-6fbe25c4a929_12.9_U82f1_U5bf82_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/b7/6a/a4b76a12-05ad-265e-b8d2-a8ae9437f75a/72f57bfb-295e-450b-b349-e08b588132eb_12.9_U82f1_U5bf83_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/50/d4/2d/50d42d1c-a37b-27bf-a77e-20a0c21be051/e3f8b0a4-1e9a-49a7-8ea0-1b6a4ce57fb6_12.9_U82f1_U5bf84_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c4/d2/a7/c4d2a7e9-23bb-760a-f87e-5462800a4168/8feea930-614f-4c92-bde7-6856edd0ceed_12.9_U82f1_U5bf85_cn.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vythm VJ - Music Visualizer DJ]]></title>
-        <id>Vythm VJ - Music Visualizer DJ-us-1749904408691</id>
-        <link href="https://apps.apple.com/us/app/vythm-vj-music-visualizer-dj/id1550581532?uo=4"/>
-        <updated>2025-06-14T12:33:28.691Z</updated>
-        <summary type="html"><![CDATA[All features and modes: $44.99 → $29.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/vythm-vj-music-visualizer-dj/id1550581532?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/4c/1a/4d4c1a8f-6bf6-f4e3-6198-f4c2f5b0efac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>All features and modes：</strong><span>$44.99</span> → <b>
-  <strong>$29.99</strong>
-</b><span>[$29.99 ~ $44.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  --- Experience Your Music with Vythm ---
-Unlock the potential of music visualization with Vythm! Vythm is a versatile music visualization app that allows you to create visual artworks in harmony with your selected music. It includes a variety of unique visualization modes, including Equalizer, Mandala, Shapes, Fluids, Psychedelic, Dreaming, and more. Choose a background and apply image effects to personalize your visualization completely.
-
---- Your Vision, Your Visualization ---
-Vythm provides you with numerous options to realize your creative vision:
-- Over 100 carefully selected backgrounds.
-- MIDI input for precise visual control.
-- NDI streaming support for sharing your creations.
-- Real-time image effects like color correction, bloom, chromatic aberration, and more.
-- Size, rotation, and orientation adjustments.
-And much more!
-
-The Equalizer, Rhythm, and Peer modes are available for free, while other modes can be unlocked through a subscription.
-
---- Input Formats ---
-Select your music from a variety of sources:
-- Import any mp3 or m4a files.
-- Access your iTunes library (Please note that Apple Music is not currently supported).
-- Utilize your device's microphone, with sensitivity adjustments for various use cases.
-- Enjoy three preselected songs for quick inspiration.
-
---- Record Your Masterpiece ---
-Vythm offers a recording feature that enables you to share or save your creations. Revisit your immersive visual world at your convenience or dazzle your audience with your artistic masterpiece.
-
---- Share Your Thoughts ---
-Our top priority is to provide you with the best possible experience. If you encounter issues or have ideas for new features, please do not hesitate to contact us at info@mkgames.org.
-
-If you enjoy the app, we would greatly appreciate your feedback and a review! Thank you for choosing Vythm!
-
-Download and experience Vythm (Music Visualization 2024 / Audio Visualizer) today!
-
-Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/cf/b6/32cfb6c4-a7ed-d003-57cb-e398e8500472/969b8d5c-328b-4594-adae-d169c8a20d22_iPhone_8_Plus_-_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/8f/c1/348fc1a6-1eb8-312d-342b-9bb91573f8a5/37871899-1163-44b0-9b6b-5c5639aa6f75_iPhone_8_Plus_-_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/0f/34/440f34a7-6b35-7142-6a29-2f7ccaa970f0/a944b2c6-1f21-45b9-91a7-d29c742548de_iPhone_8_Plus_-_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/57/cc/0557cc2a-c016-363b-38da-da705a3323de/2f7d3b6e-de33-416e-8b28-a6e179eb8218_iPhone_8_Plus_-_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/cd/e7/aacde7db-acf2-7ed5-2ca9-1fa26e9fe54c/26ca2506-fa5c-42cf-b48a-2894faac0978_iPhone_8_Plus_-_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/06/b8/a906b850-7573-827a-a0e6-94e98601796a/9cecd023-d9e5-48ad-b562-090d8cd4dcf8_iPad_Pro_12.9__-_1__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/b8/eb/5eb8eb38-3f40-c460-f6fb-71238c38d845/38b748ef-00ec-4f92-ada5-328ddd019b69_iPad_Pro_12.9__-_2__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/ad/d5/a2add544-3f83-3277-879c-c012a5866944/af682f10-d7a2-432f-a21a-ff34c853dc49_iPad_Pro_12.9__-_3__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/2e/37/f82e374f-a4a8-ade7-23f1-b1ace6f49ef1/f9045d4d-cc6a-40d1-bbba-5c2d6c722551_iPad_Pro_12.9__-_4__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/d8/d4/2fd8d494-4e2b-35a7-70af-bc5754407c52/78378f23-5337-4063-b6bc-7065901f41d4_iPad_Pro_12.9__-_5__U00282nd_generation_U0029.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audio Editor & Music Mixer]]></title>
-        <id>Audio Editor &amp; Music Mixer-us-1749899604881</id>
-        <link href="https://apps.apple.com/us/app/audio-editor-music-mixer/id1339124759?uo=4"/>
-        <updated>2025-06-14T11:13:24.881Z</updated>
         <summary type="html"><![CDATA[Permanent membership: $11.99 → $9.99]]></summary>
         <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/audio-editor-music-mixer/id1339124759?uo=4">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/9f/00/cf9f0079-ce90-8228-c4e5-1e03c6311f25/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />

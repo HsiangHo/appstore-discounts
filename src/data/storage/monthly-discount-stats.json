@@ -176,6 +176,13 @@
     }
   },
   "us": {
+    "417375580": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "BetterTouchTool License": 1
+      }
+    },
     "450527929": {
       "all": 6,
       "price": 0,
