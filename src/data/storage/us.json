@@ -37655,6 +37655,18 @@
     "history": [
       [
         {
+          "timestamp": 1750155590288,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "1个月腾讯视频VIP": "$3.99",
+            "付费商品": "$2.99",
+            "该付费商品": "$0.99",
+            "3个月腾讯视频VIP": "$9.99",
+            "1年腾讯视频VIP": "$39.99"
+          }
+        },
+        {
           "timestamp": 1750148720760,
           "price": 0,
           "formattedPrice": "Free",
