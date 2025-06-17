@@ -4608,6 +4608,14 @@
     "history": [
       [
         {
+          "timestamp": 1750169904669,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "BetterTouchTool License": "$17.99"
+          }
+        },
+        {
           "timestamp": 1750167081870,
           "price": 1.99,
           "formattedPrice": "$1.99",

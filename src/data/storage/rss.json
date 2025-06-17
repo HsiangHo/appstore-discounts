@@ -2,6 +2,79 @@
   "cn": [
     {
       "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/1a/8a/46/1a8a464e-df1c-4f40-cf44-e1ad8168f0a0/mza_698383010735841505.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/81/d2/48/81d248e0-308c-dbf2-df24-2b46c597a007/mzl.xelmaztf.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/40/15/c9/4015c947-f0de-9741-0c08-a88eb3fd4af2/mzl.qddrfvaa.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/78/79/5f/78795f6c-5503-e292-bf91-d597cf78eb69/mzl.znsiddec.png/800x500bb.jpg"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/6e/7a/3f/6e7a3fd7-9a23-be0c-d012-08cfc6ff868c/AppIcon.png/512x512bb.png",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/effectmatrix/id423957219?mt=12&uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/6e/7a/3f/6e7a3fd7-9a23-be0c-d012-08cfc6ff868c/AppIcon.png/60x60bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/6e/7a/3f/6e7a3fd7-9a23-be0c-d012-08cfc6ff868c/AppIcon.png/100x100bb.png",
+      "kind": "mac-software",
+      "minimumOsVersion": "10.6",
+      "averageUserRatingForCurrentVersion": 0,
+      "userRatingCountForCurrentVersion": 0,
+      "sellerUrl": "http://www.macvideostudio.com/mac-video-editor-moviemator-pro.html",
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "RU",
+        "ZH",
+        "ES"
+      ],
+      "fileSizeBytes": "12996739",
+      "formattedPrice": "免费",
+      "trackContentRating": "4+",
+      "averageUserRating": 0,
+      "trackCensoredName": "iAudioConverter",
+      "trackViewUrl": "https://apps.apple.com/cn/app/iaudioconverter/id447726582?mt=12&uo=4",
+      "contentAdvisoryRating": "4+",
+      "artistId": 423957219,
+      "artistName": "effectmatrix",
+      "genres": [
+        "音乐",
+        "工具"
+      ],
+      "price": 0,
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "sellerName": "etinysoft Inc.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "com.etinysoft.iAudioConverter",
+      "releaseDate": "2011-07-21T17:02:53Z",
+      "genreIds": [
+        "6011",
+        "6002"
+      ],
+      "currentVersionReleaseDate": "2015-04-02T23:16:51Z",
+      "trackId": 447726582,
+      "trackName": "iAudioConverter",
+      "releaseNotes": "* 感恩回馈，全功能“视频编辑大师专业版”，限时7折优惠。\n* 今日赠品： 今天购买“超级转霸王DVD刻录版”的用户，将会免费得到一份价值200元的\"超级播霸升级版Total Video Player Pro\"的注册码，世界排名第一的蓝光播放器，流畅播放4K 高清电影。只有今天购买“超级转霸DVD刻录版”的才能享有哦。请发邮件及购买记录到market@effectmatrix.com 获取免费注册码。\n* 修正错误",
+      "version": "2.2.6",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "iAudioConverter =音频转换器+CD 刻录+音频提取\niAudioConverter是一个全面的, 强大的音频转换器及CD刻录软件。可以从视频中提取音频; 可以转换所有音频文件到iTunes,iPhone,iPod和任何一种设备。独家支持转换多声道音频并保持音频原有的高品质。\n\n1 转换、刻录音频到CD.\n\n2 完美支持输出到iTunes的格式:MP3, M4A, AAC, Apple lossless, WAV, AIFF.\n\n3 与各种移动设备高度兼容如: iPad,iPhone, iPod,黑莓,诺基亚,三星,Android及其他\n\n4 支持输入的视频格式:FLV,MKV,MOV,M4V,MP4,AVI,WMV,DIVX及其他。\n\n5 支持的音频格式:MP3, M4A, MP2, AAC, AIFF, Apple Lossless, WAV, WMA, FLAC, AMR, AWB, OGG, AC3, AU.。\n\n6 主要特点:\n\n- 独家支持多声道音频转换,如 aac, ac3, ogg, wav, dts, wma.\n\n- 自动导入转换后的音频到iTunes。\n\n- 将音频文件转换成iTunes支持的mp3, aac, m4a, Apple lossless, aiff 格式。\n\n- 从flv,mp4,mov等视频中提取音频。\n\n- 所有的音频文件在保证原有高音质下转换。\n\n- 设置音频编解码器,音频比特率,声道,采样率音频\n\n- 批量转换。\n\n- 菜单可以始终保存文件到自定义目录。\n\n- 易于使用和拖放。\n\n注:不支持DRM保护的文件。\n\n7 反馈\n任何建议,请发送您的意见到:iAudioConverter@gmail.com",
+      "userRatingCount": 0,
+      "inAppPurchases": {},
+      "timestamp": 1750169904669,
+      "discounts": [
+        {
+          "type": "price",
+          "name": "价格",
+          "from": "¥38.00",
+          "to": "免费",
+          "range": "[免费 ~ ¥38.00]"
+        }
+      ]
+    },
+    {
+      "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/30/d9/a730d9aa-62c0-a310-ef97-258622bbd228/94e6bc59-0ed1-4662-9fe9-c6c451e5eff8_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/7b/26/067b26e4-94e4-e8dd-81e9-14a0ec0a4354/962aa0d0-12c7-4e94-8ce1-f6f9024c412c_3.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/10/80/20108048-f87d-5509-ee46-993017f4cee9/754dd371-0572-496e-b317-f4f78754097a_2.jpg/392x696bb.jpg",
