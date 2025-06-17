@@ -207,10 +207,10 @@
       "inAppPurchase": {}
     },
     "1012296988": {
-      "all": 3,
+      "all": 4,
       "price": 0,
       "inAppPurchase": {
-        "连续包月": 3
+        "连续包月": 4
       }
     },
     "1014945607": {
@@ -339,10 +339,10 @@
       }
     },
     "1588231633": {
-      "all": 2,
+      "all": 3,
       "price": 0,
       "inAppPurchase": {
-        "Monthly Auto-renew Meitu SVIP": 1,
+        "Monthly Auto-renew Meitu SVIP": 2,
         "Yearly Auto-renew Meitu SVIP": 1
       }
     },
@@ -361,10 +361,10 @@
       }
     },
     "6450397515": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "VIP": 1,
+        "VIP": 2,
         "2 hours a day": 1
       }
     },
