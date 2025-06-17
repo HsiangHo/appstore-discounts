@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-16T19:20:07.952Z</updated>
+    <updated>2025-06-17T01:31:32.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-16T19:20:07.954Z</updated>
+        <updated>2025-06-17T01:31:32.451Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnMon, 16 Jun 2025 19:20:07 GMT</id>
+        <id>rankingcnTue, 17 Jun 2025 01:31:32 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-16T19:20:07.954Z</updated>
+        <updated>2025-06-17T01:31:32.451Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -124,13 +124,13 @@ feedId:49753297431966720+userId:73658201673997312
       <td>
         <ul>
           <li>
-            <span>总次数</span>：<b>4</b>
+            <span>总次数</span>：<b>5</b>
           </li><li>
             <span>价格</span>：<b>0</b>
           </li><li>
             <span>App 内购买项目</span><ol>
               <li>
-                <i>移动端会员-年卡</i>：<b>4</b>
+                <i>移动端会员-年卡</i>：<b>5</b>
               </li>
             </ol>
           </li>
@@ -165,6 +165,29 @@ feedId:49753297431966720+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1058801458">Remixlive - Make Music & Beats</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>3</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>Full Access to PRO</i>：<b>3</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1231336508">腾讯视频-长安的荔枝 全网独播</a>
       </td>
       <td>
@@ -187,7 +210,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id491854842">网易有道翻译</a>
@@ -202,29 +225,6 @@ feedId:49753297431966720+userId:73658201673997312
             <span>App 内购买项目</span><ol>
               <li>
                 <i>有道词典超级会员</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>6</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1058801458">Remixlive - Make Music & Beats</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>Full Access to PRO</i>：<b>2</b>
               </li>
             </ol>
           </li>
@@ -669,6 +669,117 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奇游加速器 - 全球游戏畅玩]]></title>
+        <id>奇游加速器 - 全球游戏畅玩-cn-1750123598479</id>
+        <link href="https://apps.apple.com/cn/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4"/>
+        <updated>2025-06-17T01:26:38.479Z</updated>
+        <summary type="html"><![CDATA[移动端会员-年卡: ¥108.00 → ¥79.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/24/0d/5d240d0a-4401-ac6e-fe9f-165012b8adf4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>移动端会员-年卡：</strong><span>¥108.00</span> → <b>
+  <strong>¥79.00</strong>
+</b><span>[¥79.00 ~ ¥108.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  【 热门游戏，“游”先支持】
+支持PUBGM、王者荣耀国际服 、使命召唤战区、绝地求生：刺激战场 、吃鸡外服、鹅鸭杀手游，暗区突围国际服、飞机大厨、咒术回战、炉石传说国际服、ROBLOX国际版、原神国际服、英雄联盟手游（lol：wild rift）、云顶之弈手游、方舟：终极移动版等游戏加速！
+
+【海量手游库 新游上线快 】
+支持PUBGM、王者国际服、使命召唤战区、星际战甲国际服、炉石传说国际服、暗区突围国际服、飞机大厨、对峙2、云顶之奕PBE、鹅鸭杀、赛马娘、pubg2、暗黑破坏神不朽、apex手游、二之国、全境封锁手游、战地手游、瓦罗兰特手游、绝地求生刺激战场全球服、使命召唤手游全球服、八方旅人、符文大地传说、Among US、游戏王、方舟生存进化、黎明杀机、公主连接、冒险岛M、地球末日生存、Teon中文版、剑灵：革命、战争机器人、地牢猎手5、FIFA、碧蓝幻想全球服、iron force、世界计划、多彩舞台、第七史诗（epic 7）、和平精英全球服、堡垒之夜、fgo、影之诗、失落龙约黑色沙漠、文明重启全球服、荒野乱斗、狂野飙车9等游戏加速！游戏库包罗千款好玩游戏，热游新游排行一目了然。平均每天3款游戏的速度上新。App内可以随时提交想玩的游戏，你想玩的我们都支持！
+
+【 奇游电竞级加速 】
+奇游全自研“Qiy”电竞级加速引擎震撼上线，加速稳定性更胜一筹，不惧移动网络的波动。基于奇游电竞级游戏网络，带你感受稳定流畅的游戏体验。低延迟、不掉线，WIFI/5G随心切换。
+
+【新游推荐 硬核攻略 】
+新增游戏清单、新游预上线时间表等功能，更多实用、funny的游戏主题等你探索。游戏介绍、新游推荐、硬核攻略，丰富的游戏深度内容带你打开新世界的大门！
+
+【客服小队 随时待命 】
+奇游客服小队7x12h陪伴你的左右。使用过程中有任何疑问和反馈，我们随时待命。
+
+【自动续费套餐说明】
+1、订阅周期及套餐名称：1个月（连续包月），3个月(连续包季)
+2、订阅价格：以IAP申请信息为准，例如连续包月价格为首月15元，次月15元/月自动续费 
+3、付款：用户确认购买并付款后计入iTunes账户。
+4、取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能，到期前24小时内取消，将会收取订阅费用。
+5、续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+6、隐私政策：https://www.qiyou.cn/specials/qymobile-protocol.html
+7、服务协议：https://mfront.qiyou.cn/protocol.html
+8、自动续费会员服务协议：https://mfront.qiyou.cn/renewal-protocol.html
+
+*本加速器的加速功能仅针对游戏使用，无法访问海外网站。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/30/d9/a730d9aa-62c0-a310-ef97-258622bbd228/94e6bc59-0ed1-4662-9fe9-c6c451e5eff8_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/7b/26/067b26e4-94e4-e8dd-81e9-14a0ec0a4354/962aa0d0-12c7-4e94-8ce1-f6f9024c412c_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/10/80/20108048-f87d-5509-ee46-993017f4cee9/754dd371-0572-496e-b317-f4f78754097a_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/da/24/c5da242f-ed7d-eee2-aafd-7a134b8a2c1a/a6457b28-d217-4eb7-abbc-b84793c7a4ad_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/98/a2/1998a286-c405-6ee7-2549-d48179653067/5ab7ea42-5dde-488b-8677-e35e2767c474_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/20/76/ab207675-21ca-afc8-418b-a6e058a5628b/c1b12273-03dc-4645-bd76-2ec11fd06f72_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/2d/f0/c12df094-fd43-860b-b9f7-f4ed06d03635/3f45d5df-bae8-4a85-90be-b5c11e6b5d3f_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/fd/2c/35fd2c48-a4ce-0a15-cb14-eba428cdcf3d/57a9a98a-65a9-4a6f-b77f-09227a1a4252_5.jpg/576x768bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remixlive - Make Music & Beats]]></title>
+        <id>Remixlive - Make Music &amp; Beats-cn-1750123598479</id>
+        <link href="https://apps.apple.com/cn/app/remixlive-make-music-beats/id1058801458?uo=4"/>
+        <updated>2025-06-17T01:26:38.479Z</updated>
+        <summary type="html"><![CDATA[Full Access to PRO: ¥228.00 → ¥198.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/remixlive-make-music-beats/id1058801458?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/a7/6f/afa76f06-1976-ae54-53e8-8b822513ebd6/AppIcon-Remixlive-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>Full Access to PRO：</strong><span>¥228.00</span> → <b>
+  <strong>¥198.00</strong>
+</b><span>[¥198.00 ~ ¥228.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Remixlive是制作人和DJ的完美节拍制作和现场表演应用。
+
+播放、干扰、混合和重新混合你的音乐。直播!
+• 最多可以播放48个音调和节奏同步的循环片段 
+• 实时改变调子和BPM
+• 即兴演奏和录制现场鼓和乐器
+• 使用专业级FXs实时塑造和重采样你的声音
+• 创建你自己的序列和模式
+• 在时间轴上安排你的声音来完成你的歌曲
+
+用独家样本库为你的曲目增添色彩!
+• 在20多种音乐类型中获得超过32000个专业级样本
+• 由顶级声音设计师和世界级艺术家完美打造。
+• 免收版权费用，可在任何平台上进行个人和商业使用。
+• 每周都有新内容！
+
+享受先进的专业级功能!
+• 专业音频引擎和样本时间拉伸
+• 导入你自己的样本（MP3、WAV、AAC、M4A、AIFF、16/24比特）。
+• 连接任何MIDI控制器，你想要多少就有多少 (Launchpad Mini/MK2/MK3/Pro/S/X, AKAI APCMini/MPKminiMK3/APCKey25, DJControl Compact...)
+• 用我们的AI干线分离算法对任何歌曲进行混音
+• 记录和采样任何音源（Audiobus/麦克风/声卡）
+• 通过Ableton Link ""与你的朋友们进行现场演出。
+
+Remixlive拥有您所需要的一切，以创建令人惊叹的曲目，释放您的创造力，并进行令人难忘的现场表演。任何地方!
+
+他们喜欢remixlive
+
+"在便携式设备上制作专业音轨的非常直观的方法。"
+- DJ Mag (新闻)
+
+"我已经把Remixlive整合到我的DJ组合中，它提供了很多创造性的潜力。我会向任何艺术家推荐Remixlive，因为它非常简单，你可以创造出很多有趣和鼓舞人心的东西！"
+- T78（艺术家）
+
+"绝对令人惊奇的应用程序，太有趣了！它就像一个混合的Dj和一个混合的音乐播放器。它就像一个混合的Dj和作曲工具。我被它的力量和可靠性震惊了。"
+- Crystalogic（Remixlive用户）
+
+高级计划和购买
+您可以选择单独购买样品包和功能，或通过订阅计划一次性解锁所有功能。
+
+高级订阅计划
+Remixlive有月度或年度订阅计划，可以解锁所有可用的和未来的功能，让你获得整个26000多个样本库以及每周一个新的样本包。
+
+条款和条件
+购买确认后，付款将从您的账户中扣除。除非在当前期限结束前至少24小时关闭自动续订，否则订阅将自动续订。账户将在当前期限结束前24小时内被收取续订费用，并确定续订费用。订阅可以由用户管理，自动续订可以在购买后进入用户的账户设置中关闭。
+
+使用条款
+https://www.mixvibes.com/terms
+
+隐私政策
+https://www.mixvibes.com/privacy
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/04/92/8b049214-3c09-11cd-5139-34bfc7552eb0/7407096d-5742-4238-b42a-e3f503d2687b_0_APP_IPHONE_55_0.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/2e/25/662e25bf-48ac-3f82-eb14-3fb87c703c8f/780227cd-c9d2-49ce-9e38-260413903945_1_APP_IPHONE_55_1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/56/4d/76564d17-08ac-498a-2dcd-a6b20b12acbb/2a10b050-f229-4ac1-ac4c-411e9e82e4c0_2_APP_IPHONE_55_2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/37/f2/b337f2ae-d399-9635-5175-d29c3fe4d774/0ab643b2-a9d8-47c8-9356-50f02246383f_3_APP_IPHONE_55_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/df/f5/71dff567-230e-e00f-27fe-f3799f4834f7/33f3f5d7-0b0d-4d1e-9703-96a9303099aa_5_APP_IPHONE_55_5.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/38/1a/03381afb-a809-2fc6-c5a5-109541d6c2b8/5e57a27f-2271-4061-9062-5de24403891a_4_APP_IPHONE_55_4.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/c6/3b/09c63bad-adc4-da4b-5ec5-7f89ff83c5da/7cb380a3-b58b-44c1-b84e-58a4a6235764_6_APP_IPHONE_55_6.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/64/fb/2864fb75-0618-3f96-9fdc-5476a1bd5da7/8316f06e-b806-45ea-a1aa-bc3fc2bbc25f_7_APP_IPHONE_55_7.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/fe/67/8afe672c-8078-08bd-2b47-f622884370c6/d68fa9f1-1472-40bf-876e-af0740b31487_8_APP_IPHONE_55_8.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/fd/b8/c3fdb8c0-d0b8-cb84-9824-8fd78503241f/3371f955-4af8-44cb-88ca-1cfc1b0fd23f_9_APP_IPHONE_55_9.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/eb/16/5eeb16c7-56a5-b350-d440-1cb7c4ac1f1d/e61917df-b245-4728-935a-b870008b20ea_0_APP_IPAD_PRO_129_0.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/ba/56/44ba567e-df49-dbe7-2041-be07b3b187f6/7f6c19c3-5088-4c06-b657-37ab4ec98341_1_APP_IPAD_PRO_129_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/9f/89/1c9f89ee-fe4a-d398-a3c5-e2893c219f48/27c0b11b-0bf4-45dd-80b8-198320365e59_2_APP_IPAD_PRO_129_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/1a/35/621a35e7-91ce-72c0-7505-28dae225abac/0faeba01-54b5-4322-b28e-d2d6a85615ad_3_APP_IPAD_PRO_129_3__U00286_U0029.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/96/66/049666d1-db48-0c54-91ab-b5f843f5b94c/3daed6f0-3215-4a24-adb0-d777778821ff_4_APP_IPAD_PRO_129_4.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/b3/5a/95b35a11-ffe9-9e28-de61-12059f76cf81/c5ec5430-14e7-4036-9aec-526697c5c963_5_APP_IPAD_PRO_129_5.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/c1/48/c5c148cf-d56d-e7a6-0323-d91ee6311259/d0cec703-83b2-475b-a6b2-fc1d97e09519_6_APP_IPAD_PRO_129_6.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/97/13/51971302-d237-6ac5-158e-258e13fd46aa/7e661645-afb7-4bda-9947-b09f18193f7e_7_APP_IPAD_PRO_3GEN_129_7.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/ed/d4/9cedd454-bed7-1fca-810e-3c7c7364eb38/9bc1c1d6-6fba-4d68-ba47-b91e00bc0a3f_8_APP_IPAD_PRO_129_8.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/ae/b0/ecaeb034-0b54-fb54-1dee-b7416eba9eee/aff67452-af5f-436f-a2ac-f21f87921bcd_9_APP_IPAD_PRO_129_9.jpg/552x414bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[飞火动态壁纸-4k超清视频桌面主题壁纸引擎]]></title>
@@ -1143,83 +1254,5 @@ iPad版本不含有动态壁纸。
 使用条款：https://rain7027.github.io/rainstt/terms
 有任何问题欢迎联系：zyang7027@gmail.com
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a3/2a/bd/a32abd46-f26e-a85e-b107-7ff96c894ede/38c71f2a-8558-402d-838b-0f943aedf5b1_1n.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/43/c5/de/43c5defb-4b6b-f290-9681-39954b7ffd4f/a55f6969-2062-47e7-a638-9b98ff1c5ece_2n.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cleaner One Pro - Uninstaller]]></title>
-        <id>Cleaner One Pro - Uninstaller-cn-1749849438404</id>
-        <link href="https://apps.apple.com/cn/app/cleaner-one-pro-uninstaller/id1133028347?mt=12&amp;uo=4"/>
-        <updated>2025-06-13T21:17:18.404Z</updated>
-        <summary type="html"><![CDATA[解锁完整版: ¥208.00 → ¥138.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/cleaner-one-pro-uninstaller/id1133028347?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/19/b4/b819b4d7-860b-4f2a-5013-a109d2117cc9/AppIcon-0-0-85-220-0-4-2x-sRGB.png/60x60bb.png" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>解锁完整版：</strong><span>¥208.00</span> → <b>
-  <strong>¥138.00</strong>
-</b><span>[¥138.00 ~ ¥208.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Cleaner One Pro 是全功能 Mac 清理大师，提供磁盘清理、重复文件查找、相似照片查找、应用程序管理等功能来清理 Mac。
- 
-用户最真实的心声：
-“它把你不想要的无用文件清理出Mac，描述里说的它都做到了。”——Kamil.D（澳大利亚）
-“非常简单又非常有效。操作简单易上手，是让Mac保持最佳状态的绝佳方式。”——Damo1193（英国）
-“简直是我用过的最好的应用了！”——Jani（德国）
- 
-主要功能 
-【磁盘清理】
-•清除临时文件，包括缓存、日志、下载文件等
-•智能检测已卸载软件残余文件
-•清除移动存储设备中垃圾文件
- 
-【大文件扫描】
-•大文件一键扫描（用户可自定义扫描文件体积，从10MB及以上）
-•多种筛选条件，包括大小、修改日期、文件名称和文件类型等
-•可以扫描iCloud drive等云储存系统存放的本地文件
-•被保护的文件将不会被显示
-[*重要文件可以在保护目录中被锁定，以防误删。]
-
-【磁盘分析】
-• 扫描您的磁盘并且呈现出一个可点击的多彩可交互文件分布图
-• 点击分布图上的项目可以查看文件的详细信息
-• 透过文件分布图，可以看出哪些文件或文件夹占用了整个磁盘的大量空间
- 
-【重复文件查找】
-•深度快速扫描：它具备快速准确的扫描算法，能覆盖您的Mac目录的每个角落。
-•智能精准的选择：判定重复文件不仅根据文件名、创建日期、所在文件夹等因素；还会根据文件自身识别代码判定。扫描结果将以详细的预览方式呈现给您，还有智能“一键选择”功能帮您做出判断。
-•简单但安全地做出决定：重复文件可以按文件类型进行筛选，并会展示完整的路径供您判断。您可以选择永久删除这些重复文件，或将它们放到废纸篓里。(需要应用程序内购买)
-
-【照片管理器】
-• 快速找到相似的照片、模糊的照片和截屏
-• 扫描后分组预览照片
-• 整理照片库
-• 轻松移除可安全删除的照片，以释放空间 (需要应用程序内购买)
-
-【软件卸载器】
-•智能查找通过其他方法卸载软件所残余的相关文件，并提示用户一键清理
-•统一界面展示系统内所有软件，查看软件各项属性，包括上次使用时间，方便用户筛选
-•强力卸载软件，包括各种流氓软件 (需要应用程序内购买)
-•通过漏洞扫描以增强安全性（需要应用程序内购买） 
-
-【实时系统监控】           
-• 查看实时网络使用速率
-• 查看实时CPU使用率
-• 查看详细的网络和 CPU 信息 (需要应用程序内购买)
-
-付费版的费用每年低至 $19.99 (该价格可能会因位置不同而异)。
- 
-如不取消，订购将会自动续费。
-— 确认付款后，您将会通过您的iTunes 账户付款
-— 您可以在您的iTunes账户里面管理您的订购或者关闭自动续费
-— 一旦此次订购成功，您的当前订购将不可取消
-— 订购将会自动续费除非您在当前订购时间结束前24小时关闭自动续费
-— 在订购到期前的24小时内，你的账户将会自动为此续费。所有订购的费用如前所述。
-
-隐私策略及使用条款：
-隐私策略: http://gr.trendmicro.com/GREntry/NonPayment?Target=TrendCleaner&OS=&SP=&PID=TCS60&FunID=PrivacyPolicy&VID=&Locale=zh-cn
-使用条款: http://gr.trendmicro.com/GREntry/NonPayment?Target=TrendCleaner&OS=&SP=&PID=TCS60&FunID=EULA&VID=&Locale=zh-cn
-
-请在 App Store 中评论，也可以直接向我们发送电子邮件: mac_support@trendmicro.com。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/c6/ba/8dc6ba78-ad19-b8a8-49f4-e7281d81e009/86ef554f-5cca-4fc6-be32-a57a9a5b8dde_1_hans.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/bb/40/6fbb4033-dea8-a63b-929f-f518b44f1349/7aa78dea-7c96-4336-b959-57b358679702_2_Chs.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/ae/47/7dae471e-f927-ab37-a446-5b5822f92cb6/58e98ca9-6d20-4ddf-8273-1cc806e1c01e_3_Chs.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/1b/17/861b1783-b0a6-f2d8-a3a2-126358fed62d/f713eac7-a9b3-42e7-ac96-58b629b86de2_4_Chs.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/0d/61/300d6182-8193-aaf8-b9de-47bb0b4e0b56/COP_PhotoManager_Chs.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>

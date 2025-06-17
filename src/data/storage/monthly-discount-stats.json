@@ -40,10 +40,10 @@
       }
     },
     "1058801458": {
-      "all": 2,
+      "all": 3,
       "price": 0,
       "inAppPurchase": {
-        "Full Access to PRO": 2
+        "Full Access to PRO": 3
       }
     },
     "1133028347": {
@@ -70,10 +70,10 @@
       }
     },
     "1395152179": {
-      "all": 4,
+      "all": 5,
       "price": 0,
       "inAppPurchase": {
-        "移动端会员-年卡": 4
+        "移动端会员-年卡": 5
       }
     },
     "1403919533": {
@@ -278,11 +278,11 @@
       "inAppPurchase": {}
     },
     "1442745175": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "360天VIP": 1,
-        "90天VIP": 1
+        "360天VIP": 2,
+        "90天VIP": 2
       }
     },
     "1456235760": {

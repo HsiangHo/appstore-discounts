@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-16T22:25:20.615Z</updated>
+    <updated>2025-06-17T01:31:32.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-16T22:25:20.617Z</updated>
+        <updated>2025-06-17T01:31:32.459Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusMon, 16 Jun 2025 22:25:20 GMT</id>
+        <id>rankingusTue, 17 Jun 2025 01:31:32 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-16T22:25:20.617Z</updated>
+        <updated>2025-06-17T01:31:32.459Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -311,6 +311,31 @@ feedId:49753370488353792+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1442745175">快帆加速器-海外回国音乐视频加速器</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>360天VIP</i>：<b>2</b>
+              </li><li>
+                <i>90天VIP</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>11</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1588231633">Meitu-AI Photo Editor & Design</a>
       </td>
       <td>
@@ -333,7 +358,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6448913901">全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理</a>
@@ -356,7 +381,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6739523960">Allow Right Click for Safari</a>
@@ -373,7 +398,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6738715418">STEP and IGES File Viewer</a>
@@ -390,7 +415,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6738089759">Hide Mouse Cursor</a>
@@ -407,7 +432,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id673906093">Audio Normalizer - Mp3 Gain</a>
@@ -424,7 +449,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id797275229">AudioTunes - FLAC, APE, WMA Converter</a>
@@ -441,7 +466,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id966457795">Super PhotoCut</a>
@@ -458,7 +483,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1014945607">优酷视频-嘘国王在冬眠 全网独播</a>
@@ -481,7 +506,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1027093462">Visual Cue FLAC DMX MP3 Player</a>
@@ -504,7 +529,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1081480270">The Audio Converter</a>
@@ -527,7 +552,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1133028347">Cleaner One Pro - Uninstaller</a>
@@ -550,7 +575,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1403919533">MWeb Pro</a>
@@ -561,31 +586,6 @@ feedId:49753370488353792+userId:73658201673997312
             <span>Total Times</span>：<b>1</b>
           </li><li>
             <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>23</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1442745175">快帆加速器-海外回国音乐视频加速器</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>360天VIP</i>：<b>1</b>
-              </li><li>
-                <i>90天VIP</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -838,6 +838,57 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[快帆加速器-海外回国音乐视频加速器]]></title>
+        <id>快帆加速器-海外回国音乐视频加速器-us-1750123598479</id>
+        <link href="https://apps.apple.com/us/app/%E5%BF%AB%E5%B8%86%E5%8A%A0%E9%80%9F%E5%99%A8-%E6%B5%B7%E5%A4%96%E5%9B%9E%E5%9B%BD%E9%9F%B3%E4%B9%90%E8%A7%86%E9%A2%91%E5%8A%A0%E9%80%9F%E5%99%A8/id1442745175?uo=4"/>
+        <updated>2025-06-17T01:26:38.479Z</updated>
+        <summary type="html"><![CDATA[360天VIP: $74.99 → $69.99<br/>90天VIP: $18.99 → $16.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E5%BF%AB%E5%B8%86%E5%8A%A0%E9%80%9F%E5%99%A8-%E6%B5%B7%E5%A4%96%E5%9B%9E%E5%9B%BD%E9%9F%B3%E4%B9%90%E8%A7%86%E9%A2%91%E5%8A%A0%E9%80%9F%E5%99%A8/id1442745175?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/45/21/9045211e-14e5-121e-04b8-f72252c4c29d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>360天VIP：</strong><span>$74.99</span> → <b>
+  <strong>$69.99</strong>
+</b><span>[$69.99 ~ $74.99]</span>
+  </li><li>
+    <strong>90天VIP：</strong><span>$18.99</span> → <b>
+  <strong>$16.99</strong>
+</b><span>[$16.99 ~ $18.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  ==快帆Fanster™专线上线，更高速更稳定==
+
+快帆是一款针对海外华人的加速器，配合全球部署的专属高速节点，帮助全球各地华人用户听歌追剧看视频不再卡顿
+► Fanster™专线
+自主研发Fanster™专线，提供高速稳定的网络性能，专研加密技术，全方位保护您的隐私和数据安全
+► 150+线路 专属高速
+涵盖主流全球用户节点，增设香港、台湾、日本、新加坡、美国、加拿大、澳洲、中东等多个国家或地区的专属中转点
+► 搭配第三方高速CDN节点实现内容加速
+智能优化路径，避免拥堵，让您的网络顺畅不卡顿
+► 智能加速
+先进的智能算法，实时监测您的网络状况，自动匹配适合的加速节点
+
+目前已支持：
+【音乐&播客】
+酷狗音乐、网易云音乐、QQ音乐、虾米音乐、酷我音乐、喜马拉雅、蜻蜓FM……
+【视频&直播】
+腾讯视频、爱奇艺iQIYI、优酷、芒果TV、Bilibili（B站）、腾讯NBA、奥运会、欧洲杯、美洲杯、欧冠、CCTV5、YY语音、央视频、咪咕视频……
+【游戏】
+王者荣耀、和平精英、英雄联盟、绝地求生、魔兽世界、DNF、剑网3……
+
+【自动续费会员】
+会员权益：不限速防拥堵、3设备同时在线、免广告
+订阅周期：1个月（连续包月），3个月（连续包季） ，12个月（连续包年）
+订阅价格：以iAP申请信息为准，例如连续包月产品为新人首次订阅30元；连续包月次月续费40元
+付款：用户确认购买并付款后记入iTunes账户
+取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes / Apple ID设置管理中关闭自动续订功能
+续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期
+
+隐私政策：https://www.kuaifan.co/privacypolicy.html
+自动续费会员服务协议：https://www.kuaifan.co/termsofservices.html
+</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/01/33/270133bf-5a49-5cf5-22d9-f019a0d3cc53/e2d15554-d422-45ab-811d-141213459b4d_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/17/e3/f017e3bc-de4a-4ff0-0cfb-517c37e1029b/692c234d-f767-4c18-9894-09527d995e3c_pad_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/a9/4e/0ca94e56-be63-b418-53fd-c65848a9edfd/3fd11171-33bb-4579-a0a6-000afc2bf0b6_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/3e/a8/aa3ea803-d6d0-66a0-264c-f6d58516e254/7c2a1f13-368a-4a49-8546-b0cba1306e7e_4.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[优酷视频-嘘国王在冬眠 全网独播]]></title>
