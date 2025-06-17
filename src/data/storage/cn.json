@@ -27603,6 +27603,23 @@
     "history": [
       [
         {
+          "timestamp": 1750137470388,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "获得火箭2楼箱子的打开方式": "¥1.00",
+            "灯塔大门入口密码": "¥1.00",
+            "道具提示【一些秘密】金字塔": "¥1.00",
+            "获得打开棺材门的密码": "¥1.00",
+            "道具提示【一些秘密】神庙角落": "¥1.00",
+            "获得金字塔表盘指针的摆放方式": "¥1.00",
+            "道具提示【一些秘密】一朵花": "¥1.00",
+            "获得火箭大门的解锁方式": "¥1.00",
+            "灯塔大门出口密码": "¥1.00",
+            "获得工厂大门1的解锁方式": "¥1.00"
+          }
+        },
+        {
           "timestamp": 1750134406591,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -70776,6 +70793,27 @@
           "timestamp": 1749803064012,
           "price": 12,
           "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6747207796": {
+    "name": "PeeWee Purpdrank's Soundboard",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1750137470388,
+          "price": 8,
+          "formattedPrice": "¥8.00",
           "inAppPurchases": {}
         }
       ]
