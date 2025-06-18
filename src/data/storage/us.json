@@ -21478,6 +21478,25 @@
     "history": [
       [
         {
+          "timestamp": 1750209947959,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "10000 Telegram Stars": "$199.00",
+            "5000 Telegram Stars": "$99.00",
+            "25000 Telegram Stars": "$509.00",
+            "35000 Telegram Stars": "$709.00",
+            "750 Telegram Stars": "$14.99",
+            "75 Telegram Stars": "$1.59",
+            "250 Telegram Stars": "$5.09",
+            "1500 Telegram Stars": "$29.99",
+            "2500 Telegram Stars": "$50.90",
+            "350 Telegram Stars": "$7.09"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749961644351,
           "price": 0,
           "formattedPrice": "Free",
@@ -58360,7 +58379,7 @@
     ]
   },
   "1476640331": {
-    "name": "读写客",
+    "name": "读写笔记",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"

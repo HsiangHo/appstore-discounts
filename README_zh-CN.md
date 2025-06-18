@@ -250,7 +250,7 @@
 |680|1467607774|自动|NCM转换器 - 转MP3||||Smart Audio Editor - ID3||
 |679|1478202069|自动|幕连-简单的投屏工具||||Screen Mirroring: LetsView||
 |678|6448913901|自动|全能AI - AI视频、绘画、特效、音乐、聊天、写作、数字人||||全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理||
-|677|1476640331|自动|读写客||||读写客||
+|677|1476640331|自动|读写客||||读写笔记||
 |676|787142064|自动|VSD Viewer & VSD Converter||||VSD Viewer & VSD Converter||
 |675|1499250688|自动|壁纸管家 - 4K超高清主题桌面壁纸||||Wallpaper - HD Wallpapers||
 |674|1642304143|自动|串口(网络)调试助手 Pro||||SerialPort Debug Assistant Pro||
