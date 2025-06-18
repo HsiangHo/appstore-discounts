@@ -697,7 +697,7 @@ So far, we've covered `2` `Countries or Regions` and  `856` `Apps` <br />Push no
 |231|1528890965|Automatic|TextSniper - OCR, Copy & Paste||||TextSniper - OCR, Copy & Paste||
 |230|420212497|Automatic|Byword||||Byword||
 |229|725408432|Automatic|PDF Professional Suite||||PDF Professional Suite||
-|228|1441958036|Automatic|SideNotes - Thoughts & Tasks||||SideNotes - Thoughts & Tasks||
+|228|1441958036|Automatic|SideNotes – Screen Edge Notes||||SideNotes – Screen Edge Notes||
 |227|434808346|Automatic|SimpleMind Pro||||SimpleMind Pro||
 |226|407412840|Automatic|DataGraph||||DataGraph||
 |225|950512380|Automatic|Notepad+ - 简单，方便，快速地编辑.TXT文件||||Notepad+ - Simple Document and Quick Note||
