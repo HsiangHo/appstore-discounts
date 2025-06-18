@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-18T03:21:03.682Z</updated>
+    <updated>2025-06-18T23:23:07.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-18T03:21:03.683Z</updated>
+        <updated>2025-06-18T23:23:07.239Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusWed, 18 Jun 2025 03:21:03 GMT</id>
+        <id>rankingusWed, 18 Jun 2025 23:23:07 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-18T03:21:03.683Z</updated>
+        <updated>2025-06-18T23:23:07.240Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -729,6 +729,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>30</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1502044457">Whisk</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Whisk</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>31</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1518518216">Paper - Live Wallpapers</a>
       </td>
       <td>
@@ -749,7 +772,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
@@ -766,7 +789,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1535136051">RAR Extractor - Unzip File</a>
@@ -789,7 +812,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576064082">DeviceMirror -Screen Mirroring</a>
@@ -806,7 +829,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576794157">飞火动态壁纸-4k超清视频桌面主题壁纸引擎</a>
@@ -829,7 +852,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
@@ -852,7 +875,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1598771178">DeviceMirror Lite -Screen Cast</a>
@@ -875,7 +898,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6737146353">KitVPN – Fast & World NetWork</a>
@@ -898,7 +921,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6444789815">记事本++</a>
@@ -924,6 +947,71 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whisk]]></title>
+        <id>Whisk-us-1750288622667</id>
+        <link href="https://apps.apple.com/us/app/whisk/id1502044457?mt=12&amp;uo=4"/>
+        <updated>2025-06-18T23:17:02.667Z</updated>
+        <summary type="html"><![CDATA[Whisk: $29.99 → $0.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/whisk/id1502044457?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/bc/d1/a7bcd141-59b1-0dc2-32f7-15113c818c7d/AppIcon.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Whisk：</strong><span>$29.99</span> → <b>
+  <strong>$0.00</strong>
+</b><span>[$0.00 ~ $29.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Whisk is a lightweight HTML and PHP editor with a live preview that updates as you type.
+
+*** Whisk’s free download includes 14-day fully functional trial and document viewer mode. An In-App Purchases is available to unlock the full edition, with discounts for previous owners. ***
+
+Whisk is an essential app in your toolkit for HTML, PHP, CSS, and Javascript programming. It is great for learning web development, testing snippets of code, or building entire web pages.
+
+Whisk’s integrated preview pane displays the web page live as you type. Whisk breaks the tedious cycle of writing HTML, saving the file, then reloading and viewing the page in the browser. Combining the writing phase with the viewing phase clarifies the effects of your changes and speeds up the overall process of making a web page. W3C-based validation will red-underline any mistakes. It uses the same rendering engine found in Safari, so it is not only standards compliant, but also very fast.
+
+===================
+
+Whisk is the app previously known as HyperEdit! For a comprehensive list of what’s new, visit:
+https://tumult.com/whisk/whats-new/2.6/
+
+Macworld rating (Nov 2004): 4.5 mice
+
+===================
+
+Use Whisk For:
+
+• Crafting HTML to make sure it looks exactly as you want it
+• Testing and executing PHP code
+• Writing blog posts, forum entries, or rich emails
+• Interactively trying out CSS
+• Running and debugging JavaScript
+• And creating whole websites
+
+Main Features:
+
+• Preview pane quickly renders HTML and PHP as typed, using the same engine as Safari
+• Watched Files automatically (or manually) determine when files are changed and will reload the web preview (file access permissions required)
+• Live HTML W3C-based validation shows errors and highlights problem tags with a red underline
+• Preview to other browsers or the Hype Reflect app on iOS
+• Web inspector/console/dev tools access
+• Customizable syntax highlighting coloring
+• Reusable code snippets and color swatches
+• Scroll sync keeps can keep the editor and preview at similar spots
+• View HTML source code generated by the PHP engine
+• Attach Style Sheets for viewing how blog posts/markup will look with external styling
+
+Because We Love the Mac:
+
+• Written in Cocoa exclusively as a macOS app (supports 10.12 through macOS 14 Sonoma)
+• Adopts new macOS features and is gorgeous in Light and Dark modes
+• It runs natively as a Universal app on Intel and Apple Silicon Macs
+
+===================
+
+Download Whisk now and start your free trial! Documentation is available on Whisk’s website.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/47/bd/35/47bd35b3-545b-1131-6c86-94a854320935/408c72e3-5b4f-456f-a542-00533abadd86_01.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/de/dd/7d/dedd7dd2-e6ab-c847-c24a-d76e12fd77b1/aa0e6af0-93f8-40ac-acfb-93b69da9847a_02.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/be/87/ba/be87ba08-163c-51eb-fbbc-cf5437e88ffc/c5a75763-01b7-449d-b48d-b7aa090616bf_04.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/99/16/cc/9916cc3f-6cba-122f-846e-4b8e3866d6b4/b9ffc291-5e6c-435c-b729-e17f369716fc_03.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iAudioConverter]]></title>
@@ -2216,109 +2304,5 @@ P.S.: FLAC Player, ALAC Player, Lossless Player, SoundCloud Stream Solution, You
 「Privacy Policy」
 ● https://dami0209.github.io/privacy.html
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5f/92/6e/5f926e8c-e263-e142-563d-aca5be6c35ad/0fa1125d-105b-46ca-8c4a-9c9db28fb143_1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0c/56/e4/0c56e4fb-9bb8-1b1e-a594-5b56ce775fbd/6c1f4268-dfcf-4f0a-aec3-21dba8102b9e_2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8c/91/01/8c9101d1-6334-6f77-6beb-b47c7bce0a5e/024ac7df-17e2-419f-b741-e85d7e562893_5.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/14/40/e2/1440e22c-a401-bd94-f238-774861d02226/2f414909-4219-4fad-8e87-33491d2c596e_3.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8f/90/50/8f90502c-f825-4a24-6d0c-33c887e99478/69d3d1ac-5cd8-46dd-8e26-7e5c58b9366c_4.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Cue FLAC DMX MP3 Player]]></title>
-        <id>Visual Cue FLAC DMX MP3 Player-us-1750022137927</id>
-        <link href="https://apps.apple.com/us/app/visual-cue-flac-dmx-mp3-player/id1027093462?uo=4"/>
-        <updated>2025-06-15T21:15:37.927Z</updated>
-        <summary type="html"><![CDATA[Manage your audio library: $79.99 → $4.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/visual-cue-flac-dmx-mp3-player/id1027093462?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/e3/6c/42e36c62-9e9e-de1f-f8d3-1b330291fd87/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Manage your audio library：</strong><span>$79.99</span> → <b>
-  <strong>$4.99</strong>
-</b><span>[$4.99 ~ $79.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Visual Cue Pro is an advanced, easy-to-use audio player for iOS and iPadOS.
-
-Main Features:
-• Waveform view for visual seeking and setting up cue points
-• Zoom functionality for more precise seeking on longer waveforms
-• Caches waveforms for fast display
-• Supports unlimited cue points per file
-• Quickly switch between cue points across multiple audio files
-• Does not alter your precious source files in any way
-• Drag & drop files directly from Files and other apps
-• Designed for speed and efficiency
-• GPU-based waveform renderer
-• Supports Dark Mode
-
-Collections:
-• Import files from Files using drag & drop
-• Manage your music library
-• Create cue points within each item
-
-Playlists:
-• Import files from Collections using drag & drop (cue points included)
-• Import files from Files using drag & drop (without cue points)
-• Create cue points within each item (shared across playlists if the item is from a Collection)
-• Reorder items using drag & drop in your desired order
-
-For Music Producers:
-• Manage your library of reference tracks to compare with your own
-• Quickly jump between cue points in your reference tracks
-• Manage and listen to your own tracks
-• Organize production elements and recorded source material
-
-For DJs:
-• Manage your library of tracks
-• Set up cue points in your tracks
-• Compile DJ sets by quickly jumping between cue points in different tracks
-• Manage and listen to your own mixes
-• Bookmark tracks in other DJs’ sets and discover new music faster
-
-Visual Cue Pro is an offline music player, music library manager, and music organizer with lossless playback, widely used in sound studios, by music directors, A&R, and for audio transcribing. It's also perfect for venues, theaters, churches, DJs, and more! It features full-screen support, native Apple Silicon support, Dark Mode, and cloud drive compatibility. The best reliable alternative to iTunes, plays audio files and formats supported by macOS, including WAV, AIFF, FLAC, MP3, M4A, and more.
-
-Free to download and try. Purchase modules via in-app purchase (subscriptions or lifetime permanent license).
-
-If you have a Mac, check out the macOS version too, which offers even more functionality!
-
-Privacy Policy: http://visualcueplayer.com/privacy.html
-
-Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[记事本++]]></title>
-        <id>记事本++-us-1750011788392</id>
-        <link href="https://apps.apple.com/us/app/%E8%AE%B0%E4%BA%8B%E6%9C%AC/id6444789815?mt=12&amp;uo=4"/>
-        <updated>2025-06-15T18:23:08.392Z</updated>
-        <summary type="html"><![CDATA[Price: $1.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E8%AE%B0%E4%BA%8B%E6%9C%AC/id6444789815?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/9e/81/7c9e8114-abae-93a6-fb7c-41ccf9f7cde5/AppIcon-0-0-85-220-0-0-4-0-2x.png/60x60bb.png" />
-</a><h2>
-  Discount Information（Price：<span>$1.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $1.99]</span>）
-</h2><h2>Application Description</h2><p>
-  1、完全照顾你的记事本使用习惯
-记事本+ 启动速度快，界面简洁，和其它平台记事本高度兼容，同样支持在左下角显示行列数字、字符数。右下角还可以显示文件类型，支持几十种代码格式的语法高亮显示。
-同时，使用这款记事本可以有效的消除乱码。当你使用Mac内置的 文本编辑 打开文件出现乱码时，你需要 记事本+ 的帮助。
-可以支持古老的ANSI编码文件，支持GBK文本，方便阅读各类中文小说，界面右下角可显示文件编码格式。
-支持快速打开超大文件而不会崩溃，实测19M大小文件(13万行)可以秒开。
-
-2、个性化风格设置
-通过 偏好设置，你可以个性化配置你喜欢的编辑器样式，包括界面主题、字体类型、字体大小、是否自动换行。在菜单栏的“显示”菜单中，也提供了“自动换行”的快速切换，和其它平台记事本一样方便。
-
-3、就连插入日期/时间也同样复刻
-在其它平台记事本中，你可以很方便的插入日期/时间，现在你可以在Mac的 记事本+ 中保留这一体验。
-
-4、延续经典的.LOG功能
-通过在文件第一行加入 .LOG标记，每次打开文档时，即可自动插入当前日期和时间，便于进行日志记录。
-
-5、AI实验室，智能助手功能强大
-文本翻译，支持201种语言自动识别，翻译为中文或者英文，选中文字后点击翻译菜单即可
-查询本机IP地址，包括地理位置
-今日天气，明日天气，显示所在地区天气和空气质量
-今日历史，显示历史上的今天
-名人名言，随机显示多条名人名言
-人民币大写，选中数字后，转换为人民币大写金额
-
-更多AI实验室功能将陆续加入：
-智能创作，全文校对，文章简报，主题词提取...
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/98/55/86/985586ca-43d2-35e2-8cb3-62d1fa82b4ac/5e3cf5c7-d3dd-444e-9dc7-ec0126dabcbf_notepad-1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6f/c3/ea/6fc3ea22-d20b-6ae2-8610-94fb00658da1/2ef87a69-777c-45a9-9dec-4550278cba94_notepad-2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0a/fb/85/0afb8567-fa5f-9896-0d06-f1df0b9f3f43/c5de7e6f-59a7-4f7d-bcca-a31e5983c6b1_notepad-6.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a6/49/ed/a649ed6b-aa73-3f8c-d6e5-f6d254a62d4d/fbd922e9-6d2c-403a-9577-fcbc37fe44a2_notepad-3.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/85/ab/6c85ab5d-8475-1b10-2024-d8d70ea00ba0/f7acc87d-b575-459c-8677-261b04618cee_notepad-4.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/43/29/2f/43292f07-c486-0a61-1b7c-1f45a566bb7b/91c34706-0bde-4ccb-acb5-f063c8f5d662_notepad-5.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/eb/05/9a/eb059aa4-4032-725f-099c-5475c1412b87/c3365acf-80f1-48d1-8f58-931e042d6bef_notepad-7.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>

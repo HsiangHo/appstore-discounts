@@ -61356,6 +61356,15 @@
     "history": [
       [
         {
+          "timestamp": 1750288622667,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "14-day Trial": "$0.00",
+            "Whisk": "$0.00"
+          }
+        },
+        {
           "timestamp": 1750285040354,
           "price": 0,
           "formattedPrice": "Free",
