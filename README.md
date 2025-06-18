@@ -356,7 +356,7 @@ So far, we've covered `2` `Countries or Regions` and  `856` `Apps` <br />Push no
 |572|1491764008|Automatic|红色-Redis的UI||||Red 2 - UI for Redis||
 |571|985614903|Automatic|SQLPro Studio||||SQLPro Studio||
 |570|1459748650|Automatic|CompareMerge2||||CompareMerge2||
-|569|1475741280|Automatic|SSH Client - Terminal, Telnet||||SSH Client - Terminal, Telnet||
+|569|1475741280|Automatic|SSH Client - Telnet & Terminal||||SSH Client - Telnet & Terminal||
 |568|828466809|Automatic|SQLPro for MSSQL||||SQLPro for MSSQL||
 |567|1547933097|Automatic|Socket调试器||||Socket Debugger||
 |566|1516553045|Automatic|啜色||||Colorsip||

@@ -359,7 +359,7 @@
 |572|1491764008|自动|红色-Redis的UI||||Red 2 - UI for Redis||
 |571|985614903|自动|SQLPro Studio||||SQLPro Studio||
 |570|1459748650|自动|CompareMerge2||||CompareMerge2||
-|569|1475741280|自动|SSH Client - Terminal, Telnet||||SSH Client - Terminal, Telnet||
+|569|1475741280|自动|SSH Client - Telnet & Terminal||||SSH Client - Telnet & Terminal||
 |568|828466809|自动|SQLPro for MSSQL||||SQLPro for MSSQL||
 |567|1547933097|自动|Socket调试器||||Socket Debugger||
 |566|1516553045|自动|啜色||||Colorsip||
