@@ -7089,10 +7089,18 @@
       "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750216516840,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -21478,6 +21486,23 @@
     "history": [
       [
         {
+          "timestamp": 1750216516840,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Telegram Premium": "$4.99",
+            "250 Telegram Stars": "$5.09",
+            "500 Telegram Stars": "$9.99",
+            "Telegram Premium Annual": "$34.99",
+            "1x Premium (3 Months)": "$14.99",
+            "75 Telegram Stars": "$1.59",
+            "1000 Telegram Stars": "$19.99",
+            "Telegram Premium (3-Month)": "$14.99",
+            "1x Premium (1 Year)": "$35.99",
+            "100 Telegram Stars": "$1.99"
+          }
+        },
+        {
           "timestamp": 1750209947959,
           "price": 0,
           "formattedPrice": "Free",
@@ -34073,7 +34098,8 @@
       "Battle Cat Booster Pack": "$3.99",
       "Battle Cat Prestige Pack": "$3.99",
       "Rogue Legends": "$9.99",
-      "Heroes and Skins Complete 2024": "$24.99"
+      "Heroes and Skins Complete 2024": "$24.99",
+      "Desperado Unlock Pack": "$7.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -34095,9 +34121,27 @@
       "Battle Cat Booster Pack": "$3.99",
       "Battle Cat Prestige Pack": "$3.99",
       "Rogue Legends": "$9.99",
-      "Heroes and Skins Complete 2024": "$24.99"
+      "Heroes and Skins Complete 2024": "$24.99",
+      "Desperado Unlock Pack": "$7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750216516840,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Desperado Unlock Pack": "$7.99",
+            "She-Ra Prestige Pack Sale": "$6.99",
+            "She-Ra Sword Booster Sale": "$1.99",
+            "She-Ra Sword Power Booster": "$3.99",
+            "She-Ra Prestige Pack": "$12.99",
+            "Battle Cat Booster Pack": "$3.99",
+            "Battle Cat Prestige Pack": "$3.99",
+            "Rogue Legends": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747977468707,

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-17T13:37:08.219Z</updated>
+    <updated>2025-06-18T03:21:03.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-17T13:37:08.220Z</updated>
+        <updated>2025-06-18T03:21:03.683Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 17 Jun 2025 13:37:08 GMT</id>
+        <id>rankingusWed, 18 Jun 2025 03:21:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-17T13:37:08.220Z</updated>
+        <updated>2025-06-18T03:21:03.683Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -50,13 +50,13 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>855</b>
+        <b>856</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>855</b>
+        <b>856</b>
       </td>
       <td>
         <b></b>
@@ -67,13 +67,13 @@ feedId:49753370488353792+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>843</b>
+        <b>844</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>843</b>
+        <b>844</b>
       </td>
       <td>
         <b></b>
@@ -506,6 +506,23 @@ feedId:49753370488353792+userId:73658201673997312
         <b>19</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id447726582">iAudioConverter</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>20</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id491854842">Youdao Translate</a>
       </td>
       <td>
@@ -526,7 +543,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id673906093">Audio Normalizer - Mp3 Gain</a>
@@ -543,7 +560,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id797275229">AudioTunes - FLAC, APE, WMA Converter</a>
@@ -560,7 +577,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id966457795">Super PhotoCut</a>
@@ -577,7 +594,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1027093462">Visual Cue FLAC DMX MP3 Player</a>
@@ -600,7 +617,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1081480270">The Audio Converter</a>
@@ -623,7 +640,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1133028347">Cleaner One Pro - Uninstaller</a>
@@ -646,7 +663,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1403919533">MWeb Pro</a>
@@ -663,7 +680,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1456235760">Live Wallpaper - 4K UHD</a>
@@ -686,7 +703,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1484905765">Fast CAD Reader</a>
@@ -709,7 +726,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1518518216">Paper - Live Wallpapers</a>
@@ -732,7 +749,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
@@ -749,7 +766,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1535136051">RAR Extractor - Unzip File</a>
@@ -772,7 +789,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576064082">DeviceMirror -Screen Mirroring</a>
@@ -789,7 +806,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576794157">飞火动态壁纸-4k超清视频桌面主题壁纸引擎</a>
@@ -812,7 +829,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
@@ -835,7 +852,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1598771178">DeviceMirror Lite -Screen Cast</a>
@@ -858,7 +875,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6737146353">KitVPN – Fast & World NetWork</a>
@@ -881,7 +898,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6444789815">记事本++</a>
@@ -907,6 +924,57 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iAudioConverter]]></title>
+        <id>iAudioConverter-us-1750216516840</id>
+        <link href="https://apps.apple.com/us/app/iaudioconverter/id447726582?mt=12&amp;uo=4"/>
+        <updated>2025-06-18T03:15:16.840Z</updated>
+        <summary type="html"><![CDATA[Price: $4.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/iaudioconverter/id447726582?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/6e/7a/3f/6e7a3fd7-9a23-be0c-d012-08cfc6ff868c/AppIcon.png/60x60bb.png" />
+</a><h2>
+  Discount Information（Price：<span>$4.99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ $4.99]</span>）
+</h2><h2>Application Description</h2><p>
+  On Sale for a limited time. Original $ 7.99.
+iAudioConverter = Audio Converter+CD Burner+Audio Extractor+Audio Trimmer+Audio Volume Normalizer.
+
+iAudioConverter is the handy comprehensive audio converter for iTunes, iPhone, iPod and any kinds of your devices, and also a CD burner for your lovely car and other CD devices.
+
+- Convert and burn audios to CD.
+
+- Perfect supported output iTunes fomats: MP3, M4A, AAC, Apple lossless, WAV, AIFF.
+
+- High compatible supported devices: iPad, iPhone, iPod, Blackberry, Nokia, Samsung and many other mobile device. 
+
+- Common input video formats: FLV, MKV, MOV, M4V, MP4, AVI, WMV, DivX, and many others.
+
+- Common audio formats: MP3, M4A, MP2, AAC, AIFF, Apple Lossless, WAV, WMA, FLAC, AMR, AWB, OGG, AC3, AU.
+
+- Key features:
+
+- Uniquely support converting multi-channel audios, like aac, ac3, ogg, wav, dts, wma.
+
+- Automatically import converted audio to iTunes.
+
+- Convert audio files to mp3, aac, m4a, Apple lossless, aiff that iTunes supports.
+
+- Extract audios from videos such as flv, mp4, mov, etc.
+
+- Convert between all popular audio files preserving metadata and album art intact using high quality encoder.
+
+- Set Audio codec, Audio bitrate, Audio channels, Audio samplerate.
+
+- Batch conversion.
+
+- Menu to always save files to custom directory.
+
+- Easy to use drag and drop interaction.
+
+Note: DRM protected files are not supported.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/78/03/ff/7803ff61-e68e-cd9f-f342-acff78f6ee50/mza_4325322910301931152.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/09/23/29/092329e7-7488-1660-b073-0328a6719d3f/mzl.pnetbbwg.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/18/de/18/18de18e7-e8a7-4b44-c7de-26d47244c62e/mzl.ocmylwic.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/6b/46/ae/6b46ae99-b0d8-d501-2338-6c0adde3068d/mzl.qtyiiuyy.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BetterSnapTool]]></title>
@@ -2252,41 +2320,5 @@ Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 更多AI实验室功能将陆续加入：
 智能创作，全文校对，文章简报，主题词提取...
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/98/55/86/985586ca-43d2-35e2-8cb3-62d1fa82b4ac/5e3cf5c7-d3dd-444e-9dc7-ec0126dabcbf_notepad-1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6f/c3/ea/6fc3ea22-d20b-6ae2-8610-94fb00658da1/2ef87a69-777c-45a9-9dec-4550278cba94_notepad-2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0a/fb/85/0afb8567-fa5f-9896-0d06-f1df0b9f3f43/c5de7e6f-59a7-4f7d-bcca-a31e5983c6b1_notepad-6.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a6/49/ed/a649ed6b-aa73-3f8c-d6e5-f6d254a62d4d/fbd922e9-6d2c-403a-9577-fcbc37fe44a2_notepad-3.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/85/ab/6c85ab5d-8475-1b10-2024-d8d70ea00ba0/f7acc87d-b575-459c-8677-261b04618cee_notepad-4.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/43/29/2f/43292f07-c486-0a61-1b7c-1f45a566bb7b/91c34706-0bde-4ccb-acb5-f063c8f5d662_notepad-5.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/eb/05/9a/eb059aa4-4032-725f-099c-5475c1412b87/c3365acf-80f1-48d1-8f58-931e042d6bef_notepad-7.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audio Editor & Music Mixer]]></title>
-        <id>Audio Editor &amp; Music Mixer-us-1749918025609</id>
-        <link href="https://apps.apple.com/us/app/audio-editor-music-mixer/id1339124759?uo=4"/>
-        <updated>2025-06-14T16:20:25.609Z</updated>
-        <summary type="html"><![CDATA[Permanent membership: $11.99 → $9.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/audio-editor-music-mixer/id1339124759?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/9f/00/cf9f0079-ce90-8228-c4e5-1e03c6311f25/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Permanent membership：</strong><span>$11.99</span> → <b>
-  <strong>$9.99</strong>
-</b><span>[$9.99 ~ $14.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Want to make your own unique phone ringtones? Or want to combine multiple songs and synthesize the music you want? Or want to know the effect of mixing different songs?
-
-Audio Editor & Music Mixer is an easy to operate music cutting and mixing tool. Simple and excellent, functional and practical! Whether you are a professional musician or music amateur, you can play easily.
- 
-Features:
-1.Professional ringtone clip: free to edit, the maximum clipping of the ringtone is 40s (in line with the characteristics of ringtones)
-2.Simple music stitching: song editing and splicing as a whole,connect the favorite songs
-3.Unique music mixing: free to cut the two songs, mixed together to play, feel different music effects!
-
-Subscription instrutions：
-- After you subscribe to the VIP, you have unlimited access to all features
-- Subscribe to provide 4 types of VIP services, including: weekly VIP service, monthly VIP service, yearly VIP service, permanent VIP service
-- Subscribe to $2.49 per week, $4.49 per month, $13.49 for 1 year and $14.99 for permanent
-- The purchase process is to deduct the purchase amount from the iTunes account
-- Account will be charged at the cost of the selected package within 24 hours prior to the current period
-- Cancellation of current subscription is not allowed during active subscription period.But you can cancel next subscription.
-- You can access our privacy policy by visiting (long press) https://www.camoryapps.com/netpower/privacy_policy/musicmixer_en.html 
-- You can access (long press) https://www.camoryapps.com/netpower/service/musicmixer_en.html  to read the Terms of Service
-*The price is equivalent to the 'Apple App Store Matrix' which is equivalent to the subscription price in US dollars.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/04/d6/74/04d67449-289f-2f92-fb36-4a08346f8e28/4a1a840b-5ad5-4865-baad-e79ae521855a_5.5_U82f1_U5bf81_en.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/33/c6/0e/33c60e7a-3f1f-a1b5-ba0a-2a2f8d2f275d/f5f26ef2-3985-4897-8b0f-cc42160e0a7b_5.5_U82f1_U5bf82_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1b/49/be/1b49be06-9cb6-62c8-4136-06b752a1a90f/c4f80133-bb8f-4ea7-8c29-9e12ba482e16_5.5_U82f1_U5bf83_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/b2/e8/dfb2e864-3ff8-37bf-535f-ad070336ad9f/13e6da7b-75fc-4a77-8a6a-07d96936c8d7_5.5_U82f1_U5bf84_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e4/27/dd/e427ddd6-c8c1-5500-c318-f7947ef2277c/89333db5-5bac-449c-b616-efe85f8bc3fd_5.5_U82f1_U5bf85_cn.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c6/d9/72/c6d972aa-5783-cf17-9864-36fcd653ba04/6cec7242-29da-4348-928e-30c0ec66f06d_12.9_U82f1_U5bf81_en.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/1d/b7/f71db7fe-09b2-3396-fa61-706da4a96554/224303f7-1265-48de-8acc-6fbe25c4a929_12.9_U82f1_U5bf82_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/b7/6a/a4b76a12-05ad-265e-b8d2-a8ae9437f75a/72f57bfb-295e-450b-b349-e08b588132eb_12.9_U82f1_U5bf83_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/50/d4/2d/50d42d1c-a37b-27bf-a77e-20a0c21be051/e3f8b0a4-1e9a-49a7-8ea0-1b6a4ce57fb6_12.9_U82f1_U5bf84_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c4/d2/a7/c4d2a7e9-23bb-760a-f87e-5462800a4168/8feea930-614f-4c92-bde7-6856edd0ceed_12.9_U82f1_U5bf85_cn.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>

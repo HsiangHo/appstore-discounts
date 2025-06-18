@@ -64,11 +64,12 @@ Click  [![telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=fla
 ## DingTalk
 Click  [![dingtalk](https://img.alicdn.com/imgextra/i3/O1CN01WMvMRG1ks3Ixc9x1v_!!6000000004738-55-tps-32-32.svg "dingtalk")](https://qr.dingtalk.com/action/joingroup?code=v1,k1,o9TXTPxGRNhCmrTUa4cHymeJCIcRiimCsH4FqEnbEWU=&_dt_no_comment=1&origin=11 "dingtalk")  to Subscribe
 # Focus
-So far, we've covered `2` `Countries or Regions` and  `855` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `2` `Countries or Regions` and  `856` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The application currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|856|1439723850|Automatic|时间规划局 - 倒计时与提醒事项||||Countdown! Reminders and Timer||
 |855|6747207796|Automatic|PeeWee Purpdrank's Soundboard||||PeeWee Purpdrank's Soundboard||
 |854|6612011484|Automatic|怪物乐土||||❌||
 |853|288419283|Automatic|❌||||RadarScope||
@@ -247,7 +248,7 @@ So far, we've covered `2` `Countries or Regions` and  `855` `Apps` <br />Push no
 |680|1467607774|Automatic|NCM转换器 - 转MP3||||Smart Audio Editor - ID3||
 |679|1478202069|Automatic|幕连-简单的投屏工具||||Screen Mirroring: LetsView||
 |678|6448913901|Automatic|全能AI - AI视频、绘画、特效、音乐、聊天、写作、数字人||||全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理||
-|677|1476640331|Automatic|读写客||||读写笔记||
+|677|1476640331|Automatic|读写笔记||||读写笔记||
 |676|787142064|Automatic|VSD Viewer & VSD Converter||||VSD Viewer & VSD Converter||
 |675|1499250688|Automatic|壁纸管家 - 4K超高清主题桌面壁纸||||Wallpaper - HD Wallpapers||
 |674|1642304143|Automatic|串口(网络)调试助手 Pro||||SerialPort Debug Assistant Pro||
