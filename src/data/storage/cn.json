@@ -9169,6 +9169,25 @@
     "history": [
       [
         {
+          "timestamp": 1750285040354,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Fotor Pro Annual Special Offer": "¥238.00",
+            "Fotor Pro - Recommend Offer": "¥328.00",
+            "Fotor Pro - Special Offer": "¥298.00",
+            "avatar rich package 80": "¥148.00",
+            "avatar rich package 40": "¥98.00",
+            "avatar normal package 80": "¥88.00",
+            "avatar rich package 20": "¥68.00",
+            "avatar normal package 40": "¥52.00",
+            "avatar normal package 20": "¥32.00",
+            "Pro - Annual Plan.cn.2024": "¥298.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750115815441,
           "price": 0,
           "formattedPrice": "免费",
@@ -15814,6 +15833,25 @@
       "100 Telegram Stars": "¥16.80"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750285040354,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Telegram Premium": "¥33.00",
+            "Telegram Premium Annual": "¥268.00",
+            "Telegram Premium (3-Month)": "¥98.00",
+            "1x Premium (1 Year)": "¥268.00",
+            "1x Premium (3 Months)": "¥98.00",
+            "1x Premium (6 Months)": "¥148.00",
+            "Telegram Premium (1 Year)": "¥298.00",
+            "250 Telegram Stars": "¥41.80",
+            "2500 Telegram Stars": "¥413.00",
+            "Telegram Premium (6 month)": "¥168.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750134406591,
@@ -68997,6 +69035,25 @@
       "128元礼包": "¥128.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750285040354,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "18元礼包": "¥18.00",
+            "6元礼包": "¥6.00",
+            "30元礼包": "¥30.00",
+            "68元礼包": "¥68.00",
+            "98元礼包": "¥98.00",
+            "68元钻石": "¥68.00",
+            "1元礼包": "¥1.00",
+            "128元钻石": "¥128.00",
+            "328元钻石": "¥328.00",
+            "648元钻石": "¥648.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750223903829,

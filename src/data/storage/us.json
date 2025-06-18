@@ -61345,7 +61345,7 @@
       "price": 0,
       "formattedPrice": "Free",
       "14-day Trial": "$0.00",
-      "Whisk": "$0.00"
+      "Whisk": "$29.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -61354,6 +61354,17 @@
       "Whisk": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750285040354,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Whisk": "$29.99",
+            "14-day Trial": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750152019196,
