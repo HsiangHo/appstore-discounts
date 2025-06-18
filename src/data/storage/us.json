@@ -5771,6 +5771,23 @@
     "history": [
       [
         {
+          "timestamp": 1750241970510,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Synth Lead": "$1.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Groove Machine Synth": "$0.00",
+            "Synth Plucks": "$1.99",
+            "Chill-Lo-Fi Mobile": "$1.99"
+          }
+        },
+        {
           "timestamp": 1750220826866,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -42426,6 +42443,25 @@
       "Mobile (Annually)": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750241970510,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Xmind Pro (Annually)": "$59.00",
+            "Desktop + Mobile (Monthly)": "$10.00",
+            "Desktop + Mobile (6 Months)": "$39.99",
+            "Xmind Premium (Annually)": "$99.00",
+            "All Platforms Quarterly": "$29.00",
+            "All Platforms Yearly": "$59.00",
+            "Xmind Premium (Monthly)": "$15.00",
+            "Desktop (6 Months)": "$34.99",
+            "Xmind Pro+ (Annually)": "$65.00",
+            "Desktop (Annually)": "$54.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749374212736,
