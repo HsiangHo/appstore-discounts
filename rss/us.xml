@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-19T05:23:06.894Z</updated>
+    <updated>2025-06-19T09:25:04.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-19T05:23:06.896Z</updated>
+        <updated>2025-06-19T09:25:04.234Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusThu, 19 Jun 2025 05:23:06 GMT</id>
+        <id>rankingusThu, 19 Jun 2025 09:25:04 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-19T05:23:06.896Z</updated>
+        <updated>2025-06-19T09:25:04.234Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -546,7 +546,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>21</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id673906093">Audio Normalizer - Mp3 Gain</a>
+        <a href="https://apps.apple.com/us/app/id522349879">DM1 - The Drum Machine</a>
       </td>
       <td>
         <ul>
@@ -563,7 +563,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>22</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id797275229">AudioTunes - FLAC, APE, WMA Converter</a>
+        <a href="https://apps.apple.com/us/app/id673906093">Audio Normalizer - Mp3 Gain</a>
       </td>
       <td>
         <ul>
@@ -580,7 +580,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>23</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id966457795">Super PhotoCut</a>
+        <a href="https://apps.apple.com/us/app/id797275229">AudioTunes - FLAC, APE, WMA Converter</a>
       </td>
       <td>
         <ul>
@@ -595,6 +595,23 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>
         <b>24</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id966457795">Super PhotoCut</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1027093462">Visual Cue FLAC DMX MP3 Player</a>
@@ -617,7 +634,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1081480270">The Audio Converter</a>
@@ -640,7 +657,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1133028347">Cleaner One Pro - Uninstaller</a>
@@ -663,7 +680,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1403919533">MWeb Pro</a>
@@ -680,7 +697,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1456235760">Live Wallpaper - 4K UHD</a>
@@ -703,7 +720,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1484905765">Fast CAD Reader</a>
@@ -726,7 +743,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1502044457">Whisk</a>
@@ -749,7 +766,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1518518216">Paper - Live Wallpapers</a>
@@ -772,7 +789,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
@@ -789,7 +806,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1535136051">RAR Extractor - Unzip File</a>
@@ -812,7 +829,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576064082">DeviceMirror -Screen Mirroring</a>
@@ -829,7 +846,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576794157">飞火动态壁纸-4k超清视频桌面主题壁纸引擎</a>
@@ -852,7 +869,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
@@ -875,7 +892,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1598771178">DeviceMirror Lite -Screen Cast</a>
@@ -898,7 +915,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6737146353">KitVPN – Fast & World NetWork</a>
@@ -921,7 +938,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6444789815">记事本++</a>
@@ -947,6 +964,78 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DM1 - The Drum Machine]]></title>
+        <id>DM1 - The Drum Machine-us-1750324780128</id>
+        <link href="https://apps.apple.com/us/app/dm1-the-drum-machine/id522349879?mt=12&amp;uo=4"/>
+        <updated>2025-06-19T09:19:40.128Z</updated>
+        <summary type="html"><![CDATA[Price: $8.99 → $5.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/dm1-the-drum-machine/id522349879?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/c8/79/11/c87911ae-86d6-412d-6051-77aa128b4ff4/icon.png/60x60bb.png" />
+</a><h2>
+  Discount Information（Price：<span>$8.99</span> → <b>
+  <strong>$5.99</strong>
+</b><span>[$5.99 ~ $8.99]</span>）
+</h2><h2>Application Description</h2><p>
+  Easy and fast to use, loaded with 154 superb electronic drum kits and beautiful hyper-realistic graphics, DM1 has been designed for a lot of instant fun.  
+With Midi In & out, DM1 is ready to fit your digital audio workstation.
+ 
+As electronic musicians ourselves, we, at Fingerlab, have developed DM1 with the intention of delivering the perfect mix between fun playability and powerful sonic capacities. We always keep in mind the importance of a beautiful design with the right balance of powerful abilities while avoiding clumsy, overbusy interfaces. 
+
+Check our 154 electronic drum kits. 42 classic vintage drum kits plus 112 in-house produced electronic kits, edited and mastered at Fingerlab professional studio.
+Add easily bass and melody to your beats with the instrument mode.
+
+DM1 offers 5 main sections:
+
+1 - THE STEP SEQUENCER Just turn on and off steps in your sequence to create cool beats, or unexpected rhythms!
+
+2 - THE DRUM PADS simply lets you play and record the beat that tickles your fingers on the keyboard. No need to be a first-class drummer, automatic quantize does the work for you.
+
+3 - THE MIXER for quick and subtle sound mixing of your drum kits. Featuring settings for volume, pitch, pan, sample length, custom drum kit element for each channel, mute and solo mode.
+
+4 - THE FX TRACKPADS a creative duo of FX trackpads to distort, modulate and transform your beats. The effects include: Overdrive, Delay, Reverb, Envelope filter, Phaser, Dub Delay, Formant, Texturizer, Robotizer, Dalek, Resonant Filter, Compressor & Noise Gate.
+
+5 - THE SONG COMPOSER allows you to quickly make a song with the beat patterns you have created. Just drag and drop the patterns onto the timeline. Fast and easy.
+
+DM1 for OSX is fully compatible with DM1 for iPad, you can share files between them.
+
+Specifications:
+• DM1 The Drum Machine for iPad winner Apple design Award 2012
+• Fullscreen Retina Display 
+• Smart ergonomy for fast creativity and fun 
+• 154 vintage and produced drum kits, mastered at in-house Fingerlab Sound Studios
+• Instrument mode with 6 instruments available (Piano, Korg MicroPreset, Cello, Clavinet, Marimba and MiniLogue)
+• Import your samples and create your own kits
+• Mixer with pitch, length and level rotary controls, pan controls, and custom drum kit per channel 
+• Automation Panel for a precise and intuitive control of any Mixer parameter over time 
+• Automation recording for FXs
+• FX Trackpad for real-time sonic destruction and multi-FX 
+• Time signatures
+• The Randomizer tool
+• Extra fast drum kit loading 
+• Playable pattern selection for extra creativity 
+• Mode song with intuitive editing 
+• High-quality export 
+• Separated tracks and AAC encoding export options
+• Full Midi Implementation 
+• Import & Export your song project 
+
+Watch DM1 video trailer on YouTube Fingerlab's channel: 
+http://www.youtube.com/fingerlab 
+
+Feel free to let us know what you think and what you'd like to see in the next DM1 update. 
+
+Enjoy! 
+
+Watch us : vimeo.com/​fingerlab 
+Visit us : fingerlab.net 
+Follow us : twitter.com/​fingerlab 
+Contact us : contact@fingerlab.net 
+
+Powered by Fingerlab 
+http://www.fingerlab.net
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/2e/dd/3b/2edd3b4c-09d0-fb95-efed-5dea6ef5a39c/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/56/ca/7b/56ca7b22-de77-e293-1b9a-e1e70b130601/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/86/2e/74/862e74f5-7e02-fec5-40d6-d394d9b9f763/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/d2/29/b8/d229b8d5-bbad-7a88-2e2a-e58c5e366dcc/mzl.ixcqcuas.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/fe/5b/d7/fe5bd7b7-a147-2256-3ac9-c5fbec620fbe/mzl.oddfdfzf.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/4d/ae/68/4dae68af-c50b-9bbc-5d96-f527668c075a/mzl.xmkfskxv.jpg/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[爱奇艺-临江仙 离婚仙侠]]></title>
