@@ -5543,6 +5543,17 @@
     "history": [
       [
         {
+          "timestamp": 1750350144340,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "完全访问PRO": "¥148.00",
+            "解锁升级功能": "¥0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750346338372,
           "price": 0,
           "formattedPrice": "免费",
@@ -24534,6 +24545,20 @@
       "3 Months Subscription": "¥178.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750350144340,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "1 Month Subscription Sale": "¥88.00",
+            "1 Month Subscription": "¥158.00",
+            "1 week subscription": "¥88.00",
+            "MP3 File Converter": "¥11.00",
+            "3 Months Subscription": "¥178.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750346338372,
@@ -54532,6 +54557,19 @@
     "history": [
       [
         {
+          "timestamp": 1750350144340,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "月度会员": "¥28.00",
+            "年度会员": "¥98.00",
+            "单次购买": "¥3.00",
+            "永久会员": "¥198.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750346338372,
           "price": 0,
           "formattedPrice": "免费",
@@ -58460,6 +58498,16 @@
       "保费": "¥58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750350144340,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "保费": "¥58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750346338372,
