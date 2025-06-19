@@ -37894,7 +37894,7 @@
     ]
   },
   "1231336508": {
-    "name": "腾讯视频-长安的荔枝 全网独播",
+    "name": "腾讯视频-五十公里桃花坞5 全网独播",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
@@ -63892,6 +63892,18 @@
       "Upgrade to VIP(Annual renewal)": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750302967573,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Upgrade to VIP(Lifetime)": "$7.99",
+            "Upgrade to VIP(Month renewal)": "$2.99",
+            "Upgrade to VIP(Annual renewal)": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750044031300,
