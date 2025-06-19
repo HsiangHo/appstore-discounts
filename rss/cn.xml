@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-18T13:36:05.842Z</updated>
+    <updated>2025-06-19T04:32:03.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-18T13:36:05.843Z</updated>
+        <updated>2025-06-19T04:32:03.645Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnWed, 18 Jun 2025 13:36:05 GMT</id>
+        <id>rankingcnThu, 19 Jun 2025 04:32:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-18T13:36:05.844Z</updated>
+        <updated>2025-06-19T04:32:03.646Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -188,7 +188,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1231336508">腾讯视频-长安的荔枝 全网独播</a>
+        <a href="https://apps.apple.com/cn/app/id1231336508">腾讯视频-五十公里桃花坞5 全网独播</a>
       </td>
       <td>
         <ul>
@@ -495,6 +495,29 @@ feedId:49753297431966720+userId:73658201673997312
         <b>20</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1437556716">Mapcasts - 无广告</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>地图广播高级版</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>21</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
       </td>
       <td>
@@ -509,7 +532,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1544190466">避难所：生存</a>
@@ -526,7 +549,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1575178082">Max NTFS - NTFS磁盘读写助手</a>
@@ -549,7 +572,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1576064082">DeviceMirror Pro -无线有线手机投屏</a>
@@ -566,7 +589,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1598771178">DeviceMirror Lite -无线手机投屏</a>
@@ -589,7 +612,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1619925971">UPDF - 新一代 AI 智能 PDF 编辑器</a>
@@ -612,7 +635,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737146353">MateFox - VPN&全球网络加速器&无限流量</a>
@@ -635,7 +658,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737795387">鬼谷八荒</a>
@@ -660,7 +683,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6444789815">记事本++</a>
@@ -686,6 +709,40 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mapcasts - 无广告]]></title>
+        <id>Mapcasts - 无广告-cn-1750307191929</id>
+        <link href="https://apps.apple.com/cn/app/mapcasts-%E6%97%A0%E5%B9%BF%E5%91%8A/id1437556716?uo=4"/>
+        <updated>2025-06-19T04:26:31.929Z</updated>
+        <summary type="html"><![CDATA[地图广播高级版: ¥68.00 → ¥15.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/mapcasts-%E6%97%A0%E5%B9%BF%E5%91%8A/id1437556716?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/05/48/e305485f-3eb1-e9e4-2d71-c117c266bc5d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>地图广播高级版：</strong><span>¥68.00</span> → <b>
+  <strong>¥15.00</strong>
+</b><span>[¥15.00 ~ ¥68.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Mapcasts - AM/FM/电视台应用程序（以前称为 RRadio）将世界各地的 40,000 多个 AM/FM 广播电台和电视台带到您的指尖。
+
+Mapcasts 没有跟踪器和其他不好的东西：
+- 无广告
+- 没有追踪
+- 没有数据收集
+- 不准给家里打电话
+- 没有烦人的注册
+- 没有强制教程
+- 没有嘈杂的垃圾邮件
+- 没有推送通知
+- 没有垃圾软件
+
+有关应用程序如何工作以及如何使用和保护您的数据的更多信息，请查看服务条款和隐私政策：
+
+服务条款：https://drwjf.github.io/mct/terms.html
+隐私政策：https://drwjf.github.io/mct/privacy.html
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/0f/b8/050fb86f-8629-6377-3b1a-65eb99fa7c34/79861109-a435-4b2b-89c9-4e2192d5245d_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-05-27_at_20.16.48.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2b/8b/7c/2b8b7ced-67b9-e1e0-f97c-f582442f512d/6b181e92-898e-4128-a4d2-134846c075c2_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-05-27_at_20.17.01.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6a/c9/fa/6ac9fa9b-6d20-7412-910c-95614ae63bff/2f3d631c-2b4e-48b5-84a9-f443726b41f4_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-05-27_at_20.17.19.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/35/6e/11/356e1100-fd3f-51db-380e-d0a33db1ee51/16812072-7033-40dd-9d32-d0642b7a697d_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-05-27_at_20.08.45.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/74/05/82/7405821c-35c2-31e5-d45e-18eb4548a879/7115f3d2-b32a-4c4d-ac40-e29d9edd227c_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-05-27_at_20.14.06.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9c/d6/26/9cd62624-fb16-2d87-0f70-bc5b00ead9a7/67de8d10-d936-49f0-94fd-00a7fd2c21af_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029_-_2023-05-27_at_20.14.50.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[奇游加速器 - 全球游戏畅玩]]></title>
@@ -950,167 +1007,5 @@ https://www.mixvibes.com/privacy
 - 您可以访问(长按) https://www.camoryapps.com/netpower/service/musicmixer_cn.html 来阅读服务条款
 *价格相当于“苹果App Store矩阵”所确定的相当于以美元为单位的认购价。
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/29/49/11/29491182-5df7-ad1e-c9b0-ac2a24f48a2e/1e304ac9-b23f-4e72-95d7-932218b86dd7_5.5_U82f1_U5bf81_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3f/13/3a/3f133a57-559b-71d3-17f5-f735b3e3d016/d917d6b6-78fc-4dbc-b995-dfbb45058b10_5.5_U82f1_U5bf82_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/aa/e8/08aae87f-0536-f70e-2305-f48103fe08ec/13ed63c2-0e3c-4332-95cd-195f01145a81_5.5_U82f1_U5bf83_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/70/a4/0a70a4c4-54e0-8acc-e3ef-8b5b8b46b6c6/294c541f-8023-449d-8c07-5a02b47dd8df_5.5_U82f1_U5bf84_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/18/0a/58180a1a-3f35-a19a-0309-a95f7a7c9c29/f0e65d15-4c0b-46d3-8286-20c61ba8e2ca_5.5_U82f1_U5bf85_cn.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/22/40/23/224023c1-1bd0-8118-6abe-2a75d7bb8d48/e9ae84ee-8b06-411d-82be-64ec8c0b44d5_12.9_U82f1_U5bf81_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/68/ed/d268edcb-346b-40ca-9f1d-f1a1617520b1/a1b344cd-34f3-44dd-98be-468601f88e3a_12.9_U82f1_U5bf82_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3d/11/d9/3d11d970-9c33-4b79-2956-46725b2c8168/b81d0e54-3a35-4aca-be78-4a6d55949114_12.9_U82f1_U5bf83_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b4/64/93/b4649310-9ec4-6e83-2c72-644217fcdd41/e5d7e6ab-9225-4860-9f42-ad553978548d_12.9_U82f1_U5bf84_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e5/97/85/e5978592-d3dc-9a0c-0fcc-1070189f4286/b401ad29-510b-4371-b581-f5e15f9cc8ae_12.9_U82f1_U5bf85_cn.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLPro for MSSQL]]></title>
-        <id>SQLPro for MSSQL-cn-1750037875779</id>
-        <link href="https://apps.apple.com/cn/app/sqlpro-for-mssql/id828466809?mt=12&amp;uo=4"/>
-        <updated>2025-06-16T01:37:55.779Z</updated>
-        <summary type="html"><![CDATA[SQLPro Premium: ¥558.00 → ¥70.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/sqlpro-for-mssql/id828466809?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/a2/d1/ffa2d123-4659-3895-4a12-744a31e14f2a/AppIcon-0-0-85-220-0-0-0-4-0-2x.png/60x60bb.png" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>SQLPro Premium：</strong><span>¥558.00</span> → <b>
-  <strong>¥70.00</strong>
-</b><span>[¥70.00 ~ ¥558.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  SQLPro for MSSQL is a lightweight Microsoft SQL Server database client, allowing quick and simple access to MSSQL Servers, including those hosted via cloud services such as SQL Azure or Amazon RDS.
-
-Features include:
-+ Syntax highlighting (including customizable themes).
-+ Intellisense.
-+ Tabbed based interface.
-+ Support for executing multiple queries at once.
-+ Quick access to tables, columns and more.
-+ Stored procedure execution.
-+ NTLMv2 supported (but not required).
-
-SQLPro for MSSQL can be used to connect with the following databases:
-+ Microsoft SQL Azure
-+ Microsoft SQL Server 2005
-+ Microsoft SQL Server 2008
-+ Microsoft SQL Server 2008 R2
-+ Microsoft SQL Server 2012
-+ Microsoft SQL Server 2014
-+ Microsoft SQL Server 2016
-
-Thanks to the FreeTDS project (http://www.freetds.org/) for their great library.
-
-This SQL Client does NOT work with MySQL or Postgres. Please ensure that your server is a Microsoft SQL Server (2005 or above).
-
-Note 1: SQL Server Express is supported, however using it makes me sad. Please confirm that the SQL Server Express installation has been configured properly for remote connections over TCP/IP, and that you can connect remotely from another windows pc before requesting support.
-
-Note 2: SQLPro for MSSQL can connect to Microsoft SQL Server 2000 however it is not supported.
-
-Privacy Policy:
-https://hankinsoft.com/privacypolicy.html
-
-Terms of Use:
-https://hankinsoft.com/termsofuse.html
-
-Price:
-SQLPro offers Premium subscriptions in order to interact with database result sets. Premium subscriptions are available as either a Monthly, or a Yearly duration. Subscriptions auto-renew within 24 hours of the expiration date unless auto-renewal is turned off in the iTunes account settings. Payment will be charged to your iTunes Account at confirmation of purchase.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/2d/fb/7a/2dfb7a03-6dd9-fa01-9d65-1e15b5d037e2/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/80/8e/40/808e4087-8653-82f7-041e-a40491521617/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/4b/69/95/4b69951f-7c3c-1957-2a8e-03f642e13691/pr_source.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奇游加速器 - 全球游戏畅玩]]></title>
-        <id>奇游加速器 - 全球游戏畅玩-cn-1750025782293</id>
-        <link href="https://apps.apple.com/cn/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4"/>
-        <updated>2025-06-15T22:16:22.293Z</updated>
-        <summary type="html"><![CDATA[移动端会员-年卡: ¥108.00 → ¥79.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/24/0d/5d240d0a-4401-ac6e-fe9f-165012b8adf4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>移动端会员-年卡：</strong><span>¥108.00</span> → <b>
-  <strong>¥79.00</strong>
-</b><span>[¥79.00 ~ ¥108.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  【 热门游戏，“游”先支持】
-支持PUBGM、王者荣耀国际服 、使命召唤战区、绝地求生：刺激战场 、吃鸡外服、鹅鸭杀手游，暗区突围国际服、飞机大厨、咒术回战、炉石传说国际服、ROBLOX国际版、原神国际服、英雄联盟手游（lol：wild rift）、云顶之弈手游、方舟：终极移动版等游戏加速！
-
-【海量手游库 新游上线快 】
-支持PUBGM、王者国际服、使命召唤战区、星际战甲国际服、炉石传说国际服、暗区突围国际服、飞机大厨、对峙2、云顶之奕PBE、鹅鸭杀、赛马娘、pubg2、暗黑破坏神不朽、apex手游、二之国、全境封锁手游、战地手游、瓦罗兰特手游、绝地求生刺激战场全球服、使命召唤手游全球服、八方旅人、符文大地传说、Among US、游戏王、方舟生存进化、黎明杀机、公主连接、冒险岛M、地球末日生存、Teon中文版、剑灵：革命、战争机器人、地牢猎手5、FIFA、碧蓝幻想全球服、iron force、世界计划、多彩舞台、第七史诗（epic 7）、和平精英全球服、堡垒之夜、fgo、影之诗、失落龙约黑色沙漠、文明重启全球服、荒野乱斗、狂野飙车9等游戏加速！游戏库包罗千款好玩游戏，热游新游排行一目了然。平均每天3款游戏的速度上新。App内可以随时提交想玩的游戏，你想玩的我们都支持！
-
-【 奇游电竞级加速 】
-奇游全自研“Qiy”电竞级加速引擎震撼上线，加速稳定性更胜一筹，不惧移动网络的波动。基于奇游电竞级游戏网络，带你感受稳定流畅的游戏体验。低延迟、不掉线，WIFI/5G随心切换。
-
-【新游推荐 硬核攻略 】
-新增游戏清单、新游预上线时间表等功能，更多实用、funny的游戏主题等你探索。游戏介绍、新游推荐、硬核攻略，丰富的游戏深度内容带你打开新世界的大门！
-
-【客服小队 随时待命 】
-奇游客服小队7x12h陪伴你的左右。使用过程中有任何疑问和反馈，我们随时待命。
-
-【自动续费套餐说明】
-1、订阅周期及套餐名称：1个月（连续包月），3个月(连续包季)
-2、订阅价格：以IAP申请信息为准，例如连续包月价格为首月15元，次月15元/月自动续费 
-3、付款：用户确认购买并付款后计入iTunes账户。
-4、取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能，到期前24小时内取消，将会收取订阅费用。
-5、续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
-6、隐私政策：https://www.qiyou.cn/specials/qymobile-protocol.html
-7、服务协议：https://mfront.qiyou.cn/protocol.html
-8、自动续费会员服务协议：https://mfront.qiyou.cn/renewal-protocol.html
-
-*本加速器的加速功能仅针对游戏使用，无法访问海外网站。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/30/d9/a730d9aa-62c0-a310-ef97-258622bbd228/94e6bc59-0ed1-4662-9fe9-c6c451e5eff8_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/7b/26/067b26e4-94e4-e8dd-81e9-14a0ec0a4354/962aa0d0-12c7-4e94-8ce1-f6f9024c412c_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/10/80/20108048-f87d-5509-ee46-993017f4cee9/754dd371-0572-496e-b317-f4f78754097a_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/da/24/c5da242f-ed7d-eee2-aafd-7a134b8a2c1a/a6457b28-d217-4eb7-abbc-b84793c7a4ad_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/98/a2/1998a286-c405-6ee7-2549-d48179653067/5ab7ea42-5dde-488b-8677-e35e2767c474_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/20/76/ab207675-21ca-afc8-418b-a6e058a5628b/c1b12273-03dc-4645-bd76-2ec11fd06f72_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/2d/f0/c12df094-fd43-860b-b9f7-f4ed06d03635/3f45d5df-bae8-4a85-90be-b5c11e6b5d3f_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/fd/2c/35fd2c48-a4ce-0a15-cb14-eba428cdcf3d/57a9a98a-65a9-4a6f-b77f-09227a1a4252_5.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[记事本++]]></title>
-        <id>记事本++-cn-1750011788392</id>
-        <link href="https://apps.apple.com/cn/app/%E8%AE%B0%E4%BA%8B%E6%9C%AC/id6444789815?mt=12&amp;uo=4"/>
-        <updated>2025-06-15T18:23:08.392Z</updated>
-        <summary type="html"><![CDATA[价格: ¥15.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E8%AE%B0%E4%BA%8B%E6%9C%AC/id6444789815?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/9e/81/7c9e8114-abae-93a6-fb7c-41ccf9f7cde5/AppIcon-0-0-85-220-0-0-4-0-2x.png/60x60bb.png" />
-</a><h2>
-  优惠信息（价格：<span>¥15.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥15.00]</span>）
-</h2><h2>应用描述</h2><p>
-  1、完全照顾你的记事本使用习惯
-记事本+ 启动速度快，界面简洁，和其它平台记事本高度兼容，同样支持在左下角显示行列数字、字符数。右下角还可以显示文件类型，支持几十种代码格式的语法高亮显示。
-同时，使用这款记事本可以有效的消除乱码。当你使用Mac内置的 文本编辑 打开文件出现乱码时，你需要 记事本+ 的帮助。
-可以支持古老的ANSI编码文件，支持GBK文本，方便阅读各类中文小说，界面右下角可显示文件编码格式。
-支持快速打开超大文件而不会崩溃，实测19M大小文件(13万行)可以秒开。
-
-2、个性化风格设置
-通过 偏好设置，你可以个性化配置你喜欢的编辑器样式，包括界面主题、字体类型、字体大小、是否自动换行。在菜单栏的“显示”菜单中，也提供了“自动换行”的快速切换，和其它平台记事本一样方便。
-
-3、就连插入日期/时间也同样复刻
-在其它平台记事本中，你可以很方便的插入日期/时间，现在你可以在Mac的 记事本+ 中保留这一体验。
-
-4、延续经典的.LOG功能
-通过在文件第一行加入 .LOG标记，每次打开文档时，即可自动插入当前日期和时间，便于进行日志记录。
-
-5、AI实验室，智能助手功能强大
-文本翻译，支持201种语言自动识别，翻译为中文或者英文，选中文字后点击翻译菜单即可
-查询本机IP地址，包括地理位置
-今日天气，明日天气，显示所在地区天气和空气质量
-今日历史，显示历史上的今天
-名人名言，随机显示多条名人名言
-人民币大写，选中数字后，转换为人民币大写金额
-
-更多AI实验室功能将陆续加入：
-智能创作，全文校对，文章简报，主题词提取...
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/98/55/86/985586ca-43d2-35e2-8cb3-62d1fa82b4ac/5e3cf5c7-d3dd-444e-9dc7-ec0126dabcbf_notepad-1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6f/c3/ea/6fc3ea22-d20b-6ae2-8610-94fb00658da1/2ef87a69-777c-45a9-9dec-4550278cba94_notepad-2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0a/fb/85/0afb8567-fa5f-9896-0d06-f1df0b9f3f43/c5de7e6f-59a7-4f7d-bcca-a31e5983c6b1_notepad-6.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a6/49/ed/a649ed6b-aa73-3f8c-d6e5-f6d254a62d4d/fbd922e9-6d2c-403a-9577-fcbc37fe44a2_notepad-3.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/85/ab/6c85ab5d-8475-1b10-2024-d8d70ea00ba0/f7acc87d-b575-459c-8677-261b04618cee_notepad-4.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/43/29/2f/43292f07-c486-0a61-1b7c-1f45a566bb7b/91c34706-0bde-4ccb-acb5-f063c8f5d662_notepad-5.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/eb/05/9a/eb059aa4-4032-725f-099c-5475c1412b87/c3365acf-80f1-48d1-8f58-931e042d6bef_notepad-7.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Max NTFS - NTFS磁盘读写助手]]></title>
-        <id>Max NTFS - NTFS磁盘读写助手-cn-1750004429333</id>
-        <link href="https://apps.apple.com/cn/app/max-ntfs-ntfs%E7%A3%81%E7%9B%98%E8%AF%BB%E5%86%99%E5%8A%A9%E6%89%8B/id1575178082?mt=12&amp;uo=4"/>
-        <updated>2025-06-15T16:20:29.333Z</updated>
-        <summary type="html"><![CDATA[Upgrade to Plus Version: ¥88.00 → ¥78.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/max-ntfs-ntfs%E7%A3%81%E7%9B%98%E8%AF%BB%E5%86%99%E5%8A%A9%E6%89%8B/id1575178082?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/45/fd/af45fd74-8295-497a-b50b-38d1fa398833/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/60x60bb.png" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>Upgrade to Plus Version：</strong><span>¥88.00</span> → <b>
-  <strong>¥78.00</strong>
-</b><span>[¥78.00 ~ ¥88.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Max NTFS是一款可以读写方式打开NTFS格式磁盘的小工具。
-
-我们可以非常有效地支持NTFS格式磁盘的读写。
-
-启动应用程序，它会自动检测所有硬盘，在主界面一键操作即可开始读写NTFS格式的磁盘，无需执行繁琐的命令。
-
-提醒：
-
-使用完 NTFS 磁盘后，请勿直接拔下 USB 设备。 请单击应用程序中的弹出按钮以安全弹出。 否则，磁盘的状态可能会变脏（导致软件重新挂载NTFS无效），导致磁盘丢失数据。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/ae/46/df/ae46dfde-223e-0e8c-7005-c295ebe7d1b9/efa1a863-82a2-46c6-b627-5ea21210862e_cn_1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/94/41/e3/9441e392-8d2b-a5fb-220f-3b907ca2fdd9/ffff7ba3-9391-4d09-a41a-e95f94ede3c0_cn_2.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>
