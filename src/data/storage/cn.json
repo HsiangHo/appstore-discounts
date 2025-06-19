@@ -5543,6 +5543,14 @@
     "history": [
       [
         {
+          "timestamp": 1750346338372,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748191896014,
           "price": 0,
           "formattedPrice": "免费",
@@ -24526,6 +24534,14 @@
       "3 Months Subscription": "¥178.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750346338372,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -54516,6 +54532,14 @@
     "history": [
       [
         {
+          "timestamp": 1750346338372,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748191896014,
           "price": 0,
           "formattedPrice": "免费",
@@ -58436,6 +58460,14 @@
       "保费": "¥58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750346338372,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
