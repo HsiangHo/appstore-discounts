@@ -28842,6 +28842,20 @@
     "history": [
       [
         {
+          "timestamp": 1750310268890,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "黄金会员连续包月": "$3.99",
+            "月卡": "$3.99",
+            "黄金会员连续包季": "$10.49",
+            "季卡": "$9.99",
+            "黄金会员连续包年": "$29.99",
+            "连续包月": "$3.99",
+            "年卡": "$29.99"
+          }
+        },
+        {
           "timestamp": 1750307191929,
           "price": 0,
           "formattedPrice": "Free",
@@ -38455,6 +38469,24 @@
       "云投屏时长（1800分钟）": "$12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750310268890,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "ApowerMirror Personal(Monthly)": "$19.99",
+            "ApowerMirror Personal (Yearly)": "$39.99",
+            "900 minutes": "$12.99",
+            "360 minutes": "$3.99",
+            "Buy 3yr membership, get 3 free": "$59.99",
+            "1800 minutes": "$20.99",
+            "Yearly VIP": "$12.99",
+            "Monthly VIP": "$29.99",
+            "Personal 2 Years (Buy 1 get 1)": "$49.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749928391891,
