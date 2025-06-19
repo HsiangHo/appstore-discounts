@@ -105,14 +105,19 @@
         "Upgrade to Plus": 2
       }
     },
+    "1523446532": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "1528890965": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
     },
     "1544190466": {
-      "all": 1,
-      "price": 1,
+      "all": 2,
+      "price": 2,
       "inAppPurchase": {}
     },
     "1575178082": {
@@ -192,6 +197,11 @@
       "inAppPurchase": {}
     },
     "6502489827": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6443786927": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
