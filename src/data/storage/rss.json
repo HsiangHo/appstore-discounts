@@ -1,6 +1,95 @@
 {
   "cn": [
     {
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/0b/be/370bbe94-df5e-37b5-addf-6f6981191514/EN1.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a4/a2/6ca4a263-0229-4f24-5062-d39376710040/EN2.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/28/68/ad286852-7a31-e093-76c9-f67a649ca38b/EN3.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/cf/46/b8cf46ed-b206-f262-9a2c-c2428281c17a/EN4.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/c2/a5/95c2a538-d375-7858-33b6-3a34f0615538/EN5.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/4a/b4/a14ab4dd-9a60-93fc-38f4-17b4b315bf1a/EN6.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/90/3f/e1903f0a-08af-1023-377b-9db8e286c9a5/EN7.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/1e/87/bc1e877f-517b-249c-c9b9-c1a98c4c9bff/EN8.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/97/59/96975995-0734-41d0-7340-68615f3c4283/EN9.png/800x500bb.jpg"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/0b/e4/850be4c7-c491-935d-e276-80c8a4f4edda/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png",
+      "kind": "mac-software",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/superace-software-technology-co-ltd/id1595826625?mt=12&uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/0b/e4/850be4c7-c491-935d-e276-80c8a4f4edda/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/0b/e4/850be4c7-c491-935d-e276-80c8a4f4edda/AppIcon-0-0-85-220-0-0-5-0-2x.png/100x100bb.png",
+      "userRatingCountForCurrentVersion": 0,
+      "sellerUrl": "https://updf.cn",
+      "languageCodesISO2A": [
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "RU",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "fileSizeBytes": "150735644",
+      "formattedPrice": "免费",
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 0,
+      "minimumOsVersion": "11.0",
+      "artistId": 1595826625,
+      "artistName": "Superace Software Technology Co., Ltd.",
+      "genres": [
+        "效率",
+        "商务"
+      ],
+      "price": 0,
+      "bundleId": "com.superace.updf.mac",
+      "releaseDate": "2022-05-03T07:00:00Z",
+      "trackId": 1619925971,
+      "trackName": "UPDF - 新一代 AI 智能 PDF 编辑器",
+      "genreIds": [
+        "6007",
+        "6000"
+      ],
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Superace Software Technology Co., Ltd.",
+      "currentVersionReleaseDate": "2025-06-11T01:23:01Z",
+      "releaseNotes": "- 焕然一新，效率倍增！ UPDF 2.0 全新版本免费升级，惊喜不断！ 欢迎所有用户即刻体验 UPDF 2.0 带来的全新改变！\n- 全新 UI，个性皮肤：定制专属风格。\n- 高效工具，批量操作更便捷。\n- 阅读升级：护眼模式更贴心。\n- 功能持续更新：处处皆是惊喜。",
+      "version": "2.0.1",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "UPDF 2.0大版本更新，这是一款AI PDF编辑器，具有AI，阅读，编辑，注释、云同步、转换、加密、裁剪、拆分、文档对比等功能。1个账号付费，全平台都可以使用（电脑＋手机＋iPad）。UPDF 凭借年轻化高颜值的界面设计让你拥有一个愉快轻松的阅读和办公体验。\n主要功能：\n1. 编辑 PDF\n-你可以添加或者删除文本，编辑文本属性和格式，比如字体，颜色，大小等。\n-UPDF 也支持通过修改文本的对齐方式使您的文档看起来更整洁。\n-对于 PDF里的图片，你可以进行裁剪，旋转，替换，提取，删除等操作。\n-你可以直接通过拖拽添加和替换图片。\n-支持添加、删除、和编辑水印、背景、以及页眉页脚。\n\n2. AI 功能\n-对单个或多个PDF文档进行总结。\n-对 PDF 文档进行全文翻译。\n-对 PDF文档进行解释，润色或编写。\n-与 UPDF AI 自由对话。\n-支持与图片进行自由问答。\n-支持将文档总结生成思维导图。\n\n3. 注释 PDF\n-在阅读 PDF 文档的过程中，你可以对文档内容添加注释，比如高亮，下划线，删除线来标注突出重点内容。\n-你也可以通过添加图形和文本框来注释你的PDF 文档。\n-如果需要对某些内容进行注解，你可以在文档任意位置添加便签来输入笔记或者审批意见等。\n-你可以在文档中添加并旋转各种各样的签章和贴纸用以注释和评论。\n-若需要在文档里签名，你也可以直接快速地创建你的签名。\n-通过注释列表一键查看或删除所有注释内容。\n\n4.OCR（光学字符识别）（仅适用于官网下载的版本）\n-将扫描的 PDF 转换为可搜索和可编辑的PDF。\n-支持可根据选择检测的38种语言。\n-将可搜索和可编辑的PDF 转换为纯图像PDF。\n\n5. 转换 PDF\n-你可以将 PDF转换为 Word，Excel，PowerPoint，Image，HTML，Text，CSV，XML，PDFIA等格式。\n-将 Word，Excel，PowerPoint，图片，CAJ转成PDF。\n-转换之后的文档会保持原文档格式不变。\n\n6. 云同步\n-支持上传文档至 UPDF Cloud，实现 PC+移动端全平合同步。\n\n7. 管理 PDF 页面\n-对于页面布局，你可以通过旋转调整页面方向，通过拖拽页面调整页面顺序。\n-如果你需要文档中的某些页面，你可以直接提取它们；另外，当你不需要某个页面时，也可以直接删除它。\n-你可以添加空白页或者从其他文件中添加页面。\n-你也可以快速替换文档中的页面。\n-快速根据页码拆分一个 PDF文档为多个文档。\n-根据需要自定义裁剪页面大小。\n\n8. 浏览和定位 PDF 文档\n-你可以放大或缩小页面，清晰地浏览文档内容。\n-通过在页面添加书签，快速定位找到需要的页面。\n-如果你需要同时查看多个 PDF 文档，不用在另外的窗口打开阅览它们，你可以在同一窗日多个标签打开预览，这样更简单快捷。\n-想要快速找到某文本内容，可以一键搜索查找定位文本。\n-快速通过缩略图旋转，删除，旋转和打印 PDF 页面。\n-通过幻灯片的形式攝放 PDF文档。\n\n9. 保护文档\n-可添加文档打开密码防止末经授权的用户打开。\n-可设置文档功能权限控制密码，限制其他用户打印、編辑、复制 PDF 文档等。\n-支持两个文档进行对比，查看不同之处。\n-数字签名，防止他人篡改文件内容。\n-支持马赛克（密文）重要信息。\n\n10. 创建 PDF\n-创建空白页。\n-从选区、窗口、或屏幕捕捉创建 PDF。\n\n11. 扁平化 PDF\n-快速扁平化 PDE，压平文档中的图层。\n\n12. 批量处理\n-支持批量转换，合并，OCR，压缩，打印，创建，水印，页眉页脚，贝茨编码，插入，背景，加密，删除。",
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "UPDF - 新一代 AI 智能 PDF 编辑器",
+      "trackViewUrl": "https://apps.apple.com/cn/app/updf-%E6%96%B0%E4%B8%80%E4%BB%A3-ai-%E6%99%BA%E8%83%BD-pdf-%E7%BC%96%E8%BE%91%E5%99%A8/id1619925971?mt=12&uo=4",
+      "averageUserRating": 0,
+      "userRatingCount": 0,
+      "inAppPurchases": {
+        "永久授权": "¥238.00",
+        "年度订阅": "¥148.00",
+        "UPDF AI 标准版": "¥148.00",
+        "UPDF AI 无限版": "¥238.00",
+        "UPDF Pro + AI 无限": "¥428.00",
+        "UPDF Pro + UPDF AI 标准版": "¥238.00",
+        "季度订阅": "¥88.00",
+        "UPDF Pro + AI 无限版": "¥338.00"
+      },
+      "timestamp": 1750360396645,
+      "discounts": [
+        {
+          "type": "inAppPurchase",
+          "name": "永久授权",
+          "from": "¥338.00",
+          "to": "¥238.00",
+          "range": "[¥238.00 ~ ¥338.00]"
+        }
+      ]
+    },
+    {
       "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d8/b3/f1/d8b3f1de-215d-fa87-b188-190d844468e0/ec30f84c-9f98-43ff-a9a5-57a632f18b1f_5.jpg/406x228bb.jpg",
@@ -1813,76 +1902,6 @@
           "range": "[¥198.00 ~ ¥228.00]"
         }
       ]
-    },
-    {
-      "kind": "mac-software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/ca/73/e9ca7323-84d2-047c-1609-8e657e0eb97e/5a50f404baa27c1488934de8c030e532.png/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/b5/ff/fcb5ffaf-95f5-7952-9950-298088193e0f/ce8c09195637625df422c61122ad14ae.png/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/fb/e9/63fbe99d-8074-09f3-3373-2263d3c7509c/_U52a8_U6001.jpg/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/9d/81/409d8183-19f5-5fec-e5c3-5804a4d268a4/_U9759_U6001.jpg/800x500bb.jpg"
-      ],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/4c/d2/cb4cd29c-9d6b-6df0-4865-8d6db6ef86bb/AppIcon-85-220-0-4-2x.png/60x60bb.png",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/4c/d2/cb4cd29c-9d6b-6df0-4865-8d6db6ef86bb/AppIcon-85-220-0-4-2x.png/512x512bb.png",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/4c/d2/cb4cd29c-9d6b-6df0-4865-8d6db6ef86bb/AppIcon-85-220-0-4-2x.png/100x100bb.png",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%90%88%E8%82%A5%E8%AF%BA%E6%8B%89%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1576794159?mt=12&uo=4",
-      "minimumOsVersion": "10.15",
-      "artistId": 1576794159,
-      "artistName": "合肥诺拉网络科技有限公司",
-      "genres": [
-        "工具"
-      ],
-      "price": 0,
-      "releaseNotes": "修复已知问题\n优化用户体验",
-      "genreIds": [
-        "6002"
-      ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "bundleId": "com.bizhi.nora",
-      "releaseDate": "2021-07-27T07:00:00Z",
-      "trackId": 1576794157,
-      "trackName": "飞火动态壁纸-4k超清视频桌面主题壁纸引擎",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Hefei Nora Network Technology co., ltd",
-      "currentVersionReleaseDate": "2025-02-17T02:17:43Z",
-      "version": "1.4.0",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "【动态视频桌面】\n一键设置动态壁纸，唤醒你沉睡的桌面\n【海量超清壁纸】\n每日更新新鲜壁纸，让你的桌面每天焕然一新\n【趣味交互壁纸】各类特色交互壁纸，移动鼠标开启和桌面的有趣互动\n飞火动态壁纸拥有海量壁纸资源，超清无水印动态壁纸、优质静态壁纸大全一键美化你的桌面，让你的桌面动起来！ 更有各种隐藏彩蛋等着你哦！",
-      "trackCensoredName": "飞火动态壁纸-4k超清视频桌面主题壁纸引擎",
-      "languageCodesISO2A": [
-        "EN",
-        "ZH"
-      ],
-      "fileSizeBytes": "78464417",
-      "formattedPrice": "免费",
-      "contentAdvisoryRating": "17+",
-      "userRatingCountForCurrentVersion": 0,
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E9%A3%9E%E7%81%AB%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8-4k%E8%B6%85%E6%B8%85%E8%A7%86%E9%A2%91%E6%A1%8C%E9%9D%A2%E4%B8%BB%E9%A2%98%E5%A3%81%E7%BA%B8%E5%BC%95%E6%93%8E/id1576794157?mt=12&uo=4",
-      "trackContentRating": "17+",
-      "averageUserRating": 0,
-      "averageUserRatingForCurrentVersion": 0,
-      "userRatingCount": 0,
-      "inAppPurchases": {
-        "一个月会员": "¥8.00",
-        "新1年会员": "¥39.00",
-        "三个月会员": "¥15.00",
-        "一年会员": "¥58.00",
-        "永久会员": "¥188.00",
-        "3年会员": "¥88.00",
-        "1年会员-超低价": "¥29.00"
-      },
-      "timestamp": 1750101241971,
-      "discounts": [
-        {
-          "type": "inAppPurchase",
-          "name": "三个月会员",
-          "from": "¥22.00",
-          "to": "¥15.00",
-          "range": "[¥15.00 ~ ¥22.00]"
-        }
-      ]
     }
   ],
   "us": [
@@ -3189,76 +3208,6 @@
           "from": "$5.99",
           "to": "$0.99",
           "range": "[$0.99 ~ $5.99]"
-        }
-      ]
-    },
-    {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/ca/73/e9ca7323-84d2-047c-1609-8e657e0eb97e/5a50f404baa27c1488934de8c030e532.png/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/b5/ff/fcb5ffaf-95f5-7952-9950-298088193e0f/ce8c09195637625df422c61122ad14ae.png/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/fb/e9/63fbe99d-8074-09f3-3373-2263d3c7509c/_U52a8_U6001.jpg/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/9d/81/409d8183-19f5-5fec-e5c3-5804a4d268a4/_U9759_U6001.jpg/800x500bb.jpg"
-      ],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/4c/d2/cb4cd29c-9d6b-6df0-4865-8d6db6ef86bb/AppIcon-85-220-0-4-2x.png/60x60bb.png",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/4c/d2/cb4cd29c-9d6b-6df0-4865-8d6db6ef86bb/AppIcon-85-220-0-4-2x.png/512x512bb.png",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/4c/d2/cb4cd29c-9d6b-6df0-4865-8d6db6ef86bb/AppIcon-85-220-0-4-2x.png/100x100bb.png",
-      "artistViewUrl": "https://apps.apple.com/us/developer/%E5%90%88%E8%82%A5%E8%AF%BA%E6%8B%89%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1576794159?mt=12&uo=4",
-      "kind": "mac-software",
-      "minimumOsVersion": "10.15",
-      "averageUserRatingForCurrentVersion": 0,
-      "averageUserRating": 0,
-      "trackCensoredName": "飞火动态壁纸-4k超清视频桌面主题壁纸引擎",
-      "languageCodesISO2A": [
-        "EN",
-        "ZH"
-      ],
-      "fileSizeBytes": "78464417",
-      "formattedPrice": "Free",
-      "contentAdvisoryRating": "17+",
-      "userRatingCountForCurrentVersion": 0,
-      "trackViewUrl": "https://apps.apple.com/us/app/%E9%A3%9E%E7%81%AB%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8-4k%E8%B6%85%E6%B8%85%E8%A7%86%E9%A2%91%E6%A1%8C%E9%9D%A2%E4%B8%BB%E9%A2%98%E5%A3%81%E7%BA%B8%E5%BC%95%E6%93%8E/id1576794157?mt=12&uo=4",
-      "trackContentRating": "17+",
-      "artistId": 1576794159,
-      "artistName": "合肥诺拉网络科技有限公司",
-      "genres": [
-        "Utilities"
-      ],
-      "price": 0,
-      "trackId": 1576794157,
-      "trackName": "飞火动态壁纸-4k超清视频桌面主题壁纸引擎",
-      "bundleId": "com.bizhi.nora",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "releaseDate": "2021-07-27T07:00:00Z",
-      "sellerName": "Hefei Nora Network Technology co., ltd",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6002"
-      ],
-      "currentVersionReleaseDate": "2025-02-17T02:17:43Z",
-      "releaseNotes": "修复已知问题\n优化用户体验",
-      "version": "1.4.0",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "【动态视频桌面】\n一键设置动态壁纸，唤醒你沉睡的桌面\n【海量超清壁纸】\n每日更新新鲜壁纸，让你的桌面每天焕然一新\n【趣味交互壁纸】各类特色交互壁纸，移动鼠标开启和桌面的有趣互动\n飞火动态壁纸拥有海量壁纸资源，超清无水印动态壁纸、优质静态壁纸大全一键美化你的桌面，让你的桌面动起来！ 更有各种隐藏彩蛋等着你哦！",
-      "userRatingCount": 0,
-      "inAppPurchases": {
-        "5张壁纸券": "$3.99",
-        "三个月会员": "$1.99",
-        "新1年会员": "$5.99",
-        "一个月会员": "$0.99",
-        "一年会员": "$7.99",
-        "1张壁纸券": "$0.99",
-        "20张壁纸券": "$7.99"
-      },
-      "timestamp": 1750101241971,
-      "discounts": [
-        {
-          "type": "inAppPurchase",
-          "name": "三个月会员",
-          "from": "$2.99",
-          "to": "$1.99",
-          "range": "[$1.99 ~ $2.99]"
         }
       ]
     }
