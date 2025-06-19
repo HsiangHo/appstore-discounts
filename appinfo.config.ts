@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 6502489827,
+    name: {
+      cn: '大侠立志传',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1439723850,
     name: {
       cn: '时间规划局 - 倒计时与提醒事项',

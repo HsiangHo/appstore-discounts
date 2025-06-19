@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-19T09:25:04.226Z</updated>
+    <updated>2025-06-19T11:21:06.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-19T09:25:04.227Z</updated>
+        <updated>2025-06-19T11:21:06.685Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnThu, 19 Jun 2025 09:25:04 GMT</id>
+        <id>rankingcnThu, 19 Jun 2025 11:21:06 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-19T09:25:04.227Z</updated>
+        <updated>2025-06-19T11:21:06.685Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -50,13 +50,13 @@ feedId:49753297431966720+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>856</b>
+        <b>857</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>856</b>
+        <b>857</b>
       </td>
       <td>
         <b></b>
@@ -67,13 +67,13 @@ feedId:49753297431966720+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>844</b>
+        <b>845</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>844</b>
+        <b>845</b>
       </td>
       <td>
         <b></b>
@@ -715,6 +715,23 @@ feedId:49753297431966720+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>31</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6502489827">大侠立志传</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -726,6 +743,29 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大侠立志传]]></title>
+        <id>大侠立志传-cn-1750331749625</id>
+        <link href="https://apps.apple.com/cn/app/%E5%A4%A7%E4%BE%A0%E7%AB%8B%E5%BF%97%E4%BC%A0/id6502489827?uo=4"/>
+        <updated>2025-06-19T11:15:49.625Z</updated>
+        <summary type="html"><![CDATA[价格: ¥25.00 → ¥18.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%A4%A7%E4%BE%A0%E7%AB%8B%E5%BF%97%E4%BC%A0/id6502489827?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/22/4e/ec224e2b-0c6f-27fb-4046-519d2fffc402/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥25.00</span> → <b>
+  <strong>¥18.00</strong>
+</b><span>[¥18.00 ~ ¥25.00]</span>）
+</h2><h2>应用描述</h2><p>
+  随时随地，行侠仗义！《大侠立志传》是半瓶神仙醋开发的开放世界武侠RPG游戏。这是一款像素版江湖生存模拟器，你将扮演一个初出茅庐的市井小人物，体验多样身份，在江湖中摸爬滚打，最终脱颖而出。
+
+【游戏特色】
+- 百余种武学功法，拳掌刀剑，枪棍音律，内外兼修，皆可自行搭配。成为十字坡剑圣，亦可精通百家所长。
+- 多分支走向。游戏中没有真正意义上的主线，在充满抉择的江湖中从心选择吧。
+- 丰富的NPC交互玩法，结交五都侠客（侣），游走于盘杂的人际势力，经营你的江湖关系网。
+- 奇遇和危险并存的真实武林。江湖并非非黑即白，遇事不一定要用拳头解决，采取多种方式应对，并坦然接受不一样的结局。
+- 充满烟火气息的像素武侠世界。游戏中有着自然流逝的时间，各色NPC都有自己独立的行为AI。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/54/24/4f542420-af03-f2cf-5498-a7cf09f4244d/e1d7c992-9fdb-405b-a651-168b2c74ab23__U6e38_U620f_U622a_U56fe3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/22/a0/ff22a04e-1331-1bed-b461-7a992b8a18cb/5e0dc135-f2e2-43cf-9e2e-a62497d305aa__U6e38_U620f_U622a_U56fe4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/cb/36/a5cb3693-4a65-089d-a51f-263f7f68c8db/92920d02-ac78-4268-a1d6-dbe4045e0fd8__U6e38_U620f_U622a_U56fe5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/81/30/7f81300d-3c34-55d5-693a-db686b390586/a71bcdbc-f809-4258-8e7c-2bf1715940a0__U6e38_U620f_U622a_U56fe6.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/83/30/358330a0-762e-ce4b-f563-3d2705e9addb/8f9f9a83-46a5-40dd-9ed7-53bdcd5c029c__U6e38_U620f_U622a_U56fe7.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/36/98/1936983c-31fd-2e61-d25b-fa034ecf28c6/ba495b9b-a0a7-4ca1-84a9-ee18463568b9__U6e38_U620f_U622a_U56fe1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/1e/21/cb1e2143-3719-7a39-78b4-8fd2ecd61ada/c5aefa83-d89e-4e81-ad49-fb0917fd35dc__U6e38_U620f_U622a_U56fe8.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/db/1c/12db1c09-3e3b-6b20-5686-419a4afd0b5b/a099de5c-ae04-4bd1-a822-6d3ca2aed3dd__U6e38_U620f_U622a_U56fe9.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/a0/b3/bba0b335-edd3-ee6f-aaaf-6a8e908db818/ae94d07e-e25d-4577-a22b-a035316b5058__U6e38_U620f_U622a_U56fe10.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/00/a1/9b00a1f7-7ba6-b49b-5817-52e5b344c1db/2f899927-f4f4-43a1-8426-c2e1eef9d533__U6e38_U620f_U622a_U56fe2.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/48/d0/0648d0f0-7c98-e16b-45e9-9e295002cf85/e5de0797-f1d1-447b-b455-3ca2ef016f01__U6e38_U620f_U622a_U56fe3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/fd/42/45fd42d5-fde3-3465-d221-da0e89aca44d/f98aa5f0-54a5-4a3e-be52-f2b90419df14__U6e38_U620f_U622a_U56fe4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/f9/3c/f4f93c60-e795-4637-8893-30c3363ef871/4eda74ff-71e1-4c6b-a9e7-2f68a78fd69b__U6e38_U620f_U622a_U56fe5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/05/9d/37059d20-c5f5-2615-d42b-b34a0c84d40d/c9b2924f-1573-44c1-ab29-b754ce27eece__U6e38_U620f_U622a_U56fe6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/91/cf/4591cf9b-6cba-4cbc-2f5f-e46d7f874614/69fc0518-8393-406b-bce8-d28bbef29fbc__U6e38_U620f_U622a_U56fe7.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/a8/d9/eda8d9d0-2cec-3fa6-4c10-63389fab0677/3965f7b4-86fa-48eb-9afd-e683c0cd8868__U6e38_U620f_U622a_U56fe1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/4d/66/0b4d666e-b18f-d89f-b85c-4cc5b6da7c86/f13184da-289e-4ce0-b712-1b265b66fe46__U6e38_U620f_U622a_U56fe9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/92/e7/4e92e7cb-e470-c86e-837a-fb5cad0b27cf/12baf54e-5015-416c-95b2-deaa24866c2d__U6e38_U620f_U622a_U56fe8.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/7d/2c/1c7d2c23-a1fe-2e7b-eac3-de2ba3e6867d/94ee0c7c-f11c-420e-8e55-8b0e2bb0d07b__U6e38_U620f_U622a_U56fe10.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/75/2b/8b752b4a-40b3-1a34-fa42-350c650a378b/fd3e48be-ac43-490d-ae60-aaae8df83ef4__U6e38_U620f_U622a_U56fe2.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DM1 - The Drum Machine]]></title>
@@ -1061,40 +1101,5 @@ https://www.mixvibes.com/privacy
 【趣味交互壁纸】各类特色交互壁纸，移动鼠标开启和桌面的有趣互动
 飞火动态壁纸拥有海量壁纸资源，超清无水印动态壁纸、优质静态壁纸大全一键美化你的桌面，让你的桌面动起来！ 更有各种隐藏彩蛋等着你哦！
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/ca/73/e9ca7323-84d2-047c-1609-8e657e0eb97e/5a50f404baa27c1488934de8c030e532.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/b5/ff/fcb5ffaf-95f5-7952-9950-298088193e0f/ce8c09195637625df422c61122ad14ae.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/fb/e9/63fbe99d-8074-09f3-3373-2263d3c7509c/_U52a8_U6001.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/9d/81/409d8183-19f5-5fec-e5c3-5804a4d268a4/_U9759_U6001.jpg/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音频剪辑 – 手机铃声制作&mp3音乐剪辑]]></title>
-        <id>音频剪辑 – 手机铃声制作&amp;mp3音乐剪辑-cn-1750069227206</id>
-        <link href="https://apps.apple.com/cn/app/%E9%9F%B3%E9%A2%91%E5%89%AA%E8%BE%91-%E6%89%8B%E6%9C%BA%E9%93%83%E5%A3%B0%E5%88%B6%E4%BD%9C-mp3%E9%9F%B3%E4%B9%90%E5%89%AA%E8%BE%91/id1339124759?uo=4"/>
-        <updated>2025-06-16T10:20:27.206Z</updated>
-        <summary type="html"><![CDATA[月度会员: ¥38.00 → ¥35.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E9%9F%B3%E9%A2%91%E5%89%AA%E8%BE%91-%E6%89%8B%E6%9C%BA%E9%93%83%E5%A3%B0%E5%88%B6%E4%BD%9C-mp3%E9%9F%B3%E4%B9%90%E5%89%AA%E8%BE%91/id1339124759?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/9f/00/cf9f0079-ce90-8228-c4e5-1e03c6311f25/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>月度会员：</strong><span>¥38.00</span> → <b>
-  <strong>¥35.00</strong>
-</b><span>[¥35.00 ~ ¥38.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  想制作属于自己独特炫酷的苹果手机铃声吗？或者有时会想把多首歌曲拼接起来当串烧，合并成自己想要的音乐？还是想知道不同歌曲混音后效果？
-音乐剪辑（幂果）是一款操作方便的音乐mp3剪切合并混音工具。简单出色，功能实用！不管你是专业音乐人还是音乐小白，都能轻松玩转。
-
-功能特点：
-1、专业的铃声剪辑：可自由剪辑，已为您设定铃声最大时长为40s（符合手机铃声特点）！
-2、简单的音乐拼接：歌曲剪辑拼接为一体，串烧喜欢的歌曲吧！
-3、独特的混音合成：随意剪辑两首曲子，混合一起播放，可以感受不一样的音乐效果！
-
-订阅说明：
-- 订阅VIP后，您可以无限制使用所有的功能
-- 订阅提供4个时间段的VIP服务，包括：每周VIP服务，每月VIP服务，每年VIP服务，永久VIP服务
-- 订阅每周15元，每月30元，每年88元和永久98元
-- 购买过程是从iTunes账户中扣除购买金额
-- 账户将在当前周期前 24 小时内按所选套餐的费用收取费用
-- 有效订阅期间不允许取消当前订阅。但您可以取消下一次订阅。
-- 您可以访问(长按) https://www.camoryapps.com/netpower/privacy_policy/musicmixer_cn.html 来阅读我们的隐私政策
-- 您可以访问(长按) https://www.camoryapps.com/netpower/service/musicmixer_cn.html 来阅读服务条款
-*价格相当于“苹果App Store矩阵”所确定的相当于以美元为单位的认购价。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/29/49/11/29491182-5df7-ad1e-c9b0-ac2a24f48a2e/1e304ac9-b23f-4e72-95d7-932218b86dd7_5.5_U82f1_U5bf81_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3f/13/3a/3f133a57-559b-71d3-17f5-f735b3e3d016/d917d6b6-78fc-4dbc-b995-dfbb45058b10_5.5_U82f1_U5bf82_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/aa/e8/08aae87f-0536-f70e-2305-f48103fe08ec/13ed63c2-0e3c-4332-95cd-195f01145a81_5.5_U82f1_U5bf83_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/70/a4/0a70a4c4-54e0-8acc-e3ef-8b5b8b46b6c6/294c541f-8023-449d-8c07-5a02b47dd8df_5.5_U82f1_U5bf84_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/18/0a/58180a1a-3f35-a19a-0309-a95f7a7c9c29/f0e65d15-4c0b-46d3-8286-20c61ba8e2ca_5.5_U82f1_U5bf85_cn.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/22/40/23/224023c1-1bd0-8118-6abe-2a75d7bb8d48/e9ae84ee-8b06-411d-82be-64ec8c0b44d5_12.9_U82f1_U5bf81_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d2/68/ed/d268edcb-346b-40ca-9f1d-f1a1617520b1/a1b344cd-34f3-44dd-98be-468601f88e3a_12.9_U82f1_U5bf82_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3d/11/d9/3d11d970-9c33-4b79-2956-46725b2c8168/b81d0e54-3a35-4aca-be78-4a6d55949114_12.9_U82f1_U5bf83_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b4/64/93/b4649310-9ec4-6e83-2c72-644217fcdd41/e5d7e6ab-9225-4860-9f42-ad553978548d_12.9_U82f1_U5bf84_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e5/97/85/e5978592-d3dc-9a0c-0fcc-1070189f4286/b401ad29-510b-4371-b581-f5e15f9cc8ae_12.9_U82f1_U5bf85_cn.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
