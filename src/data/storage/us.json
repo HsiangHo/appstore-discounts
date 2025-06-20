@@ -5801,6 +5801,25 @@
     "history": [
       [
         {
+          "timestamp": 1750393527586,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Synth Lead": "$1.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Synth Plucks": "$1.99",
+            "Groove Machine Synth": "$0.00",
+            "Transistor Bass": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750339831102,
           "price": 14.99,
           "formattedPrice": "$14.99",
