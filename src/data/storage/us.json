@@ -14299,6 +14299,23 @@
     "history": [
       [
         {
+          "timestamp": 1750446849844,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "5分钟下载券（忙时）": "$0.99",
+            "简单听记600分钟时长包": "$9.99",
+            "简单听记60分钟时长包": "$2.99",
+            "简单听记300分钟时长包": "$5.99",
+            "简单听记30分钟时长包": "$0.99",
+            "简单听记180分钟时长包": "$4.99",
+            "简单听记听记会员(7天体验卡+自动续费)": "$3.99",
+            "简单听记听记会员(7天体验卡+月卡自动续费)(首充)": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750148720760,
           "price": 0,
           "formattedPrice": "Free",
@@ -60730,6 +60747,25 @@
       "Monthly package": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750446849844,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "10 device/month": "$64.99",
+            "5 device/month": "$29.99",
+            "2 device/month": "$11.99",
+            "1 device/month": "$5.99",
+            "10000 hours VIP members": "$59.99",
+            "3000 hours VIP members": "$23.99",
+            "1800 hours VIP members": "$15.99",
+            "500 hour VIP members": "$7.99",
+            "Continuous package year": "$49.99",
+            "Package annual package": "$59.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750152019196,
