@@ -4737,6 +4737,42 @@
     "history": [
       [
         {
+          "timestamp": 1750407868626,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "Acoustic Guitars": "¥8.00",
+            "Tuned 808 Bass": "¥8.00",
+            "Amped Guitar & Bass": "¥22.00",
+            "Voices": "¥8.00",
+            "Varazdin Orchestral Mobile": "¥28.00",
+            "Synth Lead": "¥15.00",
+            "Groove Machine Synth": "¥0.00",
+            "Synth Plucks": "¥15.00",
+            "Sliced Beats": "¥8.00",
+            "Transistor Bass": "¥0.00"
+          }
+        },
+        {
+          "timestamp": 1750407868626,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "Ferrous Mobile": "¥22.00",
+            "Hyper-Pop Mobile": "¥22.00",
+            "Chip-Tune Mobile": "¥22.00",
+            "Essential Winds": "¥15.00",
+            "Essential Strings": "¥15.00",
+            "DubTechno": "¥15.00",
+            "Chill-Lo-Fi Mobile": "¥15.00",
+            "Technocraft": "¥15.00",
+            "Brazil Bass": "¥15.00",
+            "PsyTrance": "¥22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750134406591,
           "price": 88,
           "formattedPrice": "¥88.00",
