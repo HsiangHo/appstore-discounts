@@ -52900,6 +52900,19 @@
     "history": [
       [
         {
+          "timestamp": 1750454169835,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Unlock all (including updates)": "¥998.00",
+            "Vythm PRO": "¥22.00",
+            "All features and modes": "¥198.00",
+            "Vythm PRO special offer": "¥48.00",
+            "Gears for desktop devices": "¥38.00",
+            "Gears for mobile devices": "¥38.00"
+          }
+        },
+        {
           "timestamp": 1750450794838,
           "price": 0,
           "formattedPrice": "免费",

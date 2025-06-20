@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-20T15:24:03.716Z</updated>
+    <updated>2025-06-20T21:22:16.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-20T15:24:03.718Z</updated>
+        <updated>2025-06-20T21:22:16.813Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnFri, 20 Jun 2025 15:24:03 GMT</id>
+        <id>rankingcnFri, 20 Jun 2025 21:22:16 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-20T15:24:03.718Z</updated>
+        <updated>2025-06-20T21:22:16.813Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -609,6 +609,31 @@ feedId:49753297431966720+userId:73658201673997312
         <b>26</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1550581532">Vythm JR - 音乐可视化 VJ & DJ</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>Vythm PRO</i>：<b>1</b>
+              </li><li>
+                <i>All features and modes</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>27</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1575178082">Max NTFS - NTFS磁盘读写助手</a>
       </td>
       <td>
@@ -629,7 +654,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1576064082">DeviceMirror Pro -无线有线手机投屏</a>
@@ -646,7 +671,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1598771178">DeviceMirror Lite -无线手机投屏</a>
@@ -669,7 +694,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737146353">MateFox - VPN&全球网络加速器&无限流量</a>
@@ -692,7 +717,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737795387">鬼谷八荒</a>
@@ -717,7 +742,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6444789815">记事本++</a>
@@ -734,7 +759,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6502489827">大侠立志传</a>
@@ -751,7 +776,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6443786927">全面憨憨战争模拟器</a>
@@ -777,6 +802,59 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vythm JR - 音乐可视化 VJ & DJ]]></title>
+        <id>Vythm JR - 音乐可视化 VJ &amp; DJ-cn-1750454169835</id>
+        <link href="https://apps.apple.com/cn/app/vythm-jr-%E9%9F%B3%E4%B9%90%E5%8F%AF%E8%A7%86%E5%8C%96-vj-dj/id1550581532?uo=4"/>
+        <updated>2025-06-20T21:16:09.835Z</updated>
+        <summary type="html"><![CDATA[Vythm PRO: ¥68.00 → ¥22.00<br/>All features and modes: ¥298.00 → ¥198.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/vythm-jr-%E9%9F%B3%E4%B9%90%E5%8F%AF%E8%A7%86%E5%8C%96-vj-dj/id1550581532?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/4c/1a/4d4c1a8f-6bf6-f4e3-6198-f4c2f5b0efac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>Vythm PRO：</strong><span>¥68.00</span> → <b>
+  <strong>¥22.00</strong>
+</b><span>[¥22.00 ~ ¥68.00]</span>
+  </li><li>
+    <strong>All features and modes：</strong><span>¥298.00</span> → <b>
+  <strong>¥198.00</strong>
+</b><span>[¥198.00 ~ ¥298.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  --- 体验您的音乐与Vythm ---
+解锁音乐可视化的潜力与Vythm！Vythm是一个多功能的音乐可视化应用，允许您与您选择的音乐和谐地创造视觉艺术作品。它包含多种独特的可视化模式，包括均衡器、曼陀罗、形状、流体、迷幻、梦境等。选择一个背景并应用图像效果，完全个性化您的可视化。
+
+--- 您的愿景，您的可视化 ---
+Vythm为您提供众多选项来实现您的创意愿景：
+- 超过100个精心挑选的背景。
+- MIDI输入以精确的视觉控制。
+- NDI流媒体支持，用于分享您的创作。
+- 实时图像效果，如颜色校正、绽放、色差等。
+- 大小、旋转和方向调整。
+- 还有更多！
+
+均衡器、节奏和同伴模式免费提供，而其他模式可以通过订阅解锁。
+
+--- 输入格式 ---
+从多种来源选择您的音乐：
+- 导入任何mp3或m4a文件。
+- 访问您的iTunes库（请注意，目前不支持Apple Music）。
+- 利用您设备的麦克风，针对不同的使用情况调整灵敏度。
+- 享受三首预选歌曲，快速获得灵感。
+
+--- 录制您的杰作 ---
+Vythm提供录制功能，使您能够分享或保存您的创作。随时重访您的沉浸式视觉世界或用您的艺术杰作惊艳您的观众。
+
+--- 分享您的想法 ---
+我们的首要任务是为您提供最佳体验。如果您遇到问题或有新功能的想法，请不要犹豫，通过info@mkgames.org与我们联系。
+
+如果您喜欢这个应用，我们非常感激您的反馈和评价！感谢您选择Vythm！
+
+立即下载并体验Vythm（音乐可视化2024 / 音频可视化器）！
+
+使用条款：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/cf/b6/32cfb6c4-a7ed-d003-57cb-e398e8500472/969b8d5c-328b-4594-adae-d169c8a20d22_iPhone_8_Plus_-_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/8f/c1/348fc1a6-1eb8-312d-342b-9bb91573f8a5/37871899-1163-44b0-9b6b-5c5639aa6f75_iPhone_8_Plus_-_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/0f/34/440f34a7-6b35-7142-6a29-2f7ccaa970f0/a944b2c6-1f21-45b9-91a7-d29c742548de_iPhone_8_Plus_-_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/57/cc/0557cc2a-c016-363b-38da-da705a3323de/2f7d3b6e-de33-416e-8b28-a6e179eb8218_iPhone_8_Plus_-_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/cd/e7/aacde7db-acf2-7ed5-2ca9-1fa26e9fe54c/26ca2506-fa5c-42cf-b48a-2894faac0978_iPhone_8_Plus_-_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/06/b8/a906b850-7573-827a-a0e6-94e98601796a/9cecd023-d9e5-48ad-b562-090d8cd4dcf8_iPad_Pro_12.9__-_1__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/b8/eb/5eb8eb38-3f40-c460-f6fb-71238c38d845/38b748ef-00ec-4f92-ada5-328ddd019b69_iPad_Pro_12.9__-_2__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/ad/d5/a2add544-3f83-3277-879c-c012a5866944/af682f10-d7a2-432f-a21a-ff34c853dc49_iPad_Pro_12.9__-_3__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/2e/37/f82e374f-a4a8-ade7-23f1-b1ace6f49ef1/f9045d4d-cc6a-40d1-bbba-5c2d6c722551_iPad_Pro_12.9__-_4__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/d8/d4/2fd8d494-4e2b-35a7-70af-bc5754407c52/78378f23-5337-4063-b6bc-7065901f41d4_iPad_Pro_12.9__-_5__U00282nd_generation_U0029.jpg/576x768bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[UPDF - 新一代 AI 智能 PDF 编辑器]]></title>
