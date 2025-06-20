@@ -13727,6 +13727,23 @@
     "history": [
       [
         {
+          "timestamp": 1750436538242,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Necroa Virus Expansion Pack": "$1.99",
+            "Unlock 7 Standard Plagues": "$2.99",
+            "Neurax Worm Expansion Pack": "$1.99",
+            "Unlock All Genes": "$7.99",
+            "Unlock Cheats": "$9.99",
+            "Plague Pack": "$12.99",
+            "Scenario Pack": "$2.99",
+            "Simian Flu Expansion Pack": "$1.99",
+            "Shadow Plague Expansion Pack": "$1.99",
+            "Unlock Virus": "$0.99"
+          }
+        },
+        {
           "timestamp": 1750432722345,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -28921,6 +28938,20 @@
     "history": [
       [
         {
+          "timestamp": 1750436538242,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "黄金会员连续包月": "$3.99",
+            "月卡": "$3.99",
+            "黄金会员连续包季": "$10.49",
+            "黄金会员连续包年": "$29.99",
+            "季卡": "$9.99",
+            "连续包月": "$3.99",
+            "年卡": "$29.99"
+          }
+        },
+        {
           "timestamp": 1750432722345,
           "price": 0,
           "formattedPrice": "Free",
@@ -38564,6 +38595,23 @@
       "云投屏时长（1800分钟）": "$12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750436538242,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime Membership": "$69.99",
+            "ApowerMirror Personal (Weekly)": "$15.99",
+            "Buy 3yr membership, get 3 free": "$59.99",
+            "傲软投屏个人版（季度订阅）": "$29.99",
+            "ApowerMirror Personal (Yearly)": "$39.99",
+            "ApowerMirror Personal(Monthly)": "$19.99",
+            "Personal 2 Years (Buy 1 get 1)": "$49.99",
+            "云投屏时长（1800分钟）": "$12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750382736884,
@@ -68633,6 +68681,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750436538242,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly Auto-renew Meitu SVIP": "$12.49",
+            "Yearly Auto-renew Meitu SVIP": "$29.99",
+            "1 month - Meitu SVIP": "$4.99",
+            "Quarterly Auto-renew SVIP": "$32.99",
+            "880 Monthly Credits": "$9.99",
+            "12 months-Meitu SVIP": "$39.99",
+            "3 months - Meitu SVIP": "$14.99",
+            "24 months-Meitu SVIP": "$39.99"
+          }
+        },
         {
           "timestamp": 1750432722345,
           "price": 0,
