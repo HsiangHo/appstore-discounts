@@ -14299,6 +14299,23 @@
     "history": [
       [
         {
+          "timestamp": 1750450794838,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "百度网盘自动续费超级会员（1个月）": "$3.99",
+            "百度网盘超级会员折扣价(3个月)": "$9.99",
+            "百度网盘超级会员(1个月)": "$5.99",
+            "百度网盘超级会员(1个月-自动续费)(首充)": "$2.99",
+            "百度网盘超级会员折扣价(6个月)": "$19.99",
+            "百度网盘会员(3个月)": "$3.99",
+            "百度网盘超级会员(1个月-自动续费)": "$3.99",
+            "百度网盘超级会员1年（7.5折）": "$39.99",
+            "百度网盘自动续费超级会员（3个月）": "$10.49",
+            "百度网盘自动续费超级会员（12个月）": "$39.99"
+          }
+        },
+        {
           "timestamp": 1750446849844,
           "price": 0,
           "formattedPrice": "Free",
@@ -21702,6 +21719,25 @@
       "100 Telegram Stars": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750450794838,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "10000 Telegram Stars": "$199.00",
+            "5000 Telegram Stars": "$99.00",
+            "25000 Telegram Stars": "$509.00",
+            "35000 Telegram Stars": "$709.00",
+            "750 Telegram Stars": "$14.99",
+            "75 Telegram Stars": "$1.59",
+            "250 Telegram Stars": "$5.09",
+            "1500 Telegram Stars": "$29.99",
+            "2500 Telegram Stars": "$50.90",
+            "350 Telegram Stars": "$7.09"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750216516840,
@@ -60748,6 +60784,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750450794838,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Continuous cycle": "$5.49",
+            "500 hour VIP members": "$7.99",
+            "Continuous monthly payment": "$5.49",
+            "Continuous cropping season": "$15.99",
+            "1800 hours VIP members": "$15.99",
+            "1 device/month": "$5.99",
+            "2 device/month": "$11.99",
+            "Experience package": "$2.99",
+            "3000 hours VIP members": "$23.99",
+            "Monthly package": "$6.99"
+          }
+        },
         {
           "timestamp": 1750446849844,
           "price": 0,
