@@ -5546,6 +5546,14 @@
     "history": [
       [
         {
+          "timestamp": 1750429038027,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750169904669,
           "price": 0,
           "formattedPrice": "免费",
@@ -27874,6 +27882,24 @@
       "解锁完整版": "¥138.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750429038027,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "解锁完整版": "¥208.00"
+          }
+        },
+        {
+          "timestamp": 1750429038027,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "解锁完整版": "¥138.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749853020218,
@@ -59046,6 +59072,18 @@
     "history": [
       [
         {
+          "timestamp": 1750429038027,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "UPDF Pro + AI 无限": "¥428.00",
+            "UPDF AI 无限版": "¥238.00",
+            "UPDF Pro + AI 无限版": "¥338.00",
+            "永久授权": "¥338.00",
+            "UPDF Pro + UPDF AI 标准版": "¥238.00"
+          }
+        },
+        {
           "timestamp": 1750360396645,
           "price": 0,
           "formattedPrice": "免费",
@@ -70596,6 +70634,14 @@
     "history": [
       [
         {
+          "timestamp": 1750429038027,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749996898153,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -71563,6 +71609,14 @@
     "history": [
       [
         {
+          "timestamp": 1750429038027,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749996898153,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -71872,6 +71926,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750429038027,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749996898153,

@@ -51761,6 +51761,20 @@
     "history": [
       [
         {
+          "timestamp": 1750429038027,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "连续包月": "$5.99",
+            "连续包季": "$17.49",
+            "连续包年": "$64.99",
+            "360天VIP": "$74.99",
+            "90天VIP": "$18.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750123598479,
           "price": 0,
           "formattedPrice": "Free",
