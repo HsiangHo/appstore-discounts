@@ -147,10 +147,10 @@
       }
     },
     "1619925971": {
-      "all": 2,
+      "all": 3,
       "price": 0,
       "inAppPurchase": {
-        "永久授权": 2
+        "永久授权": 3
       }
     },
     "6739523960": {
@@ -263,10 +263,10 @@
       "inAppPurchase": {}
     },
     "1012296988": {
-      "all": 6,
+      "all": 7,
       "price": 0,
       "inAppPurchase": {
-        "连续包月": 6
+        "连续包月": 7
       }
     },
     "1014945607": {
@@ -334,11 +334,11 @@
       "inAppPurchase": {}
     },
     "1442745175": {
-      "all": 2,
+      "all": 3,
       "price": 0,
       "inAppPurchase": {
-        "360天VIP": 2,
-        "90天VIP": 2
+        "360天VIP": 3,
+        "90天VIP": 3
       }
     },
     "1456235760": {
@@ -409,10 +409,10 @@
       }
     },
     "1588231633": {
-      "all": 4,
+      "all": 5,
       "price": 0,
       "inAppPurchase": {
-        "Monthly Auto-renew Meitu SVIP": 2,
+        "Monthly Auto-renew Meitu SVIP": 3,
         "Yearly Auto-renew Meitu SVIP": 2
       }
     },

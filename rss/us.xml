@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-19T09:25:04.234Z</updated>
+    <updated>2025-06-20T15:24:03.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-19T09:25:04.234Z</updated>
+        <updated>2025-06-20T15:24:03.726Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusThu, 19 Jun 2025 09:25:04 GMT</id>
+        <id>rankingusFri, 20 Jun 2025 15:24:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-19T09:25:04.234Z</updated>
+        <updated>2025-06-20T15:24:03.726Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -50,13 +50,13 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>856</b>
+        <b>857</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>856</b>
+        <b>857</b>
       </td>
       <td>
         <b></b>
@@ -94,6 +94,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1012296988">爱奇艺-临江仙 离婚仙侠</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>7</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>连续包月</i>：<b>7</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id450527929">djay - DJ App & AI Mixer</a>
       </td>
       <td>
@@ -106,29 +129,6 @@ feedId:49753370488353792+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>Full Access to PRO</i>：<b>6</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>2</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1012296988">爱奇艺-临江仙 离婚仙侠</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>6</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>连续包月</i>：<b>6</b>
               </li>
             </ol>
           </li>
@@ -170,13 +170,13 @@ feedId:49753370488353792+userId:73658201673997312
       <td>
         <ul>
           <li>
-            <span>Total Times</span>：<b>4</b>
+            <span>Total Times</span>：<b>5</b>
           </li><li>
             <span>Price</span>：<b>0</b>
           </li><li>
             <span>In-App Purchases</span><ol>
               <li>
-                <i>Monthly Auto-renew Meitu SVIP</i>：<b>2</b>
+                <i>Monthly Auto-renew Meitu SVIP</i>：<b>3</b>
               </li><li>
                 <i>Yearly Auto-renew Meitu SVIP</i>：<b>2</b>
               </li>
@@ -213,6 +213,31 @@ feedId:49753370488353792+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1442745175">快帆加速器-海外回国音乐视频加速器</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>3</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>360天VIP</i>：<b>3</b>
+              </li><li>
+                <i>90天VIP</i>：<b>3</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1514073011">QuickFox-海外回国加速器追剧听歌游戏留学生必备</a>
       </td>
       <td>
@@ -235,7 +260,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1550581532">Vythm VJ - Music Visualizer DJ</a>
@@ -258,7 +283,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id461369673">VOX: MP3 & FLAC Music Player</a>
@@ -283,7 +308,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1014945607">优酷视频-嘘国王在冬眠 全网独播</a>
@@ -306,7 +331,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1068435535">Antivirus One - Virus Cleaner</a>
@@ -331,7 +356,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1231336508">腾讯视频-五十公里桃花坞5 全网独播</a>
@@ -348,31 +373,6 @@ feedId:49753370488353792+userId:73658201673997312
                 <i>该影片</i>：<b>1</b>
               </li><li>
                 <i>付费商品</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>12</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1442745175">快帆加速器-海外回国音乐视频加速器</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>2</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>360天VIP</i>：<b>2</b>
-              </li><li>
-                <i>90天VIP</i>：<b>2</b>
               </li>
             </ol>
           </li>
@@ -966,6 +966,201 @@ feedId:49753370488353792+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[快帆加速器-海外回国音乐视频加速器]]></title>
+        <id>快帆加速器-海外回国音乐视频加速器-us-1750432722345</id>
+        <link href="https://apps.apple.com/us/app/%E5%BF%AB%E5%B8%86%E5%8A%A0%E9%80%9F%E5%99%A8-%E6%B5%B7%E5%A4%96%E5%9B%9E%E5%9B%BD%E9%9F%B3%E4%B9%90%E8%A7%86%E9%A2%91%E5%8A%A0%E9%80%9F%E5%99%A8/id1442745175?uo=4"/>
+        <updated>2025-06-20T15:18:42.345Z</updated>
+        <summary type="html"><![CDATA[360天VIP: $74.99 → $69.99<br/>90天VIP: $18.99 → $16.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E5%BF%AB%E5%B8%86%E5%8A%A0%E9%80%9F%E5%99%A8-%E6%B5%B7%E5%A4%96%E5%9B%9E%E5%9B%BD%E9%9F%B3%E4%B9%90%E8%A7%86%E9%A2%91%E5%8A%A0%E9%80%9F%E5%99%A8/id1442745175?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/45/21/9045211e-14e5-121e-04b8-f72252c4c29d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>360天VIP：</strong><span>$74.99</span> → <b>
+  <strong>$69.99</strong>
+</b><span>[$69.99 ~ $74.99]</span>
+  </li><li>
+    <strong>90天VIP：</strong><span>$18.99</span> → <b>
+  <strong>$16.99</strong>
+</b><span>[$16.99 ~ $18.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  ==快帆Fanster™专线上线，更高速更稳定==
+
+快帆是一款针对海外华人的加速器，配合全球部署的专属高速节点，帮助全球各地华人用户听歌追剧看视频不再卡顿
+► Fanster™专线
+自主研发Fanster™专线，提供高速稳定的网络性能，专研加密技术，全方位保护您的隐私和数据安全
+► 150+线路 专属高速
+涵盖主流全球用户节点，增设香港、台湾、日本、新加坡、美国、加拿大、澳洲、中东等多个国家或地区的专属中转点
+► 搭配第三方高速CDN节点实现内容加速
+智能优化路径，避免拥堵，让您的网络顺畅不卡顿
+► 智能加速
+先进的智能算法，实时监测您的网络状况，自动匹配适合的加速节点
+
+目前已支持：
+【音乐&播客】
+酷狗音乐、网易云音乐、QQ音乐、虾米音乐、酷我音乐、喜马拉雅、蜻蜓FM……
+【视频&直播】
+腾讯视频、爱奇艺iQIYI、优酷、芒果TV、Bilibili（B站）、腾讯NBA、奥运会、欧洲杯、美洲杯、欧冠、CCTV5、YY语音、央视频、咪咕视频……
+【游戏】
+王者荣耀、和平精英、英雄联盟、绝地求生、魔兽世界、DNF、剑网3……
+
+【自动续费会员】
+会员权益：不限速防拥堵、3设备同时在线、免广告
+订阅周期：1个月（连续包月），3个月（连续包季） ，12个月（连续包年）
+订阅价格：以iAP申请信息为准，例如连续包月产品为新人首次订阅30元；连续包月次月续费40元
+付款：用户确认购买并付款后记入iTunes账户
+取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes / Apple ID设置管理中关闭自动续订功能
+续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期
+
+隐私政策：https://www.kuaifan.co/privacypolicy.html
+自动续费会员服务协议：https://www.kuaifan.co/termsofservices.html
+</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/01/33/270133bf-5a49-5cf5-22d9-f019a0d3cc53/e2d15554-d422-45ab-811d-141213459b4d_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/17/e3/f017e3bc-de4a-4ff0-0cfb-517c37e1029b/692c234d-f767-4c18-9894-09527d995e3c_pad_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/a9/4e/0ca94e56-be63-b418-53fd-c65848a9edfd/3fd11171-33bb-4579-a0a6-000afc2bf0b6_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/3e/a8/aa3ea803-d6d0-66a0-264c-f6d58516e254/7c2a1f13-368a-4a49-8546-b0cba1306e7e_4.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱奇艺-临江仙 离婚仙侠]]></title>
+        <id>爱奇艺-临江仙 离婚仙侠-us-1750432722345</id>
+        <link href="https://apps.apple.com/us/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&amp;uo=4"/>
+        <updated>2025-06-20T15:18:42.345Z</updated>
+        <summary type="html"><![CDATA[连续包月: $3.99 → $1.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/2e/3f/222e3ff7-222b-8c27-aeb1-2d1082336d55/Mac_AppIcon-2x_U007euniversal-0-5-0-85-220-0.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>连续包月：</strong><span>$3.99</span> → <b>
+  <strong>$1.99</strong>
+</b><span>[$1.99 ~ $6.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  爱奇艺Mac客户端，简洁轻量的视频客户端。
+支持TouchBar&TrackPad、小窗播放。
+支持4K画质、杜比音效，爱奇艺海量内容畅享视听盛宴！
+体验最新版需要升级到macOS 10.15或更高版本。如有其它问题可以访问： https://app.iqiyi.com/mac/player/index.html
+欢迎联系我们的官方QQ：938355165
+———————我是海量内容的分割线———————
+【独播热播 给你想要】
+精彩戏剧实时看：临江仙、在人间、护宝寻踪、人生若如初见、淮水竹亭、无忧渡、借命而生、绝密较量、乌云之上、念无双、黄雀、北上
+热播电影不间断：向阳·花、黄沙漫天、美国队长4、唐探1900、红色一号：冬日行动、误杀3、射雕英雄传：侠之大者、哪吒之魔童降世
+热门综艺看不停：微笑一号店、亚洲新声、奔跑吧第9季、哈哈哈哈哈第5季、种地吧第3季、现在就开麦—妈妈请就位！、恋爱兄妹、哈哈哈哈哈第4季、喜剧之王单口季
+动漫番剧随心换：航海王、超能立方：超凡篇、绝世战魂、我能无限顿悟、成何体统、都市古仙医、蜡笔小新 第8季 普通话、名侦探柯南 普通话
+经典纪录片细品味：与恐龙同行、舌尖上的中国 第四季、舌尖上的中国 第一季、河西走廊、人间世、中国医生、中华才子传第一季
+海外剧集尽情选：请回答1988、经常请吃饭的漂亮姐姐、金秘书为何那样、大力女子都奉顺、老友记、风骚律师、哥谭镇、明日传奇、小谢尔顿
+
+【VIP会员 尊享特权】
+1、内容特权：院线新片、海量高分大片、热剧抢先看、独家综艺、付费影片折扣、畅读小说。
+2、观影特权：广告特权、1080P、帧绮映画、杜比全景声、杜比视界、专属弹幕、下载加速、并行下载、边下边播、预约下载。
+3、身份特权：七端全屏通、畅享多会员、尊贵标识、尊享装扮、生日礼包、专属客服、等级权益红包、赠送好友影片、好友免费一起看。
+
+【自动续费黄金会员】
+-- 黄金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、杜比音效、下载特权等。
+-- 订阅周期：1个月（黄金会员连续包月产品），3个月(黄金会员连续包季产品)，12个月（黄金会员连续包年产品）。
+-- 订阅价格：以iAP申请信息为准，例如连续包月产品每月25元，连续包季产品每季68元，连续包年产品每年238元。
+-- 付款：用户确认购买并付款后记入iTunes账户。
+-- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
+-- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+-- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
+-- 隐私政策： http://www.iqiyi.com/common/privateh5.html
+-- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
+-- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
+【自动续费白金会员】
+-- 白金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画MAX、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、2台设备同时播放、下载特权等。
+-- 订阅周期：1个月（白金会员连续包月产品），3个月(白金会员连续包季产品)，12个月（白金会员连续包年产品）。
+-- 订阅价格：以iAP申请信息为准，例如连续包月产品每月35元，连续包季产品每季98元，连续包年产品每年348元。
+-- 付款：用户确认购买并付款后记入iTunes账户。
+-- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
+-- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+-- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
+-- 隐私政策： http://www.iqiyi.com/common/privateh5.html
+-- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
+-- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
+【自动续费星钻会员套餐说明】
+-- 星钻会员权益：享海量会员专享内容、会员抢先看、加更礼免费看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、3台设备同时播放、下载特权等。
+-- 订阅周期：1个月（星钻会员连续包月产品），3个月（星钻会员连续包季产品），12个月（星钻连续包年产品）
+-- 订阅价格：以iAP申请信息为准，例如连续包月产品为每月45元，连续包季产品每季118元，连续包年每年428元。
+-- 付款：用户确认购买并付款后计入iTunes账户。
+-- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能。
+-- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+-- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
+-- 隐私政策： http://www.iqiyi.com/common/privateh5.html
+-- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
+-- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
+【自动续费体育会员套餐说明】
+--体育会员权益：爱体育会员享每月2场付费比赛直播或点播（高尔夫比赛除外），爱足球会员有效期内可看平台播出的所有足球比赛，并享广告特权、1080P、多语解说、额外单点付费低至3折。
+--订阅周期：1个月（连续包月产品）。
+--订阅价格：爱体育会员连续包月9元/月，爱足球会员连续包月33元/月
+--付款：用户确认购买并付款后记入iTunes账户
+--取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
+--续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/19/d3/bf/19d3bfd6-9e0a-3605-7ddb-1e9913dda13c/132add12-49bd-4d88-8ae5-5ac5488a4ca1_App_Store_U7269_U65991.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/03/a0/da/03a0da78-2838-3c81-c29d-28700c0682f7/80a29786-6e1e-4cd9-8a4a-00e146f32816_App_Store_U7269_U65992.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/32/58/00/325800bb-a68b-32ec-cbe8-5c90b590dc5f/cec956df-a085-48a5-b159-9a135f1e5ef2_App_Store_U7269_U65993.jpg/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meitu-AI Photo Editor & Design]]></title>
+        <id>Meitu-AI Photo Editor &amp; Design-us-1750432722345</id>
+        <link href="https://apps.apple.com/us/app/meitu-ai-photo-editor-design/id1588231633?mt=12&amp;uo=4"/>
+        <updated>2025-06-20T15:18:42.345Z</updated>
+        <summary type="html"><![CDATA[Monthly Auto-renew Meitu SVIP: $12.49 → $3.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/meitu-ai-photo-editor-design/id1588231633?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/5e/06/0f5e06ce-7271-6cc6-d813-456cedb68710/MTXXPro.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Monthly Auto-renew Meitu SVIP：</strong><span>$12.49</span> → <b>
+  <strong>$3.99</strong>
+</b><span>[$3.99 ~ $12.49]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Meitu is the simplest image processing tool that can quickly achieve professional-level photo editing effects. AI tools are constantly updated, and everyone can make good pictures!
+
+=== AI image modification, intelligent design without effort ===
+[AI Cutout] Efficient in all categories, 3s background removal, one-click change of background color/local pictures
+[AI Remover] One-click removal of redundant text, passers-by, skin acne spots, complex backgrounds, etc., without leaving any traces!
+[AI Enhancer] Ultra-clear image quality rebirth, say goodbye to poor image quality
+[AI Background Change] Enter keywords, AI generates product and portrait scene pictures
+[AI Expand] Freely expand the picture frame, intelligently fill the picture, and the composition does not need to be cropped!
+[AI Smart Selection] Any element can be freely moved, scaled, copied, redrawn, eliminated, and adjusted in color...
+
+===Meitu Batch Editor, efficient and higher quality===
+Import hundreds of pictures at a time, batch cut out pictures to change backgrounds, make them clear, add watermarks, crop and change sizes, compress and convert formats, etc., without repeated operations, efficient and refined!
+
+===Poster design, change pictures and words with one click===
+Massive high-quality templates cover e-commerce, administrative office, new media, WeChat and many other scenarios.
+
+===Puzzle splicing, creative layout===
+Seamless, horizontal and vertical, four-grid, nine-grid, love, triangle and many other puzzle styles, you can also freely assemble, social more colorful!
+
+===Basic picture editing, simple and outstanding===
+[Add text] [Crop, rotate, correct, and adjust size] [Dimming, color adjustment, and filter][Border stickers] [Brush] 
+
+===Medical-grade portrait beauty, high-definition natural face===
+[One-click beauty and whitening] [Facial reshaping] [Face slimming, body slimming, height increase] [Eye and Teeth Refinement] 
+
+————————
+
+[Meitu computer version SVIP automatic renewal service statement]
+
+[Meitu computer SVIP rights] Experience massive materials, personalized functions, and more refreshing without ads.
+
+[Subscription period]
+Meitu Computer SVIP - Continuous Monthly Subscription: Subscription period of 1 month
+Meitu PC SVIP - Continuous Season: Subscription period of 3 months
+Meitu PC SVIP - Consecutive Yearly Subscription: Subscription period of 12 months
+
+[Subscription price]
+The iAP application information shall prevail. For example, continuous monthly subscription products are 20 yuan per month; continuous seasonal subscription products are 50 yuan per quarter; continuous annual subscription products are 168 yuan per year.
+
+[Payment] After the user confirms the purchase and pays, it will be charged to the iTunes account.
+
+[Renewal] "Continuous monthly/quarterly/yearly" products are auto-renewable products, and your iTunes account will be charged after confirming the purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current subscription. Within 24 hours before your subscription period expires, Apple will automatically deduct the fee from your iTunes account, and the membership validity period will be automatically extended by one period after success.
+
+[Cancel renewal]
+If you want to cancel the automatic renewal, please manually go to "Settings" on your iPhone - click "Apple ID", select to enter the "Subscription" page, and select "Meitu SVIP" to cancel the subscription.
+
+[Free Trial] Renew the subscription during the free trial period to cancel the renewal, and the free trial rights will not be recovered from the user, and the user can try it until the trial period ends.
+
+==Related Agreement==
+Membership Service Agreement: https://pc.meitu.com/agreement
+Privacy Policy Address: https://pc.meitu.com/legal-agreement?type=pc
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/28/a3/4f28a3eb-ed57-8f60-d929-e1edb278071d/Meitu.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/c6/24/53c624f4-771c-841f-929d-ac7e1af6c6d1/Meitu_Batch_Editor.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/3a/27/273a2756-bead-3603-d43c-218dc5377dcd/AI_Cutout.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/22/9f/6a229ff1-1ee6-abca-0325-0b9722939856/AI_Enhancer.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DM1 - The Drum Machine]]></title>
         <id>DM1 - The Drum Machine-us-1750324780128</id>
         <link href="https://apps.apple.com/us/app/dm1-the-drum-machine/id522349879?mt=12&amp;uo=4"/>
@@ -1304,834 +1499,5 @@ iAudioConverter is the handy comprehensive audio converter for iTunes, iPhone, i
 
 Note: DRM protected files are not supported.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/78/03/ff/7803ff61-e68e-cd9f-f342-acff78f6ee50/mza_4325322910301931152.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/09/23/29/092329e7-7488-1660-b073-0328a6719d3f/mzl.pnetbbwg.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/18/de/18/18de18e7-e8a7-4b44-c7de-26d47244c62e/mzl.ocmylwic.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple/v4/6b/46/ae/6b46ae99-b0d8-d501-2338-6c0adde3068d/mzl.qtyiiuyy.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BetterSnapTool]]></title>
-        <id>BetterSnapTool-us-1750167081870</id>
-        <link href="https://apps.apple.com/us/app/bettersnaptool/id417375580?mt=12&amp;uo=4"/>
-        <updated>2025-06-17T13:31:21.870Z</updated>
-        <summary type="html"><![CDATA[BetterTouchTool License: $17.99 → $12.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/bettersnaptool/id417375580?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/0f/ce/8f0fce9e-f422-1027-4688-a3a490902f4f/AppIcon-0-0-85-220-0-4-0-2x.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>BetterTouchTool License：</strong><span>$17.99</span> → <b>
-  <strong>$12.99</strong>
-</b><span>[$12.99 ~ $17.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  BetterSnapTool allows you to easily manage your window positions and sizes by either dragging them to one of the screen's corners or to the top, left or right side of the screen. This enables you to easily maximize your windows, position them side by side or even resize them to quarters of the screen. 
-
-If you need even more than those standard snap areas, BetterSnapTool now allows you to create your own, custom snap areas anywhere on your display. These can resize & move windows to any possible position.
-
-More features included are:
-
-• support for multiple monitors
-• customizable keyboard shortcuts to trigger any snap area
-• lots of design customization options
-• always accessible  pop up menu showing all possible snap sizes / positions
-• move or resize the window below the cursor while holding customizable modifier keys.
-• select what happens when double-clicking a window's titlebar
-• select what happens when right-clicking any of the red/orange/green window buttons of any window
-
-BetterSnapTool is very customizable and will change the way you work with your Mac!
-
-BetterSnapTool works with almost every application, only some apps with non-standard windows can't be supported.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/46/82/69/46826900-be7b-63f7-44fb-46c6272e4d39/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/4b/b9/fa/4bb9fa79-bf61-c591-e4c0-d4b93408b332/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/31/51/01/315101f0-cd97-9bf1-674a-df0294446a0b/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/8b/e7/66/8be766bd-2cf0-52b9-f10b-8dd0e99520a0/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/14/8c/ca/148cca35-00c2-83a0-7d46-3b75072a1bfc/pr_source.jpg/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast CAD Reader]]></title>
-        <id>Fast CAD Reader-us-1750152019196</id>
-        <link href="https://apps.apple.com/us/app/fast-cad-reader/id1484905765?mt=12&amp;uo=4"/>
-        <updated>2025-06-17T09:20:19.196Z</updated>
-        <summary type="html"><![CDATA[1 Year VIP: $45.00 → $29.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/fast-cad-reader/id1484905765?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/d4/c3/d7d4c334-8c37-ff19-5733-d6bbb7199bb1/Icon.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>1 Year VIP：</strong><span>$45.00</span> → <b>
-  <strong>$29.99</strong>
-</b><span>[$29.99 ~ $45.00]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  CADReader is a cross-platform CAD software that is fully compatible with DWG, DXF formats. It provides essential tools such as Viewing, Measuring and Annotations Tools to meet the demands of engineers, designers and quantity surveyors alike.
-
-CADReader Highlights:
-
-1. Fast Access to Drawings
-• View multiple drawings at once (Fully compatible with AutoCAD)
-• Supports both DWG and DXF Formats
-
-2. Quick Measurement Tools
-• Scale drawing tool
-• Continuous measure in length (m)
-• Measure polygon area (m2)
-• Measure radius, angles, arc length, coordinates etc.
-• Automatic snapping points for better accuracy
-
-3. Efficient Collaboration Tools
-• Draw lines, shapes, revision clouds
-• Import/Export drawing comments/annotations
-• Add texts
-
-4. Advanced Features
-• Convert CAD to PDF 
-• Layer management
-• Switching between model and layout view
-
-
-
-Still have questions? Feel free to contact our technical support via whatsapp or email, we provide 1-to-1 services for free!
-
-Email: cadreaderservice@gmail.com
-WA: https://wa.me/8613681244152
-
-Don't forget to follow our social media pages to learn more tips and tutorials!
-
-YouTube: https://www.youtube.com/@cadreader
-TikTok: https://www.tiktok.com/@officialcadreader
-LinkedIn: https://www.linkedin.com/company/cadreader/
-Website: https://dwg.fastcadreader.com/
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/49/56/68495645-c372-0d50-2f9e-d6e22a592384/9cbdec95-8743-48d6-8ade-0c34d2619b27_1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/d4/a9/8cd4a9ca-0732-d3d7-5b94-edd8f2a5ac79/0ac3ceca-0ffb-4339-b39d-34b50e5b08a4_2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/4a/71/994a71cd-e8b0-076f-bc5a-d43f276cf09f/62e00376-e405-4b8d-a3a2-a6bf5230288d_3.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/56/76/ed56764b-c879-cfb6-7b71-48cdb59b08d4/a1062e6e-6eab-46c7-950f-3c09e7ee846e_4.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/38/fd/2438fdfd-899e-7222-efba-df06b7920940/157b9db5-dc50-4abb-afe4-01ec8ccdea47_5.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[优酷视频-嘘国王在冬眠 全网独播]]></title>
-        <id>优酷视频-嘘国王在冬眠 全网独播-us-1750148720760</id>
-        <link href="https://apps.apple.com/us/app/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91-%E5%98%98%E5%9B%BD%E7%8E%8B%E5%9C%A8%E5%86%AC%E7%9C%A0-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1014945607?mt=12&amp;uo=4"/>
-        <updated>2025-06-17T08:25:20.760Z</updated>
-        <summary type="html"><![CDATA[优酷视频点播: $5.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91-%E5%98%98%E5%9B%BD%E7%8E%8B%E5%9C%A8%E5%86%AC%E7%9C%A0-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1014945607?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/ca/f6/afcaf62c-52c9-f8ae-5817-e4ef8e8e05c8/icon.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>优酷视频点播：</strong><span>$5.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $5.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  优酷Mac客户端，聚焦全网精品内容，提供电影、电视剧、综艺、动漫、少儿等海量高清视频在线观看
-提供优质Mac本地视频播放器，同时支持优酷缓存视频和电脑本地视频播放
-支持4K画质，畅享极致视觉盛宴
-支持优酷账号及第三方登录，视频云记录，多屏同步看
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/4f/67/cd4f67e5-652e-3291-cfcc-61108e59a326/1280_U002a800-p1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/03/79/700379d4-5e0c-b64d-9118-5598426638d6/1280_U002a800-p2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/c9/48/7ec9485b-3ae7-eee3-dc9a-04da21cb21c2/1280_U002a800-p3.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meitu-AI Photo Editor & Design]]></title>
-        <id>Meitu-AI Photo Editor &amp; Design-us-1750148720760</id>
-        <link href="https://apps.apple.com/us/app/meitu-ai-photo-editor-design/id1588231633?mt=12&amp;uo=4"/>
-        <updated>2025-06-17T08:25:20.760Z</updated>
-        <summary type="html"><![CDATA[Yearly Auto-renew Meitu SVIP: $84.99 → $29.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/meitu-ai-photo-editor-design/id1588231633?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/5e/06/0f5e06ce-7271-6cc6-d813-456cedb68710/MTXXPro.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Yearly Auto-renew Meitu SVIP：</strong><span>$84.99</span> → <b>
-  <strong>$29.99</strong>
-</b><span>[$29.99 ~ $84.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Meitu is the simplest image processing tool that can quickly achieve professional-level photo editing effects. AI tools are constantly updated, and everyone can make good pictures!
-
-=== AI image modification, intelligent design without effort ===
-[AI Cutout] Efficient in all categories, 3s background removal, one-click change of background color/local pictures
-[AI Remover] One-click removal of redundant text, passers-by, skin acne spots, complex backgrounds, etc., without leaving any traces!
-[AI Enhancer] Ultra-clear image quality rebirth, say goodbye to poor image quality
-[AI Background Change] Enter keywords, AI generates product and portrait scene pictures
-[AI Expand] Freely expand the picture frame, intelligently fill the picture, and the composition does not need to be cropped!
-[AI Smart Selection] Any element can be freely moved, scaled, copied, redrawn, eliminated, and adjusted in color...
-
-===Meitu Batch Editor, efficient and higher quality===
-Import hundreds of pictures at a time, batch cut out pictures to change backgrounds, make them clear, add watermarks, crop and change sizes, compress and convert formats, etc., without repeated operations, efficient and refined!
-
-===Poster design, change pictures and words with one click===
-Massive high-quality templates cover e-commerce, administrative office, new media, WeChat and many other scenarios.
-
-===Puzzle splicing, creative layout===
-Seamless, horizontal and vertical, four-grid, nine-grid, love, triangle and many other puzzle styles, you can also freely assemble, social more colorful!
-
-===Basic picture editing, simple and outstanding===
-[Add text] [Crop, rotate, correct, and adjust size] [Dimming, color adjustment, and filter][Border stickers] [Brush] 
-
-===Medical-grade portrait beauty, high-definition natural face===
-[One-click beauty and whitening] [Facial reshaping] [Face slimming, body slimming, height increase] [Eye and Teeth Refinement] 
-
-————————
-
-[Meitu computer version SVIP automatic renewal service statement]
-
-[Meitu computer SVIP rights] Experience massive materials, personalized functions, and more refreshing without ads.
-
-[Subscription period]
-Meitu Computer SVIP - Continuous Monthly Subscription: Subscription period of 1 month
-Meitu PC SVIP - Continuous Season: Subscription period of 3 months
-Meitu PC SVIP - Consecutive Yearly Subscription: Subscription period of 12 months
-
-[Subscription price]
-The iAP application information shall prevail. For example, continuous monthly subscription products are 20 yuan per month; continuous seasonal subscription products are 50 yuan per quarter; continuous annual subscription products are 168 yuan per year.
-
-[Payment] After the user confirms the purchase and pays, it will be charged to the iTunes account.
-
-[Renewal] "Continuous monthly/quarterly/yearly" products are auto-renewable products, and your iTunes account will be charged after confirming the purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current subscription. Within 24 hours before your subscription period expires, Apple will automatically deduct the fee from your iTunes account, and the membership validity period will be automatically extended by one period after success.
-
-[Cancel renewal]
-If you want to cancel the automatic renewal, please manually go to "Settings" on your iPhone - click "Apple ID", select to enter the "Subscription" page, and select "Meitu SVIP" to cancel the subscription.
-
-[Free Trial] Renew the subscription during the free trial period to cancel the renewal, and the free trial rights will not be recovered from the user, and the user can try it until the trial period ends.
-
-==Related Agreement==
-Membership Service Agreement: https://pc.meitu.com/agreement
-Privacy Policy Address: https://pc.meitu.com/legal-agreement?type=pc
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/28/a3/4f28a3eb-ed57-8f60-d929-e1edb278071d/Meitu.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/c6/24/53c624f4-771c-841f-929d-ac7e1af6c6d1/Meitu_Batch_Editor.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/3a/27/273a2756-bead-3603-d43c-218dc5377dcd/AI_Cutout.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/22/9f/6a229ff1-1ee6-abca-0325-0b9722939856/AI_Enhancer.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Youdao Translate]]></title>
-        <id>Youdao Translate-us-1750148720760</id>
-        <link href="https://apps.apple.com/us/app/youdao-translate/id491854842?mt=12&amp;uo=4"/>
-        <updated>2025-06-17T08:25:20.760Z</updated>
-        <summary type="html"><![CDATA[有道词典超级会员: $49.99 → $14.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/youdao-translate/id491854842?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/9e/7b/159e7bb7-5701-985f-2098-7ec3114e01a7/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>有道词典超级会员：</strong><span>$49.99</span> → <b>
-  <strong>$14.99</strong>
-</b><span>[$14.99 ~ $49.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  【网易有道词典桌面端】正式改名为【网易有道翻译】
-——比强大更强大的翻译生产力工具，让你的电脑瞬间变身AIPC
- 针对Mac平台特性，我们特别推出全新的版本，作为Mac系统下必备的翻译软件，在同类软件排行位居前列，10亿用户都在用！
-
-用AI重新定义翻译，WE DO MORE THAN TRANSLATION！
-
-【AI翻译助手】
-翻译更精准，表达更地道，还能自由问答～
-随时随地选中长句段落或截图，即可唤起功能～
- 【AIBox 跨软件工具】
-选中长句段落，智能润色、改写、纠错一步到位～
--句子润色：为你提供五种语言风格，一键升级地道高级句；
--语法纠错：母语级纠错，帮你调整词汇、语法、结构；
--写作建议：优化文章的同时为你提供写作建议；
--重点提炼：复杂长文精准提炼重点；
--单词百科：无需打开搜索引擎，即可快速检索语句百科知识；
-【AI文档翻译·问答】
--一键上传文档，全文翻译；
--支持多格式、多语种、多专业领域；
--保留原文排版，双语对照查看；
--便捷译后批注，支持一键导出；
--同时还能自动总结，深度问答；
--已开放240万字符/年免费翻译额度，让你想翻就翻，随手就翻，敞开了翻！
-【AI写作】
--一键成文，AI快速生成邮件、通知模板内容，提高生产力；
--母语级润色、扩写、总结、去重等功能助力内容质量提升；
--智能纠错，智能识别200种错误，覆盖语法、词汇、拼写、格式等；
-【AI一键创作PPT】
-只需输入主题，即刻生成一份布局配色丰富的PPT~
- 
-强大的桌面翻译软件，什么都能帮你翻！
-
- 【有道词典】
--实时收录最新词汇；支持英汉、日汉、韩汉、法汉、德汉、俄汉、葡汉、西汉互译；
--完整收录《学习型牛津词典》、《新牛津英汉双解大词典》、《韦氏大学英语词典》、《柯林斯COBUILD高级英汉双解词典》、《新世纪日汉双解大辞典》、龙朝《韩中词典》《中韩词典》等权威词典；
--单词图谱：可视化词典+思维导图记忆法；
--单词笔记：支持添加单词笔记，同步保存单词本；
-【文本翻译】
--长短句实时翻译，109种语言互译，26种常用语种tts发音；；
--支持医学、计算机、金融经济三种专业领域翻译；
--提供42个专业术语库&上传自定义术语库；
--快捷键翻译：选中任意文本按下Command+2，快速获取翻译结果；
-【音频翻译】
--从听到看，一键搞定；
--中英文音频快速转录->翻译->整理为高质量文本；
--支持100MB以内的MP3、WAV、AAC多种音频格式；
-【视频翻译】
--字幕制作，省时高效；
--提取视频内原字幕->翻译->生成新字幕；
--自动生成字幕时间轴，一键导出srt字幕文件；
-【截图翻译】
--按下Shift+Command+2，选取屏幕上的任意区域实现快速翻译；
--截屏翻译结果支持一键钉至屏幕，随时进行下一次翻译。多次截屏翻译的结果同时查看，省时高效；
-【图片翻译】
--快速识别、提取、翻译图片中的文本，支持99种语言；
--支持macOS的“连续互通”相机功能，用iPhone或iPad拍摄任意文本，自动导入Mac；
-【同传翻译】
-支持中英日韩等14种语言互译，实时展示多人同传翻译字幕；
-【状态栏菜单】
-不打开主窗口，也能在mini窗口快速查词；
-【网页翻译】
-输入网址快速翻译网页内容，保持原排版信息，阅读体验舒适流畅；
-【人工翻译】
-提供专业定制化服务；
- 
-【超级会员自动续费说明】
-1、服务名称：超级会员自动续费
-2、价格：38元/月
-3、购买会员自动续费的账号，会在每个月到期前24小时，自动在iTunes账户扣费并延长1个月会员有效期。
-4、如需取消订阅，请打开“App Store”--> 点击“商店”中的 “查看我的账户”，选择"查看信息"，进入"我的账户信息"页面，点击“管理”，取消“有道词典VIP服务”订阅即可。如未在订阅期结束的至少24小时前关闭订阅，此订阅将会自动续订。
-5、会员自动续费服务协议：https://c.youdao.com/dict/law/renew.html
-6、隐私协议：https://c.youdao.com/dict/law/youdaofanyi_pc_privacy.html
- 
-【联系我们】
-微信：有道翻译
-官方网站：fanyi.youdao.com/download【网易有道词典桌面端】正式改名为【网易有道翻译】
-——比强大更强大的翻译生产力工具
- 针对Mac平台特性，我们特别推出全新的版本，作为Mac系统下必备的词典软件，在同类软件排行位居前列，10亿用户都在用！
-
- 用AI重新定义翻译，WE DO MORE THAN TRANSLATION！
- 【AIBox 智能改写润色】
-选中长句段落，一键AI优化。
--句子润色：为你提供五种语言风格，一键升级地道高级句；
--语法纠错：母语级纠错，帮你调整词汇、语法、结构；
--写作建议：优化文章的同时为你提供写作建议；
--重点提炼：复杂长文精准提炼重点；
--单词百科：无需打开搜索引擎，即可快速检索语句百科知识；
-【AI文档翻译】
--一键上传文档，全文翻译；
--支持多格式、多语种、多专业领域；
--保留原文排版，双语对照查看；
--便捷译后批注，支持一键导出；
--已开放240万字符/年免费翻译额度，让你想翻就翻，随手就翻，敞开了翻！
-【AI写作】
--一键成文，AI快速生成邮件、通知模板内容，提高生产力；
--母语级润色、扩写、总结、去重等功能助力内容质量提升；
--智能纠错，智能识别200种错误，覆盖语法、词汇、拼写、格式等；
-
- 
-强大的桌面翻译软件，什么都能帮你翻！
- 【有道词典】
--实时收录最新词汇；支持英汉、日汉、韩汉、法汉、德汉、俄汉、葡汉、西汉互译；
--完整收录《学习型牛津词典》、《新牛津英汉双解大词典》、《韦氏大学英语词典》、《柯林斯COBUILD高级英汉双解词典》、《新世纪日汉双解大辞典》、龙朝《韩中词典》《中韩词典》等权威词典；
--单词图谱：可视化词典+思维导图记忆法；
--单词笔记：支持添加单词笔记，同步保存单词本；
-【文本翻译】
--长短句实时翻译，109种语言互译，26种常用语种tts发音；；
--支持医学、计算机、金融经济三种专业领域翻译；
--提供42个专业术语库&上传自定义术语库；
--快捷键翻译：选中任意文本按下Command+2，快速获取翻译结果；
-【音频翻译】
--从听到看，一键搞定；
--中英文音频快速转录->翻译->整理为高质量文本；
--支持100MB以内的MP3、WAV、AAC多种音频格式；
-【视频翻译】
--字幕制作，省时高效；
--提取视频内原字幕->翻译->生成新字幕；
--自动生成字幕时间轴，一键导出srt字幕文件；
-【截图翻译】
--按下Shift+Command+2，选取屏幕上的任意区域实现快速翻译；
--截屏翻译结果支持一键钉至屏幕，随时进行下一次翻译。多次截屏翻译的结果同时查看，省时高效；
-【图片翻译】
--快速识别、提取、翻译图片中的文本，支持99种语言；
--支持macOS的“连续互通”相机功能，用iPhone或iPad拍摄任意文本，自动导入Mac；
-【同传翻译】
-支持中英日韩等14种语言互译，实时展示多人同传翻译字幕；
-【状态栏菜单】
-不打开主窗口，也能在mini窗口快速查词；
-【网页翻译】
-输入网址快速翻译网页内容，保持原排版信息，阅读体验舒适流畅；
-【人工翻译】
-提供专业定制化服务；
- 
-【超级会员自动续费说明】
-1、服务名称：超级会员自动续费
-2、价格：38元/月
-3、购买会员自动续费的账号，会在每个月到期前24小时，自动在iTunes账户扣费并延长1个月会员有效期。
-4、如需取消订阅，请打开“App Store”--> 点击“商店”中的 “查看我的账户”，选择"查看信息"，进入"我的账户信息"页面，点击“管理”，取消“有道词典VIP服务”订阅即可。如未在订阅期结束的至少24小时前关闭订阅，此订阅将会自动续订。
-5、会员自动续费服务协议：https://c.youdao.com/dict/law/renew.html
-6、隐私协议：https://c.youdao.com/dict/law/youdaofanyi_pc_privacy.html
- 
-【联系我们】
- 
-微信：有道翻译
-官方网站：fanyi.youdao.com/download
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/19/b3/4719b3f0-95d5-28de-cb95-f7fd4d31c78f/4089b4b1-ef3b-4b54-9544-04b77dd0aafe_1440_900.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/12/77/25127735-75e4-a792-79c9-aa9275deefa7/01ca9f69-7245-430e-af80-aa9e9407dab7_2_mac__U5e94_U7528_U622a_U56fe__U9996_U9875.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/7d/1d/6b7d1d50-1ce2-780f-dc79-3caf005238be/1a4e8a66-453e-42fa-99e1-1a14b49df97f_3_mac__U5e94_U7528_U622a_U56fe_AI_U6587_U6863_U7ffb_U8bd1_U00b7_U95ee_U7b54.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/86/92/c7869296-9928-151f-789a-a571ad49eff0/07e3275c-bc25-4940-a861-d8b1551763e0_6_mac__U5e94_U7528_U622a_U56fe_AIBox_U8de8_U8f6f_U4ef6_U5de5_U5177.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/4a/17/184a1762-0b9b-b20d-b8ca-055467912e53/1cf1e7e9-1170-44dc-b397-2109f2e9f41b_4_mac__U5e94_U7528_U622a_U56fe_AI_U622a_U56fe.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/ca/3a/f0ca3a8c-a9bf-0451-2845-2161009ef5b3/3e21f929-1003-4ddb-98f0-e7590fc22a23_5_mac__U5e94_U7528_U622a_U56fe_AI_U5212_U8bcd.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/17/9c/d3179c8d-a16b-346a-40e3-5f3f3569ed5e/a7692139-eb7c-45c5-8643-602dd2a63bf4_7_mac__U5e94_U7528_U622a_U56fe_AI_U5199_U4f5c.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/49/76/d249765c-73d8-efa7-26eb-0422f57dec93/b6dbca02-0d72-4118-bd1c-442e37befe38_8_mac__U5e94_U7528_U622a_U56fe_AI_U4e00_U952e_U521b_U4f5cPPT.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transcribe & Speech to text]]></title>
-        <id>Transcribe &amp; Speech to text-us-1750144701413</id>
-        <link href="https://apps.apple.com/us/app/transcribe-speech-to-text/id6450397515?mt=12&amp;uo=4"/>
-        <updated>2025-06-17T07:18:21.413Z</updated>
-        <summary type="html"><![CDATA[VIP: $39.99 → $19.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/transcribe-speech-to-text/id6450397515?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/22/b6/c422b67d-cfa8-55ef-0fc4-5c5b74283392/AppIcon-85-220-4-2x.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>VIP：</strong><span>$39.99</span> → <b>
-  <strong>$19.99</strong>
-</b><span>[$4.99 ~ $39.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Special feature：
-Quickly transcribe audio, recordings, conference recordings, voice dictation, and voice notes.
-Accurate transcription of various types of audio with a 98.8% accuracy rate.
-Recording expert, import audio and transcribe with just one click.
-
-privacy policy:https://rain7027.github.io/rainstt/privacy
-terms of use:https://rain7027.github.io/rainstt/terms
-any question please contact:zyang7027@gmail.com
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6d/f3/c2/6df3c258-c882-9d94-a17f-edfcde85f96c/602ee79b-ca3b-40e9-9d92-d4ef5bb5b37c_1n.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b5/26/aa/b526aa81-c80a-f1a6-c0fb-eda3eaa582f7/58f61a40-8cba-4753-a4c7-5a575f3cf1b0_2n.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱奇艺-临江仙 离婚仙侠]]></title>
-        <id>爱奇艺-临江仙 离婚仙侠-us-1750144701413</id>
-        <link href="https://apps.apple.com/us/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&amp;uo=4"/>
-        <updated>2025-06-17T07:18:21.413Z</updated>
-        <summary type="html"><![CDATA[连续包月: $3.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/2e/3f/222e3ff7-222b-8c27-aeb1-2d1082336d55/Mac_AppIcon-2x_U007euniversal-0-5-0-85-220-0.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>连续包月：</strong><span>$3.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $6.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  爱奇艺Mac客户端，简洁轻量的视频客户端。
-支持TouchBar&TrackPad、小窗播放。
-支持4K画质、杜比音效，爱奇艺海量内容畅享视听盛宴！
-体验最新版需要升级到macOS 10.15或更高版本。如有其它问题可以访问： https://app.iqiyi.com/mac/player/index.html
-欢迎联系我们的官方QQ：938355165
-———————我是海量内容的分割线———————
-【独播热播 给你想要】
-精彩戏剧实时看：临江仙、在人间、护宝寻踪、人生若如初见、淮水竹亭、无忧渡、借命而生、绝密较量、乌云之上、念无双、黄雀、北上
-热播电影不间断：向阳·花、黄沙漫天、美国队长4、唐探1900、红色一号：冬日行动、误杀3、射雕英雄传：侠之大者、哪吒之魔童降世
-热门综艺看不停：微笑一号店、亚洲新声、奔跑吧第9季、哈哈哈哈哈第5季、种地吧第3季、现在就开麦—妈妈请就位！、恋爱兄妹、哈哈哈哈哈第4季、喜剧之王单口季
-动漫番剧随心换：航海王、超能立方：超凡篇、绝世战魂、我能无限顿悟、成何体统、都市古仙医、蜡笔小新 第8季 普通话、名侦探柯南 普通话
-经典纪录片细品味：与恐龙同行、舌尖上的中国 第四季、舌尖上的中国 第一季、河西走廊、人间世、中国医生、中华才子传第一季
-海外剧集尽情选：请回答1988、经常请吃饭的漂亮姐姐、金秘书为何那样、大力女子都奉顺、老友记、风骚律师、哥谭镇、明日传奇、小谢尔顿
-
-【VIP会员 尊享特权】
-1、内容特权：院线新片、海量高分大片、热剧抢先看、独家综艺、付费影片折扣、畅读小说。
-2、观影特权：广告特权、1080P、帧绮映画、杜比全景声、杜比视界、专属弹幕、下载加速、并行下载、边下边播、预约下载。
-3、身份特权：七端全屏通、畅享多会员、尊贵标识、尊享装扮、生日礼包、专属客服、等级权益红包、赠送好友影片、好友免费一起看。
-
-【自动续费黄金会员】
--- 黄金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、杜比音效、下载特权等。
--- 订阅周期：1个月（黄金会员连续包月产品），3个月(黄金会员连续包季产品)，12个月（黄金会员连续包年产品）。
--- 订阅价格：以iAP申请信息为准，例如连续包月产品每月25元，连续包季产品每季68元，连续包年产品每年238元。
--- 付款：用户确认购买并付款后记入iTunes账户。
--- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
--- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
--- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
--- 隐私政策： http://www.iqiyi.com/common/privateh5.html
--- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
--- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
-【自动续费白金会员】
--- 白金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画MAX、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、2台设备同时播放、下载特权等。
--- 订阅周期：1个月（白金会员连续包月产品），3个月(白金会员连续包季产品)，12个月（白金会员连续包年产品）。
--- 订阅价格：以iAP申请信息为准，例如连续包月产品每月35元，连续包季产品每季98元，连续包年产品每年348元。
--- 付款：用户确认购买并付款后记入iTunes账户。
--- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
--- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
--- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
--- 隐私政策： http://www.iqiyi.com/common/privateh5.html
--- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
--- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
-【自动续费星钻会员套餐说明】
--- 星钻会员权益：享海量会员专享内容、会员抢先看、加更礼免费看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、3台设备同时播放、下载特权等。
--- 订阅周期：1个月（星钻会员连续包月产品），3个月（星钻会员连续包季产品），12个月（星钻连续包年产品）
--- 订阅价格：以iAP申请信息为准，例如连续包月产品为每月45元，连续包季产品每季118元，连续包年每年428元。
--- 付款：用户确认购买并付款后计入iTunes账户。
--- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能。
--- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
--- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
--- 隐私政策： http://www.iqiyi.com/common/privateh5.html
--- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
--- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
-【自动续费体育会员套餐说明】
---体育会员权益：爱体育会员享每月2场付费比赛直播或点播（高尔夫比赛除外），爱足球会员有效期内可看平台播出的所有足球比赛，并享广告特权、1080P、多语解说、额外单点付费低至3折。
---订阅周期：1个月（连续包月产品）。
---订阅价格：爱体育会员连续包月9元/月，爱足球会员连续包月33元/月
---付款：用户确认购买并付款后记入iTunes账户
---取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
---续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/19/d3/bf/19d3bfd6-9e0a-3605-7ddb-1e9913dda13c/132add12-49bd-4d88-8ae5-5ac5488a4ca1_App_Store_U7269_U65991.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/03/a0/da/03a0da78-2838-3c81-c29d-28700c0682f7/80a29786-6e1e-4cd9-8a4a-00e146f32816_App_Store_U7269_U65992.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/32/58/00/325800bb-a68b-32ec-cbe8-5c90b590dc5f/cec956df-a085-48a5-b159-9a135f1e5ef2_App_Store_U7269_U65993.jpg/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meitu-AI Photo Editor & Design]]></title>
-        <id>Meitu-AI Photo Editor &amp; Design-us-1750144701413</id>
-        <link href="https://apps.apple.com/us/app/meitu-ai-photo-editor-design/id1588231633?mt=12&amp;uo=4"/>
-        <updated>2025-06-17T07:18:21.413Z</updated>
-        <summary type="html"><![CDATA[Monthly Auto-renew Meitu SVIP: $12.49 → $3.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/meitu-ai-photo-editor-design/id1588231633?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/5e/06/0f5e06ce-7271-6cc6-d813-456cedb68710/MTXXPro.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Monthly Auto-renew Meitu SVIP：</strong><span>$12.49</span> → <b>
-  <strong>$3.99</strong>
-</b><span>[$3.99 ~ $12.49]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Meitu is the simplest image processing tool that can quickly achieve professional-level photo editing effects. AI tools are constantly updated, and everyone can make good pictures!
-
-=== AI image modification, intelligent design without effort ===
-[AI Cutout] Efficient in all categories, 3s background removal, one-click change of background color/local pictures
-[AI Remover] One-click removal of redundant text, passers-by, skin acne spots, complex backgrounds, etc., without leaving any traces!
-[AI Enhancer] Ultra-clear image quality rebirth, say goodbye to poor image quality
-[AI Background Change] Enter keywords, AI generates product and portrait scene pictures
-[AI Expand] Freely expand the picture frame, intelligently fill the picture, and the composition does not need to be cropped!
-[AI Smart Selection] Any element can be freely moved, scaled, copied, redrawn, eliminated, and adjusted in color...
-
-===Meitu Batch Editor, efficient and higher quality===
-Import hundreds of pictures at a time, batch cut out pictures to change backgrounds, make them clear, add watermarks, crop and change sizes, compress and convert formats, etc., without repeated operations, efficient and refined!
-
-===Poster design, change pictures and words with one click===
-Massive high-quality templates cover e-commerce, administrative office, new media, WeChat and many other scenarios.
-
-===Puzzle splicing, creative layout===
-Seamless, horizontal and vertical, four-grid, nine-grid, love, triangle and many other puzzle styles, you can also freely assemble, social more colorful!
-
-===Basic picture editing, simple and outstanding===
-[Add text] [Crop, rotate, correct, and adjust size] [Dimming, color adjustment, and filter][Border stickers] [Brush] 
-
-===Medical-grade portrait beauty, high-definition natural face===
-[One-click beauty and whitening] [Facial reshaping] [Face slimming, body slimming, height increase] [Eye and Teeth Refinement] 
-
-————————
-
-[Meitu computer version SVIP automatic renewal service statement]
-
-[Meitu computer SVIP rights] Experience massive materials, personalized functions, and more refreshing without ads.
-
-[Subscription period]
-Meitu Computer SVIP - Continuous Monthly Subscription: Subscription period of 1 month
-Meitu PC SVIP - Continuous Season: Subscription period of 3 months
-Meitu PC SVIP - Consecutive Yearly Subscription: Subscription period of 12 months
-
-[Subscription price]
-The iAP application information shall prevail. For example, continuous monthly subscription products are 20 yuan per month; continuous seasonal subscription products are 50 yuan per quarter; continuous annual subscription products are 168 yuan per year.
-
-[Payment] After the user confirms the purchase and pays, it will be charged to the iTunes account.
-
-[Renewal] "Continuous monthly/quarterly/yearly" products are auto-renewable products, and your iTunes account will be charged after confirming the purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current subscription. Within 24 hours before your subscription period expires, Apple will automatically deduct the fee from your iTunes account, and the membership validity period will be automatically extended by one period after success.
-
-[Cancel renewal]
-If you want to cancel the automatic renewal, please manually go to "Settings" on your iPhone - click "Apple ID", select to enter the "Subscription" page, and select "Meitu SVIP" to cancel the subscription.
-
-[Free Trial] Renew the subscription during the free trial period to cancel the renewal, and the free trial rights will not be recovered from the user, and the user can try it until the trial period ends.
-
-==Related Agreement==
-Membership Service Agreement: https://pc.meitu.com/agreement
-Privacy Policy Address: https://pc.meitu.com/legal-agreement?type=pc
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/28/a3/4f28a3eb-ed57-8f60-d929-e1edb278071d/Meitu.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/c6/24/53c624f4-771c-841f-929d-ac7e1af6c6d1/Meitu_Batch_Editor.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/3a/27/273a2756-bead-3603-d43c-218dc5377dcd/AI_Cutout.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/22/9f/6a229ff1-1ee6-abca-0325-0b9722939856/AI_Enhancer.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快帆加速器-海外回国音乐视频加速器]]></title>
-        <id>快帆加速器-海外回国音乐视频加速器-us-1750123598479</id>
-        <link href="https://apps.apple.com/us/app/%E5%BF%AB%E5%B8%86%E5%8A%A0%E9%80%9F%E5%99%A8-%E6%B5%B7%E5%A4%96%E5%9B%9E%E5%9B%BD%E9%9F%B3%E4%B9%90%E8%A7%86%E9%A2%91%E5%8A%A0%E9%80%9F%E5%99%A8/id1442745175?uo=4"/>
-        <updated>2025-06-17T01:26:38.479Z</updated>
-        <summary type="html"><![CDATA[360天VIP: $74.99 → $69.99<br/>90天VIP: $18.99 → $16.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E5%BF%AB%E5%B8%86%E5%8A%A0%E9%80%9F%E5%99%A8-%E6%B5%B7%E5%A4%96%E5%9B%9E%E5%9B%BD%E9%9F%B3%E4%B9%90%E8%A7%86%E9%A2%91%E5%8A%A0%E9%80%9F%E5%99%A8/id1442745175?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/45/21/9045211e-14e5-121e-04b8-f72252c4c29d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>360天VIP：</strong><span>$74.99</span> → <b>
-  <strong>$69.99</strong>
-</b><span>[$69.99 ~ $74.99]</span>
-  </li><li>
-    <strong>90天VIP：</strong><span>$18.99</span> → <b>
-  <strong>$16.99</strong>
-</b><span>[$16.99 ~ $18.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  ==快帆Fanster™专线上线，更高速更稳定==
-
-快帆是一款针对海外华人的加速器，配合全球部署的专属高速节点，帮助全球各地华人用户听歌追剧看视频不再卡顿
-► Fanster™专线
-自主研发Fanster™专线，提供高速稳定的网络性能，专研加密技术，全方位保护您的隐私和数据安全
-► 150+线路 专属高速
-涵盖主流全球用户节点，增设香港、台湾、日本、新加坡、美国、加拿大、澳洲、中东等多个国家或地区的专属中转点
-► 搭配第三方高速CDN节点实现内容加速
-智能优化路径，避免拥堵，让您的网络顺畅不卡顿
-► 智能加速
-先进的智能算法，实时监测您的网络状况，自动匹配适合的加速节点
-
-目前已支持：
-【音乐&播客】
-酷狗音乐、网易云音乐、QQ音乐、虾米音乐、酷我音乐、喜马拉雅、蜻蜓FM……
-【视频&直播】
-腾讯视频、爱奇艺iQIYI、优酷、芒果TV、Bilibili（B站）、腾讯NBA、奥运会、欧洲杯、美洲杯、欧冠、CCTV5、YY语音、央视频、咪咕视频……
-【游戏】
-王者荣耀、和平精英、英雄联盟、绝地求生、魔兽世界、DNF、剑网3……
-
-【自动续费会员】
-会员权益：不限速防拥堵、3设备同时在线、免广告
-订阅周期：1个月（连续包月），3个月（连续包季） ，12个月（连续包年）
-订阅价格：以iAP申请信息为准，例如连续包月产品为新人首次订阅30元；连续包月次月续费40元
-付款：用户确认购买并付款后记入iTunes账户
-取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes / Apple ID设置管理中关闭自动续订功能
-续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期
-
-隐私政策：https://www.kuaifan.co/privacypolicy.html
-自动续费会员服务协议：https://www.kuaifan.co/termsofservices.html
-</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/01/33/270133bf-5a49-5cf5-22d9-f019a0d3cc53/e2d15554-d422-45ab-811d-141213459b4d_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/17/e3/f017e3bc-de4a-4ff0-0cfb-517c37e1029b/692c234d-f767-4c18-9894-09527d995e3c_pad_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/a9/4e/0ca94e56-be63-b418-53fd-c65848a9edfd/3fd11171-33bb-4579-a0a6-000afc2bf0b6_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/3e/a8/aa3ea803-d6d0-66a0-264c-f6d58516e254/7c2a1f13-368a-4a49-8546-b0cba1306e7e_4.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[优酷视频-嘘国王在冬眠 全网独播]]></title>
-        <id>优酷视频-嘘国王在冬眠 全网独播-us-1750112256237</id>
-        <link href="https://apps.apple.com/us/app/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91-%E5%98%98%E5%9B%BD%E7%8E%8B%E5%9C%A8%E5%86%AC%E7%9C%A0-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1014945607?mt=12&amp;uo=4"/>
-        <updated>2025-06-16T22:17:36.237Z</updated>
-        <summary type="html"><![CDATA[优酷视频点播: $5.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91-%E5%98%98%E5%9B%BD%E7%8E%8B%E5%9C%A8%E5%86%AC%E7%9C%A0-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1014945607?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/ca/f6/afcaf62c-52c9-f8ae-5817-e4ef8e8e05c8/icon.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>优酷视频点播：</strong><span>$5.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $5.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  优酷Mac客户端，聚焦全网精品内容，提供电影、电视剧、综艺、动漫、少儿等海量高清视频在线观看
-提供优质Mac本地视频播放器，同时支持优酷缓存视频和电脑本地视频播放
-支持4K画质，畅享极致视觉盛宴
-支持优酷账号及第三方登录，视频云记录，多屏同步看
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/4f/67/cd4f67e5-652e-3291-cfcc-61108e59a326/1280_U002a800-p1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/03/79/700379d4-5e0c-b64d-9118-5598426638d6/1280_U002a800-p2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/c9/48/7ec9485b-3ae7-eee3-dc9a-04da21cb21c2/1280_U002a800-p3.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[飞火动态壁纸-4k超清视频桌面主题壁纸引擎]]></title>
-        <id>飞火动态壁纸-4k超清视频桌面主题壁纸引擎-us-1750101241971</id>
-        <link href="https://apps.apple.com/us/app/%E9%A3%9E%E7%81%AB%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8-4k%E8%B6%85%E6%B8%85%E8%A7%86%E9%A2%91%E6%A1%8C%E9%9D%A2%E4%B8%BB%E9%A2%98%E5%A3%81%E7%BA%B8%E5%BC%95%E6%93%8E/id1576794157?mt=12&amp;uo=4"/>
-        <updated>2025-06-16T19:14:01.971Z</updated>
-        <summary type="html"><![CDATA[三个月会员: $2.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E9%A3%9E%E7%81%AB%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8-4k%E8%B6%85%E6%B8%85%E8%A7%86%E9%A2%91%E6%A1%8C%E9%9D%A2%E4%B8%BB%E9%A2%98%E5%A3%81%E7%BA%B8%E5%BC%95%E6%93%8E/id1576794157?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/4c/d2/cb4cd29c-9d6b-6df0-4865-8d6db6ef86bb/AppIcon-85-220-0-4-2x.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>三个月会员：</strong><span>$2.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $2.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  【动态视频桌面】
-一键设置动态壁纸，唤醒你沉睡的桌面
-【海量超清壁纸】
-每日更新新鲜壁纸，让你的桌面每天焕然一新
-【趣味交互壁纸】各类特色交互壁纸，移动鼠标开启和桌面的有趣互动
-飞火动态壁纸拥有海量壁纸资源，超清无水印动态壁纸、优质静态壁纸大全一键美化你的桌面，让你的桌面动起来！ 更有各种隐藏彩蛋等着你哦！
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/ca/73/e9ca7323-84d2-047c-1609-8e657e0eb97e/5a50f404baa27c1488934de8c030e532.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/b5/ff/fcb5ffaf-95f5-7952-9950-298088193e0f/ce8c09195637625df422c61122ad14ae.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/fb/e9/63fbe99d-8074-09f3-3373-2263d3c7509c/_U52a8_U6001.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/9d/81/409d8183-19f5-5fec-e5c3-5804a4d268a4/_U9759_U6001.jpg/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antivirus One - Virus Cleaner]]></title>
-        <id>Antivirus One - Virus Cleaner-us-1750080755476</id>
-        <link href="https://apps.apple.com/us/app/antivirus-one-virus-cleaner/id1068435535?mt=12&amp;uo=4"/>
-        <updated>2025-06-16T13:32:35.476Z</updated>
-        <summary type="html"><![CDATA[Upgrade To Pro: $29.99 → $19.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/antivirus-one-virus-cleaner/id1068435535?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/45/8a/f2458a80-bd15-2169-91f1-f74706cc7c84/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Upgrade To Pro：</strong><span>$29.99</span> → <b>
-  <strong>$19.99</strong>
-</b><span>[$19.99 ~ $29.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Keep your digital wallets and keychains safe with Antivirus One, your personal cyber security expert.
-
-Antivirus One offers live antivirus monitoring to protect your Mac from adware, ransomware, spyware and all kinds of malware attacks.
-
-Download now and say goodbye to pop-up scams, spyware and viruses! 
- 
-Developed exclusively by the world’s largest antivirus and spyware active monitoring lab at Trend Micro. Secure your Mac with these powerful Antivirus One protection features:
-
-1. Real Time Detection
-Live malware detector on the go. Protect your Mac against all threats 24/7.
-
-2. Virus Scanner
-Quick scan, deep scan or customize scan locations to safeguard every part of your disk.
-
-3. Virus Cleaner (In-App Purchase required)
-Automatically remove viruses completely for the security of your system and privacy.
-
-4. Adware Cleaner
-Get rid of pop-ups, adware, and browser hijackers so you can browse at peace.
-
-5. Privacy Cleaner
-Customize your online transparency. Turn invisible without leaving a trace in your browser.
-
-6. Safe Search
-Flag safety ratings of every Google search result.
-
-7. Web Threat Protection
-Prevents users from visiting phishing websites.
-
-We highly recommend full disk scanning using Antivirus One on a regular basis to keep your Mac safe from security threats.
-
-We offer two auto-renewing subscription options:
-— Monthly: as low as $2.99
-— Yearly: as low as $19.99
-Price may vary by location.
- 
-Subscriptions will auto-renew unless canceled.
-— Payment will be charged to iTunes Account at confirmation of purchase
-— Subscription may be managed by the user and auto-renewal may be turned off by going to the user’s Account Setting after purchase.
-— No cancellation of the current subscription is allowed during active subscription period.
-— Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
-— Your account will be charged for renewal for the amount of your current subscription within 24-hours prior to the end of the current period. All cost for subscriptions are mentioned above.
-
-We value your feedback, it helps us to improve Antivirus One to better serve you! Please send us your comments or suggestions in the App Store or by the feedback page inside Antivirus One.
- 
-Privacy Policy and Terms of Use
-http://gr.trendmicro.com/GREntry/NonPayment?Target=AntivirusOne&OS=&SP=&PID=DS10&FunID=PrivacyPolicy&VID=&Locale=EN-US
-http://gr.trendmicro.com/GREntry/NonPayment?Target=AntivirusOne&OS=&SP=&PID=DS10&FunID=LicenseAgreement&VID=&Locale=EN-US
-
-Contact support: mac_support@trendmicro.com
-
-Please be advised that this app is only offered in English in this country.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fe/66/ea/fe66ea73-00d5-e896-118b-e100975d701c/fef617ed-c9c5-4cf8-beb9-55212d0e43ca_EN_01.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d4/ec/e2/d4ece2dc-3764-6337-30f1-89cadd295fe2/1f53872e-eed6-47e1-b2a6-4a880e357f55_EN_02.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b3/f0/b7/b3f0b750-dee9-2742-5ec1-0a4c5a20002d/5c5da793-a7b4-40c0-a269-1fc17bc7cbf8_EN_03.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/07/fb/f5/07fbf5f9-af25-59c4-7a9c-cae83e97535d/fa392ba7-3ace-4575-ac2f-b41374dc693c_EN_04.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/38/d3/bd/38d3bd34-bf58-986e-54bc-8856c02e2159/7085872b-3c40-4e66-bde9-26f41e215f1e_EN_05.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Audio Converter]]></title>
-        <id>The Audio Converter-us-1750077497428</id>
-        <link href="https://apps.apple.com/us/app/the-audio-converter/id1081480270?mt=12&amp;uo=4"/>
-        <updated>2025-06-16T12:38:17.428Z</updated>
-        <summary type="html"><![CDATA[Premium Pass: $19.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/the-audio-converter/id1081480270?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a6/12/eb/a612ebf2-0792-2872-e270-95fc99cc8d19/AppIcon-0-0-85-220-0-0-4-0-2x.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Premium Pass：</strong><span>$19.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $19.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Quickly convert your audio or video files to nearly any audio format!
-
-1. Select your input file
-2. Choose your output format ( MP3, WAV, M4A, AAC  etc.  )
-3. Convert! It will only take a few seconds.
-4. Done! Listen right away, or open  in your favorite app
-
-Here are the video and audio output formats you can choose from:
-MP3, M4A, AAC, FLAC, OGG, WAV, WMA, AIFF
-
-You can convert from dozens of input formats, here are some of the most popular formats we support converting from:
-MOV, M4A, MP3, WMA, MP4, WAV, OGG, OPUS, AMR, AAC, WEBM, MID and many more!
-
-Save, Share or Listen to your converted audio files in your favorite apps immediately.
-
-Conversion is done on a secure cloud server, which makes conversion easier, faster and much more battery-friendly. You must have an internet connection to use this app. Files are immediately deleted from the server after conversion. While the files are immediately deleted after conversion or cancellation, you should be aware that by using this app, you agree that your files will be sent over to internet from the app to the conversion server.
-
-We've also recently added support for local conversions for many popular conversion types. These conversions don't require a server, and are usually done almost instantly! We are continuing to add support for more local conversions with each update.
-
-
-This app includes an optional auto-renewable subscription (Premium Pass): Premium Pass beings with a free trial period, then an auto-renewable monthly subscription when trial ends. Payment will be charged to your Apple account at confirmation of purchase and will automatically renew (at the duration/price selected) unless auto-renew is turned off at least 24 hrs before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period. Current subscription may not be cancelled during the active subscription period; however, you can manage your subscription and/or turn off auto-renewal by visiting your Apple Account Settings after purchase. Any unused portion of the free initial period will be forfeited when you purchase a subscription.
-
-Privacy Policy: https://float.support/the-audio-converter-mac/privacy
-Terms of Use: https://float.support/the-audio-converter-mac/terms
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/a6/d0/63/a6d063b5-8194-3e3a-dabd-69cc1a17c1b4/51fab44a-f38c-4c8b-9947-35caa4c3a46a_en-US-Mac_ss1.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/23/9c/bc/239cbcbb-42e0-bf0a-b067-6d0b4c8860d7/3e90d419-fa14-45ad-bbca-7e314f50dd59_en-US-Mac_ss2.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/9a/7c/5f/9a7c5ff2-6296-c62d-086e-c7d4592a384c/481fbb67-f60a-40cd-8aec-3fdc93881085_en-US-Mac_ss3.jpg/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antivirus One - Virus Cleaner]]></title>
-        <id>Antivirus One - Virus Cleaner-us-1750077497428</id>
-        <link href="https://apps.apple.com/us/app/antivirus-one-virus-cleaner/id1068435535?mt=12&amp;uo=4"/>
-        <updated>2025-06-16T12:38:17.428Z</updated>
-        <summary type="html"><![CDATA[Upgrade to Pro: $19.99 → $2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/antivirus-one-virus-cleaner/id1068435535?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/45/8a/f2458a80-bd15-2169-91f1-f74706cc7c84/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Upgrade to Pro：</strong><span>$19.99</span> → <b>
-  <strong>$2.99</strong>
-</b><span>[$2.99 ~ $19.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Keep your digital wallets and keychains safe with Antivirus One, your personal cyber security expert.
-
-Antivirus One offers live antivirus monitoring to protect your Mac from adware, ransomware, spyware and all kinds of malware attacks.
-
-Download now and say goodbye to pop-up scams, spyware and viruses! 
- 
-Developed exclusively by the world’s largest antivirus and spyware active monitoring lab at Trend Micro. Secure your Mac with these powerful Antivirus One protection features:
-
-1. Real Time Detection
-Live malware detector on the go. Protect your Mac against all threats 24/7.
-
-2. Virus Scanner
-Quick scan, deep scan or customize scan locations to safeguard every part of your disk.
-
-3. Virus Cleaner (In-App Purchase required)
-Automatically remove viruses completely for the security of your system and privacy.
-
-4. Adware Cleaner
-Get rid of pop-ups, adware, and browser hijackers so you can browse at peace.
-
-5. Privacy Cleaner
-Customize your online transparency. Turn invisible without leaving a trace in your browser.
-
-6. Safe Search
-Flag safety ratings of every Google search result.
-
-7. Web Threat Protection
-Prevents users from visiting phishing websites.
-
-We highly recommend full disk scanning using Antivirus One on a regular basis to keep your Mac safe from security threats.
-
-We offer two auto-renewing subscription options:
-— Monthly: as low as $2.99
-— Yearly: as low as $19.99
-Price may vary by location.
- 
-Subscriptions will auto-renew unless canceled.
-— Payment will be charged to iTunes Account at confirmation of purchase
-— Subscription may be managed by the user and auto-renewal may be turned off by going to the user’s Account Setting after purchase.
-— No cancellation of the current subscription is allowed during active subscription period.
-— Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
-— Your account will be charged for renewal for the amount of your current subscription within 24-hours prior to the end of the current period. All cost for subscriptions are mentioned above.
-
-We value your feedback, it helps us to improve Antivirus One to better serve you! Please send us your comments or suggestions in the App Store or by the feedback page inside Antivirus One.
- 
-Privacy Policy and Terms of Use
-http://gr.trendmicro.com/GREntry/NonPayment?Target=AntivirusOne&OS=&SP=&PID=DS10&FunID=PrivacyPolicy&VID=&Locale=EN-US
-http://gr.trendmicro.com/GREntry/NonPayment?Target=AntivirusOne&OS=&SP=&PID=DS10&FunID=LicenseAgreement&VID=&Locale=EN-US
-
-Contact support: mac_support@trendmicro.com
-
-Please be advised that this app is only offered in English in this country.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fe/66/ea/fe66ea73-00d5-e896-118b-e100975d701c/fef617ed-c9c5-4cf8-beb9-55212d0e43ca_EN_01.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d4/ec/e2/d4ece2dc-3764-6337-30f1-89cadd295fe2/1f53872e-eed6-47e1-b2a6-4a880e357f55_EN_02.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b3/f0/b7/b3f0b750-dee9-2742-5ec1-0a4c5a20002d/5c5da793-a7b4-40c0-a269-1fc17bc7cbf8_EN_03.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/07/fb/f5/07fbf5f9-af25-59c4-7a9c-cae83e97535d/fa392ba7-3ace-4575-ac2f-b41374dc693c_EN_04.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/38/d3/bd/38d3bd34-bf58-986e-54bc-8856c02e2159/7085872b-3c40-4e66-bde9-26f41e215f1e_EN_05.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理]]></title>
-        <id>全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理-us-1750077497428</id>
-        <link href="https://apps.apple.com/us/app/%E5%85%A8%E8%83%BDai-%E5%9B%BE%E7%94%9F%E8%A7%86%E9%A2%91-%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91-ai%E5%86%99%E6%AD%8C%E4%BD%9C%E6%9B%B2-ai%E6%99%BA%E8%83%BD%E5%8A%A9%E7%90%86/id6448913901?uo=4"/>
-        <updated>2025-06-16T12:38:17.428Z</updated>
-        <summary type="html"><![CDATA[积分: $29.99 → $19.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E5%85%A8%E8%83%BDai-%E5%9B%BE%E7%94%9F%E8%A7%86%E9%A2%91-%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91-ai%E5%86%99%E6%AD%8C%E4%BD%9C%E6%9B%B2-ai%E6%99%BA%E8%83%BD%E5%8A%A9%E7%90%86/id6448913901?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/af/58/e1af58f2-f4e2-06e3-4999-f44617b260a7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>积分：</strong><span>$29.99</span> → <b>
-  <strong>$19.99</strong>
-</b><span>[$9.99 ~ $29.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  全能 AI 神器，解锁无限创意！
-一款集 AI聊天、绘画、写作、故事视频、数字人、照片特效、文生视频、图生视频的全能 AI 产品。
-
-
-【亮点功能】
-
-1、AI 照片特效  —— 赋予照片生命力
-海量趣味特效等你解锁！老照片瞬间 “复活”，还能实现 AI 拥抱、AI 跳舞。更有变身娃娃脸、肌肉男，羊毛卷造型、天使翅膀特效，还有膨胀、可爱捏捏等搞怪效果，让每一张照片都别具一格！
-
-2、AI 故事视频 —— 创作起号快人一步
-无论是小说推文、民间故事，还是儿童绘本、解压视频，只需一键，轻松制作。快速打造爆款内容，助力你的账号迅速起号、流量飙升！
-
-3、AI 文生视频、图生视频 —— 创意瞬间变现
-输入文字描述，或是上传一张照片，AI 即刻发力，快速生成独一无二的动态视频，让你的想象跃然 “屏” 上！
-
-4、AI 数字人 —— 口播视频轻松搞定
-只需面对镜头说 “123”，AI 精准对口型，一键生成高质量口播视频。无需复杂操作，专业效果轻松呈现！
-
-4、AI 智能聊天 —— 开启深度交互体验
-搭载 R1 满血版深度思考大模型，支持图文多模态交互，还能同时调用多模型。畅聊无阻，思维碰撞，满足你的多元对话需求！
-
-关于订阅：
-- 付款：订阅按周度或月度收费，费用视所选订阅计划而定。确认购买后，订阅款项将从您的 iTunes 账户中扣除。
-- 续订：包含免费试用期的订阅将自动续订为付费订阅。除非在当前订阅周期结束前 24 小时关闭自动续订，否则订阅将会自动续期，而费用将会从您的 iTunes 账户中扣除。续订的费用取决于您的订阅计划。
-- 取消续订：如需取消续订，请在当前订阅周期到期前 24 小时内，手动在 App Store 订阅管理中关闭续订功能。
-
-使用应用即表示您同意我们的隐私政策和使用条款：
-用户协议：https://docs.qq.com/doc/p/e0e4a839d9c935de84363e11f097d0bef5eaa2ba
-隐私政策：https://docs.qq.com/doc/p/531d477da8d8e2f49146793d2d4450f5684c38d2
-</p>]]></content>
     </entry>
 </feed>

@@ -59072,6 +59072,21 @@
     "history": [
       [
         {
+          "timestamp": 1750432722345,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "永久授权": "¥268.00",
+            "年度订阅": "¥148.00",
+            "UPDF AI 标准版": "¥148.00",
+            "UPDF AI 无限版": "¥238.00",
+            "UPDF Pro + AI 无限": "¥468.00",
+            "UPDF Pro + UPDF AI 标准版": "¥238.00",
+            "季度订阅": "¥88.00",
+            "UPDF Pro + AI 无限版": "¥338.00"
+          }
+        },
+        {
           "timestamp": 1750429038027,
           "price": 0,
           "formattedPrice": "免费",

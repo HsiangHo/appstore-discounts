@@ -13727,6 +13727,25 @@
     "history": [
       [
         {
+          "timestamp": 1750432722345,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Procurement Director": "$0.99",
+            "Disaster Manager": "$0.99",
+            "Medical Coordinator": "$0.99",
+            "Ethics Watchdog": "$0.99",
+            "Chaos Engineer": "$0.99",
+            "Economic Forecaster": "$0.99",
+            "Situation Director": "$0.99",
+            "Outreach Coordinator": "$0.99",
+            "Fast Response EMTs": "$0.99",
+            "Strategic Fundraiser": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749630287215,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -28900,6 +28919,22 @@
       "基础VIP升级黄金VIP90天": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750432722345,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "白金VIP升级星钻VIP360天": "$19.99",
+            "会员限时活动": "$3.99",
+            "连续包月": "$1.99",
+            "12个月": "$19.99",
+            "连续包年": "$24.99",
+            "白金VIP升级星钻VIP90天": "$4.99",
+            "基础VIP升级黄金VIP90天": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750310268890,
@@ -51761,6 +51796,21 @@
     "history": [
       [
         {
+          "timestamp": 1750432722345,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "连续包月": "$5.99",
+            "快帆30天VIP": "$6.99",
+            "连续包季": "$17.49",
+            "连续包年": "$64.99",
+            "360天VIP": "$69.99",
+            "快帆360天VIP": "$74.99",
+            "90天VIP": "$16.99",
+            "快帆90天VIP": "$18.99"
+          }
+        },
+        {
           "timestamp": 1750429038027,
           "price": 0,
           "formattedPrice": "Free",
@@ -68582,6 +68632,23 @@
       "250 Credits": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750432722345,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "24 months-Meitu SVIP": "$39.99",
+            "Yearly Auto-renew Meitu SVIP": "$84.99",
+            "Meitu- 1000 Credits": "$59.99",
+            "Meitu- 500 Credits": "$25.99",
+            "Meitu- 200 Credits": "$25.99",
+            "Monthly Auto-renew Meitu SVIP": "$3.99",
+            "35,000 Credits": "$399.99",
+            "250 Credits": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750148720760,
