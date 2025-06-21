@@ -5801,6 +5801,25 @@
     "history": [
       [
         {
+          "timestamp": 1750479735727,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Synth Lead": "$1.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Groove Machine Synth": "$0.00",
+            "Synth Plucks": "$1.99",
+            "Transistor Bass": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750469100069,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -24235,6 +24254,21 @@
       "362.6虎牙币": "$69.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750479735727,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "75600 金豆": "$14.99",
+            "362600 金豆": "$69.99",
+            "35000 金豆": "$6.99",
+            "61600 金豆": "$12.99",
+            "75.6虎牙币": "$14.99",
+            "61.6虎牙币": "$12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749874910744,
