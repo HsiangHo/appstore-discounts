@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-21T16:27:01.776Z</updated>
+    <updated>2025-06-21T19:19:03.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-21T16:27:01.777Z</updated>
+        <updated>2025-06-21T19:19:03.818Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnSat, 21 Jun 2025 16:27:01 GMT</id>
+        <id>rankingcnSat, 21 Jun 2025 19:19:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-21T16:27:01.777Z</updated>
+        <updated>2025-06-21T19:19:03.818Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -165,6 +165,31 @@ feedId:49753297431966720+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1231336508">腾讯视频-五十公里桃花坞5 全网独播</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>4</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>该付费商品</i>：<b>3</b>
+              </li><li>
+                <i>付费商品</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id985614903">SQLPro Studio</a>
       </td>
       <td>
@@ -177,31 +202,6 @@ feedId:49753297431966720+userId:73658201673997312
             <span>App 内购买项目</span><ol>
               <li>
                 <i>SQLPro Premium</i>：<b>3</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1231336508">腾讯视频-五十公里桃花坞5 全网独播</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>3</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>该付费商品</i>：<b>2</b>
-              </li><li>
-                <i>付费商品</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -802,6 +802,95 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯视频-五十公里桃花坞5 全网独播]]></title>
+        <id>腾讯视频-五十公里桃花坞5 全网独播-cn-1750533193293</id>
+        <link href="https://apps.apple.com/cn/app/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C%E6%A1%83%E8%8A%B1%E5%9D%9E5-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1231336508?mt=12&amp;uo=4"/>
+        <updated>2025-06-21T19:13:13.293Z</updated>
+        <summary type="html"><![CDATA[该付费商品: ¥8.00 → ¥3.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C%E6%A1%83%E8%8A%B1%E5%9D%9E5-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1231336508?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/92/23/3b92233c-34ea-ef85-ff44-e86787d4b0fb/AppIcon-85-220-0-4-2x-sRGB.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>该付费商品：</strong><span>¥8.00</span> → <b>
+  <strong>¥3.00</strong>
+</b><span>[¥3.00 ~ ¥8.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  电视剧热播：
+《长安的荔枝》古代传奇大剧！雷佳音岳云鹏喜感郎舅大唐“荔”劫运荔枝
+《绽放的许开心》反内耗极品爽剧！张雨绮韩庚半熟烈爱带娃试婚
+《潜渊》多重身份连环迷局！黄晓明张佳宁暗夜潜伏上演谍战大戏
+《焕羽》张婧仪周翊然青春之旅蜕变成长，踏浪逐风恣意翱翔！
+《桃花映江山》刘学义孟子义互虐生情，落魄公主敌国和亲，攻心猎爱震荡朝堂！
+《淬火年代》大江大河姊妹篇！张新成宋祖儿热血办厂逆袭，正午阳光年代剧上新
+《陷入我们的热恋》现偶之光顶级上头！刘浩存王安宇要谈不谈得暧昧最撩人
+《紫川之光明王》壮丽诗史！杨旭文刘宇宁张铭恩三兄弟热血燃战
+综艺强档：
+《让我来唱》天后萧亚轩复出首秀，史上最卷“全女声”音综重磅来袭，66人直播大战一触即发！
+《哈哈哈哈哈 第5季》“舞王”邓超遇对手！王俊凯大跳抽象甩葱舞，这互联网是没他在乎的人了吗？
+《开始推理吧 第3季》推理团徒手抓“丧尸”，演绎现实版生化危机，谁看了不说一句有极限逃生那味儿了。
+《奔跑吧》每周五爆笑开跑，白鹿孟子义古装扮相美我一大跳，李昀锐走趾压板疼得嗷嗷叫。
+《一见你就笑》大型短剧拍摄现场，杨迪搭戏杨超越被狠扇一巴掌？徐冬冬反向壁咚高瀚宇众人尖叫。
+《毛雪汪》陈昊宇新专辑首唱绝美嗓音！独居惊魂记？陈昊宇自曝家里曾遭陌生男性潜入，毛毛雪琴瑟瑟发抖。
+《天赐的声音 第6季》A-Lin黄子弘凡音浪太强，张碧晨周兴哲合唱声起心碎。
+《朋友请吃饭 第3季》这是我能听的吗？孔雪儿颜安饭桌上狂爆剧组内幕，周洁琼姜珮瑶自曝“初始配置”，杨迪尹正全程惊讶脸。
+《旷野星球》跟魏大勋王安宇到离地心最近的地方云探险，看溶洞内的“生命之树”，感慨大自然的鬼斧神工。
+《进步班》章子怡分享《酱园弄》拍摄过程，李诚儒模仿张子枫唐探名场面。
+电影超燃：
+《制暴：无限杀机》硬核痛片!斯坦森血洗黑帮三代
+《苍茫的天涯是我的爱》神曲改编笑果逆天！曾毅周奇爆笑公路奇旅
+《雄狮少年2》豆瓣8.5分高口碑国漫，雄狮归来少年拳战擂台
+《小丑2：双重妄想》影帝华金与LadyGaga飙戏
+《穿越时空的少女》豆瓣8.6！日漫纯爱天花板
+《楚幽秘境》鬼吹灯外传！古楚千年墓穴探险
+强势动漫：
+《诡秘之主》世界级作品，一键进入19世纪魔法世界
+《诛仙 第3季》兽神乱世撼九州，诛仙再临证苍生，第3季热播中！
+《遮天》四极破境，叶天帝横扫一切敌！
+《仙逆》王林再战天道！这一次你依然带不走她
+《神印王座》终局之战！龙皓晨战李正直！
+《大猿魂》灵明赤尻通臂六耳齐聚，四大神猴来战！
+精品短剧：
+《彼岸灯塔》海风呜咽，命案连环。渔村小镇迷雾重重，连环凶杀案掀起陈年悬案！
+《贵嫡》财阀贵女重启人生！踩碎渣夫恶妾算盘，爽爆复仇！
+纪录片新热：
+《早餐中国 第5季》：经典回归！一道传统早餐、一家有趣小店、一群忘我的食客，丰沛你的每一个清晨。
+《中国刑侦实录 第2季》：围绕一系列离奇案件，每集聚焦一个震撼人心的真实故事，深入挖掘案件背后的真相与情感纠葛。
+《人间惊鸿客 第2季》：走进李白、杜甫的惊鸿一世，深度解读千古诗人如何面对人生起落。
+《惊魂高速公路》：危险超车、岔路撞车、轮胎爆炸……那些惊险的公路事故全记录！
+《72种危险动物·亚洲篇》：盘点在广袤亚洲大陆上，生存的已知及鲜为人知的危险动物，揭开凶险共生的自然界致命法则！
+《猎杀倒计时》：探索四大洲自然界强大的捕食者的世界，见证捕食者的原始力量和坚韧意志。
+《西藏味道》：就爱这口西藏味儿！全方位展现西藏独具特色的饮食文化。
+《乡野有真味·奇食》：深入竹林溪涧、古村深巷，探访颠覆味蕾认知的“暗黑”美食与新奇风味！
+儿童节目：
+《水晶岛守卫者》：能变猫，能变人，还能变成猫人守护城镇
+《猪猪侠之竞速小英雄9》：面对重重困难，超星车队完成挑战重启比赛
+《我是妹猪请多指教》：一起来看超治愈的熊猫成长日记！
+《超级小猫战队：喵喵好伙伴》：小猫也能解决难题！看喵喵的超能力出击
+
+【自动订阅服务说明】
+1.订阅服务：
+ a）腾讯视频VIP连续包月(1个月)、腾讯视频VIP连续包季(3个月)、腾讯视频VIP连续包年(12个月)
+ b）超级影视VIP连续包月(1个月)、超级影视VIP连续包季(3个月)、超级影视VIP连续包年(12个月)
+ c）腾讯体育VIP连续包月(1个月)、腾讯体育超级VIP连续包月(1个月)
+ 2.订阅价格：
+ a）腾讯视频VIP：连续包月产品为25元/月，连续包季产品为68元/季，连续包年产品为238元/年
+ b）超级影视VIP：连续包月产品为35元/月、连续包季产品为98元/季、连续包年产品为348元/年
+ c）腾讯体育VIP系列会员：腾讯体育VIP连续包月产品为25元/月、腾讯体育超级VIP连续包月产品为60元/月
+ 3.付款：用户确认购买并付款后计入iTunes账户
+ 4.自动续费：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期
+ 5.关闭服务：您可以在苹果手机“设置” --> 进入“iTunes Store 与 App Store”-->点击 “Apple ID”，选择"查看Apple ID"，进入"账户设置"页面，点击“订阅”，管理自动订阅服务，如需取消，每个计费周期结束前24小时关闭即可，到期前24小时内则不再扣费
+ 6.服务协议： 
+ a）腾讯视频VIP：https://film.qq.com/weixin/term.html
+ b）超级影视VIP：https://film.qq.com/weixin/term.html?bizId=svip
+ c）腾讯体育VIP系列会员：https://film.qq.com/weixin/term.html?bizId=sport
+ 7 .隐私协议：https://privacy.qq.com/document/preview/3fab9c7fc1424ebda42c3ce488322c8a
+
+【意见反馈】
+如遇问题或者有好的建议，欢迎加入QQ体验群反馈，将会有萌哒哒的视频妹为大家解答，并有持续好礼相送！官方QQ群：527288510。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/16/3e/15163e7c-e03a-d9bb-1d24-42356617484c/IMG_1855.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/b6/33/a4b63375-7c02-6eb8-d3f8-446c5c2e13f2/7014b5a6-7cf4-4e28-a688-ff3eff19ee4a_1.jpeg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/f5/15/82f515cc-1b40-bf32-7c08-59b3fccf967b/7e0ac2f1-59ac-40d4-b333-c7ff5cd3652d_2880x1800-01@1x.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/e2/d9/9ae2d96c-bc6d-e6be-fbdb-5e5fcbab67b7/IMG_1854.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Remixlive - Make Music & Beats]]></title>
