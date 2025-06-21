@@ -59222,8 +59222,8 @@
       "UPDF Pro + AI 无限": "¥468.00",
       "UPDF AI 无限版": "¥268.00",
       "季度订阅": "¥88.00",
-      "UPDF Pro + UPDF AI 标准版": "¥288.00",
-      "UPDF Pro + AI 无限版": "¥338.00"
+      "UPDF Pro + UPDF AI 标准版": "¥298.00",
+      "UPDF Pro + AI 无限版": "¥398.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -59238,6 +59238,23 @@
       "UPDF Pro + AI 无限版": "¥338.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750515376820,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "永久授权": "¥268.00",
+            "年度订阅": "¥168.00",
+            "UPDF AI 标准版": "¥148.00",
+            "UPDF AI 无限版": "¥268.00",
+            "UPDF Pro + AI 无限": "¥468.00",
+            "UPDF Pro + UPDF AI 标准版": "¥298.00",
+            "季度订阅": "¥88.00",
+            "UPDF Pro + AI 无限版": "¥398.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750432722345,
