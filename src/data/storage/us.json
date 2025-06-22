@@ -12159,6 +12159,23 @@
     "history": [
       [
         {
+          "timestamp": 1750580505584,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Editor Pro - Annual Plan": "$47.99",
+            "Editor Pro - Monthly Plan": "$8.99",
+            "Editor Pro - Annual Plan.2024": "$47.99",
+            "FotorPro+ - Monthly Plan": "$19.99",
+            "Pro discount - Monthly Plan": "$8.99",
+            "FotorPro+ - Annual Plan": "$89.99",
+            "Pro discount - Annual Plan": "$47.99",
+            "Fotor Pro - Recommend Offer": "$47.99",
+            "200 credits for pro": "$9.99",
+            "Pro - Annual Plan.cn.2024": "$47.99"
+          }
+        },
+        {
           "timestamp": 1750576628572,
           "price": 0,
           "formattedPrice": "Free",
@@ -29124,6 +29141,20 @@
     "history": [
       [
         {
+          "timestamp": 1750580505584,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "白金VIP升级星钻VIP360天": "$19.99",
+            "会员限时活动": "$3.99",
+            "连续包月": "$1.99",
+            "12个月": "$19.99",
+            "连续包年": "$24.99",
+            "白金VIP升级星钻VIP90天": "$4.99",
+            "基础VIP升级黄金VIP90天": "$4.99"
+          }
+        },
+        {
           "timestamp": 1750566527257,
           "price": 0,
           "formattedPrice": "Free",
@@ -34651,6 +34682,23 @@
       "Desperado Unlock Pack": "$7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750580505584,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Desperado Unlock Pack": "$7.99",
+            "She-Ra Prestige Pack Sale": "$6.99",
+            "She-Ra Sword Booster Sale": "$1.99",
+            "She-Ra Sword Power Booster": "$3.99",
+            "She-Ra Prestige Pack": "$12.99",
+            "Battle Cat Booster Pack": "$3.99",
+            "Battle Cat Prestige Pack": "$3.99",
+            "Rogue Legends": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750220826866,
