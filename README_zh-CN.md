@@ -267,7 +267,7 @@
 |665|955297617|自动|CodeRunner 4||||CodeRunner 4||
 |664|1400977081|自动|IPYNB Viewer + Editor||||IPYNB Viewer + Editor||
 |663|948079084|自动|FlashFTP - 高效FTP/SFTP文件传输客户端||||FlashFTP - Swift FTP/SFTP Client||
-|662|6504210872|自动|DartShell - SSH & SFTP||||DartShell - SSH & SFTP||
+|662|6504210872|自动|DartShell Pro- SSH & SFTP||||DartShell Pro- SSH & SFTP||
 |661|1063631769|自动|Medis - GUI for Redis||||Medis - GUI for Redis||
 |660|507135296|自动|IconKit||||IconKit||
 |659|429449079|自动|Patterns - The Regex App||||Patterns - The Regex App||

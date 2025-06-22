@@ -264,7 +264,7 @@ So far, we've covered `2` `Countries or Regions` and  `857` `Apps` <br />Push no
 |665|955297617|Automatic|CodeRunner 4||||CodeRunner 4||
 |664|1400977081|Automatic|IPYNB Viewer + Editor||||IPYNB Viewer + Editor||
 |663|948079084|Automatic|FlashFTP - 高效FTP/SFTP文件传输客户端||||FlashFTP - Swift FTP/SFTP Client||
-|662|6504210872|Automatic|DartShell - SSH & SFTP||||DartShell - SSH & SFTP||
+|662|6504210872|Automatic|DartShell Pro- SSH & SFTP||||DartShell Pro- SSH & SFTP||
 |661|1063631769|Automatic|Medis - GUI for Redis||||Medis - GUI for Redis||
 |660|507135296|Automatic|IconKit||||IconKit||
 |659|429449079|Automatic|Patterns - The Regex App||||Patterns - The Regex App||
