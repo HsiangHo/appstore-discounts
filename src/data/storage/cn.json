@@ -15976,6 +15976,23 @@
     "history": [
       [
         {
+          "timestamp": 1750587456166,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Telegram Premium": "¥33.00",
+            "Telegram Premium Annual": "¥268.00",
+            "1x Premium (3 Months)": "¥98.00",
+            "Telegram Premium (3-Month)": "¥98.00",
+            "1x Premium (1 Year)": "¥268.00",
+            "1x Premium (6 Months)": "¥148.00",
+            "Telegram Premium (1 Year)": "¥298.00",
+            "250 Telegram Stars": "¥41.80",
+            "Telegram Premium (6 month)": "¥168.00",
+            "75 Telegram Stars": "¥12.80"
+          }
+        },
+        {
           "timestamp": 1750583877379,
           "price": 0,
           "formattedPrice": "免费",
@@ -31567,6 +31584,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750587456166,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "该付费商品": "¥3.00",
+            "1个月腾讯视频VIP": "¥30.00",
+            "付费商品": "¥12.00",
+            "3个月腾讯视频VIP": "¥78.00",
+            "该影片": "¥25.00",
+            "单点商品": "¥4.80"
+          }
+        },
         {
           "timestamp": 1750566527257,
           "price": 0,
