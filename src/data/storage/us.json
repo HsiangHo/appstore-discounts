@@ -29192,6 +29192,20 @@
     "history": [
       [
         {
+          "timestamp": 1750626947456,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "黄金会员连续包月": "$3.99",
+            "月卡": "$3.99",
+            "黄金会员连续包季": "$10.49",
+            "黄金会员连续包年": "$29.99",
+            "季卡": "$9.99",
+            "连续包月": "$3.99",
+            "年卡": "$29.99"
+          }
+        },
+        {
           "timestamp": 1750623521935,
           "price": 0,
           "formattedPrice": "Free",
@@ -43204,6 +43218,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750626947456,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Xmind Pro (Annually)": "$59.00",
+            "Desktop + Mobile (Monthly)": "$10.00",
+            "Desktop + Mobile (6 Months)": "$39.99",
+            "Xmind Premium (Annually)": "$99.00",
+            "All Platforms Quarterly": "$29.00",
+            "All Platforms Yearly": "$59.00",
+            "Xmind Premium (Monthly)": "$15.00",
+            "Desktop (6 Months)": "$34.99",
+            "Xmind Pro+ (Annually)": "$65.00",
+            "Desktop (Annually)": "$54.99"
+          }
+        },
         {
           "timestamp": 1750623521935,
           "price": 0,
