@@ -29192,6 +29192,20 @@
     "history": [
       [
         {
+          "timestamp": 1750634205810,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "白金VIP升级星钻VIP360天": "$19.99",
+            "会员限时活动": "$3.99",
+            "连续包月": "$1.99",
+            "12个月": "$19.99",
+            "连续包年": "$24.99",
+            "白金VIP升级星钻VIP90天": "$4.99",
+            "基础VIP升级黄金VIP90天": "$4.99"
+          }
+        },
+        {
           "timestamp": 1750626947456,
           "price": 0,
           "formattedPrice": "Free",
