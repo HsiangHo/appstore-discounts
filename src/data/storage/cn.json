@@ -15976,6 +15976,25 @@
     "history": [
       [
         {
+          "timestamp": 1750583877379,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "10000 Telegram Stars": "¥1,649.00",
+            "5000 Telegram Stars": "¥829.00",
+            "25000 Telegram Stars": "¥4,188.00",
+            "35000 Telegram Stars": "¥5,799.00",
+            "750 Telegram Stars": "¥124.00",
+            "75 Telegram Stars": "¥12.80",
+            "250 Telegram Stars": "¥41.80",
+            "1500 Telegram Stars": "¥249.00",
+            "2500 Telegram Stars": "¥413.00",
+            "350 Telegram Stars": "¥58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750479735727,
           "price": 0,
           "formattedPrice": "免费",

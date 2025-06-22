@@ -2225,69 +2225,6 @@
           "range": "[¥18.00 ~ ¥25.00]"
         }
       ]
-    },
-    {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/2e/dd/3b/2edd3b4c-09d0-fb95-efed-5dea6ef5a39c/pr_source.jpg/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/56/ca/7b/56ca7b22-de77-e293-1b9a-e1e70b130601/pr_source.jpg/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/86/2e/74/862e74f5-7e02-fec5-40d6-d394d9b9f763/pr_source.jpg/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/d2/29/b8/d229b8d5-bbad-7a88-2e2a-e58c5e366dcc/mzl.ixcqcuas.jpg/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/fe/5b/d7/fe5bd7b7-a147-2256-3ac9-c5fbec620fbe/mzl.oddfdfzf.jpg/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/4d/ae/68/4dae68af-c50b-9bbc-5d96-f527668c075a/mzl.xmkfskxv.jpg/800x500bb.jpg"
-      ],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/c8/79/11/c87911ae-86d6-412d-6051-77aa128b4ff4/icon.png/512x512bb.png",
-      "kind": "mac-software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/fingerlab/id412786610?mt=12&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/c8/79/11/c87911ae-86d6-412d-6051-77aa128b4ff4/icon.png/60x60bb.png",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/c8/79/11/c87911ae-86d6-412d-6051-77aa128b4ff4/icon.png/100x100bb.png",
-      "userRatingCountForCurrentVersion": 0,
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "122337506",
-      "formattedPrice": "¥38.00",
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "minimumOsVersion": "10.13",
-      "artistId": 412786610,
-      "artistName": "Fingerlab",
-      "genres": [
-        "音乐"
-      ],
-      "price": 38,
-      "bundleId": "net.fingerlab.dm1mac",
-      "releaseDate": "2013-04-07T16:01:31Z",
-      "trackId": 522349879,
-      "trackName": "DM1 - The Drum Machine",
-      "genreIds": [
-        "6011"
-      ],
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Fingerlab SARL",
-      "currentVersionReleaseDate": "2021-01-14T08:04:33Z",
-      "releaseNotes": "This update fixes an issue with the Mixer page tracks titles and MacOs Catalina.\n\nStay tuned!\nFingerlab Team",
-      "version": "3.1.3",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "Easy and fast to use, loaded with 154 superb electronic drum kits and beautiful hyper-realistic graphics, DM1 has been designed for a lot of instant fun.  \nWith Midi In & out, DM1 is ready to fit your digital audio workstation.\n \nAs electronic musicians ourselves, we, at Fingerlab, have developed DM1 with the intention of delivering the perfect mix between fun playability and powerful sonic capacities. We always keep in mind the importance of a beautiful design with the right balance of powerful abilities while avoiding clumsy, overbusy interfaces. \n\nCheck our 154 electronic drum kits. 42 classic vintage drum kits plus 112 in-house produced electronic kits, edited and mastered at Fingerlab professional studio.\nAdd easily bass and melody to your beats with the instrument mode.\n\nDM1 offers 5 main sections:\n\n1 - THE STEP SEQUENCER Just turn on and off steps in your sequence to create cool beats, or unexpected rhythms!\n\n2 - THE DRUM PADS simply lets you play and record the beat that tickles your fingers on the keyboard. No need to be a first-class drummer, automatic quantize does the work for you.\n\n3 - THE MIXER for quick and subtle sound mixing of your drum kits. Featuring settings for volume, pitch, pan, sample length, custom drum kit element for each channel, mute and solo mode.\n\n4 - THE FX TRACKPADS a creative duo of FX trackpads to distort, modulate and transform your beats. The effects include: Overdrive, Delay, Reverb, Envelope filter, Phaser, Dub Delay, Formant, Texturizer, Robotizer, Dalek, Resonant Filter, Compressor & Noise Gate.\n\n5 - THE SONG COMPOSER allows you to quickly make a song with the beat patterns you have created. Just drag and drop the patterns onto the timeline. Fast and easy.\n\nDM1 for OSX is fully compatible with DM1 for iPad, you can share files between them.\n\nSpecifications:\n• DM1 The Drum Machine for iPad winner Apple design Award 2012\n• Fullscreen Retina Display \n• Smart ergonomy for fast creativity and fun \n• 154 vintage and produced drum kits, mastered at in-house Fingerlab Sound Studios\n• Instrument mode with 6 instruments available (Piano, Korg MicroPreset, Cello, Clavinet, Marimba and MiniLogue)\n• Import your samples and create your own kits\n• Mixer with pitch, length and level rotary controls, pan controls, and custom drum kit per channel \n• Automation Panel for a precise and intuitive control of any Mixer parameter over time \n• Automation recording for FXs\n• FX Trackpad for real-time sonic destruction and multi-FX \n• Time signatures\n• The Randomizer tool\n• Extra fast drum kit loading \n• Playable pattern selection for extra creativity \n• Mode song with intuitive editing \n• High-quality export \n• Separated tracks and AAC encoding export options\n• Full Midi Implementation \n• Import & Export your song project \n\nWatch DM1 video trailer on YouTube Fingerlab's channel: \nhttp://www.youtube.com/fingerlab \n\nFeel free to let us know what you think and what you'd like to see in the next DM1 update. \n\nEnjoy! \n\nWatch us : vimeo.com/​fingerlab \nVisit us : fingerlab.net \nFollow us : twitter.com/​fingerlab \nContact us : contact@fingerlab.net \n\nPowered by Fingerlab \nhttp://www.fingerlab.net",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "DM1 - The Drum Machine",
-      "trackViewUrl": "https://apps.apple.com/cn/app/dm1-the-drum-machine/id522349879?mt=12&uo=4",
-      "averageUserRating": 0,
-      "userRatingCount": 0,
-      "inAppPurchases": {},
-      "timestamp": 1750324780128,
-      "discounts": [
-        {
-          "type": "price",
-          "name": "价格",
-          "from": "¥58.00",
-          "to": "¥38.00",
-          "range": "[¥38.00 ~ ¥58.00]"
-        }
-      ]
     }
   ],
   "us": [
@@ -3279,69 +3216,6 @@
           "from": "$12.49",
           "to": "$3.99",
           "range": "[$3.99 ~ $12.49]"
-        }
-      ]
-    },
-    {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/2e/dd/3b/2edd3b4c-09d0-fb95-efed-5dea6ef5a39c/pr_source.jpg/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/56/ca/7b/56ca7b22-de77-e293-1b9a-e1e70b130601/pr_source.jpg/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/86/2e/74/862e74f5-7e02-fec5-40d6-d394d9b9f763/pr_source.jpg/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/d2/29/b8/d229b8d5-bbad-7a88-2e2a-e58c5e366dcc/mzl.ixcqcuas.jpg/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/fe/5b/d7/fe5bd7b7-a147-2256-3ac9-c5fbec620fbe/mzl.oddfdfzf.jpg/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/4d/ae/68/4dae68af-c50b-9bbc-5d96-f527668c075a/mzl.xmkfskxv.jpg/800x500bb.jpg"
-      ],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/c8/79/11/c87911ae-86d6-412d-6051-77aa128b4ff4/icon.png/512x512bb.png",
-      "kind": "mac-software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/fingerlab/id412786610?mt=12&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/c8/79/11/c87911ae-86d6-412d-6051-77aa128b4ff4/icon.png/60x60bb.png",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/c8/79/11/c87911ae-86d6-412d-6051-77aa128b4ff4/icon.png/100x100bb.png",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "122337506",
-      "formattedPrice": "$5.99",
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "userRatingCountForCurrentVersion": 0,
-      "artistId": 412786610,
-      "artistName": "Fingerlab",
-      "genres": [
-        "Music"
-      ],
-      "price": 5.99,
-      "bundleId": "net.fingerlab.dm1mac",
-      "releaseDate": "2013-04-07T16:01:31Z",
-      "trackId": 522349879,
-      "trackName": "DM1 - The Drum Machine",
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
-      "genreIds": [
-        "6011"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Fingerlab SARL",
-      "currentVersionReleaseDate": "2021-01-14T08:04:33Z",
-      "releaseNotes": "This update fixes an issue with the Mixer page tracks titles and MacOs Catalina.\n\nStay tuned!\nFingerlab Team",
-      "version": "3.1.3",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Easy and fast to use, loaded with 154 superb electronic drum kits and beautiful hyper-realistic graphics, DM1 has been designed for a lot of instant fun.  \nWith Midi In & out, DM1 is ready to fit your digital audio workstation.\n \nAs electronic musicians ourselves, we, at Fingerlab, have developed DM1 with the intention of delivering the perfect mix between fun playability and powerful sonic capacities. We always keep in mind the importance of a beautiful design with the right balance of powerful abilities while avoiding clumsy, overbusy interfaces. \n\nCheck our 154 electronic drum kits. 42 classic vintage drum kits plus 112 in-house produced electronic kits, edited and mastered at Fingerlab professional studio.\nAdd easily bass and melody to your beats with the instrument mode.\n\nDM1 offers 5 main sections:\n\n1 - THE STEP SEQUENCER Just turn on and off steps in your sequence to create cool beats, or unexpected rhythms!\n\n2 - THE DRUM PADS simply lets you play and record the beat that tickles your fingers on the keyboard. No need to be a first-class drummer, automatic quantize does the work for you.\n\n3 - THE MIXER for quick and subtle sound mixing of your drum kits. Featuring settings for volume, pitch, pan, sample length, custom drum kit element for each channel, mute and solo mode.\n\n4 - THE FX TRACKPADS a creative duo of FX trackpads to distort, modulate and transform your beats. The effects include: Overdrive, Delay, Reverb, Envelope filter, Phaser, Dub Delay, Formant, Texturizer, Robotizer, Dalek, Resonant Filter, Compressor & Noise Gate.\n\n5 - THE SONG COMPOSER allows you to quickly make a song with the beat patterns you have created. Just drag and drop the patterns onto the timeline. Fast and easy.\n\nDM1 for OSX is fully compatible with DM1 for iPad, you can share files between them.\n\nSpecifications:\n• DM1 The Drum Machine for iPad winner Apple design Award 2012\n• Fullscreen Retina Display \n• Smart ergonomy for fast creativity and fun \n• 154 vintage and produced drum kits, mastered at in-house Fingerlab Sound Studios\n• Instrument mode with 6 instruments available (Piano, Korg MicroPreset, Cello, Clavinet, Marimba and MiniLogue)\n• Import your samples and create your own kits\n• Mixer with pitch, length and level rotary controls, pan controls, and custom drum kit per channel \n• Automation Panel for a precise and intuitive control of any Mixer parameter over time \n• Automation recording for FXs\n• FX Trackpad for real-time sonic destruction and multi-FX \n• Time signatures\n• The Randomizer tool\n• Extra fast drum kit loading \n• Playable pattern selection for extra creativity \n• Mode song with intuitive editing \n• High-quality export \n• Separated tracks and AAC encoding export options\n• Full Midi Implementation \n• Import & Export your song project \n\nWatch DM1 video trailer on YouTube Fingerlab's channel: \nhttp://www.youtube.com/fingerlab \n\nFeel free to let us know what you think and what you'd like to see in the next DM1 update. \n\nEnjoy! \n\nWatch us : vimeo.com/​fingerlab \nVisit us : fingerlab.net \nFollow us : twitter.com/​fingerlab \nContact us : contact@fingerlab.net \n\nPowered by Fingerlab \nhttp://www.fingerlab.net",
-      "trackCensoredName": "DM1 - The Drum Machine",
-      "trackViewUrl": "https://apps.apple.com/us/app/dm1-the-drum-machine/id522349879?mt=12&uo=4",
-      "averageUserRating": 0,
-      "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "10.13",
-      "userRatingCount": 0,
-      "inAppPurchases": {},
-      "timestamp": 1750324780128,
-      "discounts": [
-        {
-          "type": "price",
-          "name": "Price",
-          "from": "$8.99",
-          "to": "$5.99",
-          "range": "[$5.99 ~ $8.99]"
         }
       ]
     }

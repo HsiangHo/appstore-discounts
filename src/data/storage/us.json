@@ -29141,6 +29141,20 @@
     "history": [
       [
         {
+          "timestamp": 1750583877379,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "黄金会员连续包月": "$3.99",
+            "月卡": "$3.99",
+            "黄金会员连续包季": "$10.49",
+            "黄金会员连续包年": "$29.99",
+            "季卡": "$9.99",
+            "连续包月": "$3.99",
+            "年卡": "$29.99"
+          }
+        },
+        {
           "timestamp": 1750580505584,
           "price": 0,
           "formattedPrice": "Free",
@@ -34683,6 +34697,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750583877379,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "$2.99",
+            "Monkey Money": "$1.99",
+            "Full Tower Unlock": "$4.99",
+            "Pile O Monkey Money": "$4.99",
+            "(5,000) Monkey XP": "$0.99",
+            "Vault O Monkey Money Sale": "$11.99",
+            "Tier 4 Insta Monkeys Pack Sale": "$3.99",
+            "Knowledge Point": "$0.99",
+            "10 Knowledge Points": "$7.99",
+            "Paragon Unlock": "$4.99"
+          }
+        },
         {
           "timestamp": 1750580505584,
           "price": 6.99,
