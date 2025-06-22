@@ -1380,98 +1380,80 @@
           "range": "[¥79.00 ~ ¥108.00]"
         }
       ]
-    },
-    {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/0b/be/370bbe94-df5e-37b5-addf-6f6981191514/EN1.png/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a4/a2/6ca4a263-0229-4f24-5062-d39376710040/EN2.png/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/28/68/ad286852-7a31-e093-76c9-f67a649ca38b/EN3.png/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/cf/46/b8cf46ed-b206-f262-9a2c-c2428281c17a/EN4.png/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/c2/a5/95c2a538-d375-7858-33b6-3a34f0615538/EN5.png/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/4a/b4/a14ab4dd-9a60-93fc-38f4-17b4b315bf1a/EN6.png/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/90/3f/e1903f0a-08af-1023-377b-9db8e286c9a5/EN7.png/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/1e/87/bc1e877f-517b-249c-c9b9-c1a98c4c9bff/EN8.png/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/97/59/96975995-0734-41d0-7340-68615f3c4283/EN9.png/800x500bb.jpg"
-      ],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/0b/e4/850be4c7-c491-935d-e276-80c8a4f4edda/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png",
-      "kind": "mac-software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/superace-software-technology-co-ltd/id1595826625?mt=12&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/0b/e4/850be4c7-c491-935d-e276-80c8a4f4edda/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/0b/e4/850be4c7-c491-935d-e276-80c8a4f4edda/AppIcon-0-0-85-220-0-0-5-0-2x.png/100x100bb.png",
-      "userRatingCountForCurrentVersion": 0,
-      "sellerUrl": "https://updf.cn",
-      "languageCodesISO2A": [
-        "NL",
-        "EN",
-        "FR",
-        "DE",
-        "IT",
-        "JA",
-        "KO",
-        "PT",
-        "RU",
-        "ZH",
-        "ES",
-        "ZH"
-      ],
-      "fileSizeBytes": "150735644",
-      "formattedPrice": "免费",
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "minimumOsVersion": "11.0",
-      "artistId": 1595826625,
-      "artistName": "Superace Software Technology Co., Ltd.",
-      "genres": [
-        "效率",
-        "商务"
-      ],
-      "price": 0,
-      "bundleId": "com.superace.updf.mac",
-      "releaseDate": "2022-05-03T07:00:00Z",
-      "trackId": 1619925971,
-      "trackName": "UPDF - 新一代 AI 智能 PDF 编辑器",
-      "genreIds": [
-        "6007",
-        "6000"
-      ],
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Superace Software Technology Co., Ltd.",
-      "currentVersionReleaseDate": "2025-06-11T01:23:01Z",
-      "releaseNotes": "- 焕然一新，效率倍增！ UPDF 2.0 全新版本免费升级，惊喜不断！ 欢迎所有用户即刻体验 UPDF 2.0 带来的全新改变！\n- 全新 UI，个性皮肤：定制专属风格。\n- 高效工具，批量操作更便捷。\n- 阅读升级：护眼模式更贴心。\n- 功能持续更新：处处皆是惊喜。",
-      "version": "2.0.1",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "UPDF 2.0大版本更新，这是一款AI PDF编辑器，具有AI，阅读，编辑，注释、云同步、转换、加密、裁剪、拆分、文档对比等功能。1个账号付费，全平台都可以使用（电脑＋手机＋iPad）。UPDF 凭借年轻化高颜值的界面设计让你拥有一个愉快轻松的阅读和办公体验。\n主要功能：\n1. 编辑 PDF\n-你可以添加或者删除文本，编辑文本属性和格式，比如字体，颜色，大小等。\n-UPDF 也支持通过修改文本的对齐方式使您的文档看起来更整洁。\n-对于 PDF里的图片，你可以进行裁剪，旋转，替换，提取，删除等操作。\n-你可以直接通过拖拽添加和替换图片。\n-支持添加、删除、和编辑水印、背景、以及页眉页脚。\n\n2. AI 功能\n-对单个或多个PDF文档进行总结。\n-对 PDF 文档进行全文翻译。\n-对 PDF文档进行解释，润色或编写。\n-与 UPDF AI 自由对话。\n-支持与图片进行自由问答。\n-支持将文档总结生成思维导图。\n\n3. 注释 PDF\n-在阅读 PDF 文档的过程中，你可以对文档内容添加注释，比如高亮，下划线，删除线来标注突出重点内容。\n-你也可以通过添加图形和文本框来注释你的PDF 文档。\n-如果需要对某些内容进行注解，你可以在文档任意位置添加便签来输入笔记或者审批意见等。\n-你可以在文档中添加并旋转各种各样的签章和贴纸用以注释和评论。\n-若需要在文档里签名，你也可以直接快速地创建你的签名。\n-通过注释列表一键查看或删除所有注释内容。\n\n4.OCR（光学字符识别）（仅适用于官网下载的版本）\n-将扫描的 PDF 转换为可搜索和可编辑的PDF。\n-支持可根据选择检测的38种语言。\n-将可搜索和可编辑的PDF 转换为纯图像PDF。\n\n5. 转换 PDF\n-你可以将 PDF转换为 Word，Excel，PowerPoint，Image，HTML，Text，CSV，XML，PDFIA等格式。\n-将 Word，Excel，PowerPoint，图片，CAJ转成PDF。\n-转换之后的文档会保持原文档格式不变。\n\n6. 云同步\n-支持上传文档至 UPDF Cloud，实现 PC+移动端全平合同步。\n\n7. 管理 PDF 页面\n-对于页面布局，你可以通过旋转调整页面方向，通过拖拽页面调整页面顺序。\n-如果你需要文档中的某些页面，你可以直接提取它们；另外，当你不需要某个页面时，也可以直接删除它。\n-你可以添加空白页或者从其他文件中添加页面。\n-你也可以快速替换文档中的页面。\n-快速根据页码拆分一个 PDF文档为多个文档。\n-根据需要自定义裁剪页面大小。\n\n8. 浏览和定位 PDF 文档\n-你可以放大或缩小页面，清晰地浏览文档内容。\n-通过在页面添加书签，快速定位找到需要的页面。\n-如果你需要同时查看多个 PDF 文档，不用在另外的窗口打开阅览它们，你可以在同一窗日多个标签打开预览，这样更简单快捷。\n-想要快速找到某文本内容，可以一键搜索查找定位文本。\n-快速通过缩略图旋转，删除，旋转和打印 PDF 页面。\n-通过幻灯片的形式攝放 PDF文档。\n\n9. 保护文档\n-可添加文档打开密码防止末经授权的用户打开。\n-可设置文档功能权限控制密码，限制其他用户打印、編辑、复制 PDF 文档等。\n-支持两个文档进行对比，查看不同之处。\n-数字签名，防止他人篡改文件内容。\n-支持马赛克（密文）重要信息。\n\n10. 创建 PDF\n-创建空白页。\n-从选区、窗口、或屏幕捕捉创建 PDF。\n\n11. 扁平化 PDF\n-快速扁平化 PDE，压平文档中的图层。\n\n12. 批量处理\n-支持批量转换，合并，OCR，压缩，打印，创建，水印，页眉页脚，贝茨编码，插入，背景，加密，删除。",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "UPDF - 新一代 AI 智能 PDF 编辑器",
-      "trackViewUrl": "https://apps.apple.com/cn/app/updf-%E6%96%B0%E4%B8%80%E4%BB%A3-ai-%E6%99%BA%E8%83%BD-pdf-%E7%BC%96%E8%BE%91%E5%99%A8/id1619925971?mt=12&uo=4",
-      "averageUserRating": 0,
-      "userRatingCount": 0,
-      "inAppPurchases": {
-        "永久授权": "¥238.00",
-        "年度订阅": "¥148.00",
-        "UPDF AI 标准版": "¥148.00",
-        "UPDF AI 无限版": "¥238.00",
-        "UPDF Pro + AI 无限": "¥428.00",
-        "UPDF Pro + UPDF AI 标准版": "¥238.00",
-        "季度订阅": "¥88.00",
-        "UPDF Pro + AI 无限版": "¥338.00"
-      },
-      "timestamp": 1750360396645,
-      "discounts": [
-        {
-          "type": "inAppPurchase",
-          "name": "永久授权",
-          "from": "¥338.00",
-          "to": "¥238.00",
-          "range": "[¥238.00 ~ ¥338.00]"
-        }
-      ]
     }
   ],
   "us": [
+    {
+      "artistViewUrl": "https://apps.apple.com/us/developer/tencent-technology-shenzhen-company-limited/id292374531?mt=12&uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/92/23/3b92233c-34ea-ef85-ff44-e86787d4b0fb/AppIcon-85-220-0-4-2x-sRGB.png/60x60bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/92/23/3b92233c-34ea-ef85-ff44-e86787d4b0fb/AppIcon-85-220-0-4-2x-sRGB.png/100x100bb.png",
+      "kind": "mac-software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/16/3e/15163e7c-e03a-d9bb-1d24-42356617484c/IMG_1855.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/b6/33/a4b63375-7c02-6eb8-d3f8-446c5c2e13f2/7014b5a6-7cf4-4e28-a688-ff3eff19ee4a_1.jpeg/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/f5/15/82f515cc-1b40-bf32-7c08-59b3fccf967b/7e0ac2f1-59ac-40d4-b333-c7ff5cd3652d_2880x1800-01@1x.jpg/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/e2/d9/9ae2d96c-bc6d-e6be-fbdb-5e5fcbab67b7/IMG_1854.png/800x500bb.jpg"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/92/23/3b92233c-34ea-ef85-ff44-e86787d4b0fb/AppIcon-85-220-0-4-2x-sRGB.png/512x512bb.png",
+      "trackCensoredName": "腾讯视频-五十公里桃花坞5 全网独播",
+      "trackViewUrl": "https://apps.apple.com/us/app/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C%E6%A1%83%E8%8A%B1%E5%9D%9E5-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1231336508?mt=12&uo=4",
+      "minimumOsVersion": "10.15",
+      "averageUserRating": 0,
+      "contentAdvisoryRating": "17+",
+      "artistId": 292374531,
+      "artistName": "Tencent Technology (Shenzhen) Company Limited",
+      "genres": [
+        "Entertainment",
+        "Photo & Video"
+      ],
+      "price": 0,
+      "bundleId": "com.tencent.tenvideo",
+      "trackId": 1231336508,
+      "trackName": "腾讯视频-五十公里桃花坞5 全网独播",
+      "releaseDate": "2017-06-02T11:05:25Z",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Tencent Technology (Shenzhen) Company Limited",
+      "currentVersionReleaseDate": "2025-06-19T02:14:19Z",
+      "releaseNotes": "《五十公里桃花坞5》新老坞民抵达牧野，重启社交实验！NBA总决赛重磅来袭，步行者vs雷霆巅峰对决，哈利伯顿PK亚历山大谁能最终捧杯？腾讯视频全程直播！",
+      "version": "2.124.0",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "电视剧热播：\n《长安的荔枝》古代传奇大剧！雷佳音岳云鹏喜感郎舅大唐“荔”劫运荔枝\n《绽放的许开心》反内耗极品爽剧！张雨绮韩庚半熟烈爱带娃试婚\n《潜渊》多重身份连环迷局！黄晓明张佳宁暗夜潜伏上演谍战大戏\n《焕羽》张婧仪周翊然青春之旅蜕变成长，踏浪逐风恣意翱翔！\n《桃花映江山》刘学义孟子义互虐生情，落魄公主敌国和亲，攻心猎爱震荡朝堂！\n《淬火年代》大江大河姊妹篇！张新成宋祖儿热血办厂逆袭，正午阳光年代剧上新\n《陷入我们的热恋》现偶之光顶级上头！刘浩存王安宇要谈不谈得暧昧最撩人\n《紫川之光明王》壮丽诗史！杨旭文刘宇宁张铭恩三兄弟热血燃战\n综艺强档：\n《让我来唱》天后萧亚轩复出首秀，史上最卷“全女声”音综重磅来袭，66人直播大战一触即发！\n《哈哈哈哈哈 第5季》“舞王”邓超遇对手！王俊凯大跳抽象甩葱舞，这互联网是没他在乎的人了吗？\n《开始推理吧 第3季》推理团徒手抓“丧尸”，演绎现实版生化危机，谁看了不说一句有极限逃生那味儿了。\n《奔跑吧》每周五爆笑开跑，白鹿孟子义古装扮相美我一大跳，李昀锐走趾压板疼得嗷嗷叫。\n《一见你就笑》大型短剧拍摄现场，杨迪搭戏杨超越被狠扇一巴掌？徐冬冬反向壁咚高瀚宇众人尖叫。\n《毛雪汪》陈昊宇新专辑首唱绝美嗓音！独居惊魂记？陈昊宇自曝家里曾遭陌生男性潜入，毛毛雪琴瑟瑟发抖。\n《天赐的声音 第6季》A-Lin黄子弘凡音浪太强，张碧晨周兴哲合唱声起心碎。\n《朋友请吃饭 第3季》这是我能听的吗？孔雪儿颜安饭桌上狂爆剧组内幕，周洁琼姜珮瑶自曝“初始配置”，杨迪尹正全程惊讶脸。\n《旷野星球》跟魏大勋王安宇到离地心最近的地方云探险，看溶洞内的“生命之树”，感慨大自然的鬼斧神工。\n《进步班》章子怡分享《酱园弄》拍摄过程，李诚儒模仿张子枫唐探名场面。\n电影超燃：\n《制暴：无限杀机》硬核痛片!斯坦森血洗黑帮三代\n《苍茫的天涯是我的爱》神曲改编笑果逆天！曾毅周奇爆笑公路奇旅\n《雄狮少年2》豆瓣8.5分高口碑国漫，雄狮归来少年拳战擂台\n《小丑2：双重妄想》影帝华金与LadyGaga飙戏\n《穿越时空的少女》豆瓣8.6！日漫纯爱天花板\n《楚幽秘境》鬼吹灯外传！古楚千年墓穴探险\n强势动漫：\n《诡秘之主》世界级作品，一键进入19世纪魔法世界\n《诛仙 第3季》兽神乱世撼九州，诛仙再临证苍生，第3季热播中！\n《遮天》四极破境，叶天帝横扫一切敌！\n《仙逆》王林再战天道！这一次你依然带不走她\n《神印王座》终局之战！龙皓晨战李正直！\n《大猿魂》灵明赤尻通臂六耳齐聚，四大神猴来战！\n精品短剧：\n《彼岸灯塔》海风呜咽，命案连环。渔村小镇迷雾重重，连环凶杀案掀起陈年悬案！\n《贵嫡》财阀贵女重启人生！踩碎渣夫恶妾算盘，爽爆复仇！\n纪录片新热：\n《早餐中国 第5季》：经典回归！一道传统早餐、一家有趣小店、一群忘我的食客，丰沛你的每一个清晨。\n《中国刑侦实录 第2季》：围绕一系列离奇案件，每集聚焦一个震撼人心的真实故事，深入挖掘案件背后的真相与情感纠葛。\n《人间惊鸿客 第2季》：走进李白、杜甫的惊鸿一世，深度解读千古诗人如何面对人生起落。\n《惊魂高速公路》：危险超车、岔路撞车、轮胎爆炸……那些惊险的公路事故全记录！\n《72种危险动物·亚洲篇》：盘点在广袤亚洲大陆上，生存的已知及鲜为人知的危险动物，揭开凶险共生的自然界致命法则！\n《猎杀倒计时》：探索四大洲自然界强大的捕食者的世界，见证捕食者的原始力量和坚韧意志。\n《西藏味道》：就爱这口西藏味儿！全方位展现西藏独具特色的饮食文化。\n《乡野有真味·奇食》：深入竹林溪涧、古村深巷，探访颠覆味蕾认知的“暗黑”美食与新奇风味！\n儿童节目：\n《水晶岛守卫者》：能变猫，能变人，还能变成猫人守护城镇\n《猪猪侠之竞速小英雄9》：面对重重困难，超星车队完成挑战重启比赛\n《我是妹猪请多指教》：一起来看超治愈的熊猫成长日记！\n《超级小猫战队：喵喵好伙伴》：小猫也能解决难题！看喵喵的超能力出击\n\n【自动订阅服务说明】\n1.订阅服务：\n a）腾讯视频VIP连续包月(1个月)、腾讯视频VIP连续包季(3个月)、腾讯视频VIP连续包年(12个月)\n b）超级影视VIP连续包月(1个月)、超级影视VIP连续包季(3个月)、超级影视VIP连续包年(12个月)\n c）腾讯体育VIP连续包月(1个月)、腾讯体育超级VIP连续包月(1个月)\n 2.订阅价格：\n a）腾讯视频VIP：连续包月产品为25元/月，连续包季产品为68元/季，连续包年产品为238元/年\n b）超级影视VIP：连续包月产品为35元/月、连续包季产品为98元/季、连续包年产品为348元/年\n c）腾讯体育VIP系列会员：腾讯体育VIP连续包月产品为25元/月、腾讯体育超级VIP连续包月产品为60元/月\n 3.付款：用户确认购买并付款后计入iTunes账户\n 4.自动续费：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期\n 5.关闭服务：您可以在苹果手机“设置” --> 进入“iTunes Store 与 App Store”-->点击 “Apple ID”，选择\"查看Apple ID\"，进入\"账户设置\"页面，点击“订阅”，管理自动订阅服务，如需取消，每个计费周期结束前24小时关闭即可，到期前24小时内则不再扣费\n 6.服务协议： \n a）腾讯视频VIP：https://film.qq.com/weixin/term.html\n b）超级影视VIP：https://film.qq.com/weixin/term.html?bizId=svip\n c）腾讯体育VIP系列会员：https://film.qq.com/weixin/term.html?bizId=sport\n 7 .隐私协议：https://privacy.qq.com/document/preview/3fab9c7fc1424ebda42c3ce488322c8a\n\n【意见反馈】\n如遇问题或者有好的建议，欢迎加入QQ体验群反馈，将会有萌哒哒的视频妹为大家解答，并有持续好礼相送！官方QQ群：527288510。",
+      "averageUserRatingForCurrentVersion": 0,
+      "userRatingCountForCurrentVersion": 0,
+      "formattedPrice": "Free",
+      "trackContentRating": "17+",
+      "languageCodesISO2A": [
+        "EN",
+        "ZH",
+        "ZH"
+      ],
+      "fileSizeBytes": "162099718",
+      "genreIds": [
+        "6016",
+        "6008"
+      ],
+      "userRatingCount": 0,
+      "inAppPurchases": {
+        "1个月腾讯视频VIP": "$3.99",
+        "付费商品": "$1.99",
+        "该付费商品": "$0.99",
+        "3个月腾讯视频VIP": "$9.99",
+        "该影片": "$3.99"
+      },
+      "timestamp": 1750619642138,
+      "discounts": [
+        {
+          "type": "inAppPurchase",
+          "name": "该影片",
+          "from": "$17.99",
+          "to": "$3.99",
+          "range": "[$3.99 ~ $17.99]"
+        }
+      ]
+    },
     {
       "kind": "mac-software",
       "screenshotUrls": [
