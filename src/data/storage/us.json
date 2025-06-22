@@ -5801,6 +5801,25 @@
     "history": [
       [
         {
+          "timestamp": 1750566527257,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Synth Lead": "$1.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Groove Machine Synth": "$0.00",
+            "Synth Plucks": "$1.99",
+            "Transistor Bass": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750544148579,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -29086,6 +29105,22 @@
     "history": [
       [
         {
+          "timestamp": 1750566527257,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "黄金会员连续包月": "$3.99",
+            "月卡": "$3.99",
+            "黄金会员连续包季": "$10.49",
+            "黄金会员连续包年": "$29.99",
+            "季卡": "$9.99",
+            "连续包月": "$3.99",
+            "年卡": "$29.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750556518922,
           "price": 0,
           "formattedPrice": "Free",
@@ -38260,6 +38295,20 @@
       "99元商品": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750566527257,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "1个月腾讯视频VIP": "$3.99",
+            "付费商品": "$2.99",
+            "该付费商品": "$0.99",
+            "3个月腾讯视频VIP": "$9.99",
+            "该影片": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750556518922,
