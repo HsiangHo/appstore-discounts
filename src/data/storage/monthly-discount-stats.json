@@ -184,11 +184,11 @@
       }
     },
     "6450397515": {
-      "all": 2,
+      "all": 3,
       "price": 0,
       "inAppPurchase": {
-        "VIP": 1,
-        "每日5小时": 2
+        "VIP": 2,
+        "每日5小时": 3
       }
     },
     "6737795387": {
@@ -271,10 +271,10 @@
       "inAppPurchase": {}
     },
     "1012296988": {
-      "all": 8,
+      "all": 9,
       "price": 0,
       "inAppPurchase": {
-        "连续包月": 8
+        "连续包月": 9
       }
     },
     "1014945607": {
@@ -371,10 +371,10 @@
       }
     },
     "1514073011": {
-      "all": 3,
+      "all": 4,
       "price": 0,
       "inAppPurchase": {
-        "Annual VIP": 3,
+        "Annual VIP": 4,
         "Continuous Monthly VIP": 1
       }
     },

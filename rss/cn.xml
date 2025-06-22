@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-22T10:23:02.354Z</updated>
+    <updated>2025-06-22T20:25:08.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-22T10:23:02.355Z</updated>
+        <updated>2025-06-22T20:25:08.543Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnSun, 22 Jun 2025 10:23:02 GMT</id>
+        <id>rankingcnSun, 22 Jun 2025 20:25:08 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-22T10:23:02.355Z</updated>
+        <updated>2025-06-22T20:25:08.543Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -287,6 +287,31 @@ feedId:49753297431966720+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id6450397515">录音转文字-语音转文字助手</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>3</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>每日5小时</i>：<b>3</b>
+              </li><li>
+                <i>VIP</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>11</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id491854842">网易有道翻译</a>
       </td>
       <td>
@@ -307,7 +332,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1012296988">爱奇艺-临江仙 离婚仙侠</a>
@@ -330,7 +355,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1133028347">Cleaner One Pro - Uninstaller</a>
@@ -353,7 +378,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1518518216">Paper 壁纸 - 超高清4K动态壁纸, 桌面壁纸</a>
@@ -376,7 +401,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1544190466">避难所：生存</a>
@@ -393,7 +418,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1576794157">飞火动态壁纸-4k超清视频桌面主题壁纸引擎</a>
@@ -408,31 +433,6 @@ feedId:49753297431966720+userId:73658201673997312
             <span>App 内购买项目</span><ol>
               <li>
                 <i>三个月会员</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>16</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6450397515">录音转文字-语音转文字助手</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>每日5小时</i>：<b>2</b>
-              </li><li>
-                <i>VIP</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -802,6 +802,35 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[录音转文字-语音转文字助手]]></title>
+        <id>录音转文字-语音转文字助手-cn-1750623521935</id>
+        <link href="https://apps.apple.com/cn/app/%E5%BD%95%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-%E8%AF%AD%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97%E5%8A%A9%E6%89%8B/id6450397515?mt=12&amp;uo=4"/>
+        <updated>2025-06-22T20:18:41.935Z</updated>
+        <summary type="html"><![CDATA[VIP: ¥128.00 → ¥38.00<br/>每日5小时: ¥98.00 → ¥38.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%BD%95%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-%E8%AF%AD%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97%E5%8A%A9%E6%89%8B/id6450397515?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/22/b6/c422b67d-cfa8-55ef-0fc4-5c5b74283392/AppIcon-85-220-4-2x.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>VIP：</strong><span>¥128.00</span> → <b>
+  <strong>¥38.00</strong>
+</b><span>[¥38.00 ~ ¥128.00]</span>
+  </li><li>
+    <strong>每日5小时：</strong><span>¥98.00</span> → <b>
+  <strong>¥38.00</strong>
+</b><span>[¥38.00 ~ ¥98.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  特色功能：
+1.迅速转录音频，录音，会议录音，语音笔记;
+2.各类音频转文字准确率达98.8%;
+3.录音专家，导入音频，一键转录。
+
+隐私政策：https://rain7027.github.io/rainstt/privacy
+使用条款：https://rain7027.github.io/rainstt/terms
+有任何问题欢迎联系：zyang7027@gmail.com
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a3/2a/bd/a32abd46-f26e-a85e-b107-7ff96c894ede/38c71f2a-8558-402d-838b-0f943aedf5b1_1n.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/43/c5/de/43c5defb-4b6b-f290-9681-39954b7ffd4f/a55f6969-2062-47e7-a638-9b98ff1c5ece_2n.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[腾讯视频-五十公里桃花坞5 全网独播]]></title>
@@ -1427,199 +1456,5 @@ Vythm提供录制功能，使您能够分享或保存您的创作。随时重访
 
 *本加速器的加速功能仅针对游戏使用，无法访问海外网站。
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/30/d9/a730d9aa-62c0-a310-ef97-258622bbd228/94e6bc59-0ed1-4662-9fe9-c6c451e5eff8_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/7b/26/067b26e4-94e4-e8dd-81e9-14a0ec0a4354/962aa0d0-12c7-4e94-8ce1-f6f9024c412c_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/10/80/20108048-f87d-5509-ee46-993017f4cee9/754dd371-0572-496e-b317-f4f78754097a_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/da/24/c5da242f-ed7d-eee2-aafd-7a134b8a2c1a/a6457b28-d217-4eb7-abbc-b84793c7a4ad_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/98/a2/1998a286-c405-6ee7-2549-d48179653067/5ab7ea42-5dde-488b-8677-e35e2767c474_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/20/76/ab207675-21ca-afc8-418b-a6e058a5628b/c1b12273-03dc-4645-bd76-2ec11fd06f72_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/2d/f0/c12df094-fd43-860b-b9f7-f4ed06d03635/3f45d5df-bae8-4a85-90be-b5c11e6b5d3f_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/fd/2c/35fd2c48-a4ce-0a15-cb14-eba428cdcf3d/57a9a98a-65a9-4a6f-b77f-09227a1a4252_5.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UPDF - 新一代 AI 智能 PDF 编辑器]]></title>
-        <id>UPDF - 新一代 AI 智能 PDF 编辑器-cn-1750360396645</id>
-        <link href="https://apps.apple.com/cn/app/updf-%E6%96%B0%E4%B8%80%E4%BB%A3-ai-%E6%99%BA%E8%83%BD-pdf-%E7%BC%96%E8%BE%91%E5%99%A8/id1619925971?mt=12&amp;uo=4"/>
-        <updated>2025-06-19T19:13:16.645Z</updated>
-        <summary type="html"><![CDATA[永久授权: ¥338.00 → ¥238.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/updf-%E6%96%B0%E4%B8%80%E4%BB%A3-ai-%E6%99%BA%E8%83%BD-pdf-%E7%BC%96%E8%BE%91%E5%99%A8/id1619925971?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/0b/e4/850be4c7-c491-935d-e276-80c8a4f4edda/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>永久授权：</strong><span>¥338.00</span> → <b>
-  <strong>¥238.00</strong>
-</b><span>[¥238.00 ~ ¥338.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  UPDF 2.0大版本更新，这是一款AI PDF编辑器，具有AI，阅读，编辑，注释、云同步、转换、加密、裁剪、拆分、文档对比等功能。1个账号付费，全平台都可以使用（电脑＋手机＋iPad）。UPDF 凭借年轻化高颜值的界面设计让你拥有一个愉快轻松的阅读和办公体验。
-主要功能：
-1. 编辑 PDF
--你可以添加或者删除文本，编辑文本属性和格式，比如字体，颜色，大小等。
--UPDF 也支持通过修改文本的对齐方式使您的文档看起来更整洁。
--对于 PDF里的图片，你可以进行裁剪，旋转，替换，提取，删除等操作。
--你可以直接通过拖拽添加和替换图片。
--支持添加、删除、和编辑水印、背景、以及页眉页脚。
-
-2. AI 功能
--对单个或多个PDF文档进行总结。
--对 PDF 文档进行全文翻译。
--对 PDF文档进行解释，润色或编写。
--与 UPDF AI 自由对话。
--支持与图片进行自由问答。
--支持将文档总结生成思维导图。
-
-3. 注释 PDF
--在阅读 PDF 文档的过程中，你可以对文档内容添加注释，比如高亮，下划线，删除线来标注突出重点内容。
--你也可以通过添加图形和文本框来注释你的PDF 文档。
--如果需要对某些内容进行注解，你可以在文档任意位置添加便签来输入笔记或者审批意见等。
--你可以在文档中添加并旋转各种各样的签章和贴纸用以注释和评论。
--若需要在文档里签名，你也可以直接快速地创建你的签名。
--通过注释列表一键查看或删除所有注释内容。
-
-4.OCR（光学字符识别）（仅适用于官网下载的版本）
--将扫描的 PDF 转换为可搜索和可编辑的PDF。
--支持可根据选择检测的38种语言。
--将可搜索和可编辑的PDF 转换为纯图像PDF。
-
-5. 转换 PDF
--你可以将 PDF转换为 Word，Excel，PowerPoint，Image，HTML，Text，CSV，XML，PDFIA等格式。
--将 Word，Excel，PowerPoint，图片，CAJ转成PDF。
--转换之后的文档会保持原文档格式不变。
-
-6. 云同步
--支持上传文档至 UPDF Cloud，实现 PC+移动端全平合同步。
-
-7. 管理 PDF 页面
--对于页面布局，你可以通过旋转调整页面方向，通过拖拽页面调整页面顺序。
--如果你需要文档中的某些页面，你可以直接提取它们；另外，当你不需要某个页面时，也可以直接删除它。
--你可以添加空白页或者从其他文件中添加页面。
--你也可以快速替换文档中的页面。
--快速根据页码拆分一个 PDF文档为多个文档。
--根据需要自定义裁剪页面大小。
-
-8. 浏览和定位 PDF 文档
--你可以放大或缩小页面，清晰地浏览文档内容。
--通过在页面添加书签，快速定位找到需要的页面。
--如果你需要同时查看多个 PDF 文档，不用在另外的窗口打开阅览它们，你可以在同一窗日多个标签打开预览，这样更简单快捷。
--想要快速找到某文本内容，可以一键搜索查找定位文本。
--快速通过缩略图旋转，删除，旋转和打印 PDF 页面。
--通过幻灯片的形式攝放 PDF文档。
-
-9. 保护文档
--可添加文档打开密码防止末经授权的用户打开。
--可设置文档功能权限控制密码，限制其他用户打印、編辑、复制 PDF 文档等。
--支持两个文档进行对比，查看不同之处。
--数字签名，防止他人篡改文件内容。
--支持马赛克（密文）重要信息。
-
-10. 创建 PDF
--创建空白页。
--从选区、窗口、或屏幕捕捉创建 PDF。
-
-11. 扁平化 PDF
--快速扁平化 PDE，压平文档中的图层。
-
-12. 批量处理
--支持批量转换，合并，OCR，压缩，打印，创建，水印，页眉页脚，贝茨编码，插入，背景，加密，删除。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/0b/be/370bbe94-df5e-37b5-addf-6f6981191514/EN1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a4/a2/6ca4a263-0229-4f24-5062-d39376710040/EN2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/28/68/ad286852-7a31-e093-76c9-f67a649ca38b/EN3.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/cf/46/b8cf46ed-b206-f262-9a2c-c2428281c17a/EN4.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/c2/a5/95c2a538-d375-7858-33b6-3a34f0615538/EN5.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/4a/b4/a14ab4dd-9a60-93fc-38f4-17b4b315bf1a/EN6.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/90/3f/e1903f0a-08af-1023-377b-9db8e286c9a5/EN7.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/1e/87/bc1e877f-517b-249c-c9b9-c1a98c4c9bff/EN8.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/97/59/96975995-0734-41d0-7340-68615f3c4283/EN9.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[避难所：生存]]></title>
-        <id>避难所：生存-cn-1750342639666</id>
-        <link href="https://apps.apple.com/cn/app/%E9%81%BF%E9%9A%BE%E6%89%80-%E7%94%9F%E5%AD%98/id1544190466?uo=4"/>
-        <updated>2025-06-19T14:17:19.666Z</updated>
-        <summary type="html"><![CDATA[价格: ¥12.00 → ¥6.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E9%81%BF%E9%9A%BE%E6%89%80-%E7%94%9F%E5%AD%98/id1544190466?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/07/bb/5307bb4e-0dfd-7034-b429-fa3a399de934/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥12.00</span> → <b>
-  <strong>¥6.00</strong>
-</b><span>[¥3.00 ~ ¥12.00]</span>）
-</h2><h2>应用描述</h2><p>
-  《避难所：生存》是一款核辐射下的末日生存游戏。在游戏中你将扮演主人公泰德，需要在被核弹袭击的前60秒，合理储备你的物资，营救你的家人至避难所。在游戏中你需要做出一些困难的决定，例如合理分配食物和处理变异蟑螂的袭击等等。
-
-在游戏中你可以坚持多少天？每个人是否都能活下来？当食物耗尽时，又该何去何从？要知道无论你捡到什么，无论你救了谁，都将对你的生存起到至关重要的作用。在游戏中每一个生存故事都是不同的，每天都会有出乎意料的事情发生，所以你需要定量配给食物和水，充分利用你的供给，甚至冒险进入荒地...话不多说，祝你好运！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d8/b3/f1/d8b3f1de-215d-fa87-b188-190d844468e0/ec30f84c-9f98-43ff-a9a5-57a632f18b1f_5.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2e/b4/bd/2eb4bdc3-f526-3aa5-04d5-69327811587b/7560a75d-2dec-4f4e-8962-dde4c5f0ba8e_3.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/bd/27/d2/bd27d206-c071-6ec7-6bda-0d623addfd22/654c44ec-6de4-4479-85d4-516a6c30cc41_1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3d/6b/3f/3d6b3ff5-d2a1-dcbc-bf5a-78b319190501/45ef7c7d-9c71-412f-81d9-e41d62629647_2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a4/7c/88/a47c88dd-7583-0cc4-43ab-62608e98d72f/f6a8971c-2bec-4b0e-9420-d87bc643e191_4.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fa/01/e2/fa01e2f2-9a1e-06cc-18ae-5a5edecc5d21/e1052c4c-ca2e-4028-81ba-6ad8f010335e_5.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/18/ee/b7/18eeb76d-7f5b-ddec-7ab6-c7f6cafcffa4/c4da6a22-d2de-4a38-8313-49dac00fa6eb_3.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c3/f6/ae/c3f6aeb0-c9c7-b361-ef8b-d1cc6572591d/7facdbf4-4d1b-4513-a4b8-0092091f53f0_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f9/cd/ea/f9cdeaf3-c8a0-9d42-d510-ccb7041aa869/2273641a-e8ba-4a5d-af00-3c5f2e1a8e37_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/90/90/51/90905195-1f18-f6e3-1deb-46a9a71abb82/c8960545-257d-4323-a44f-dbb21eeb0ec5_4.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重生细胞]]></title>
-        <id>重生细胞-cn-1750342639666</id>
-        <link href="https://apps.apple.com/cn/app/%E9%87%8D%E7%94%9F%E7%BB%86%E8%83%9E/id1523446532?uo=4"/>
-        <updated>2025-06-19T14:17:19.666Z</updated>
-        <summary type="html"><![CDATA[价格: ¥30.00 → ¥15.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E9%87%8D%E7%94%9F%E7%BB%86%E8%83%9E/id1523446532?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/61/85/916185ae-66f8-1c25-3ea7-592114f77fb9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥30.00</span> → <b>
-  <strong>¥15.00</strong>
-</b><span>[¥15.00 ~ ¥30.00]</span>）
-</h2><h2>应用描述</h2><p>
-  死亡并非永眠。
-
-操作炼金实验失败的产物，在杀戮与重生的反复轮回中探索一座房间不断变化的巨大城堡，解开这座阴暗孤岛上的秘密…!
-当然，前提是你能战胜镇守其中的诸多守卫。
-
-重生细胞是一款RogueVania类型的平台动作游戏。你需要在一次一次战斗中锤炼战斗技巧，精通拥有独特使用方式的各种武器，并且将翻滚和闪避等走位操作视为本能，以逃过那些出其不意出现的怪潮侵袭，迎战强横凶残的守卫和Boss。
-
-鏖战、死亡、重生、再战
-
-继PC与主机平台之后，《重生细胞》准备在移动平台开启战斗！
-
-【主要特色】
-• RogueVania: 逐步攻略经过悉心设计的相连关卡，体验rogue-lite类型的重复可玩性，直面肾上腺素激增的凶险场面。
-• 凌厉爽快的2D动作体验：洞悉敌人的出手套路灵活走位，否则你将止步于半途，无缘城堡中隐藏的更多秘密。
-• 非线性进程：在反复的死亡中突破难关，根据自己的游玩风格或心情自由选择装备与技能搭配。厌倦了臭气熏天的下水道？攀上城头呼吸新鲜的空气吧！
-• 随心所欲的游玩：探索城堡的边边角角和隐秘通道，发现深藏在城堡深处的迷人景观，抑或是直冲终点？一切由你。
-
-【针对移动平台进行的悉心优化】
-• 两种攻击模式：传统与移动版新加入的自动攻击系统。
-• 定制键位与触屏操作：根据你的喜好调整按钮位置及大小，通过触屏滑动来进行闪避走位…
-• MFi设备以及主机控制器蓝牙连接特性支持。
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全面憨憨战争模拟器]]></title>
-        <id>全面憨憨战争模拟器-cn-1750342639666</id>
-        <link href="https://apps.apple.com/cn/app/%E5%85%A8%E9%9D%A2%E6%86%A8%E6%86%A8%E6%88%98%E4%BA%89%E6%A8%A1%E6%8B%9F%E5%99%A8/id6443786927?uo=4"/>
-        <updated>2025-06-19T14:17:19.666Z</updated>
-        <summary type="html"><![CDATA[价格: ¥18.00 → ¥12.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%85%A8%E9%9D%A2%E6%86%A8%E6%86%A8%E6%88%98%E4%BA%89%E6%A8%A1%E6%8B%9F%E5%99%A8/id6443786927?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/b8/9d/7ab89d2c-b729-cc8e-17f3-d6dd3ca97ccf/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥18.00</span> → <b>
-  <strong>¥12.00</strong>
-</b><span>[¥12.00 ~ ¥18.00]</span>）
-</h2><h2>应用描述</h2><p>
-  一款近乎真实、专业的战争模拟游戏！置身战略军事沙盒中，畅享接近现实的物理引擎。Landfall官方授权，Steam超12万条玩家评测，97%好评率，在游戏中排兵布阵，战术演练，带给你身临其境的战争体验。
-
-游戏基于PC原版移植，买断制发售，并针对手机玩家的操作和观看体验做出专门优化。
-
-【史诗级的战役演出】
-在战役模式中，巧妙利用地图地形和兵种阵容，制定花式布兵打法投入战场。由于“超现实”的物理引擎效果，战斗中将会迸发许多意料之外的状况；拉进镜头，切换子弹时间，好戏才刚刚上演！
-
-【100+天马行空的兵种】
-游戏提供百余种性能（性格）各不相同的兵种，来自各个派系、时代文明和神话传说。从发射尖刺的仙人掌到召唤分身耍棍的孙悟空，这些“训练有素”的战士能够对战局起到蝴蝶效应般的影响。
-
-【自定义沙盒，兵种DIY】
-不满足于挑战既定的战役？玩转沙盒模式，自由切换地图，自定义战局和对战阵容，随意拿捏自己想要的兵种属性、服装，和武器技能，打造独一无二的奇迹憨憨军团演绎精彩战斗。
-
-【支持联机】
-手机版加入联机对战模式和房间大厅；随机匹配，又或是邀请好友尽情切磋！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/18/2a/3a182aca-6289-dba7-7c3f-4b0d86cbeb31/ec6de8ea-56f0-4912-86d0-be7d76b57b02_1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/1b/8f/371b8f28-6d15-d643-8402-fc36a2f29de4/10818c1e-c434-4a0c-b3fe-94dffc78c31f_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/1e/22/f51e22c7-379b-9b18-eee6-d74122724479/cadea2f8-7b86-4d5b-95d3-0f65aa3040d0_3_CN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/ff/d8/88ffd81f-ad8c-f93c-34b7-fe06c03b3739/1f4abe59-6929-4da0-935e-0da298f66e0d_4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/ea/7a/c4ea7a93-fbe6-4dda-7479-0688b4f924c4/b24aeebb-a9e8-46c3-adb2-07e5739f3085_5_CN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/a2/e8/1fa2e832-fab1-1c1c-d649-c30ea6ed73fe/8cc621e3-c0e9-4fbc-bc41-e904c2f99989_6.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/c5/41/63c54168-155c-b082-03ce-f95e8f633ea1/c2fedba2-c5ae-4a8a-bc53-87cfa0c9d25b_7.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/1e/cb/4b1ecb83-403f-f2e8-eea9-e2122c67fa8d/53e5066d-d1da-415e-9907-6f1656118f6c_8.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/c1/d1/3ac1d1c0-0614-d25b-1127-8cfd8f2a4a45/a613f706-fc5c-4f8d-a808-d616d3195720_9_CN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/14/13/7a141346-e1a1-629c-c61a-8f4cc2ea1272/4bd74b0e-9358-43fe-a073-4b9cd4097975_11.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/13/8f/a5138f6f-a0ac-cc83-aaf9-314c08ea7ef3/bb5b0849-3a49-4b18-80cd-d3b1b3463b23_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/1d/29/421d29d5-fc3d-4b33-11d5-bcc561db9756/0b2152e0-ba3b-43d3-a41b-139b6918c58c_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/c4/2f/5ac42f22-8c28-93da-65dd-bc8a53c41f4b/bc86782a-f203-49f5-a4c4-f16b115052eb_3_CN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/34/9d/95349d22-8d8e-08ef-cbfe-c4303e7af140/e8a27a6a-19a9-4d98-926a-220a743a46a2_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/8d/f7/ae8df73b-396b-0b3f-a39b-49d47dd94fda/8f177186-86d9-4724-a54b-f7400cf412a6_5_CN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/aa/52/83aa5214-f10a-3bce-e488-38f175bbc0fb/37a7daae-af45-40f2-89bb-6e41791db47c_6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/78/78/bd7878f7-7ebc-413b-605c-98183e667d4f/076675a3-d512-4065-a31b-6d0c5356d844_8.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/91/5c/2a915c0c-9bab-09f7-92a1-55d0be3d7564/9afb8253-be59-43e5-9b8d-33ee6d590512_7.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/aa/36/8daa3659-9c25-2f12-ffce-fd9e570a7481/e83fa9df-1ecb-4a2c-803d-ae2b650f80cc_9_CN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/2c/58/532c580c-f7fc-c227-3b45-e84d3338ae29/93b5707f-377b-40e4-b31b-05bfb4c6409f_11.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大侠立志传]]></title>
-        <id>大侠立志传-cn-1750331749625</id>
-        <link href="https://apps.apple.com/cn/app/%E5%A4%A7%E4%BE%A0%E7%AB%8B%E5%BF%97%E4%BC%A0/id6502489827?uo=4"/>
-        <updated>2025-06-19T11:15:49.625Z</updated>
-        <summary type="html"><![CDATA[价格: ¥25.00 → ¥18.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%A4%A7%E4%BE%A0%E7%AB%8B%E5%BF%97%E4%BC%A0/id6502489827?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/22/4e/ec224e2b-0c6f-27fb-4046-519d2fffc402/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥25.00</span> → <b>
-  <strong>¥18.00</strong>
-</b><span>[¥18.00 ~ ¥25.00]</span>）
-</h2><h2>应用描述</h2><p>
-  随时随地，行侠仗义！《大侠立志传》是半瓶神仙醋开发的开放世界武侠RPG游戏。这是一款像素版江湖生存模拟器，你将扮演一个初出茅庐的市井小人物，体验多样身份，在江湖中摸爬滚打，最终脱颖而出。
-
-【游戏特色】
-- 百余种武学功法，拳掌刀剑，枪棍音律，内外兼修，皆可自行搭配。成为十字坡剑圣，亦可精通百家所长。
-- 多分支走向。游戏中没有真正意义上的主线，在充满抉择的江湖中从心选择吧。
-- 丰富的NPC交互玩法，结交五都侠客（侣），游走于盘杂的人际势力，经营你的江湖关系网。
-- 奇遇和危险并存的真实武林。江湖并非非黑即白，遇事不一定要用拳头解决，采取多种方式应对，并坦然接受不一样的结局。
-- 充满烟火气息的像素武侠世界。游戏中有着自然流逝的时间，各色NPC都有自己独立的行为AI。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/54/24/4f542420-af03-f2cf-5498-a7cf09f4244d/e1d7c992-9fdb-405b-a651-168b2c74ab23__U6e38_U620f_U622a_U56fe3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/22/a0/ff22a04e-1331-1bed-b461-7a992b8a18cb/5e0dc135-f2e2-43cf-9e2e-a62497d305aa__U6e38_U620f_U622a_U56fe4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/cb/36/a5cb3693-4a65-089d-a51f-263f7f68c8db/92920d02-ac78-4268-a1d6-dbe4045e0fd8__U6e38_U620f_U622a_U56fe5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/81/30/7f81300d-3c34-55d5-693a-db686b390586/a71bcdbc-f809-4258-8e7c-2bf1715940a0__U6e38_U620f_U622a_U56fe6.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/83/30/358330a0-762e-ce4b-f563-3d2705e9addb/8f9f9a83-46a5-40dd-9ed7-53bdcd5c029c__U6e38_U620f_U622a_U56fe7.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/36/98/1936983c-31fd-2e61-d25b-fa034ecf28c6/ba495b9b-a0a7-4ca1-84a9-ee18463568b9__U6e38_U620f_U622a_U56fe1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/1e/21/cb1e2143-3719-7a39-78b4-8fd2ecd61ada/c5aefa83-d89e-4e81-ad49-fb0917fd35dc__U6e38_U620f_U622a_U56fe8.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/db/1c/12db1c09-3e3b-6b20-5686-419a4afd0b5b/a099de5c-ae04-4bd1-a822-6d3ca2aed3dd__U6e38_U620f_U622a_U56fe9.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/a0/b3/bba0b335-edd3-ee6f-aaaf-6a8e908db818/ae94d07e-e25d-4577-a22b-a035316b5058__U6e38_U620f_U622a_U56fe10.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/00/a1/9b00a1f7-7ba6-b49b-5817-52e5b344c1db/2f899927-f4f4-43a1-8426-c2e1eef9d533__U6e38_U620f_U622a_U56fe2.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/48/d0/0648d0f0-7c98-e16b-45e9-9e295002cf85/e5de0797-f1d1-447b-b455-3ca2ef016f01__U6e38_U620f_U622a_U56fe3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/fd/42/45fd42d5-fde3-3465-d221-da0e89aca44d/f98aa5f0-54a5-4a3e-be52-f2b90419df14__U6e38_U620f_U622a_U56fe4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/f9/3c/f4f93c60-e795-4637-8893-30c3363ef871/4eda74ff-71e1-4c6b-a9e7-2f68a78fd69b__U6e38_U620f_U622a_U56fe5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/05/9d/37059d20-c5f5-2615-d42b-b34a0c84d40d/c9b2924f-1573-44c1-ab29-b754ce27eece__U6e38_U620f_U622a_U56fe6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/91/cf/4591cf9b-6cba-4cbc-2f5f-e46d7f874614/69fc0518-8393-406b-bce8-d28bbef29fbc__U6e38_U620f_U622a_U56fe7.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/a8/d9/eda8d9d0-2cec-3fa6-4c10-63389fab0677/3965f7b4-86fa-48eb-9afd-e683c0cd8868__U6e38_U620f_U622a_U56fe1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/4d/66/0b4d666e-b18f-d89f-b85c-4cc5b6da7c86/f13184da-289e-4ce0-b712-1b265b66fe46__U6e38_U620f_U622a_U56fe9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/92/e7/4e92e7cb-e470-c86e-837a-fb5cad0b27cf/12baf54e-5015-416c-95b2-deaa24866c2d__U6e38_U620f_U622a_U56fe8.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/7d/2c/1c7d2c23-a1fe-2e7b-eac3-de2ba3e6867d/94ee0c7c-f11c-420e-8e55-8b0e2bb0d07b__U6e38_U620f_U622a_U56fe10.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/75/2b/8b752b4a-40b3-1a34-fa42-350c650a378b/fd3e48be-ac43-490d-ae60-aaae8df83ef4__U6e38_U620f_U622a_U56fe2.png/552x414bb.png" />]]></content>
     </entry>
 </feed>

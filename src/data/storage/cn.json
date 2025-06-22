@@ -71413,6 +71413,19 @@
     "history": [
       [
         {
+          "timestamp": 1750623521935,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "转录会员": "¥298.00",
+            "VIP": "¥38.00",
+            "每日2小时": "¥28.00",
+            "每日5小时": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750025782293,
           "price": 0,
           "formattedPrice": "免费",
