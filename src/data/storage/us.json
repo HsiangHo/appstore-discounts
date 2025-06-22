@@ -38412,6 +38412,16 @@
     "history": [
       [
         {
+          "timestamp": 1750616610086,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "99元商品": "$14.99",
+            "单点商品": "$2.99",
+            "该影片": "$17.99"
+          }
+        },
+        {
           "timestamp": 1750576628572,
           "price": 0,
           "formattedPrice": "Free",
