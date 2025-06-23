@@ -242,7 +242,7 @@ So far, we've covered `2` `Countries or Regions` and  `857` `Apps` <br />Push no
 |687|1606741874|Automatic|AConverter-全能音频转换,编辑,MP3转换器||||AConverter - Audio Converter||
 |686|6475027113|Automatic|Deep Think智能助手： AI智能助理||||Deep Think智能助手： AI智能助理||
 |685|1018301773|Automatic|AdBlocker Pro: Safari浏览器的广告拦截器||||AdBlock Pro for Safari||
-|684|1551462255|Automatic|右键助手 - 您的好帮手||||MouseBoost||
+|684|1551462255|Automatic|右键助手 - 您的好帮手||||MouseBoost - Save 1 hour daily||
 |683|1466014165|Automatic|嗨格式录屏大师 - 专业电脑录像软件||||RecMaster Screen Recorder||
 |682|1613340764|Automatic|屏幕检测 - 专业的显示屏检测工具||||PixelsTester - Test Monitors||
 |681|1502255391|Automatic|Color Folder - Custom Icons||||Color Folder - Custom Icons||

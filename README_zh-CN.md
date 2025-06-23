@@ -245,7 +245,7 @@
 |687|1606741874|自动|AConverter-全能音频转换,编辑,MP3转换器||||AConverter - Audio Converter||
 |686|6475027113|自动|Deep Think智能助手： AI智能助理||||Deep Think智能助手： AI智能助理||
 |685|1018301773|自动|AdBlocker Pro: Safari浏览器的广告拦截器||||AdBlock Pro for Safari||
-|684|1551462255|自动|右键助手 - 您的好帮手||||MouseBoost||
+|684|1551462255|自动|右键助手 - 您的好帮手||||MouseBoost - Save 1 hour daily||
 |683|1466014165|自动|嗨格式录屏大师 - 专业电脑录像软件||||RecMaster Screen Recorder||
 |682|1613340764|自动|屏幕检测 - 专业的显示屏检测工具||||PixelsTester - Test Monitors||
 |681|1502255391|自动|Color Folder - Custom Icons||||Color Folder - Custom Icons||
