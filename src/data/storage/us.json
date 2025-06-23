@@ -39085,6 +39085,24 @@
     "history": [
       [
         {
+          "timestamp": 1750653140750,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "ApowerMirror Personal(Monthly)": "$19.99",
+            "ApowerMirror Personal (Yearly)": "$39.99",
+            "900 minutes": "$12.99",
+            "360 minutes": "$3.99",
+            "Buy 3yr membership, get 3 free": "$59.99",
+            "1800 minutes": "$20.99",
+            "Yearly VIP": "$12.99",
+            "Monthly VIP": "$29.99",
+            "Personal 2 Years (Buy 1 get 1)": "$49.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750439740565,
           "price": 0,
           "formattedPrice": "Free",
