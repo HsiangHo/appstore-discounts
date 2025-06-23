@@ -7147,16 +7147,27 @@
       "formattedPrice": "免费",
       "VOX Premium Subscription": "¥353.00",
       "Radio": "¥68.00",
-      "LOOP for VOX Subscription": "¥518.00"
+      "LOOP for VOX Subscription": "¥698.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "VOX Premium Subscription": "¥353.00",
+      "VOX Premium Subscription": "¥108.00",
       "Radio": "¥68.00",
       "LOOP for VOX Subscription": "¥518.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750677401638,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "VOX Premium Subscription": "¥108.00",
+            "LOOP for VOX Subscription": "¥698.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749824261187,
@@ -30635,6 +30646,23 @@
       "吉他课程套件    .": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750677401638,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Chords, Scales and Arpeggios": "¥68.00",
+            "All Current Content": "¥68.00",
+            "Lesson Pack": "¥38.00",
+            "All Scales": "¥38.00",
+            "All Chords": "¥38.00",
+            "All Arpeggios": "¥38.00",
+            "所有内容访问通行证": "¥43.00",
+            "吉他课程套件    .": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749874910744,
