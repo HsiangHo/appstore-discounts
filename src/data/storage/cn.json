@@ -7159,6 +7159,16 @@
     "history": [
       [
         {
+          "timestamp": 1750682337914,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "VOX Premium Subscription": "¥353.00",
+            "Radio": "¥68.00",
+            "LOOP for VOX Subscription": "¥518.00"
+          }
+        },
+        {
           "timestamp": 1750677401638,
           "price": 0,
           "formattedPrice": "免费",
@@ -30647,6 +30657,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750682337914,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "所有当前内容": "¥38.00",
+            "吉他和弦,琶音和音阶": "¥58.00",
+            "吉他和弦": "¥38.00",
+            "吉他音阶": "¥38.00",
+            "吉他琶音": "¥38.00",
+            "所有内容访问通行证": "¥43.00"
+          }
+        },
         {
           "timestamp": 1750677401638,
           "price": 0,
