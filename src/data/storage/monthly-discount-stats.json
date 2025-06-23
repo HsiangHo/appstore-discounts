@@ -221,6 +221,13 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6448913901": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Pro会员": 1
+      }
     }
   },
   "us": {
