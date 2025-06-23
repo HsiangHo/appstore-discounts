@@ -19969,6 +19969,14 @@
     "history": [
       [
         {
+          "timestamp": 1750642836001,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1749352948254,
           "price": 19.99,
           "formattedPrice": "$19.99",
@@ -29191,6 +29199,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750642836001,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "黄金会员连续包月": "$3.99",
+            "月卡": "$3.99",
+            "黄金会员连续包季": "$10.49",
+            "黄金会员连续包年": "$29.99",
+            "季卡": "$9.99",
+            "连续包月": "$6.99",
+            "年卡": "$29.99"
+          }
+        },
         {
           "timestamp": 1750634205810,
           "price": 0,
