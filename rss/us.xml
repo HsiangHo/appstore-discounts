@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-24T20:27:02.999Z</updated>
+    <updated>2025-06-24T22:23:09.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-24T20:27:02.999Z</updated>
+        <updated>2025-06-24T22:23:09.943Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 24 Jun 2025 20:27:02 GMT</id>
+        <id>rankingusTue, 24 Jun 2025 22:23:09 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-24T20:27:02.999Z</updated>
+        <updated>2025-06-24T22:23:09.944Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -452,6 +452,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>17</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Yearly Auto-renew VIP</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>18</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id6450397515">Transcribe & Speech to text</a>
       </td>
       <td>
@@ -474,7 +497,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6448913901">全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理</a>
@@ -497,7 +520,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id417375580">BetterSnapTool</a>
@@ -520,7 +543,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id430798174">HazeOver • Distraction Dimmer™</a>
@@ -537,7 +560,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id447726582">iAudioConverter</a>
@@ -554,7 +577,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id491854842">Youdao Translate</a>
@@ -577,7 +600,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id522349879">DM1 - The Drum Machine</a>
@@ -594,7 +617,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id797275229">AudioTunes - FLAC, APE, WMA Converter</a>
@@ -611,7 +634,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id966457795">Super PhotoCut</a>
@@ -628,7 +651,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1027093462">Visual Cue FLAC DMX MP3 Player</a>
@@ -651,7 +674,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1081480270">The Audio Converter</a>
@@ -674,7 +697,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1133028347">Cleaner One Pro - Uninstaller</a>
@@ -697,7 +720,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1403919533">MWeb Pro</a>
@@ -714,7 +737,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1456235760">Live Wallpaper - 4K UHD</a>
@@ -737,7 +760,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1484905765">Fast CAD Reader</a>
@@ -760,7 +783,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1502044457">Whisk</a>
@@ -783,7 +806,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1518518216">Paper - Live Wallpapers</a>
@@ -806,7 +829,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
@@ -823,7 +846,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1535136051">RAR Extractor - Unzip File</a>
@@ -846,7 +869,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1575178082">Max NTFS - NTFS Disk Helper</a>
@@ -869,7 +892,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576064082">DeviceMirror -Screen Mirroring</a>
@@ -886,7 +909,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576794157">飞火动态壁纸-4k超清视频桌面主题壁纸引擎</a>
@@ -901,29 +924,6 @@ feedId:49753370488353792+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>三个月会员</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>39</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Yearly Auto-renew VIP</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -1004,6 +1004,77 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wink: Video Enhancer & Editor]]></title>
+        <id>Wink: Video Enhancer &amp; Editor-us-1750803448166</id>
+        <link href="https://apps.apple.com/us/app/wink-video-enhancer-editor/id1594288016?uo=4"/>
+        <updated>2025-06-24T22:17:28.166Z</updated>
+        <summary type="html"><![CDATA[Yearly Auto-renew VIP: $59.99 → $40.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/wink-video-enhancer-editor/id1594288016?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/36/9e/fa369e93-b699-f77c-ea40-40a48833c485/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Yearly Auto-renew VIP：</strong><span>$59.99</span> → <b>
+  <strong>$40.99</strong>
+</b><span>[$40.99 ~ $59.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Wink 
+l Make any low-quality video & photo into HD/Ultra HD/4K with before/after comparisons.
+l Making video editing easier than ever!
+l Various creative video transition effects enhance final results!
+l Fine-tune your selfies with video retouch tools to highlight your day!
+
+Video ＆ Photo Enhance
+- Video Enhancer: Enhance portraits and selfies to stunning output.
+- 4K Upscaler: AI-powered 4K upscaling for enhanced video quality.
+- Stabilize: Smooth out shaky footage for professional-looking videos. 
+- Noise reduction: Reduce video noise and grain for professional-looking results.
+-  AI Color: Give your video a vibrant, fresh look with our easy-to-use color enhancement tool
+
+Video Retouch
+- Manual Face Slimming: Adjust your facial features as you wish
+- Body Shape: Achieve a supermodel physique!
+- Stylish Makeup: Providing a range of natural makeup
+- Face Editor: Remove acne, Face Plump, Skin tone ... and more!
+- Whiten Teeth: Say goodbye to brown teeth and show off your smile!
+
+Video Editing
+- Professional Editing: Color, Crop, Speed, Split, Mirror, Soundtrack and more!
+- Templates: Easily apply to create high-quality vlogs
+- Quality Restoration: Clear AI-enhanced video restoration!
+- Effects: Adds texts, stickers, and transitions to enhance your videos
+- Automatic Subtitle: Utilizes intelligent voice recognition for easy text inputting
+
+
+AI Captions
+- Accurate AI subtitles for your videos in seconds 
+- Support Bilingual: Create dual-language subtitles for your videos
+- Support 8 languages
+
+Wink VIP
+- Access exclusive VIP features
+
+Wink offers a wide range of exclusive VIP features to enhance retouching experience. We are committed to providing you with an improved service. We look forward to your continuing support.
+- Subscriptions
+
+Wink VIP-Monthly Subscription offers a subscription period of one month.
+Wink VIP-Annual subscription entails a 12-month period.
+*The subscription price is determined based on the information provided in the in-app purchase (iAP) application.
+
+- Instructions for Payment and Cancellation
+
+"Payment" will be credited to your iTunes account once you have confirmed and paid for your subscription.
+
+"Renewal" subscriptions for "Monthly/Annual" plans are automatically renewed and will incur charges to your iTunes account following your purchase confirmation. The subscription will be automatically renewed. To cancel it, please disable the automatic renewal at least 24 hours before the subscription period ends. Within 24 hours before the subscription cycle expires, Apple will automatically debit your iTunes account, extending your subscription for a new cycle.
+
+"To cancel your subscription, kindly navigate to the "Settings" section on your iPhone, click on "Apple ID," proceed to the "Subscription" screen, and choose "Wink" to terminate your subscription.
+
+- Agreement
+Terms of Service：https://pro.meitu.com/wink-cut/agreements/common/service-global.html?lang=en
+Privacy Policy：https://pro.meitu.com/wink-cut/agreements/common/policy-global.html?lang=en
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/54/2f/28542fba-a370-473c-52a5-55432ecb766a/iOS_1242x2208__U82f1_U6587-1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/fb/83/47fb83bb-d7ef-f5e7-98f6-9779b4b82784/iOS_1242x2208__U82f1_U6587-2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/58/4f/d0584f77-3309-f25d-29fe-d982eb7d4e30/iOS_1242x2208__U82f1_U6587-3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/90/97/e39097ed-4ad9-acfb-c09f-9fe1b0a01062/iOS_1242x2208__U82f1_U6587-4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/f6/86/f8f6868f-7efe-2eac-f808-e5aba1cbd994/iOS_1242x2208__U82f1_U6587-5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/73/08/fd7308fd-548b-718f-e29d-99a402dadd4d/iOS_1242x2208__U82f1_U6587-6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/29/9f/fe299ff4-a4b3-a526-dd63-0cb57db629d4/iOS_1242x2208__U82f1_U6587-7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/6c/70/356c709d-2ec1-906b-b51d-7ca2f8228f68/iOS_1242x2208__U82f1_U6587-8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/aa/5b/9caa5b17-6e4d-7df7-2fd0-ed8a3ad035ab/iOS_1242x2208__U82f1_U6587-9.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/c6/a8/bbc6a8db-13cd-57af-f3bc-8220d15b0cc1/iOS_1242x2208__U82f1_U6587-10.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/bd/bd/65bdbd1e-c666-647f-3691-bb742f7064c2/f0c00bb5-97ad-41cf-9c7c-91b9bac7efd0_2048_U00d72732_01__U82f1_U6587.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/a9/ca/86a9ca1b-25fb-098f-8b0e-d979207ad453/4d3bb3ff-5177-430e-a6b9-3f9ed17b0cf9_2048_U00d72732_02__U82f1_U6587.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/f6/81/def68106-5dce-2916-5392-bba140ed2634/afdb1a70-008c-4f38-a476-3cc367c88187_2048_U00d72732_03__U82f1_U6587.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/e3/1e/40e31e2e-84af-6b7d-6231-946e2e102e39/20c74a76-4bb2-42de-be4d-46ea1bf55a5d_2048_U00d72732_04__U82f1_U6587.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/c1/3a/d0c13a65-db29-039f-97b6-27df4119c230/1395c882-eff8-4505-8134-20357125076a_2048_U00d72732_05__U82f1_U6587.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Max NTFS - NTFS Disk Helper]]></title>
