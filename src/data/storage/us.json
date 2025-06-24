@@ -68380,6 +68380,15 @@
     "history": [
       [
         {
+          "timestamp": 1750796442002,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Upgrade to Plus Version": "$11.99",
+            "Upgrade to Plus": "$12.99"
+          }
+        },
+        {
           "timestamp": 1750792478601,
           "price": 0,
           "formattedPrice": "Free",

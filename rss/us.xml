@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-24T17:24:02.756Z</updated>
+    <updated>2025-06-24T20:27:02.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-24T17:24:02.756Z</updated>
+        <updated>2025-06-24T20:27:02.999Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 24 Jun 2025 17:24:02 GMT</id>
+        <id>rankingusTue, 24 Jun 2025 20:27:02 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-24T17:24:02.756Z</updated>
+        <updated>2025-06-24T20:27:02.999Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -849,6 +849,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>36</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1575178082">Max NTFS - NTFS Disk Helper</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Upgrade to Plus Version</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>37</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1576064082">DeviceMirror -Screen Mirroring</a>
       </td>
       <td>
@@ -863,7 +886,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576794157">飞火动态壁纸-4k超清视频桌面主题壁纸引擎</a>
@@ -886,7 +909,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
@@ -909,7 +932,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1598771178">DeviceMirror Lite -Screen Cast</a>
@@ -932,7 +955,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6737146353">KitVPN – Fast & World NetWork</a>
@@ -955,7 +978,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6444789815">记事本++</a>
@@ -981,6 +1004,32 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Max NTFS - NTFS Disk Helper]]></title>
+        <id>Max NTFS - NTFS Disk Helper-us-1750796442002</id>
+        <link href="https://apps.apple.com/us/app/max-ntfs-ntfs-disk-helper/id1575178082?mt=12&amp;uo=4"/>
+        <updated>2025-06-24T20:20:42.002Z</updated>
+        <summary type="html"><![CDATA[Upgrade to Plus Version: $12.99 → $11.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/max-ntfs-ntfs-disk-helper/id1575178082?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/45/fd/af45fd74-8295-497a-b50b-38d1fa398833/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Upgrade to Plus Version：</strong><span>$12.99</span> → <b>
+  <strong>$11.99</strong>
+</b><span>[$11.99 ~ $12.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Max NTFS is a small tool that can open NTFS format disks in read-write mode.
+
+We can support the read and write of NTFS format disks very effectively.
+
+Start the application, it will automatically detect all the hard disks, and you can start reading and writing to NTFS format disks with one key operation on the main interface, no need to execute cumbersome commands.
+
+Remind:
+
+After you finish using the NTFS disk, please do not unplug the USB device directly. Please click the eject button in the App to safely eject. Otherwise, the status of the disk may become dirty, and the last written file may not be saved.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/7f/9a/4b/7f9a4bd0-150f-eeeb-b56a-d9e9a48dced2/d4d4fbf7-681f-467c-9cde-f8e30ac18984_us_1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/f6/c7/93/f6c79378-1eba-2d13-9fe6-9dd72b9c40ff/78e2d1c4-cf44-41cc-ad5b-d89c2ced60d5_us_2.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[HazeOver • Distraction Dimmer™]]></title>
