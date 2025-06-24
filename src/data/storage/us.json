@@ -52435,6 +52435,22 @@
     "history": [
       [
         {
+          "timestamp": 1750728419160,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "连续包月": "$5.99",
+            "快帆30天VIP": "$6.99",
+            "连续包季": "$17.49",
+            "连续包年": "$64.99",
+            "360天VIP": "$69.99",
+            "90天VIP": "$16.99",
+            "快帆360天VIP": "$74.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750432722345,
           "price": 0,
           "formattedPrice": "Free",
