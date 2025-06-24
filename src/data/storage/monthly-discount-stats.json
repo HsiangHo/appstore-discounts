@@ -1,6 +1,11 @@
 {
   "month": "2025-06",
   "cn": {
+    "430798174": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "447726582": {
       "all": 1,
       "price": 1,
@@ -244,6 +249,11 @@
       "inAppPurchase": {
         "BetterTouchTool License": 1
       }
+    },
+    "430798174": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     },
     "447726582": {
       "all": 1,

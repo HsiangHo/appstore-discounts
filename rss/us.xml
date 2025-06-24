@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-23T01:46:05.332Z</updated>
+    <updated>2025-06-24T17:24:02.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-23T01:46:05.333Z</updated>
+        <updated>2025-06-24T17:24:02.756Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusMon, 23 Jun 2025 01:46:05 GMT</id>
+        <id>rankingusTue, 24 Jun 2025 17:24:02 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-23T01:46:05.333Z</updated>
+        <updated>2025-06-24T17:24:02.756Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -523,7 +523,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>20</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id447726582">iAudioConverter</a>
+        <a href="https://apps.apple.com/us/app/id430798174">HazeOver • Distraction Dimmer™</a>
       </td>
       <td>
         <ul>
@@ -538,6 +538,23 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>
         <b>21</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id447726582">iAudioConverter</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id491854842">Youdao Translate</a>
@@ -560,7 +577,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id522349879">DM1 - The Drum Machine</a>
@@ -577,7 +594,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id797275229">AudioTunes - FLAC, APE, WMA Converter</a>
@@ -594,7 +611,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id966457795">Super PhotoCut</a>
@@ -611,7 +628,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1027093462">Visual Cue FLAC DMX MP3 Player</a>
@@ -634,7 +651,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1081480270">The Audio Converter</a>
@@ -657,7 +674,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1133028347">Cleaner One Pro - Uninstaller</a>
@@ -680,7 +697,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1403919533">MWeb Pro</a>
@@ -697,7 +714,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1456235760">Live Wallpaper - 4K UHD</a>
@@ -720,7 +737,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1484905765">Fast CAD Reader</a>
@@ -743,7 +760,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1502044457">Whisk</a>
@@ -766,7 +783,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1518518216">Paper - Live Wallpapers</a>
@@ -789,7 +806,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
@@ -806,7 +823,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1535136051">RAR Extractor - Unzip File</a>
@@ -829,7 +846,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576064082">DeviceMirror -Screen Mirroring</a>
@@ -846,7 +863,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576794157">飞火动态壁纸-4k超清视频桌面主题壁纸引擎</a>
@@ -869,7 +886,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
@@ -892,7 +909,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1598771178">DeviceMirror Lite -Screen Cast</a>
@@ -915,7 +932,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6737146353">KitVPN – Fast & World NetWork</a>
@@ -938,7 +955,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6444789815">记事本++</a>
@@ -964,6 +981,55 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HazeOver • Distraction Dimmer™]]></title>
+        <id>HazeOver • Distraction Dimmer™-us-1750785493669</id>
+        <link href="https://apps.apple.com/us/app/hazeover-distraction-dimmer/id430798174?mt=12&amp;uo=4"/>
+        <updated>2025-06-24T17:18:13.669Z</updated>
+        <summary type="html"><![CDATA[Price: $5.99 → $1.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/hazeover-distraction-dimmer/id430798174?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/52/07/535207e2-5be4-3715-95f1-c3982f141028/HazeOver.png/60x60bb.png" />
+</a><h2>
+  Discount Information（Price：<span>$5.99</span> → <b>
+  <strong>$1.99</strong>
+</b><span>[$1.99 ~ $5.99]</span>）
+</h2><h2>Application Description</h2><p>
+  Too many windows to manage? Big display? Or getting lost in multiple monitors? HazeOver is for you! ▶ TRIAL version: HazeOver.com
+
+Get rid of distractions and focus on your current task. HazeOver automatically highlights the front app window by dimming all background windows.
+
+ • Spend less time managing windows. The clutter will no longer bother you.
+   No need to minimize, close or hide windows for your workspace to be neat.
+
+ • Easily see which window has keyboard focus.
+   No more typing in a wrong window because the contrast is low.
+
+ • Got a bigger display? Then going full screen is not an option for you.
+   HazeOver prevents getting overwhelmed with too many windows.
+ • Multiple monitors? This app will let you know which screen is focused or highlight a window on each monitor.
+
+ • Power up macOS Dark Mode and reduce background glare.
+ • Working at night? Reduce interface brightness without sacrificing legibility or color accuracy of the front window.
+
+Heavy multi-tasking kills your concentration. All those tweets, emails, chat messages and lolcats staring back at you from the background. They strive for your attention. And you only have that much of it.
+
+Don’t let yourself drown in scores of open windows. Hiding, switching, looking for the right one, more hiding, more switching. Calm down, breathe in, breathe out, launch HazeOver and finally concentrate on what you’ve been up to.
+
+HazeOver automatically highlights an active window or app when you switch windows. The less important things gently fade away in the background, helping increase your productivity.
+
+Set the hazing intensity and speed to your liking. Be it a soft dimming, an undemanding hint to focus on your workflow. Or a powerful dark background for outright dedication to your current task.
+
+ • Desktop is automatically revealed when used.
+ • Toggle the shade with a keyboard shortcut or adjust intensity with a gesture.
+ • Keep separate dimming settings for Dark and Light mode.
+ • Dragging stuff between apps? Tap “fn” key and HazeOver will gracefully fade out.
+ • Control HazeOver settings with Shortcuts app, Focus Filters or AppleScript.
+
+Does HazeOver really help? Check on LifeHacker, CNET, MacWorld, Engadget and Product Hunt.
+
+Ready to improve your workflow and eye comfort with HazeOver?
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ed/f8/6d/edf86d42-541a-c190-37aa-8e911e42199d/displays.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/2a/ab/ef/2aabef57-7cf8-7edf-6b60-ff53cf68ef24/brightness.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ad/88/9c/ad889ced-59e3-e01e-cdbf-ab42ab49406d/main.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/0f/f3/b8/0ff3b8f5-51a4-b851-8d32-56b700031c06/dm_general.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/c0/2a/66/c02a66dc-f481-2ded-2f94-371d90ce6d83/dm_shortcuts.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Audio Normalizer - Mp3 Gain]]></title>
@@ -1539,310 +1605,5 @@ WeChat public account: QuickFox
 【意见反馈】
 如遇问题或者有好的建议，欢迎加入QQ体验群反馈，将会有萌哒哒的视频妹为大家解答，并有持续好礼相送！官方QQ群：527288510。
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/16/3e/15163e7c-e03a-d9bb-1d24-42356617484c/IMG_1855.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/b6/33/a4b63375-7c02-6eb8-d3f8-446c5c2e13f2/7014b5a6-7cf4-4e28-a688-ff3eff19ee4a_1.jpeg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/f5/15/82f515cc-1b40-bf32-7c08-59b3fccf967b/7e0ac2f1-59ac-40d4-b333-c7ff5cd3652d_2880x1800-01@1x.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/e2/d9/9ae2d96c-bc6d-e6be-fbdb-5e5fcbab67b7/IMG_1854.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allow Right Click for Safari]]></title>
-        <id>Allow Right Click for Safari-us-1750475485275</id>
-        <link href="https://apps.apple.com/us/app/allow-right-click-for-safari/id6739523960?uo=4"/>
-        <updated>2025-06-21T03:11:25.275Z</updated>
-        <summary type="html"><![CDATA[Price: $1.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/allow-right-click-for-safari/id6739523960?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ea/35/f9ea3591-a3aa-59b0-1a37-183f419f88f2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$1.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $1.99]</span>）
-</h2><h2>Application Description</h2><p>This software allows right-click, copy, cut, and paste functionality on all websites. It has a simple interface and is easy to use. You can copy any content, whether it’s text, images, or other media.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STEP and IGES File Viewer]]></title>
-        <id>STEP and IGES File Viewer-us-1750475485275</id>
-        <link href="https://apps.apple.com/us/app/step-and-iges-file-viewer/id6738715418?mt=12&amp;uo=4"/>
-        <updated>2025-06-21T03:11:25.275Z</updated>
-        <summary type="html"><![CDATA[Price: $12.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/step-and-iges-file-viewer/id6738715418?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/55/f8/ee55f8c1-9e6f-b66e-8745-8fa4073cc1e3/icon.png/60x60bb.png" />
-</a><h2>
-  Discount Information（Price：<span>$12.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $12.99]</span>）
-</h2><h2>Application Description</h2><p>A professional 3D viewer for STEP/STP, IGES/IGS, and other 3D file formats. Supports printing and converting 3D files with ease.</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/84/ec/4984ec88-a04a-e981-64d6-d6fec8d8a2b2/_U65e0_U6807_U989829.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/c7/6d/aec76dd3-5cd8-fe26-ef16-bf4ccf3a72ed/_U65e0_U6807_U9898.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/68/5a/63685a4f-4f46-ce54-b618-f9c0f6c6dada/_U65e0_U6807_U98982.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hide Mouse Cursor]]></title>
-        <id>Hide Mouse Cursor-us-1750475485275</id>
-        <link href="https://apps.apple.com/us/app/hide-mouse-cursor/id6738089759?mt=12&amp;uo=4"/>
-        <updated>2025-06-21T03:11:25.275Z</updated>
-        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/hide-mouse-cursor/id6738089759?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/3e/95/423e9529-c3a8-daed-aa31-a91b61fc449c/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png" />
-</a><h2>
-  Discount Information（Price：<span>$0.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $0.99]</span>）
-</h2><h2>Application Description</h2><p>This app is a tool designed for users to hide the mouse cursor, which is particularly suitable for full-screen presentations, video playback or games, allowing users to focus on the content without being disturbed by the cursor, including one-click hiding/showing the cursor, shortcut key support, and custom settings.</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/e7/e9/14e7e980-14b9-dd96-141a-2deecdd1fe0c/Screenshot_2024-11-22_at_5.14.01_U202fPM_copy.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/48/67/b748678b-92ca-24f1-ea97-72ecc7924d6b/Screenshot_2024-11-22_at_5.14.01_U202fPM.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meitu-AI Photo Editor & Design]]></title>
-        <id>Meitu-AI Photo Editor &amp; Design-us-1750436538242</id>
-        <link href="https://apps.apple.com/us/app/meitu-ai-photo-editor-design/id1588231633?mt=12&amp;uo=4"/>
-        <updated>2025-06-20T16:22:18.242Z</updated>
-        <summary type="html"><![CDATA[Yearly Auto-renew Meitu SVIP: $84.99 → $29.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/meitu-ai-photo-editor-design/id1588231633?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/5e/06/0f5e06ce-7271-6cc6-d813-456cedb68710/MTXXPro.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Yearly Auto-renew Meitu SVIP：</strong><span>$84.99</span> → <b>
-  <strong>$29.99</strong>
-</b><span>[$29.99 ~ $84.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Meitu is the simplest image processing tool that can quickly achieve professional-level photo editing effects. AI tools are constantly updated, and everyone can make good pictures!
-
-=== AI image modification, intelligent design without effort ===
-[AI Cutout] Efficient in all categories, 3s background removal, one-click change of background color/local pictures
-[AI Remover] One-click removal of redundant text, passers-by, skin acne spots, complex backgrounds, etc., without leaving any traces!
-[AI Enhancer] Ultra-clear image quality rebirth, say goodbye to poor image quality
-[AI Background Change] Enter keywords, AI generates product and portrait scene pictures
-[AI Expand] Freely expand the picture frame, intelligently fill the picture, and the composition does not need to be cropped!
-[AI Smart Selection] Any element can be freely moved, scaled, copied, redrawn, eliminated, and adjusted in color...
-
-===Meitu Batch Editor, efficient and higher quality===
-Import hundreds of pictures at a time, batch cut out pictures to change backgrounds, make them clear, add watermarks, crop and change sizes, compress and convert formats, etc., without repeated operations, efficient and refined!
-
-===Poster design, change pictures and words with one click===
-Massive high-quality templates cover e-commerce, administrative office, new media, WeChat and many other scenarios.
-
-===Puzzle splicing, creative layout===
-Seamless, horizontal and vertical, four-grid, nine-grid, love, triangle and many other puzzle styles, you can also freely assemble, social more colorful!
-
-===Basic picture editing, simple and outstanding===
-[Add text] [Crop, rotate, correct, and adjust size] [Dimming, color adjustment, and filter][Border stickers] [Brush] 
-
-===Medical-grade portrait beauty, high-definition natural face===
-[One-click beauty and whitening] [Facial reshaping] [Face slimming, body slimming, height increase] [Eye and Teeth Refinement] 
-
-————————
-
-[Meitu computer version SVIP automatic renewal service statement]
-
-[Meitu computer SVIP rights] Experience massive materials, personalized functions, and more refreshing without ads.
-
-[Subscription period]
-Meitu Computer SVIP - Continuous Monthly Subscription: Subscription period of 1 month
-Meitu PC SVIP - Continuous Season: Subscription period of 3 months
-Meitu PC SVIP - Consecutive Yearly Subscription: Subscription period of 12 months
-
-[Subscription price]
-The iAP application information shall prevail. For example, continuous monthly subscription products are 20 yuan per month; continuous seasonal subscription products are 50 yuan per quarter; continuous annual subscription products are 168 yuan per year.
-
-[Payment] After the user confirms the purchase and pays, it will be charged to the iTunes account.
-
-[Renewal] "Continuous monthly/quarterly/yearly" products are auto-renewable products, and your iTunes account will be charged after confirming the purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current subscription. Within 24 hours before your subscription period expires, Apple will automatically deduct the fee from your iTunes account, and the membership validity period will be automatically extended by one period after success.
-
-[Cancel renewal]
-If you want to cancel the automatic renewal, please manually go to "Settings" on your iPhone - click "Apple ID", select to enter the "Subscription" page, and select "Meitu SVIP" to cancel the subscription.
-
-[Free Trial] Renew the subscription during the free trial period to cancel the renewal, and the free trial rights will not be recovered from the user, and the user can try it until the trial period ends.
-
-==Related Agreement==
-Membership Service Agreement: https://pc.meitu.com/agreement
-Privacy Policy Address: https://pc.meitu.com/legal-agreement?type=pc
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/28/a3/4f28a3eb-ed57-8f60-d929-e1edb278071d/Meitu.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/c6/24/53c624f4-771c-841f-929d-ac7e1af6c6d1/Meitu_Batch_Editor.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/3a/27/273a2756-bead-3603-d43c-218dc5377dcd/AI_Cutout.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/22/9f/6a229ff1-1ee6-abca-0325-0b9722939856/AI_Enhancer.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快帆加速器-海外回国音乐视频加速器]]></title>
-        <id>快帆加速器-海外回国音乐视频加速器-us-1750432722345</id>
-        <link href="https://apps.apple.com/us/app/%E5%BF%AB%E5%B8%86%E5%8A%A0%E9%80%9F%E5%99%A8-%E6%B5%B7%E5%A4%96%E5%9B%9E%E5%9B%BD%E9%9F%B3%E4%B9%90%E8%A7%86%E9%A2%91%E5%8A%A0%E9%80%9F%E5%99%A8/id1442745175?uo=4"/>
-        <updated>2025-06-20T15:18:42.345Z</updated>
-        <summary type="html"><![CDATA[360天VIP: $74.99 → $69.99<br/>90天VIP: $18.99 → $16.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E5%BF%AB%E5%B8%86%E5%8A%A0%E9%80%9F%E5%99%A8-%E6%B5%B7%E5%A4%96%E5%9B%9E%E5%9B%BD%E9%9F%B3%E4%B9%90%E8%A7%86%E9%A2%91%E5%8A%A0%E9%80%9F%E5%99%A8/id1442745175?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/45/21/9045211e-14e5-121e-04b8-f72252c4c29d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>360天VIP：</strong><span>$74.99</span> → <b>
-  <strong>$69.99</strong>
-</b><span>[$69.99 ~ $74.99]</span>
-  </li><li>
-    <strong>90天VIP：</strong><span>$18.99</span> → <b>
-  <strong>$16.99</strong>
-</b><span>[$16.99 ~ $18.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  ==快帆Fanster™专线上线，更高速更稳定==
-
-快帆是一款针对海外华人的加速器，配合全球部署的专属高速节点，帮助全球各地华人用户听歌追剧看视频不再卡顿
-► Fanster™专线
-自主研发Fanster™专线，提供高速稳定的网络性能，专研加密技术，全方位保护您的隐私和数据安全
-► 150+线路 专属高速
-涵盖主流全球用户节点，增设香港、台湾、日本、新加坡、美国、加拿大、澳洲、中东等多个国家或地区的专属中转点
-► 搭配第三方高速CDN节点实现内容加速
-智能优化路径，避免拥堵，让您的网络顺畅不卡顿
-► 智能加速
-先进的智能算法，实时监测您的网络状况，自动匹配适合的加速节点
-
-目前已支持：
-【音乐&播客】
-酷狗音乐、网易云音乐、QQ音乐、虾米音乐、酷我音乐、喜马拉雅、蜻蜓FM……
-【视频&直播】
-腾讯视频、爱奇艺iQIYI、优酷、芒果TV、Bilibili（B站）、腾讯NBA、奥运会、欧洲杯、美洲杯、欧冠、CCTV5、YY语音、央视频、咪咕视频……
-【游戏】
-王者荣耀、和平精英、英雄联盟、绝地求生、魔兽世界、DNF、剑网3……
-
-【自动续费会员】
-会员权益：不限速防拥堵、3设备同时在线、免广告
-订阅周期：1个月（连续包月），3个月（连续包季） ，12个月（连续包年）
-订阅价格：以iAP申请信息为准，例如连续包月产品为新人首次订阅30元；连续包月次月续费40元
-付款：用户确认购买并付款后记入iTunes账户
-取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes / Apple ID设置管理中关闭自动续订功能
-续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期
-
-隐私政策：https://www.kuaifan.co/privacypolicy.html
-自动续费会员服务协议：https://www.kuaifan.co/termsofservices.html
-</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/01/33/270133bf-5a49-5cf5-22d9-f019a0d3cc53/e2d15554-d422-45ab-811d-141213459b4d_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/17/e3/f017e3bc-de4a-4ff0-0cfb-517c37e1029b/692c234d-f767-4c18-9894-09527d995e3c_pad_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/a9/4e/0ca94e56-be63-b418-53fd-c65848a9edfd/3fd11171-33bb-4579-a0a6-000afc2bf0b6_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/3e/a8/aa3ea803-d6d0-66a0-264c-f6d58516e254/7c2a1f13-368a-4a49-8546-b0cba1306e7e_4.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱奇艺-临江仙 离婚仙侠]]></title>
-        <id>爱奇艺-临江仙 离婚仙侠-us-1750432722345</id>
-        <link href="https://apps.apple.com/us/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&amp;uo=4"/>
-        <updated>2025-06-20T15:18:42.345Z</updated>
-        <summary type="html"><![CDATA[连续包月: $3.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/2e/3f/222e3ff7-222b-8c27-aeb1-2d1082336d55/Mac_AppIcon-2x_U007euniversal-0-5-0-85-220-0.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>连续包月：</strong><span>$3.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $6.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  爱奇艺Mac客户端，简洁轻量的视频客户端。
-支持TouchBar&TrackPad、小窗播放。
-支持4K画质、杜比音效，爱奇艺海量内容畅享视听盛宴！
-体验最新版需要升级到macOS 10.15或更高版本。如有其它问题可以访问： https://app.iqiyi.com/mac/player/index.html
-欢迎联系我们的官方QQ：938355165
-———————我是海量内容的分割线———————
-【独播热播 给你想要】
-精彩戏剧实时看：临江仙、在人间、护宝寻踪、人生若如初见、淮水竹亭、无忧渡、借命而生、绝密较量、乌云之上、念无双、黄雀、北上
-热播电影不间断：向阳·花、黄沙漫天、美国队长4、唐探1900、红色一号：冬日行动、误杀3、射雕英雄传：侠之大者、哪吒之魔童降世
-热门综艺看不停：微笑一号店、亚洲新声、奔跑吧第9季、哈哈哈哈哈第5季、种地吧第3季、现在就开麦—妈妈请就位！、恋爱兄妹、哈哈哈哈哈第4季、喜剧之王单口季
-动漫番剧随心换：航海王、超能立方：超凡篇、绝世战魂、我能无限顿悟、成何体统、都市古仙医、蜡笔小新 第8季 普通话、名侦探柯南 普通话
-经典纪录片细品味：与恐龙同行、舌尖上的中国 第四季、舌尖上的中国 第一季、河西走廊、人间世、中国医生、中华才子传第一季
-海外剧集尽情选：请回答1988、经常请吃饭的漂亮姐姐、金秘书为何那样、大力女子都奉顺、老友记、风骚律师、哥谭镇、明日传奇、小谢尔顿
-
-【VIP会员 尊享特权】
-1、内容特权：院线新片、海量高分大片、热剧抢先看、独家综艺、付费影片折扣、畅读小说。
-2、观影特权：广告特权、1080P、帧绮映画、杜比全景声、杜比视界、专属弹幕、下载加速、并行下载、边下边播、预约下载。
-3、身份特权：七端全屏通、畅享多会员、尊贵标识、尊享装扮、生日礼包、专属客服、等级权益红包、赠送好友影片、好友免费一起看。
-
-【自动续费黄金会员】
--- 黄金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、杜比音效、下载特权等。
--- 订阅周期：1个月（黄金会员连续包月产品），3个月(黄金会员连续包季产品)，12个月（黄金会员连续包年产品）。
--- 订阅价格：以iAP申请信息为准，例如连续包月产品每月25元，连续包季产品每季68元，连续包年产品每年238元。
--- 付款：用户确认购买并付款后记入iTunes账户。
--- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
--- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
--- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
--- 隐私政策： http://www.iqiyi.com/common/privateh5.html
--- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
--- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
-【自动续费白金会员】
--- 白金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画MAX、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、2台设备同时播放、下载特权等。
--- 订阅周期：1个月（白金会员连续包月产品），3个月(白金会员连续包季产品)，12个月（白金会员连续包年产品）。
--- 订阅价格：以iAP申请信息为准，例如连续包月产品每月35元，连续包季产品每季98元，连续包年产品每年348元。
--- 付款：用户确认购买并付款后记入iTunes账户。
--- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
--- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
--- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
--- 隐私政策： http://www.iqiyi.com/common/privateh5.html
--- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
--- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
-【自动续费星钻会员套餐说明】
--- 星钻会员权益：享海量会员专享内容、会员抢先看、加更礼免费看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、3台设备同时播放、下载特权等。
--- 订阅周期：1个月（星钻会员连续包月产品），3个月（星钻会员连续包季产品），12个月（星钻连续包年产品）
--- 订阅价格：以iAP申请信息为准，例如连续包月产品为每月45元，连续包季产品每季118元，连续包年每年428元。
--- 付款：用户确认购买并付款后计入iTunes账户。
--- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能。
--- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
--- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
--- 隐私政策： http://www.iqiyi.com/common/privateh5.html
--- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
--- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
-【自动续费体育会员套餐说明】
---体育会员权益：爱体育会员享每月2场付费比赛直播或点播（高尔夫比赛除外），爱足球会员有效期内可看平台播出的所有足球比赛，并享广告特权、1080P、多语解说、额外单点付费低至3折。
---订阅周期：1个月（连续包月产品）。
---订阅价格：爱体育会员连续包月9元/月，爱足球会员连续包月33元/月
---付款：用户确认购买并付款后记入iTunes账户
---取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
---续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/19/d3/bf/19d3bfd6-9e0a-3605-7ddb-1e9913dda13c/132add12-49bd-4d88-8ae5-5ac5488a4ca1_App_Store_U7269_U65991.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/03/a0/da/03a0da78-2838-3c81-c29d-28700c0682f7/80a29786-6e1e-4cd9-8a4a-00e146f32816_App_Store_U7269_U65992.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/32/58/00/325800bb-a68b-32ec-cbe8-5c90b590dc5f/cec956df-a085-48a5-b159-9a135f1e5ef2_App_Store_U7269_U65993.jpg/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meitu-AI Photo Editor & Design]]></title>
-        <id>Meitu-AI Photo Editor &amp; Design-us-1750432722345</id>
-        <link href="https://apps.apple.com/us/app/meitu-ai-photo-editor-design/id1588231633?mt=12&amp;uo=4"/>
-        <updated>2025-06-20T15:18:42.345Z</updated>
-        <summary type="html"><![CDATA[Monthly Auto-renew Meitu SVIP: $12.49 → $3.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/meitu-ai-photo-editor-design/id1588231633?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/5e/06/0f5e06ce-7271-6cc6-d813-456cedb68710/MTXXPro.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Monthly Auto-renew Meitu SVIP：</strong><span>$12.49</span> → <b>
-  <strong>$3.99</strong>
-</b><span>[$3.99 ~ $12.49]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Meitu is the simplest image processing tool that can quickly achieve professional-level photo editing effects. AI tools are constantly updated, and everyone can make good pictures!
-
-=== AI image modification, intelligent design without effort ===
-[AI Cutout] Efficient in all categories, 3s background removal, one-click change of background color/local pictures
-[AI Remover] One-click removal of redundant text, passers-by, skin acne spots, complex backgrounds, etc., without leaving any traces!
-[AI Enhancer] Ultra-clear image quality rebirth, say goodbye to poor image quality
-[AI Background Change] Enter keywords, AI generates product and portrait scene pictures
-[AI Expand] Freely expand the picture frame, intelligently fill the picture, and the composition does not need to be cropped!
-[AI Smart Selection] Any element can be freely moved, scaled, copied, redrawn, eliminated, and adjusted in color...
-
-===Meitu Batch Editor, efficient and higher quality===
-Import hundreds of pictures at a time, batch cut out pictures to change backgrounds, make them clear, add watermarks, crop and change sizes, compress and convert formats, etc., without repeated operations, efficient and refined!
-
-===Poster design, change pictures and words with one click===
-Massive high-quality templates cover e-commerce, administrative office, new media, WeChat and many other scenarios.
-
-===Puzzle splicing, creative layout===
-Seamless, horizontal and vertical, four-grid, nine-grid, love, triangle and many other puzzle styles, you can also freely assemble, social more colorful!
-
-===Basic picture editing, simple and outstanding===
-[Add text] [Crop, rotate, correct, and adjust size] [Dimming, color adjustment, and filter][Border stickers] [Brush] 
-
-===Medical-grade portrait beauty, high-definition natural face===
-[One-click beauty and whitening] [Facial reshaping] [Face slimming, body slimming, height increase] [Eye and Teeth Refinement] 
-
-————————
-
-[Meitu computer version SVIP automatic renewal service statement]
-
-[Meitu computer SVIP rights] Experience massive materials, personalized functions, and more refreshing without ads.
-
-[Subscription period]
-Meitu Computer SVIP - Continuous Monthly Subscription: Subscription period of 1 month
-Meitu PC SVIP - Continuous Season: Subscription period of 3 months
-Meitu PC SVIP - Consecutive Yearly Subscription: Subscription period of 12 months
-
-[Subscription price]
-The iAP application information shall prevail. For example, continuous monthly subscription products are 20 yuan per month; continuous seasonal subscription products are 50 yuan per quarter; continuous annual subscription products are 168 yuan per year.
-
-[Payment] After the user confirms the purchase and pays, it will be charged to the iTunes account.
-
-[Renewal] "Continuous monthly/quarterly/yearly" products are auto-renewable products, and your iTunes account will be charged after confirming the purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current subscription. Within 24 hours before your subscription period expires, Apple will automatically deduct the fee from your iTunes account, and the membership validity period will be automatically extended by one period after success.
-
-[Cancel renewal]
-If you want to cancel the automatic renewal, please manually go to "Settings" on your iPhone - click "Apple ID", select to enter the "Subscription" page, and select "Meitu SVIP" to cancel the subscription.
-
-[Free Trial] Renew the subscription during the free trial period to cancel the renewal, and the free trial rights will not be recovered from the user, and the user can try it until the trial period ends.
-
-==Related Agreement==
-Membership Service Agreement: https://pc.meitu.com/agreement
-Privacy Policy Address: https://pc.meitu.com/legal-agreement?type=pc
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/28/a3/4f28a3eb-ed57-8f60-d929-e1edb278071d/Meitu.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/c6/24/53c624f4-771c-841f-929d-ac7e1af6c6d1/Meitu_Batch_Editor.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/3a/27/273a2756-bead-3603-d43c-218dc5377dcd/AI_Cutout.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/22/9f/6a229ff1-1ee6-abca-0325-0b9722939856/AI_Enhancer.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>

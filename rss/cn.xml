@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-24T14:24:03.952Z</updated>
+    <updated>2025-06-24T17:24:02.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-24T14:24:03.953Z</updated>
+        <updated>2025-06-24T17:24:02.747Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnTue, 24 Jun 2025 14:24:03 GMT</id>
+        <id>rankingcnTue, 24 Jun 2025 17:24:02 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-24T14:24:03.953Z</updated>
+        <updated>2025-06-24T17:24:02.748Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -494,7 +494,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>19</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id447726582">iAudioConverter</a>
+        <a href="https://apps.apple.com/cn/app/id430798174">HazeOver • 干扰调节器</a>
       </td>
       <td>
         <ul>
@@ -511,7 +511,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>20</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id522349879">DM1 - The Drum Machine</a>
+        <a href="https://apps.apple.com/cn/app/id447726582">iAudioConverter</a>
       </td>
       <td>
         <ul>
@@ -528,7 +528,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>21</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id673906093">歌曲音量调节器Audio Normalizer</a>
+        <a href="https://apps.apple.com/cn/app/id522349879">DM1 - The Drum Machine</a>
       </td>
       <td>
         <ul>
@@ -545,7 +545,7 @@ feedId:49753297431966720+userId:73658201673997312
         <b>22</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id797275229">AudioTunes - FLAC, APE, WMA Converter</a>
+        <a href="https://apps.apple.com/cn/app/id673906093">歌曲音量调节器Audio Normalizer</a>
       </td>
       <td>
         <ul>
@@ -560,6 +560,23 @@ feedId:49753297431966720+userId:73658201673997312
     <tr>
       <td>
         <b>23</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id797275229">AudioTunes - FLAC, APE, WMA Converter</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id828466809">SQLPro for MSSQL</a>
@@ -582,7 +599,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1403919533">MWeb Pro</a>
@@ -599,7 +616,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1437556716">Mapcasts - 无广告</a>
@@ -622,7 +639,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1523446532">重生细胞</a>
@@ -639,7 +656,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
@@ -656,7 +673,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1535136051">解压 - RAR ZIP 7Z 解压和压缩</a>
@@ -679,7 +696,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1575178082">Max NTFS - NTFS磁盘读写助手</a>
@@ -702,7 +719,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1576064082">DeviceMirror Pro -无线有线手机投屏</a>
@@ -719,7 +736,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1598771178">DeviceMirror Lite -无线手机投屏</a>
@@ -742,7 +759,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737146353">MateFox - VPN&全球网络加速器&无限流量</a>
@@ -765,7 +782,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737795387">鬼谷八荒</a>
@@ -790,7 +807,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6444789815">记事本++</a>
@@ -807,7 +824,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6502489827">大侠立志传</a>
@@ -824,7 +841,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6443786927">全面憨憨战争模拟器</a>
@@ -841,7 +858,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6448913901">全能AI - AI视频、绘画、特效、音乐、聊天、写作、数字人</a>
@@ -873,6 +890,55 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HazeOver • 干扰调节器]]></title>
+        <id>HazeOver • 干扰调节器-cn-1750785493669</id>
+        <link href="https://apps.apple.com/cn/app/hazeover-%E5%B9%B2%E6%89%B0%E8%B0%83%E8%8A%82%E5%99%A8/id430798174?mt=12&amp;uo=4"/>
+        <updated>2025-06-24T17:18:13.669Z</updated>
+        <summary type="html"><![CDATA[价格: ¥38.00 → ¥15.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/hazeover-%E5%B9%B2%E6%89%B0%E8%B0%83%E8%8A%82%E5%99%A8/id430798174?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/52/07/535207e2-5be4-3715-95f1-c3982f141028/HazeOver.png/60x60bb.png" />
+</a><h2>
+  优惠信息（价格：<span>¥38.00</span> → <b>
+  <strong>¥15.00</strong>
+</b><span>[¥15.00 ~ ¥38.00]</span>）
+</h2><h2>应用描述</h2><p>
+  太多窗口需要管理？大显示屏？不知如何应对多个显示器？HazeOver 可以助您一臂之力！ ▶ 试用版： HazeOver.com
+
+去除干扰，关注目前的任务。 HazeOver 通过虚化所有的背景窗口，自动突出显示前方的应用窗口。
+
+ • Spend less time managing windows. The clutter will no longer bother you.
+   No need to minimize, close or hide windows for your workspace to be neat.
+
+ • Easily see which window has keyboard focus.
+   No more typing in a wrong window because the contrast is low.
+
+ • Got a bigger display? Then going full screen is not an option for you.
+   HazeOver prevents getting overwhelmed with too many windows.
+ • Multiple monitors? This app will let you know which screen is focused or highlight a window on each monitor.
+
+ • Power up macOS Dark Mode and reduce background glare.
+ • Working at night? Reduce interface brightness without sacrificing legibility or color accuracy of the front window.
+
+Heavy multi-tasking kills your concentration. All those tweets, emails, chat messages and lolcats staring back at you from the background. They strive for your attention. And you only have that much of it.
+
+Don’t let yourself drown in scores of open windows. Hiding, switching, looking for the right one, more hiding, more switching. Calm down, breathe in, breathe out, launch HazeOver and finally concentrate on what you’ve been up to.
+
+HazeOver automatically highlights an active window or app when you switch windows. The less important things gently fade away in the background, helping increase your productivity.
+
+Set the hazing intensity and speed to your liking. Be it a soft dimming, an undemanding hint to focus on your workflow. Or a powerful dark background for outright dedication to your current task.
+
+ • Desktop is automatically revealed when used.
+ • Toggle the shade with a keyboard shortcut or adjust intensity with a gesture.
+ • Keep separate dimming settings for Dark and Light mode.
+ • Dragging stuff between apps? Tap “fn” key and HazeOver will gracefully fade out.
+ • Control HazeOver settings with Shortcuts app, Focus Filters or AppleScript.
+
+Does HazeOver really help? Check on LifeHacker, CNET, MacWorld, Engadget and Product Hunt.
+
+Ready to improve your workflow and eye comfort with HazeOver?
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/85/61/20/85612024-e6b8-2421-4eb9-a7af15984c0c/displays.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ff/62/7c/ff627c07-996c-5904-7e54-d9f14c2832d9/brightness.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/99/e5/fd/99e5fd4a-c087-aa4c-3454-e7235a3bfb82/main.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/9c/5b/58/9c5b58c3-ca68-ecdf-11bd-2d60e11cb99e/dm_general.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/12/88/1b/12881be5-9603-c3d1-1cd5-494f943e8192/dm_shortcuts.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[解压 - RAR ZIP 7Z 解压和压缩]]></title>
@@ -1617,73 +1683,5 @@ P.S.: FLAC Player, ALAC Player, Lossless Player, SoundCloud Stream Solution, You
 【意见反馈】
 如遇问题或者有好的建议，欢迎加入QQ体验群反馈，将会有萌哒哒的视频妹为大家解答，并有持续好礼相送！官方QQ群：527288510。
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/16/3e/15163e7c-e03a-d9bb-1d24-42356617484c/IMG_1855.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/b6/33/a4b63375-7c02-6eb8-d3f8-446c5c2e13f2/7014b5a6-7cf4-4e28-a688-ff3eff19ee4a_1.jpeg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/f5/15/82f515cc-1b40-bf32-7c08-59b3fccf967b/7e0ac2f1-59ac-40d4-b333-c7ff5cd3652d_2880x1800-01@1x.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/e2/d9/9ae2d96c-bc6d-e6be-fbdb-5e5fcbab67b7/IMG_1854.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remixlive - Make Music & Beats]]></title>
-        <id>Remixlive - Make Music &amp; Beats-cn-1750522852505</id>
-        <link href="https://apps.apple.com/cn/app/remixlive-make-music-beats/id1058801458?uo=4"/>
-        <updated>2025-06-21T16:20:52.505Z</updated>
-        <summary type="html"><![CDATA[Full Access to PRO: ¥228.00 → ¥198.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/remixlive-make-music-beats/id1058801458?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/a7/6f/afa76f06-1976-ae54-53e8-8b822513ebd6/AppIcon-Remixlive-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>Full Access to PRO：</strong><span>¥228.00</span> → <b>
-  <strong>¥198.00</strong>
-</b><span>[¥198.00 ~ ¥228.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Remixlive是制作人和DJ的完美节拍制作和现场表演应用。
-
-播放、干扰、混合和重新混合你的音乐。直播!
-• 最多可以播放48个音调和节奏同步的循环片段 
-• 实时改变调子和BPM
-• 即兴演奏和录制现场鼓和乐器
-• 使用专业级FXs实时塑造和重采样你的声音
-• 创建你自己的序列和模式
-• 在时间轴上安排你的声音来完成你的歌曲
-
-用独家样本库为你的曲目增添色彩!
-• 在20多种音乐类型中获得超过32000个专业级样本
-• 由顶级声音设计师和世界级艺术家完美打造。
-• 免收版权费用，可在任何平台上进行个人和商业使用。
-• 每周都有新内容！
-
-享受先进的专业级功能!
-• 专业音频引擎和样本时间拉伸
-• 导入你自己的样本（MP3、WAV、AAC、M4A、AIFF、16/24比特）。
-• 连接任何MIDI控制器，你想要多少就有多少 (Launchpad Mini/MK2/MK3/Pro/S/X, AKAI APCMini/MPKminiMK3/APCKey25, DJControl Compact...)
-• 用我们的AI干线分离算法对任何歌曲进行混音
-• 记录和采样任何音源（Audiobus/麦克风/声卡）
-• 通过Ableton Link ""与你的朋友们进行现场演出。
-
-Remixlive拥有您所需要的一切，以创建令人惊叹的曲目，释放您的创造力，并进行令人难忘的现场表演。任何地方!
-
-他们喜欢remixlive
-
-"在便携式设备上制作专业音轨的非常直观的方法。"
-- DJ Mag (新闻)
-
-"我已经把Remixlive整合到我的DJ组合中，它提供了很多创造性的潜力。我会向任何艺术家推荐Remixlive，因为它非常简单，你可以创造出很多有趣和鼓舞人心的东西！"
-- T78（艺术家）
-
-"绝对令人惊奇的应用程序，太有趣了！它就像一个混合的Dj和一个混合的音乐播放器。它就像一个混合的Dj和作曲工具。我被它的力量和可靠性震惊了。"
-- Crystalogic（Remixlive用户）
-
-高级计划和购买
-您可以选择单独购买样品包和功能，或通过订阅计划一次性解锁所有功能。
-
-高级订阅计划
-Remixlive有月度或年度订阅计划，可以解锁所有可用的和未来的功能，让你获得整个26000多个样本库以及每周一个新的样本包。
-
-条款和条件
-购买确认后，付款将从您的账户中扣除。除非在当前期限结束前至少24小时关闭自动续订，否则订阅将自动续订。账户将在当前期限结束前24小时内被收取续订费用，并确定续订费用。订阅可以由用户管理，自动续订可以在购买后进入用户的账户设置中关闭。
-
-使用条款
-https://www.mixvibes.com/terms
-
-隐私政策
-https://www.mixvibes.com/privacy
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/04/92/8b049214-3c09-11cd-5139-34bfc7552eb0/7407096d-5742-4238-b42a-e3f503d2687b_0_APP_IPHONE_55_0.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/2e/25/662e25bf-48ac-3f82-eb14-3fb87c703c8f/780227cd-c9d2-49ce-9e38-260413903945_1_APP_IPHONE_55_1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/56/4d/76564d17-08ac-498a-2dcd-a6b20b12acbb/2a10b050-f229-4ac1-ac4c-411e9e82e4c0_2_APP_IPHONE_55_2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/37/f2/b337f2ae-d399-9635-5175-d29c3fe4d774/0ab643b2-a9d8-47c8-9356-50f02246383f_3_APP_IPHONE_55_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/df/f5/71dff567-230e-e00f-27fe-f3799f4834f7/33f3f5d7-0b0d-4d1e-9703-96a9303099aa_5_APP_IPHONE_55_5.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/38/1a/03381afb-a809-2fc6-c5a5-109541d6c2b8/5e57a27f-2271-4061-9062-5de24403891a_4_APP_IPHONE_55_4.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/c6/3b/09c63bad-adc4-da4b-5ec5-7f89ff83c5da/7cb380a3-b58b-44c1-b84e-58a4a6235764_6_APP_IPHONE_55_6.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/64/fb/2864fb75-0618-3f96-9fdc-5476a1bd5da7/8316f06e-b806-45ea-a1aa-bc3fc2bbc25f_7_APP_IPHONE_55_7.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/fe/67/8afe672c-8078-08bd-2b47-f622884370c6/d68fa9f1-1472-40bf-876e-af0740b31487_8_APP_IPHONE_55_8.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/fd/b8/c3fdb8c0-d0b8-cb84-9824-8fd78503241f/3371f955-4af8-44cb-88ca-1cfc1b0fd23f_9_APP_IPHONE_55_9.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/eb/16/5eeb16c7-56a5-b350-d440-1cb7c4ac1f1d/e61917df-b245-4728-935a-b870008b20ea_0_APP_IPAD_PRO_129_0.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/ba/56/44ba567e-df49-dbe7-2041-be07b3b187f6/7f6c19c3-5088-4c06-b657-37ab4ec98341_1_APP_IPAD_PRO_129_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/9f/89/1c9f89ee-fe4a-d398-a3c5-e2893c219f48/27c0b11b-0bf4-45dd-80b8-198320365e59_2_APP_IPAD_PRO_129_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/1a/35/621a35e7-91ce-72c0-7505-28dae225abac/0faeba01-54b5-4322-b28e-d2d6a85615ad_3_APP_IPAD_PRO_129_3__U00286_U0029.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/96/66/049666d1-db48-0c54-91ab-b5f843f5b94c/3daed6f0-3215-4a24-adb0-d777778821ff_4_APP_IPAD_PRO_129_4.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/b3/5a/95b35a11-ffe9-9e28-de61-12059f76cf81/c5ec5430-14e7-4036-9aec-526697c5c963_5_APP_IPAD_PRO_129_5.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/c1/48/c5c148cf-d56d-e7a6-0323-d91ee6311259/d0cec703-83b2-475b-a6b2-fc1d97e09519_6_APP_IPAD_PRO_129_6.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/97/13/51971302-d237-6ac5-158e-258e13fd46aa/7e661645-afb7-4bda-9947-b09f18193f7e_7_APP_IPAD_PRO_3GEN_129_7.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/ed/d4/9cedd454-bed7-1fca-810e-3c7c7364eb38/9bc1c1d6-6fba-4d68-ba47-b91e00bc0a3f_8_APP_IPAD_PRO_129_8.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/ae/b0/ecaeb034-0b54-fb54-1dee-b7416eba9eee/aff67452-af5f-436f-a2ac-f21f87921bcd_9_APP_IPAD_PRO_129_9.jpg/552x414bb.jpg" />]]></content>
     </entry>
 </feed>
