@@ -14511,6 +14511,23 @@
     "history": [
       [
         {
+          "timestamp": 1750799840002,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "5分钟下载券（忙时）": "$0.99",
+            "简单听记600分钟时长包": "$9.99",
+            "简单听记60分钟时长包": "$2.99",
+            "简单听记300分钟时长包": "$5.99",
+            "简单听记30分钟时长包": "$0.99",
+            "简单听记180分钟时长包": "$4.99",
+            "简单听记听记会员(7天体验卡+自动续费)": "$3.99",
+            "简单听记听记会员(7天体验卡+月卡自动续费)(首充)": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750623521935,
           "price": 0,
           "formattedPrice": "Free",
@@ -70189,7 +70206,9 @@
       "Upgrade to SVIP": "$1.99",
       "3-Time AI Effects": "$1.99",
       "Save Current Result": "$1.99",
-      "Wink- 200 Credits": "$39.99"
+      "Wink- 200 Credits": "$39.99",
+      "1 Year + 2 Months Wink SVIP": "$99.99",
+      "Wink- AI Photo Restore": "$2.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -70208,10 +70227,25 @@
       "Upgrade to SVIP": "$1.99",
       "3-Time AI Effects": "$1.99",
       "Save Current Result": "$1.99",
-      "Wink- 200 Credits": "$39.99"
+      "Wink- 200 Credits": "$39.99",
+      "1 Year + 2 Months Wink SVIP": "$99.99",
+      "Wink- AI Photo Restore": "$2.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1750799840002,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$59.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "1 Year + 2 Months Wink SVIP": "$99.99",
+            "Wink- AI Photo Restore": "$2.99",
+            "Weekly Auto-renew VIP": "$7.99",
+            "Wink- Remoji": "$2.99"
+          }
+        },
         {
           "timestamp": 1750739278507,
           "price": 0,
