@@ -4737,6 +4737,23 @@
     "history": [
       [
         {
+          "timestamp": 1750739278507,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "¥8.00",
+            "Acoustic Guitars": "¥8.00",
+            "Varazdin Orchestral Mobile": "¥28.00",
+            "Amped Guitar & Bass": "¥22.00",
+            "Voices": "¥8.00",
+            "Synth Lead": "¥15.00",
+            "Groove Machine Synth": "¥0.00",
+            "Sliced Beats": "¥8.00",
+            "Synth Plucks": "¥15.00",
+            "Transistor Bass": "¥0.00"
+          }
+        },
+        {
           "timestamp": 1750728419160,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -21754,6 +21771,24 @@
       "会员限时活动": "¥25.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750739278507,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "黄金会员连续包月": "¥25.00",
+            "6奇点": "¥6.00",
+            "月卡": "¥30.00",
+            "连续包月": "¥25.00",
+            "黄金会员连续包季": "¥68.00",
+            "12奇点": "¥12.00",
+            "4奇点": "¥4.00",
+            "5奇点": "¥5.00",
+            "黄金会员连续包年": "¥238.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750685613807,
@@ -40898,6 +40933,19 @@
     "history": [
       [
         {
+          "timestamp": 1750739278507,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "移动端会员-月卡": "¥18.00",
+            "移动端会员-连续包月": "¥15.00",
+            "移动端会员-连续包季": "¥36.00",
+            "移动端会员-季卡": "¥40.00",
+            "移动端会员-半年卡": "¥60.00",
+            "移动端会员-年卡": "¥88.00"
+          }
+        },
+        {
           "timestamp": 1750706082164,
           "price": 0,
           "formattedPrice": "免费",
@@ -53401,6 +53449,19 @@
     "history": [
       [
         {
+          "timestamp": 1750739278507,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Unlock all (including updates)": "¥998.00",
+            "Vythm PRO": "¥22.00",
+            "All features and modes": "¥198.00",
+            "Vythm PRO special offer": "¥48.00",
+            "Gears for desktop devices": "¥38.00",
+            "Gears for mobile devices": "¥38.00"
+          }
+        },
+        {
           "timestamp": 1750735032361,
           "price": 0,
           "formattedPrice": "免费",
@@ -58225,6 +58286,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750739278507,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "有道云笔记月会员": "¥18.00",
+            "有道云笔记超级会员包月会员": "¥28.00",
+            "笔记高级会员连续包月": "¥18.00",
+            "有道云笔记超级会员包季会员": "¥68.00",
+            "有道云笔记高级会员包季会员": "¥48.00",
+            "有道云笔记超级会员包年会员": "¥238.00",
+            "笔记超级会员连续包月": "¥28.00",
+            "2年笔记高级会员": "¥398.00",
+            "有道云笔记年会员": "¥198.00"
+          }
+        },
         {
           "timestamp": 1750717061000,
           "price": 0,

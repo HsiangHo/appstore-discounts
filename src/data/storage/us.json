@@ -5801,6 +5801,25 @@
     "history": [
       [
         {
+          "timestamp": 1750739278507,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Synth Lead": "$1.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Groove Machine Synth": "$0.00",
+            "Synth Plucks": "$1.99",
+            "Transistor Bass": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750587456166,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -11646,6 +11665,22 @@
       "会员年卡促销": "$34.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750739278507,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "有道词典会员连续包月": "$3.99",
+            "有道词典超级会员": "$14.99",
+            "有道词典超级会员1个月": "$5.99",
+            "50万字符加量包": "$3.99",
+            "6充值币": "$0.99",
+            "10万字符加量包": "$0.99",
+            "30充值币": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750148720760,
@@ -70059,6 +70094,21 @@
       "Wink- 200 Credits": "$39.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750739278507,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- 25 Credits": "$7.99",
+            "10-second AI animation": "$1.99",
+            "Wink- 100 Credits": "$24.99",
+            "Wink- 5 Credits": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750630579324,
