@@ -53401,6 +53401,22 @@
     "history": [
       [
         {
+          "timestamp": 1750735032361,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Vythm PRO": "¥68.00",
+            "All features and modes": "¥298.00",
+            "Vythm PRO special offer": "¥48.00",
+            "Gears for desktop devices": "¥38.00",
+            "Gears for mobile devices": "¥38.00",
+            "Tribal for mobile devices": "¥38.00",
+            "Tribal for desktop devices": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750454169835,
           "price": 0,
           "formattedPrice": "免费",
