@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-24T09:26:03.048Z</updated>
+    <updated>2025-06-24T14:24:03.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-24T09:26:03.050Z</updated>
+        <updated>2025-06-24T14:24:03.953Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnTue, 24 Jun 2025 09:26:03 GMT</id>
+        <id>rankingcnTue, 24 Jun 2025 14:24:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-24T09:26:03.050Z</updated>
+        <updated>2025-06-24T14:24:03.953Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -659,6 +659,29 @@ feedId:49753297431966720+userId:73658201673997312
         <b>28</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1535136051">解压 - RAR ZIP 7Z 解压和压缩</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>升级为VIP按月续订</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>29</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1575178082">Max NTFS - NTFS磁盘读写助手</a>
       </td>
       <td>
@@ -679,7 +702,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1576064082">DeviceMirror Pro -无线有线手机投屏</a>
@@ -696,7 +719,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1598771178">DeviceMirror Lite -无线手机投屏</a>
@@ -719,7 +742,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737146353">MateFox - VPN&全球网络加速器&无限流量</a>
@@ -742,7 +765,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737795387">鬼谷八荒</a>
@@ -767,7 +790,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6444789815">记事本++</a>
@@ -784,7 +807,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6502489827">大侠立志传</a>
@@ -801,7 +824,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6443786927">全面憨憨战争模拟器</a>
@@ -818,7 +841,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6448913901">全能AI - AI视频、绘画、特效、音乐、聊天、写作、数字人</a>
@@ -850,6 +873,47 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解压 - RAR ZIP 7Z 解压和压缩]]></title>
+        <id>解压 - RAR ZIP 7Z 解压和压缩-cn-1750774706735</id>
+        <link href="https://apps.apple.com/cn/app/%E8%A7%A3%E5%8E%8B-rar-zip-7z-%E8%A7%A3%E5%8E%8B%E5%92%8C%E5%8E%8B%E7%BC%A9/id1535136051?mt=12&amp;uo=4"/>
+        <updated>2025-06-24T14:18:26.735Z</updated>
+        <summary type="html"><![CDATA[升级为VIP按月续订: ¥18.00 → ¥15.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E8%A7%A3%E5%8E%8B-rar-zip-7z-%E8%A7%A3%E5%8E%8B%E5%92%8C%E5%8E%8B%E7%BC%A9/id1535136051?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/b7/3b/23b73bfc-ecc4-f544-749c-f8789247d998/AppIcon-0-0-85-220-0-0-4-0-2x-sRGB.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>升级为VIP按月续订：</strong><span>¥18.00</span> → <b>
+  <strong>¥15.00</strong>
+</b><span>[¥12.00 ~ ¥18.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  ● 支持7Z, ZIP, RAR, TAR, GZIP, BZIP2, GZ, XZ, LZIP, ACE, ISO, LZMA, CBR, EXE, MSI, LZH, CPIO, CAB, JAR, PAK, PKG, APK, ACE, ARJ, LQR, SPK, SWF, NSA, RPM, CPT等所有格式解压
+● 支持7Z, RAR, ZIP等加密压缩文件的创建
+● 支持从pdf文档中提取图片
+
+「功 能」
+● 所有格式压缩文件解压
+● winmail.dat附件预览及解压
+● 双击预览压缩包(类似WinRAR)
+● 双击解压
+● 压缩包中任选文件解压
+● 解压到当前目录
+● 加密文件压缩
+● 拖拽压缩包中文件直接解压
+● 批量解压
+● 支持多种可视窗口
+
+「邮箱」
+● zhiminl@qq.com
+
+「使用条款」
+● https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+「隐私政策」
+● https://dami0209.github.io/privacy.html
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a3/62/87/a36287d0-4b14-6eca-73a9-f7f068e1a02c/c966a7f8-b6e0-456e-a3c2-ce1fce85d54f_1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/da/fb/a4/dafba463-580d-514b-d602-e6eba8ad348a/57ec906d-dd72-4dc4-ac42-8eafb4d05d2d_2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/93/4f/0e/934f0eba-a4db-cd82-9673-51eabf21aa09/d364eb3d-3291-46bf-945a-85b8cd326498_5.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9b/64/ea/9b64ea89-3fd7-1ef4-0064-bd9b4e128e91/7d1e5491-6f81-4020-bb5b-1b5a4ea4555c_3.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0a/b3/8e/0ab38e56-1005-35e1-184d-0c5ef42c60db/56b42313-0ca7-4ab5-b527-f78bc08feb23_4.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[奇游加速器 - 全球游戏畅玩]]></title>

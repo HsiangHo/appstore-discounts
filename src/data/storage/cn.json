@@ -52465,6 +52465,18 @@
     "history": [
       [
         {
+          "timestamp": 1750774706735,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "升级到VIP(终身版)": "¥58.00",
+            "升级为VIP按月续订": "¥15.00",
+            "升级为VIP按年续订": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749046505383,
           "price": 0,
           "formattedPrice": "免费",

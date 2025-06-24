@@ -123,6 +123,13 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1535136051": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "升级为VIP按月续订": 1
+      }
+    },
     "1544190466": {
       "all": 2,
       "price": 2,
