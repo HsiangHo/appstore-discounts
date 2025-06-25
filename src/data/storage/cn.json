@@ -36964,6 +36964,23 @@
     "history": [
       [
         {
+          "timestamp": 1750814840639,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "订阅一年": "¥78.00",
+            "订阅一个周.": "¥15.00",
+            "3次按次付费功能使用资格": "¥8.00",
+            "订阅一个月.": "¥30.00",
+            "永久会员": "¥98.00",
+            "月度会员": "¥35.00",
+            "10次按次付费功能使用资格": "¥15.00",
+            "60次按次付费功能使用资格": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750307191929,
           "price": 0,
           "formattedPrice": "免费",
@@ -57424,7 +57441,8 @@
       "升级到SVIP": "¥15.00",
       "AI 春节玩法 - 3次": "¥12.00",
       "Wink- AI Photo Restore": "¥12.00",
-      "Wink VIP 连续包月": "¥18.00"
+      "Wink VIP 连续包月": "¥18.00",
+      "Wink SVIP年卡加赠2个月": "¥298.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -57443,9 +57461,25 @@
       "升级到SVIP": "¥15.00",
       "AI 春节玩法 - 3次": "¥12.00",
       "Wink- AI Photo Restore": "¥12.00",
-      "Wink VIP 连续包月": "¥18.00"
+      "Wink VIP 连续包月": "¥18.00",
+      "Wink SVIP年卡加赠2个月": "¥298.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750814840639,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Wink VIP 连续包年": "¥168.00",
+            "Wink VIP连续包月": "¥18.00",
+            "Wink SVIP年卡加赠2个月": "¥298.00",
+            "Wink- AI Photo Restore": "¥12.00",
+            "Wink VIP 连续包周": "¥18.00",
+            "AI Remoji": "¥12.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750609233000,
