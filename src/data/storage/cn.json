@@ -23567,7 +23567,8 @@
       "Titanium Bass": "¥22.00",
       "Sphere Electro": "¥22.00",
       "Chill Boom Bap": "¥22.00",
-      "Terraform Techno": "¥22.00"
+      "Terraform Techno": "¥22.00",
+      "Platinum Synth Pop": "¥22.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -23591,9 +23592,29 @@
       "Titanium Bass": "¥22.00",
       "Sphere Electro": "¥22.00",
       "Chill Boom Bap": "¥22.00",
-      "Terraform Techno": "¥22.00"
+      "Terraform Techno": "¥22.00",
+      "Platinum Synth Pop": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750871818319,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Platinum Synth Pop": "¥22.00",
+            "Terraform Techno": "¥22.00",
+            "Speed Hardgroove": "¥22.00",
+            "Drip Tech House": "¥22.00",
+            "Altered Hip-Hop": "¥22.00",
+            "Glow Trap": "¥22.00",
+            "Phonk": "¥22.00",
+            "Indigo Beats": "¥22.00",
+            "Voyager Synthwave": "¥22.00",
+            "Titanium Bass": "¥22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750566527257,
@@ -63255,16 +63276,34 @@
       "formattedPrice": "免费",
       "终身": "¥198.00",
       "每年": "¥38.00",
-      "每月": "¥12.00"
+      "每月": "¥12.00",
+      "年度VIP": "¥38.00",
+      "月度VIP": "¥12.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
       "终身": "¥89.00",
       "每年": "¥38.00",
-      "每月": "¥12.00"
+      "每月": "¥12.00",
+      "年度VIP": "¥38.00",
+      "月度VIP": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750871818319,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "终身": "¥198.00",
+            "年度VIP": "¥38.00",
+            "月度VIP": "¥12.00",
+            "每月": "¥12.00",
+            "每年": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1738144948311,
