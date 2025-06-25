@@ -78272,7 +78272,8 @@
       "1 Month": "$1.49",
       "1 Year": "$4.99",
       "Yearly VIP": "$4.99",
-      "Monthly VIP": "$1.49"
+      "Monthly VIP": "$1.49",
+      "Lifetime VIP": "$14.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -78281,10 +78282,24 @@
       "1 Month": "$1.49",
       "1 Year": "$4.99",
       "Yearly VIP": "$4.99",
-      "Monthly VIP": "$1.49"
+      "Monthly VIP": "$1.49",
+      "Lifetime VIP": "$14.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1750875998824,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime VIP": "$14.99",
+            "Yearly VIP": "$4.99",
+            "Monthly VIP": "$1.49",
+            "Lifetime": "$29.99",
+            "1 Year": "$4.99",
+            "1 Month": "$1.49"
+          }
+        },
         {
           "timestamp": 1750871818319,
           "price": 0,

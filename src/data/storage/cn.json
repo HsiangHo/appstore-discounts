@@ -23598,6 +23598,22 @@
     "history": [
       [
         {
+          "timestamp": 1750875998824,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Trap": "¥22.00",
+            "Remixlive Premium (Monthly)": "¥68.00",
+            "Electro": "¥22.00",
+            "Drum & Bass": "¥22.00",
+            "Deep House": "¥22.00",
+            "Hip-Hop": "¥22.00",
+            "Dubstep": "¥22.00",
+            "Future Beat": "¥22.00",
+            "Full Access to PRO": "¥228.00"
+          }
+        },
+        {
           "timestamp": 1750871818319,
           "price": 0,
           "formattedPrice": "免费",
@@ -63278,7 +63294,8 @@
       "每年": "¥38.00",
       "每月": "¥12.00",
       "年度VIP": "¥38.00",
-      "月度VIP": "¥12.00"
+      "月度VIP": "¥12.00",
+      "终身VIP": "¥89.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -63287,10 +63304,24 @@
       "每年": "¥38.00",
       "每月": "¥12.00",
       "年度VIP": "¥38.00",
-      "月度VIP": "¥12.00"
+      "月度VIP": "¥12.00",
+      "终身VIP": "¥89.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1750875998824,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "终身VIP": "¥89.00",
+            "年度VIP": "¥38.00",
+            "月度VIP": "¥12.00",
+            "终身": "¥198.00",
+            "每月": "¥12.00",
+            "每年": "¥38.00"
+          }
+        },
         {
           "timestamp": 1750871818319,
           "price": 0,
