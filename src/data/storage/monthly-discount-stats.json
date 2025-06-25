@@ -423,10 +423,11 @@
       "inAppPurchase": {}
     },
     "1535136051": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Upgrade to VIP(Annual renewal)": 1
+        "Upgrade to VIP(Annual renewal)": 1,
+        "Upgrade to VIP(Month renewal)": 1
       }
     },
     "1550581532": {
