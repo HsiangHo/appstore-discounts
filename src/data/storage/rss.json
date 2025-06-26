@@ -2221,6 +2221,84 @@
   ],
   "us": [
     {
+      "kind": "mac-software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6d/f3/c2/6df3c258-c882-9d94-a17f-edfcde85f96c/602ee79b-ca3b-40e9-9d92-d4ef5bb5b37c_1n.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b5/26/aa/b526aa81-c80a-f1a6-c0fb-eda3eaa582f7/58f61a40-8cba-4753-a4c7-5a575f3cf1b0_2n.png/800x500bb.jpg"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/22/b6/c422b67d-cfa8-55ef-0fc4-5c5b74283392/AppIcon-85-220-4-2x.png/512x512bb.png",
+      "artistViewUrl": "https://apps.apple.com/us/developer/%E5%85%89%E8%93%89-%E8%94%A1/id1666739400?mt=12&uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/22/b6/c422b67d-cfa8-55ef-0fc4-5c5b74283392/AppIcon-85-220-4-2x.png/60x60bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/22/b6/c422b67d-cfa8-55ef-0fc4-5c5b74283392/AppIcon-85-220-4-2x.png/100x100bb.png",
+      "minimumOsVersion": "10.15",
+      "artistId": 1666739400,
+      "artistName": "光蓉 蔡",
+      "genres": [
+        "Utilities"
+      ],
+      "price": 0,
+      "releaseDate": "2023-09-26T07:00:00Z",
+      "bundleId": "com.rainservice.transcribeapp",
+      "trackId": 6450397515,
+      "trackName": "Transcribe & Speech to text",
+      "genreIds": [
+        "6002"
+      ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "releaseNotes": "Fixed transcription time issue",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "光蓉 蔡",
+      "currentVersionReleaseDate": "2025-06-14T15:11:41Z",
+      "version": "1.1.12",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Special feature：\nQuickly transcribe audio, recordings, conference recordings, voice dictation, and voice notes.\nAccurate transcription of various types of audio with a 98.8% accuracy rate.\nRecording expert, import audio and transcribe with just one click.\n\nprivacy policy:https://rain7027.github.io/rainstt/privacy\nterms of use:https://rain7027.github.io/rainstt/terms\nany question please contact:zyang7027@gmail.com",
+      "userRatingCountForCurrentVersion": 0,
+      "averageUserRatingForCurrentVersion": 0,
+      "languageCodesISO2A": [
+        "AR",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "RU",
+        "ZH",
+        "ES",
+        "TH",
+        "VI"
+      ],
+      "fileSizeBytes": "3439890",
+      "formattedPrice": "Free",
+      "trackContentRating": "4+",
+      "trackCensoredName": "Transcribe & Speech to text",
+      "trackViewUrl": "https://apps.apple.com/us/app/transcribe-speech-to-text/id6450397515?mt=12&uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "userRatingCount": 0,
+      "inAppPurchases": {
+        "VIP": "$19.99",
+        "5 hours a day": "$6.99",
+        "2 hours a day": "$14.99",
+        "30minutes": "$1.99",
+        "10 minutes": "$0.99",
+        "2 hour": "$3.99"
+      },
+      "timestamp": 1750944690599,
+      "discounts": [
+        {
+          "type": "inAppPurchase",
+          "name": "VIP",
+          "from": "$39.99",
+          "to": "$19.99",
+          "range": "[$4.99 ~ $39.99]"
+        }
+      ]
+    },
+    {
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/86/6d/bf866daf-6403-c4d3-de68-243c20338a98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "ipadScreenshotUrls": [],

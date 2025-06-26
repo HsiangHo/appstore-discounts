@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-26T11:22:02.915Z</updated>
+    <updated>2025-06-26T13:37:04.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-26T11:22:02.915Z</updated>
+        <updated>2025-06-26T13:37:04.887Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusThu, 26 Jun 2025 11:22:02 GMT</id>
+        <id>rankingusThu, 26 Jun 2025 13:37:04 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-26T11:22:02.915Z</updated>
+        <updated>2025-06-26T13:37:04.888Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -311,14 +311,22 @@ feedId:49753370488353792+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6739523960">Allow Right Click for Safari</a>
+        <a href="https://apps.apple.com/us/app/id6450397515">Transcribe & Speech to text</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>3</b>
           </li><li>
-            <span>Price</span>：<b>3</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>VIP</i>：<b>3</b>
+              </li><li>
+                <i>2 hours a day</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -328,7 +336,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6738715418">STEP and IGES File Viewer</a>
+        <a href="https://apps.apple.com/us/app/id6739523960">Allow Right Click for Safari</a>
       </td>
       <td>
         <ul>
@@ -345,7 +353,7 @@ feedId:49753370488353792+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6738089759">Hide Mouse Cursor</a>
+        <a href="https://apps.apple.com/us/app/id6738715418">STEP and IGES File Viewer</a>
       </td>
       <td>
         <ul>
@@ -360,6 +368,23 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>
         <b>13</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6738089759">Hide Mouse Cursor</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>3</b>
+          </li><li>
+            <span>Price</span>：<b>3</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id461369673">VOX: MP3 & FLAC Music Player</a>
@@ -384,7 +409,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id673906093">Audio Normalizer - Mp3 Gain</a>
@@ -401,7 +426,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1014945607">优酷视频-嘘国王在冬眠 全网独播</a>
@@ -424,7 +449,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1068435535">Antivirus One - Virus Cleaner</a>
@@ -449,7 +474,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1535136051">RAR Extractor - Unzip File</a>
@@ -474,7 +499,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
@@ -489,31 +514,6 @@ feedId:49753370488353792+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>Yearly Auto-renew VIP</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>19</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id6450397515">Transcribe & Speech to text</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>2</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>VIP</i>：<b>2</b>
-              </li><li>
-                <i>2 hours a day</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -1029,6 +1029,31 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transcribe & Speech to text]]></title>
+        <id>Transcribe &amp; Speech to text-us-1750944690599</id>
+        <link href="https://apps.apple.com/us/app/transcribe-speech-to-text/id6450397515?mt=12&amp;uo=4"/>
+        <updated>2025-06-26T13:31:30.599Z</updated>
+        <summary type="html"><![CDATA[VIP: $39.99 → $19.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/transcribe-speech-to-text/id6450397515?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/22/b6/c422b67d-cfa8-55ef-0fc4-5c5b74283392/AppIcon-85-220-4-2x.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>VIP：</strong><span>$39.99</span> → <b>
+  <strong>$19.99</strong>
+</b><span>[$4.99 ~ $39.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Special feature：
+Quickly transcribe audio, recordings, conference recordings, voice dictation, and voice notes.
+Accurate transcription of various types of audio with a 98.8% accuracy rate.
+Recording expert, import audio and transcribe with just one click.
+
+privacy policy:https://rain7027.github.io/rainstt/privacy
+terms of use:https://rain7027.github.io/rainstt/terms
+any question please contact:zyang7027@gmail.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6d/f3/c2/6df3c258-c882-9d94-a17f-edfcde85f96c/602ee79b-ca3b-40e9-9d92-d4ef5bb5b37c_1n.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b5/26/aa/b526aa81-c80a-f1a6-c0fb-eda3eaa582f7/58f61a40-8cba-4753-a4c7-5a575f3cf1b0_2n.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MuseDash]]></title>
