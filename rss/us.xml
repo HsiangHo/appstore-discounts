@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-25T03:24:04.044Z</updated>
+    <updated>2025-06-26T04:33:02.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-25T03:24:04.045Z</updated>
+        <updated>2025-06-26T04:33:02.688Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusWed, 25 Jun 2025 03:24:04 GMT</id>
+        <id>rankingusThu, 26 Jun 2025 04:33:02 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-25T03:24:04.046Z</updated>
+        <updated>2025-06-26T04:33:02.689Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -215,6 +215,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1395152179">奇游加速器 - 全球游戏畅玩</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>4</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>移动端会员-连续包月</i>：<b>4</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1514073011">QuickFox-海外回国加速器追剧听歌游戏留学生必备</a>
       </td>
       <td>
@@ -229,29 +252,6 @@ feedId:49753370488353792+userId:73658201673997312
                 <i>Annual VIP</i>：<b>4</b>
               </li><li>
                 <i>Continuous Monthly VIP</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>7</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1395152179">奇游加速器 - 全球游戏畅玩</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>3</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>移动端会员-连续包月</i>：<b>3</b>
               </li>
             </ol>
           </li>
@@ -1008,6 +1008,49 @@ feedId:49753370488353792+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[奇游加速器 - 全球游戏畅玩]]></title>
+        <id>奇游加速器 - 全球游戏畅玩-us-1750912042805</id>
+        <link href="https://apps.apple.com/us/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4"/>
+        <updated>2025-06-26T04:27:22.805Z</updated>
+        <summary type="html"><![CDATA[移动端会员-连续包月: $2.99 → $1.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/24/0d/5d240d0a-4401-ac6e-fe9f-165012b8adf4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>移动端会员-连续包月：</strong><span>$2.99</span> → <b>
+  <strong>$1.99</strong>
+</b><span>[$1.99 ~ $2.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  【 热门游戏，“游”先支持】
+支持PUBGM、王者荣耀国际服 、使命召唤战区、绝地求生：刺激战场 、吃鸡外服、鹅鸭杀手游，暗区突围国际服、飞机大厨、咒术回战、炉石传说国际服、ROBLOX国际版、原神国际服、英雄联盟手游（lol：wild rift）、云顶之弈手游、方舟：终极移动版等游戏加速！
+
+【海量手游库 新游上线快 】
+支持PUBGM、王者国际服、使命召唤战区、星际战甲国际服、炉石传说国际服、暗区突围国际服、飞机大厨、对峙2、云顶之奕PBE、鹅鸭杀、赛马娘、pubg2、暗黑破坏神不朽、apex手游、二之国、全境封锁手游、战地手游、瓦罗兰特手游、绝地求生刺激战场全球服、使命召唤手游全球服、八方旅人、符文大地传说、Among US、游戏王、方舟生存进化、黎明杀机、公主连接、冒险岛M、地球末日生存、Teon中文版、剑灵：革命、战争机器人、地牢猎手5、FIFA、碧蓝幻想全球服、iron force、世界计划、多彩舞台、第七史诗（epic 7）、和平精英全球服、堡垒之夜、fgo、影之诗、失落龙约黑色沙漠、文明重启全球服、荒野乱斗、狂野飙车9等游戏加速！游戏库包罗千款好玩游戏，热游新游排行一目了然。平均每天3款游戏的速度上新。App内可以随时提交想玩的游戏，你想玩的我们都支持！
+
+【 奇游电竞级加速 】
+奇游全自研“Qiy”电竞级加速引擎震撼上线，加速稳定性更胜一筹，不惧移动网络的波动。基于奇游电竞级游戏网络，带你感受稳定流畅的游戏体验。低延迟、不掉线，WIFI/5G随心切换。
+
+【新游推荐 硬核攻略 】
+新增游戏清单、新游预上线时间表等功能，更多实用、funny的游戏主题等你探索。游戏介绍、新游推荐、硬核攻略，丰富的游戏深度内容带你打开新世界的大门！
+
+【客服小队 随时待命 】
+奇游客服小队7x12h陪伴你的左右。使用过程中有任何疑问和反馈，我们随时待命。
+
+【自动续费套餐说明】
+1、订阅周期及套餐名称：1个月（连续包月），3个月(连续包季)
+2、订阅价格：以IAP申请信息为准，例如连续包月价格为首月15元，次月15元/月自动续费 
+3、付款：用户确认购买并付款后计入iTunes账户。
+4、取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能，到期前24小时内取消，将会收取订阅费用。
+5、续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+6、隐私政策：https://www.qiyou.cn/specials/qymobile-protocol.html
+7、服务协议：https://mfront.qiyou.cn/protocol.html
+8、自动续费会员服务协议：https://mfront.qiyou.cn/renewal-protocol.html
+
+*本加速器的加速功能仅针对游戏使用，无法访问海外网站。
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/30/d9/a730d9aa-62c0-a310-ef97-258622bbd228/94e6bc59-0ed1-4662-9fe9-c6c451e5eff8_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/7b/26/067b26e4-94e4-e8dd-81e9-14a0ec0a4354/962aa0d0-12c7-4e94-8ce1-f6f9024c412c_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/10/80/20108048-f87d-5509-ee46-993017f4cee9/754dd371-0572-496e-b317-f4f78754097a_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/da/24/c5da242f-ed7d-eee2-aafd-7a134b8a2c1a/a6457b28-d217-4eb7-abbc-b84793c7a4ad_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/98/a2/1998a286-c405-6ee7-2549-d48179653067/5ab7ea42-5dde-488b-8677-e35e2767c474_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/20/76/ab207675-21ca-afc8-418b-a6e058a5628b/c1b12273-03dc-4645-bd76-2ec11fd06f72_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/2d/f0/c12df094-fd43-860b-b9f7-f4ed06d03635/3f45d5df-bae8-4a85-90be-b5c11e6b5d3f_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/fd/2c/35fd2c48-a4ce-0a15-cb14-eba428cdcf3d/57a9a98a-65a9-4a6f-b77f-09227a1a4252_5.jpg/576x768bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RAR Extractor - Unzip File]]></title>
         <id>RAR Extractor - Unzip File-us-1750821488923</id>
         <link href="https://apps.apple.com/us/app/rar-extractor-unzip-file/id1535136051?mt=12&amp;uo=4"/>
@@ -1193,491 +1236,5 @@ Does HazeOver really help? Check on LifeHacker, CNET, MacWorld, Engadget and Pro
 
 Ready to improve your workflow and eye comfort with HazeOver?
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ed/f8/6d/edf86d42-541a-c190-37aa-8e911e42199d/displays.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/2a/ab/ef/2aabef57-7cf8-7edf-6b60-ff53cf68ef24/brightness.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ad/88/9c/ad889ced-59e3-e01e-cdbf-ab42ab49406d/main.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/0f/f3/b8/0ff3b8f5-51a4-b851-8d32-56b700031c06/dm_general.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/c0/2a/66/c02a66dc-f481-2ded-2f94-371d90ce6d83/dm_shortcuts.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audio Normalizer - Mp3 Gain]]></title>
-        <id>Audio Normalizer - Mp3 Gain-us-1750642836001</id>
-        <link href="https://apps.apple.com/us/app/audio-normalizer-mp3-gain/id673906093?mt=12&amp;uo=4"/>
-        <updated>2025-06-23T01:40:36.001Z</updated>
-        <summary type="html"><![CDATA[Price: $19.99 → $4.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/audio-normalizer-mp3-gain/id673906093?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/28/49/5f/28495f47-cbeb-d61b-fa1b-8b23f91c9e2a/Icon.png/60x60bb.png" />
-</a><h2>
-  Discount Information（Price：<span>$19.99</span> → <b>
-  <strong>$4.99</strong>
-</b><span>[$4.99 ~ $19.99]</span>）
-</h2><h2>Application Description</h2><p>
-  Audio Normalizer provides a batch normalizing feature that helps users to balance all the music and audio files to equal volume in the most popular audio formats like MP3, M4A, WAV, AAC, FLAC, WMA, AIFF, AMR, AC3, MP2, OGG, M4R, AU etc with high accuracy and at maximum speed with a single click.  
-
-Is it annoying to adjust the volume of each file individually? Download Audio Normalizer for Mac now. 
-
-Audio Normalizer Features:
-1 Equalize multi-audio files to the same volume with a single click.
-2 Leveling the volume of MP3, M4A, WAV files directly losslessly. 
-3 Supports many popular audio formats: MP3, M4A, WAV, AAC, FLAC, WMA, AIFF, AMR, AC3, MP2, OGG, M4R, AU files.
-4 Supports batch processing.
-5 You can custom volume level.
-6 Awesome Usability: Easy to use through a modern and clear user interface.
-
-Please note that volume of DRM-protected files can not be analyzed and adjusted.
-
-Audio Normalizer Feedback:
-Any suggestion will be appreciated, email us at: market@effectmatrix.com
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/54/e5/21/54e52136-aedd-7be7-401c-1b0d57167876/mzl.slwgpxzg.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/81/1b/a2/811ba285-ce2a-0bbf-4471-5c16141f4493/mzl.bxrizfzd.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple6/v4/0e/0b/b3/0e0bb301-860d-715c-ff63-8b5466a78619/mzl.fporlniz.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱奇艺-临江仙 离婚仙侠]]></title>
-        <id>爱奇艺-临江仙 离婚仙侠-us-1750634205810</id>
-        <link href="https://apps.apple.com/us/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&amp;uo=4"/>
-        <updated>2025-06-22T23:16:45.810Z</updated>
-        <summary type="html"><![CDATA[连续包月: $3.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/2e/3f/222e3ff7-222b-8c27-aeb1-2d1082336d55/Mac_AppIcon-2x_U007euniversal-0-5-0-85-220-0.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>连续包月：</strong><span>$3.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $6.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  爱奇艺Mac客户端，简洁轻量的视频客户端。
-支持TouchBar&TrackPad、小窗播放。
-支持4K画质、杜比音效，爱奇艺海量内容畅享视听盛宴！
-体验最新版需要升级到macOS 10.15或更高版本。如有其它问题可以访问： https://app.iqiyi.com/mac/player/index.html
-欢迎联系我们的官方QQ：938355165
-———————我是海量内容的分割线———————
-【独播热播 给你想要】
-精彩戏剧实时看：临江仙、在人间、护宝寻踪、人生若如初见、淮水竹亭、无忧渡、借命而生、绝密较量、乌云之上、念无双、黄雀、北上
-热播电影不间断：向阳·花、黄沙漫天、美国队长4、唐探1900、红色一号：冬日行动、误杀3、射雕英雄传：侠之大者、哪吒之魔童降世
-热门综艺看不停：微笑一号店、亚洲新声、奔跑吧第9季、哈哈哈哈哈第5季、种地吧第3季、现在就开麦—妈妈请就位！、恋爱兄妹、哈哈哈哈哈第4季、喜剧之王单口季
-动漫番剧随心换：航海王、超能立方：超凡篇、绝世战魂、我能无限顿悟、成何体统、都市古仙医、蜡笔小新 第8季 普通话、名侦探柯南 普通话
-经典纪录片细品味：与恐龙同行、舌尖上的中国 第四季、舌尖上的中国 第一季、河西走廊、人间世、中国医生、中华才子传第一季
-海外剧集尽情选：请回答1988、经常请吃饭的漂亮姐姐、金秘书为何那样、大力女子都奉顺、老友记、风骚律师、哥谭镇、明日传奇、小谢尔顿
-
-【VIP会员 尊享特权】
-1、内容特权：院线新片、海量高分大片、热剧抢先看、独家综艺、付费影片折扣、畅读小说。
-2、观影特权：广告特权、1080P、帧绮映画、杜比全景声、杜比视界、专属弹幕、下载加速、并行下载、边下边播、预约下载。
-3、身份特权：七端全屏通、畅享多会员、尊贵标识、尊享装扮、生日礼包、专属客服、等级权益红包、赠送好友影片、好友免费一起看。
-
-【自动续费黄金会员】
--- 黄金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、杜比音效、下载特权等。
--- 订阅周期：1个月（黄金会员连续包月产品），3个月(黄金会员连续包季产品)，12个月（黄金会员连续包年产品）。
--- 订阅价格：以iAP申请信息为准，例如连续包月产品每月25元，连续包季产品每季68元，连续包年产品每年238元。
--- 付款：用户确认购买并付款后记入iTunes账户。
--- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
--- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
--- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
--- 隐私政策： http://www.iqiyi.com/common/privateh5.html
--- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
--- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
-【自动续费白金会员】
--- 白金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画MAX、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、2台设备同时播放、下载特权等。
--- 订阅周期：1个月（白金会员连续包月产品），3个月(白金会员连续包季产品)，12个月（白金会员连续包年产品）。
--- 订阅价格：以iAP申请信息为准，例如连续包月产品每月35元，连续包季产品每季98元，连续包年产品每年348元。
--- 付款：用户确认购买并付款后记入iTunes账户。
--- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
--- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
--- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
--- 隐私政策： http://www.iqiyi.com/common/privateh5.html
--- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
--- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
-【自动续费星钻会员套餐说明】
--- 星钻会员权益：享海量会员专享内容、会员抢先看、加更礼免费看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、3台设备同时播放、下载特权等。
--- 订阅周期：1个月（星钻会员连续包月产品），3个月（星钻会员连续包季产品），12个月（星钻连续包年产品）
--- 订阅价格：以iAP申请信息为准，例如连续包月产品为每月45元，连续包季产品每季118元，连续包年每年428元。
--- 付款：用户确认购买并付款后计入iTunes账户。
--- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能。
--- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
--- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
--- 隐私政策： http://www.iqiyi.com/common/privateh5.html
--- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
--- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
-【自动续费体育会员套餐说明】
---体育会员权益：爱体育会员享每月2场付费比赛直播或点播（高尔夫比赛除外），爱足球会员有效期内可看平台播出的所有足球比赛，并享广告特权、1080P、多语解说、额外单点付费低至3折。
---订阅周期：1个月（连续包月产品）。
---订阅价格：爱体育会员连续包月9元/月，爱足球会员连续包月33元/月
---付款：用户确认购买并付款后记入iTunes账户
---取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
---续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/19/d3/bf/19d3bfd6-9e0a-3605-7ddb-1e9913dda13c/132add12-49bd-4d88-8ae5-5ac5488a4ca1_App_Store_U7269_U65991.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/03/a0/da/03a0da78-2838-3c81-c29d-28700c0682f7/80a29786-6e1e-4cd9-8a4a-00e146f32816_App_Store_U7269_U65992.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/32/58/00/325800bb-a68b-32ec-cbe8-5c90b590dc5f/cec956df-a085-48a5-b159-9a135f1e5ef2_App_Store_U7269_U65993.jpg/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QuickFox-海外回国加速器追剧听歌游戏留学生必备]]></title>
-        <id>QuickFox-海外回国加速器追剧听歌游戏留学生必备-us-1750623521935</id>
-        <link href="https://apps.apple.com/us/app/quickfox-%E6%B5%B7%E5%A4%96%E5%9B%9E%E5%9B%BD%E5%8A%A0%E9%80%9F%E5%99%A8%E8%BF%BD%E5%89%A7%E5%90%AC%E6%AD%8C%E6%B8%B8%E6%88%8F%E7%95%99%E5%AD%A6%E7%94%9F%E5%BF%85%E5%A4%87/id1514073011?uo=4"/>
-        <updated>2025-06-22T20:18:41.935Z</updated>
-        <summary type="html"><![CDATA[Annual VIP: $84.99 → $39.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/quickfox-%E6%B5%B7%E5%A4%96%E5%9B%9E%E5%9B%BD%E5%8A%A0%E9%80%9F%E5%99%A8%E8%BF%BD%E5%89%A7%E5%90%AC%E6%AD%8C%E6%B8%B8%E6%88%8F%E7%95%99%E5%AD%A6%E7%94%9F%E5%BF%85%E5%A4%87/id1514073011?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/9d/c6/299dc64b-3e7a-1a46-9d41-e9717d3e8c32/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Annual VIP：</strong><span>$84.99</span> → <b>
-  <strong>$39.99</strong>
-</b><span>[$39.99 ~ $84.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  QuickFox is a high-quality accelerator specially created for overseas Chinese and students. It is a accelerator for overseas Chinese to watch TV dramas, listen to songs, play games, live events, business offices, futures and stock trading, etc.
-
-It has now provided high-quality return acceleration services to millions of overseas Chinese students around the world. It is one-click direct connection, stable and easy to use, and is the first choice for overseas Chinese around the world to accelerate their links to China.
-
-Please note: This product is only available to overseas users. Users in mainland China cannot use this product service normally, please download with caution.
-
-【QuickFox main functions】
-*Connect to the domestic network with one click, and visit domestic applications and web pages with low latency.
-*Reduced latency for Chinese server games: various popular Chinese server games such as Honor of Kings, Identity V, Peace Elite, Eggboy Party, DNF, Genshin Impact, Steam, etc. have stable connections and ultra-low latency.
-- Covering global dedicated servers, high-speed connection with low latency fluctuations, stable switching and continuous connection.
-- One account can be switched seamlessly, and multiple devices can be logged in at the same time, making it convenient and fast.
-
-[QuickFox technical advantages]
-*High-speed dedicated server.
-*Global nodes, stable acceleration.
-*High-level encryption, privacy guaranteed.
-
-[Continuous monthly membership]
-1. Benefits: accelerated advertising-free, exclusive super VIP member servers, etc.
-2. 1-month subscription.
-3. Subscription price: Continuous monthly subscription for RMB 40
-4. Payment: Credited to the iTunes account after payment
-5. Cancel renewal: Manually turn off the automatic renewal function in iTunes/Apple ID settings within 24 hours before the current subscription period expires.
-6. Renewal: Apple's iTunes account will be deducted within 24 hours before expiration. After the deduction is successful, the subscription period will be extended by one subscription period.
-7. Privacy Policy: https://inside.quickfox.com.cn/agreement
-8. Continuous monthly membership service agreement: https://inside.quickfox.com.cn/monthlyVipAgreement
-9. VIP Service Agreement: https://inside.quickfox.com.cn/memberServiceAgreement
-10. Terms of Service: https://inside.quickfox.com.cn/clause
-============================
-Email: info@quickfox.com.cn
-WeChat public account: QuickFox
-============================
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/68/10/276810a4-2c6f-ef94-0400-3e9043c23e93/1f86a32d-7e2b-45d3-8c23-9af542180541_1242x2208-ASA_U63a8_U5e7f_U9875.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/c2/63/0bc26310-44fd-52d8-4aab-a92d60faf83a/aa43dd4f-124e-4d4a-8720-a904dc3fa03c_1242x2208-_U5c4f_U5e55_U5feb_U71671.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/28/40/332840d6-91d3-9a72-6b88-46b2db286694/ff0afd87-9fcc-4dae-8fb3-ed1ab5e65faf_1242x2208-_U5c4f_U5e55_U5feb_U71672.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/3e/e9/db3ee950-4143-6e99-2f68-b8be7ed14b47/2ef597ed-f4dc-429a-acf6-77d9c2858ce0_1242x2208-_U5c4f_U5e55_U5feb_U71674.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/59/49/5b594951-263f-e1ff-c829-310079bf1233/ed62d4f0-f8b9-4ef6-9872-01c2e9e4b5fd_1242x2208-_U5c4f_U5e55_U5feb_U71673.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/07/03/1d0703ac-f9a6-db7c-d6a2-6e647d2289ac/1242x2208-_U5c4f_U5e55_U5feb_U7167-5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/f7/b6/e2f7b620-326e-20d4-7339-a012408e641e/f1155b3c-fc29-4080-b5bf-55309fa0c3fb_2048x2732-_U5c4f_U5e55_U5feb_U71671.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/72/9f/e7729f27-4775-8048-b906-c2fb4054fc94/c25076fc-63a7-4421-a176-a1792de6888d_2048x2732-_U5c4f_U5e55_U5feb_U71672.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/49/6e/a6496e9e-6e11-8908-ebd3-2b4548150156/6bd2d2ff-3773-49cf-9cf3-15fce8514cd6_2048x2732-_U5c4f_U5e55_U5feb_U71674.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/e0/d4/a9e0d421-fef2-7deb-fb98-a84fa998612f/b81fdd19-f57d-44c2-b6ea-55ef5df6af06_2048x2732-_U5c4f_U5e55_U5feb_U71673.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱奇艺-临江仙 离婚仙侠]]></title>
-        <id>爱奇艺-临江仙 离婚仙侠-us-1750623521935</id>
-        <link href="https://apps.apple.com/us/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&amp;uo=4"/>
-        <updated>2025-06-22T20:18:41.935Z</updated>
-        <summary type="html"><![CDATA[连续包月: $3.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/2e/3f/222e3ff7-222b-8c27-aeb1-2d1082336d55/Mac_AppIcon-2x_U007euniversal-0-5-0-85-220-0.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>连续包月：</strong><span>$3.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $6.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  爱奇艺Mac客户端，简洁轻量的视频客户端。
-支持TouchBar&TrackPad、小窗播放。
-支持4K画质、杜比音效，爱奇艺海量内容畅享视听盛宴！
-体验最新版需要升级到macOS 10.15或更高版本。如有其它问题可以访问： https://app.iqiyi.com/mac/player/index.html
-欢迎联系我们的官方QQ：938355165
-———————我是海量内容的分割线———————
-【独播热播 给你想要】
-精彩戏剧实时看：临江仙、在人间、护宝寻踪、人生若如初见、淮水竹亭、无忧渡、借命而生、绝密较量、乌云之上、念无双、黄雀、北上
-热播电影不间断：向阳·花、黄沙漫天、美国队长4、唐探1900、红色一号：冬日行动、误杀3、射雕英雄传：侠之大者、哪吒之魔童降世
-热门综艺看不停：微笑一号店、亚洲新声、奔跑吧第9季、哈哈哈哈哈第5季、种地吧第3季、现在就开麦—妈妈请就位！、恋爱兄妹、哈哈哈哈哈第4季、喜剧之王单口季
-动漫番剧随心换：航海王、超能立方：超凡篇、绝世战魂、我能无限顿悟、成何体统、都市古仙医、蜡笔小新 第8季 普通话、名侦探柯南 普通话
-经典纪录片细品味：与恐龙同行、舌尖上的中国 第四季、舌尖上的中国 第一季、河西走廊、人间世、中国医生、中华才子传第一季
-海外剧集尽情选：请回答1988、经常请吃饭的漂亮姐姐、金秘书为何那样、大力女子都奉顺、老友记、风骚律师、哥谭镇、明日传奇、小谢尔顿
-
-【VIP会员 尊享特权】
-1、内容特权：院线新片、海量高分大片、热剧抢先看、独家综艺、付费影片折扣、畅读小说。
-2、观影特权：广告特权、1080P、帧绮映画、杜比全景声、杜比视界、专属弹幕、下载加速、并行下载、边下边播、预约下载。
-3、身份特权：七端全屏通、畅享多会员、尊贵标识、尊享装扮、生日礼包、专属客服、等级权益红包、赠送好友影片、好友免费一起看。
-
-【自动续费黄金会员】
--- 黄金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、杜比音效、下载特权等。
--- 订阅周期：1个月（黄金会员连续包月产品），3个月(黄金会员连续包季产品)，12个月（黄金会员连续包年产品）。
--- 订阅价格：以iAP申请信息为准，例如连续包月产品每月25元，连续包季产品每季68元，连续包年产品每年238元。
--- 付款：用户确认购买并付款后记入iTunes账户。
--- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
--- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
--- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
--- 隐私政策： http://www.iqiyi.com/common/privateh5.html
--- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
--- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
-【自动续费白金会员】
--- 白金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画MAX、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、2台设备同时播放、下载特权等。
--- 订阅周期：1个月（白金会员连续包月产品），3个月(白金会员连续包季产品)，12个月（白金会员连续包年产品）。
--- 订阅价格：以iAP申请信息为准，例如连续包月产品每月35元，连续包季产品每季98元，连续包年产品每年348元。
--- 付款：用户确认购买并付款后记入iTunes账户。
--- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
--- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
--- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
--- 隐私政策： http://www.iqiyi.com/common/privateh5.html
--- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
--- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
-【自动续费星钻会员套餐说明】
--- 星钻会员权益：享海量会员专享内容、会员抢先看、加更礼免费看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、3台设备同时播放、下载特权等。
--- 订阅周期：1个月（星钻会员连续包月产品），3个月（星钻会员连续包季产品），12个月（星钻连续包年产品）
--- 订阅价格：以iAP申请信息为准，例如连续包月产品为每月45元，连续包季产品每季118元，连续包年每年428元。
--- 付款：用户确认购买并付款后计入iTunes账户。
--- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能。
--- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
--- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
--- 隐私政策： http://www.iqiyi.com/common/privateh5.html
--- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
--- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
-【自动续费体育会员套餐说明】
---体育会员权益：爱体育会员享每月2场付费比赛直播或点播（高尔夫比赛除外），爱足球会员有效期内可看平台播出的所有足球比赛，并享广告特权、1080P、多语解说、额外单点付费低至3折。
---订阅周期：1个月（连续包月产品）。
---订阅价格：爱体育会员连续包月9元/月，爱足球会员连续包月33元/月
---付款：用户确认购买并付款后记入iTunes账户
---取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
---续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/19/d3/bf/19d3bfd6-9e0a-3605-7ddb-1e9913dda13c/132add12-49bd-4d88-8ae5-5ac5488a4ca1_App_Store_U7269_U65991.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/03/a0/da/03a0da78-2838-3c81-c29d-28700c0682f7/80a29786-6e1e-4cd9-8a4a-00e146f32816_App_Store_U7269_U65992.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/32/58/00/325800bb-a68b-32ec-cbe8-5c90b590dc5f/cec956df-a085-48a5-b159-9a135f1e5ef2_App_Store_U7269_U65993.jpg/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾讯视频-五十公里桃花坞5 全网独播]]></title>
-        <id>腾讯视频-五十公里桃花坞5 全网独播-us-1750619642138</id>
-        <link href="https://apps.apple.com/us/app/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C%E6%A1%83%E8%8A%B1%E5%9D%9E5-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1231336508?mt=12&amp;uo=4"/>
-        <updated>2025-06-22T19:14:02.138Z</updated>
-        <summary type="html"><![CDATA[该影片: $17.99 → $3.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C%E6%A1%83%E8%8A%B1%E5%9D%9E5-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1231336508?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/92/23/3b92233c-34ea-ef85-ff44-e86787d4b0fb/AppIcon-85-220-0-4-2x-sRGB.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>该影片：</strong><span>$17.99</span> → <b>
-  <strong>$3.99</strong>
-</b><span>[$3.99 ~ $17.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  电视剧热播：
-《长安的荔枝》古代传奇大剧！雷佳音岳云鹏喜感郎舅大唐“荔”劫运荔枝
-《绽放的许开心》反内耗极品爽剧！张雨绮韩庚半熟烈爱带娃试婚
-《潜渊》多重身份连环迷局！黄晓明张佳宁暗夜潜伏上演谍战大戏
-《焕羽》张婧仪周翊然青春之旅蜕变成长，踏浪逐风恣意翱翔！
-《桃花映江山》刘学义孟子义互虐生情，落魄公主敌国和亲，攻心猎爱震荡朝堂！
-《淬火年代》大江大河姊妹篇！张新成宋祖儿热血办厂逆袭，正午阳光年代剧上新
-《陷入我们的热恋》现偶之光顶级上头！刘浩存王安宇要谈不谈得暧昧最撩人
-《紫川之光明王》壮丽诗史！杨旭文刘宇宁张铭恩三兄弟热血燃战
-综艺强档：
-《让我来唱》天后萧亚轩复出首秀，史上最卷“全女声”音综重磅来袭，66人直播大战一触即发！
-《哈哈哈哈哈 第5季》“舞王”邓超遇对手！王俊凯大跳抽象甩葱舞，这互联网是没他在乎的人了吗？
-《开始推理吧 第3季》推理团徒手抓“丧尸”，演绎现实版生化危机，谁看了不说一句有极限逃生那味儿了。
-《奔跑吧》每周五爆笑开跑，白鹿孟子义古装扮相美我一大跳，李昀锐走趾压板疼得嗷嗷叫。
-《一见你就笑》大型短剧拍摄现场，杨迪搭戏杨超越被狠扇一巴掌？徐冬冬反向壁咚高瀚宇众人尖叫。
-《毛雪汪》陈昊宇新专辑首唱绝美嗓音！独居惊魂记？陈昊宇自曝家里曾遭陌生男性潜入，毛毛雪琴瑟瑟发抖。
-《天赐的声音 第6季》A-Lin黄子弘凡音浪太强，张碧晨周兴哲合唱声起心碎。
-《朋友请吃饭 第3季》这是我能听的吗？孔雪儿颜安饭桌上狂爆剧组内幕，周洁琼姜珮瑶自曝“初始配置”，杨迪尹正全程惊讶脸。
-《旷野星球》跟魏大勋王安宇到离地心最近的地方云探险，看溶洞内的“生命之树”，感慨大自然的鬼斧神工。
-《进步班》章子怡分享《酱园弄》拍摄过程，李诚儒模仿张子枫唐探名场面。
-电影超燃：
-《制暴：无限杀机》硬核痛片!斯坦森血洗黑帮三代
-《苍茫的天涯是我的爱》神曲改编笑果逆天！曾毅周奇爆笑公路奇旅
-《雄狮少年2》豆瓣8.5分高口碑国漫，雄狮归来少年拳战擂台
-《小丑2：双重妄想》影帝华金与LadyGaga飙戏
-《穿越时空的少女》豆瓣8.6！日漫纯爱天花板
-《楚幽秘境》鬼吹灯外传！古楚千年墓穴探险
-强势动漫：
-《诡秘之主》世界级作品，一键进入19世纪魔法世界
-《诛仙 第3季》兽神乱世撼九州，诛仙再临证苍生，第3季热播中！
-《遮天》四极破境，叶天帝横扫一切敌！
-《仙逆》王林再战天道！这一次你依然带不走她
-《神印王座》终局之战！龙皓晨战李正直！
-《大猿魂》灵明赤尻通臂六耳齐聚，四大神猴来战！
-精品短剧：
-《彼岸灯塔》海风呜咽，命案连环。渔村小镇迷雾重重，连环凶杀案掀起陈年悬案！
-《贵嫡》财阀贵女重启人生！踩碎渣夫恶妾算盘，爽爆复仇！
-纪录片新热：
-《早餐中国 第5季》：经典回归！一道传统早餐、一家有趣小店、一群忘我的食客，丰沛你的每一个清晨。
-《中国刑侦实录 第2季》：围绕一系列离奇案件，每集聚焦一个震撼人心的真实故事，深入挖掘案件背后的真相与情感纠葛。
-《人间惊鸿客 第2季》：走进李白、杜甫的惊鸿一世，深度解读千古诗人如何面对人生起落。
-《惊魂高速公路》：危险超车、岔路撞车、轮胎爆炸……那些惊险的公路事故全记录！
-《72种危险动物·亚洲篇》：盘点在广袤亚洲大陆上，生存的已知及鲜为人知的危险动物，揭开凶险共生的自然界致命法则！
-《猎杀倒计时》：探索四大洲自然界强大的捕食者的世界，见证捕食者的原始力量和坚韧意志。
-《西藏味道》：就爱这口西藏味儿！全方位展现西藏独具特色的饮食文化。
-《乡野有真味·奇食》：深入竹林溪涧、古村深巷，探访颠覆味蕾认知的“暗黑”美食与新奇风味！
-儿童节目：
-《水晶岛守卫者》：能变猫，能变人，还能变成猫人守护城镇
-《猪猪侠之竞速小英雄9》：面对重重困难，超星车队完成挑战重启比赛
-《我是妹猪请多指教》：一起来看超治愈的熊猫成长日记！
-《超级小猫战队：喵喵好伙伴》：小猫也能解决难题！看喵喵的超能力出击
-
-【自动订阅服务说明】
-1.订阅服务：
- a）腾讯视频VIP连续包月(1个月)、腾讯视频VIP连续包季(3个月)、腾讯视频VIP连续包年(12个月)
- b）超级影视VIP连续包月(1个月)、超级影视VIP连续包季(3个月)、超级影视VIP连续包年(12个月)
- c）腾讯体育VIP连续包月(1个月)、腾讯体育超级VIP连续包月(1个月)
- 2.订阅价格：
- a）腾讯视频VIP：连续包月产品为25元/月，连续包季产品为68元/季，连续包年产品为238元/年
- b）超级影视VIP：连续包月产品为35元/月、连续包季产品为98元/季、连续包年产品为348元/年
- c）腾讯体育VIP系列会员：腾讯体育VIP连续包月产品为25元/月、腾讯体育超级VIP连续包月产品为60元/月
- 3.付款：用户确认购买并付款后计入iTunes账户
- 4.自动续费：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期
- 5.关闭服务：您可以在苹果手机“设置” --> 进入“iTunes Store 与 App Store”-->点击 “Apple ID”，选择"查看Apple ID"，进入"账户设置"页面，点击“订阅”，管理自动订阅服务，如需取消，每个计费周期结束前24小时关闭即可，到期前24小时内则不再扣费
- 6.服务协议： 
- a）腾讯视频VIP：https://film.qq.com/weixin/term.html
- b）超级影视VIP：https://film.qq.com/weixin/term.html?bizId=svip
- c）腾讯体育VIP系列会员：https://film.qq.com/weixin/term.html?bizId=sport
- 7 .隐私协议：https://privacy.qq.com/document/preview/3fab9c7fc1424ebda42c3ce488322c8a
-
-【意见反馈】
-如遇问题或者有好的建议，欢迎加入QQ体验群反馈，将会有萌哒哒的视频妹为大家解答，并有持续好礼相送！官方QQ群：527288510。
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/16/3e/15163e7c-e03a-d9bb-1d24-42356617484c/IMG_1855.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/b6/33/a4b63375-7c02-6eb8-d3f8-446c5c2e13f2/7014b5a6-7cf4-4e28-a688-ff3eff19ee4a_1.jpeg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/f5/15/82f515cc-1b40-bf32-7c08-59b3fccf967b/7e0ac2f1-59ac-40d4-b333-c7ff5cd3652d_2880x1800-01@1x.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/e2/d9/9ae2d96c-bc6d-e6be-fbdb-5e5fcbab67b7/IMG_1854.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱奇艺-临江仙 离婚仙侠]]></title>
-        <id>爱奇艺-临江仙 离婚仙侠-us-1750580505584</id>
-        <link href="https://apps.apple.com/us/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&amp;uo=4"/>
-        <updated>2025-06-22T08:21:45.584Z</updated>
-        <summary type="html"><![CDATA[连续包月: $3.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/2e/3f/222e3ff7-222b-8c27-aeb1-2d1082336d55/Mac_AppIcon-2x_U007euniversal-0-5-0-85-220-0.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>连续包月：</strong><span>$3.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $6.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  爱奇艺Mac客户端，简洁轻量的视频客户端。
-支持TouchBar&TrackPad、小窗播放。
-支持4K画质、杜比音效，爱奇艺海量内容畅享视听盛宴！
-体验最新版需要升级到macOS 10.15或更高版本。如有其它问题可以访问： https://app.iqiyi.com/mac/player/index.html
-欢迎联系我们的官方QQ：938355165
-———————我是海量内容的分割线———————
-【独播热播 给你想要】
-精彩戏剧实时看：临江仙、在人间、护宝寻踪、人生若如初见、淮水竹亭、无忧渡、借命而生、绝密较量、乌云之上、念无双、黄雀、北上
-热播电影不间断：向阳·花、黄沙漫天、美国队长4、唐探1900、红色一号：冬日行动、误杀3、射雕英雄传：侠之大者、哪吒之魔童降世
-热门综艺看不停：微笑一号店、亚洲新声、奔跑吧第9季、哈哈哈哈哈第5季、种地吧第3季、现在就开麦—妈妈请就位！、恋爱兄妹、哈哈哈哈哈第4季、喜剧之王单口季
-动漫番剧随心换：航海王、超能立方：超凡篇、绝世战魂、我能无限顿悟、成何体统、都市古仙医、蜡笔小新 第8季 普通话、名侦探柯南 普通话
-经典纪录片细品味：与恐龙同行、舌尖上的中国 第四季、舌尖上的中国 第一季、河西走廊、人间世、中国医生、中华才子传第一季
-海外剧集尽情选：请回答1988、经常请吃饭的漂亮姐姐、金秘书为何那样、大力女子都奉顺、老友记、风骚律师、哥谭镇、明日传奇、小谢尔顿
-
-【VIP会员 尊享特权】
-1、内容特权：院线新片、海量高分大片、热剧抢先看、独家综艺、付费影片折扣、畅读小说。
-2、观影特权：广告特权、1080P、帧绮映画、杜比全景声、杜比视界、专属弹幕、下载加速、并行下载、边下边播、预约下载。
-3、身份特权：七端全屏通、畅享多会员、尊贵标识、尊享装扮、生日礼包、专属客服、等级权益红包、赠送好友影片、好友免费一起看。
-
-【自动续费黄金会员】
--- 黄金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、杜比音效、下载特权等。
--- 订阅周期：1个月（黄金会员连续包月产品），3个月(黄金会员连续包季产品)，12个月（黄金会员连续包年产品）。
--- 订阅价格：以iAP申请信息为准，例如连续包月产品每月25元，连续包季产品每季68元，连续包年产品每年238元。
--- 付款：用户确认购买并付款后记入iTunes账户。
--- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
--- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
--- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
--- 隐私政策： http://www.iqiyi.com/common/privateh5.html
--- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
--- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
-【自动续费白金会员】
--- 白金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画MAX、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、2台设备同时播放、下载特权等。
--- 订阅周期：1个月（白金会员连续包月产品），3个月(白金会员连续包季产品)，12个月（白金会员连续包年产品）。
--- 订阅价格：以iAP申请信息为准，例如连续包月产品每月35元，连续包季产品每季98元，连续包年产品每年348元。
--- 付款：用户确认购买并付款后记入iTunes账户。
--- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
--- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
--- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
--- 隐私政策： http://www.iqiyi.com/common/privateh5.html
--- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
--- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
-【自动续费星钻会员套餐说明】
--- 星钻会员权益：享海量会员专享内容、会员抢先看、加更礼免费看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、3台设备同时播放、下载特权等。
--- 订阅周期：1个月（星钻会员连续包月产品），3个月（星钻会员连续包季产品），12个月（星钻连续包年产品）
--- 订阅价格：以iAP申请信息为准，例如连续包月产品为每月45元，连续包季产品每季118元，连续包年每年428元。
--- 付款：用户确认购买并付款后计入iTunes账户。
--- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能。
--- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
--- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
--- 隐私政策： http://www.iqiyi.com/common/privateh5.html
--- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
--- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
-【自动续费体育会员套餐说明】
---体育会员权益：爱体育会员享每月2场付费比赛直播或点播（高尔夫比赛除外），爱足球会员有效期内可看平台播出的所有足球比赛，并享广告特权、1080P、多语解说、额外单点付费低至3折。
---订阅周期：1个月（连续包月产品）。
---订阅价格：爱体育会员连续包月9元/月，爱足球会员连续包月33元/月
---付款：用户确认购买并付款后记入iTunes账户
---取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
---续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/19/d3/bf/19d3bfd6-9e0a-3605-7ddb-1e9913dda13c/132add12-49bd-4d88-8ae5-5ac5488a4ca1_App_Store_U7269_U65991.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/03/a0/da/03a0da78-2838-3c81-c29d-28700c0682f7/80a29786-6e1e-4cd9-8a4a-00e146f32816_App_Store_U7269_U65992.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/32/58/00/325800bb-a68b-32ec-cbe8-5c90b590dc5f/cec956df-a085-48a5-b159-9a135f1e5ef2_App_Store_U7269_U65993.jpg/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾讯视频-五十公里桃花坞5 全网独播]]></title>
-        <id>腾讯视频-五十公里桃花坞5 全网独播-us-1750576628572</id>
-        <link href="https://apps.apple.com/us/app/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C%E6%A1%83%E8%8A%B1%E5%9D%9E5-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1231336508?mt=12&amp;uo=4"/>
-        <updated>2025-06-22T07:17:08.572Z</updated>
-        <summary type="html"><![CDATA[付费商品: $2.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C%E6%A1%83%E8%8A%B1%E5%9D%9E5-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1231336508?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/92/23/3b92233c-34ea-ef85-ff44-e86787d4b0fb/AppIcon-85-220-0-4-2x-sRGB.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>付费商品：</strong><span>$2.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $2.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  电视剧热播：
-《长安的荔枝》古代传奇大剧！雷佳音岳云鹏喜感郎舅大唐“荔”劫运荔枝
-《绽放的许开心》反内耗极品爽剧！张雨绮韩庚半熟烈爱带娃试婚
-《潜渊》多重身份连环迷局！黄晓明张佳宁暗夜潜伏上演谍战大戏
-《焕羽》张婧仪周翊然青春之旅蜕变成长，踏浪逐风恣意翱翔！
-《桃花映江山》刘学义孟子义互虐生情，落魄公主敌国和亲，攻心猎爱震荡朝堂！
-《淬火年代》大江大河姊妹篇！张新成宋祖儿热血办厂逆袭，正午阳光年代剧上新
-《陷入我们的热恋》现偶之光顶级上头！刘浩存王安宇要谈不谈得暧昧最撩人
-《紫川之光明王》壮丽诗史！杨旭文刘宇宁张铭恩三兄弟热血燃战
-综艺强档：
-《让我来唱》天后萧亚轩复出首秀，史上最卷“全女声”音综重磅来袭，66人直播大战一触即发！
-《哈哈哈哈哈 第5季》“舞王”邓超遇对手！王俊凯大跳抽象甩葱舞，这互联网是没他在乎的人了吗？
-《开始推理吧 第3季》推理团徒手抓“丧尸”，演绎现实版生化危机，谁看了不说一句有极限逃生那味儿了。
-《奔跑吧》每周五爆笑开跑，白鹿孟子义古装扮相美我一大跳，李昀锐走趾压板疼得嗷嗷叫。
-《一见你就笑》大型短剧拍摄现场，杨迪搭戏杨超越被狠扇一巴掌？徐冬冬反向壁咚高瀚宇众人尖叫。
-《毛雪汪》陈昊宇新专辑首唱绝美嗓音！独居惊魂记？陈昊宇自曝家里曾遭陌生男性潜入，毛毛雪琴瑟瑟发抖。
-《天赐的声音 第6季》A-Lin黄子弘凡音浪太强，张碧晨周兴哲合唱声起心碎。
-《朋友请吃饭 第3季》这是我能听的吗？孔雪儿颜安饭桌上狂爆剧组内幕，周洁琼姜珮瑶自曝“初始配置”，杨迪尹正全程惊讶脸。
-《旷野星球》跟魏大勋王安宇到离地心最近的地方云探险，看溶洞内的“生命之树”，感慨大自然的鬼斧神工。
-《进步班》章子怡分享《酱园弄》拍摄过程，李诚儒模仿张子枫唐探名场面。
-电影超燃：
-《制暴：无限杀机》硬核痛片!斯坦森血洗黑帮三代
-《苍茫的天涯是我的爱》神曲改编笑果逆天！曾毅周奇爆笑公路奇旅
-《雄狮少年2》豆瓣8.5分高口碑国漫，雄狮归来少年拳战擂台
-《小丑2：双重妄想》影帝华金与LadyGaga飙戏
-《穿越时空的少女》豆瓣8.6！日漫纯爱天花板
-《楚幽秘境》鬼吹灯外传！古楚千年墓穴探险
-强势动漫：
-《诡秘之主》世界级作品，一键进入19世纪魔法世界
-《诛仙 第3季》兽神乱世撼九州，诛仙再临证苍生，第3季热播中！
-《遮天》四极破境，叶天帝横扫一切敌！
-《仙逆》王林再战天道！这一次你依然带不走她
-《神印王座》终局之战！龙皓晨战李正直！
-《大猿魂》灵明赤尻通臂六耳齐聚，四大神猴来战！
-精品短剧：
-《彼岸灯塔》海风呜咽，命案连环。渔村小镇迷雾重重，连环凶杀案掀起陈年悬案！
-《贵嫡》财阀贵女重启人生！踩碎渣夫恶妾算盘，爽爆复仇！
-纪录片新热：
-《早餐中国 第5季》：经典回归！一道传统早餐、一家有趣小店、一群忘我的食客，丰沛你的每一个清晨。
-《中国刑侦实录 第2季》：围绕一系列离奇案件，每集聚焦一个震撼人心的真实故事，深入挖掘案件背后的真相与情感纠葛。
-《人间惊鸿客 第2季》：走进李白、杜甫的惊鸿一世，深度解读千古诗人如何面对人生起落。
-《惊魂高速公路》：危险超车、岔路撞车、轮胎爆炸……那些惊险的公路事故全记录！
-《72种危险动物·亚洲篇》：盘点在广袤亚洲大陆上，生存的已知及鲜为人知的危险动物，揭开凶险共生的自然界致命法则！
-《猎杀倒计时》：探索四大洲自然界强大的捕食者的世界，见证捕食者的原始力量和坚韧意志。
-《西藏味道》：就爱这口西藏味儿！全方位展现西藏独具特色的饮食文化。
-《乡野有真味·奇食》：深入竹林溪涧、古村深巷，探访颠覆味蕾认知的“暗黑”美食与新奇风味！
-儿童节目：
-《水晶岛守卫者》：能变猫，能变人，还能变成猫人守护城镇
-《猪猪侠之竞速小英雄9》：面对重重困难，超星车队完成挑战重启比赛
-《我是妹猪请多指教》：一起来看超治愈的熊猫成长日记！
-《超级小猫战队：喵喵好伙伴》：小猫也能解决难题！看喵喵的超能力出击
-
-【自动订阅服务说明】
-1.订阅服务：
- a）腾讯视频VIP连续包月(1个月)、腾讯视频VIP连续包季(3个月)、腾讯视频VIP连续包年(12个月)
- b）超级影视VIP连续包月(1个月)、超级影视VIP连续包季(3个月)、超级影视VIP连续包年(12个月)
- c）腾讯体育VIP连续包月(1个月)、腾讯体育超级VIP连续包月(1个月)
- 2.订阅价格：
- a）腾讯视频VIP：连续包月产品为25元/月，连续包季产品为68元/季，连续包年产品为238元/年
- b）超级影视VIP：连续包月产品为35元/月、连续包季产品为98元/季、连续包年产品为348元/年
- c）腾讯体育VIP系列会员：腾讯体育VIP连续包月产品为25元/月、腾讯体育超级VIP连续包月产品为60元/月
- 3.付款：用户确认购买并付款后计入iTunes账户
- 4.自动续费：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期
- 5.关闭服务：您可以在苹果手机“设置” --> 进入“iTunes Store 与 App Store”-->点击 “Apple ID”，选择"查看Apple ID"，进入"账户设置"页面，点击“订阅”，管理自动订阅服务，如需取消，每个计费周期结束前24小时关闭即可，到期前24小时内则不再扣费
- 6.服务协议： 
- a）腾讯视频VIP：https://film.qq.com/weixin/term.html
- b）超级影视VIP：https://film.qq.com/weixin/term.html?bizId=svip
- c）腾讯体育VIP系列会员：https://film.qq.com/weixin/term.html?bizId=sport
- 7 .隐私协议：https://privacy.qq.com/document/preview/3fab9c7fc1424ebda42c3ce488322c8a
-
-【意见反馈】
-如遇问题或者有好的建议，欢迎加入QQ体验群反馈，将会有萌哒哒的视频妹为大家解答，并有持续好礼相送！官方QQ群：527288510。
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/16/3e/15163e7c-e03a-d9bb-1d24-42356617484c/IMG_1855.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/b6/33/a4b63375-7c02-6eb8-d3f8-446c5c2e13f2/7014b5a6-7cf4-4e28-a688-ff3eff19ee4a_1.jpeg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/f5/15/82f515cc-1b40-bf32-7c08-59b3fccf967b/7e0ac2f1-59ac-40d4-b333-c7ff5cd3652d_2880x1800-01@1x.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/e2/d9/9ae2d96c-bc6d-e6be-fbdb-5e5fcbab67b7/IMG_1854.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>

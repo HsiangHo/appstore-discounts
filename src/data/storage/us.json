@@ -5809,6 +5809,25 @@
     "history": [
       [
         {
+          "timestamp": 1750912042805,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Synth Lead": "$1.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Groove Machine Synth": "$0.00",
+            "Synth Plucks": "$1.99",
+            "Transistor Bass": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750901166357,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -50575,6 +50594,22 @@
     "history": [
       [
         {
+          "timestamp": 1750912042805,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "移动端会员-连续包月": "$1.99",
+            "移动端会员-月卡": "$2.99",
+            "移动端会员-连续包季": "$5.99",
+            "大学生专属特惠季卡": "$2.99",
+            "大学生专属特惠年卡": "$9.99",
+            "移动端会员-年卡": "$14.99",
+            "移动端会员-季卡": "$5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750901166357,
           "price": 0,
           "formattedPrice": "Free",
@@ -90894,7 +90929,7 @@
       "Monthly": "$6.99",
       "周卡": "$1.99",
       "Yearly": "$33.49",
-      "季卡": "$9.99",
+      "季卡": "$19.99",
       "半年卡": "$32.49",
       "连续周卡": "$2.99",
       "Quarterly": "$12.99",
@@ -90933,6 +90968,25 @@
       "3-Month VIP": "$12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750912042805,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "1-Month VIP": "$4.99",
+            "周卡": "$1.99",
+            "180 days": "$19.99",
+            "1 Year VIP": "$33.49",
+            "季卡": "$19.99",
+            "半年卡": "$32.49",
+            "连续周卡": "$2.99",
+            "3-Month VIP": "$12.99",
+            "年会员": "$24.99",
+            "周会员": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750180617322,
