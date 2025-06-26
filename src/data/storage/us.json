@@ -35663,13 +35663,25 @@
     "name": "Keyboard Keyboard",
     "maxPriceInfo": {
       "price": 0,
-      "formattedPrice": "Free"
+      "formattedPrice": "Free",
+      "Keyboard Keyboard Full Version": "$1.99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Free"
+      "formattedPrice": "Free",
+      "Keyboard Keyboard Full Version": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750976258845,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Keyboard Keyboard Full Version": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
