@@ -13985,6 +13985,25 @@
     "history": [
       [
         {
+          "timestamp": 1750922308799,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Procurement Director": "$0.99",
+            "Disaster Manager": "$0.99",
+            "Medical Coordinator": "$0.99",
+            "Ethics Watchdog": "$0.99",
+            "Chaos Engineer": "$0.99",
+            "Economic Forecaster": "$0.99",
+            "Situation Director": "$0.99",
+            "Outreach Coordinator": "$0.99",
+            "Fast Response EMTs": "$0.99",
+            "Strategic Fundraiser": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750436538242,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -90662,14 +90681,22 @@
   "6444789815": {
     "name": "记事本++",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99"
+      "price": 3.99,
+      "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750922308799,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750011788392,
