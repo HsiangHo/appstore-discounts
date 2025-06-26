@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-26T04:33:02.686Z</updated>
+    <updated>2025-06-26T11:22:02.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-26T04:33:02.688Z</updated>
+        <updated>2025-06-26T11:22:02.915Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusThu, 26 Jun 2025 04:33:02 GMT</id>
+        <id>rankingusThu, 26 Jun 2025 11:22:02 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-26T04:33:02.689Z</updated>
+        <updated>2025-06-26T11:22:02.915Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -50,13 +50,13 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>857</b>
+        <b>859</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>857</b>
+        <b>859</b>
       </td>
       <td>
         <b></b>
@@ -67,13 +67,13 @@ feedId:49753370488353792+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>844</b>
+        <b>846</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>844</b>
+        <b>846</b>
       </td>
       <td>
         <b></b>
@@ -748,6 +748,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>31</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1361473095">MuseDash</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>unlockall_29</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>32</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1403919533">MWeb Pro</a>
       </td>
       <td>
@@ -762,7 +785,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1456235760">Live Wallpaper - 4K UHD</a>
@@ -785,7 +808,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1484905765">Fast CAD Reader</a>
@@ -808,7 +831,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1502044457">Whisk</a>
@@ -831,7 +854,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1518518216">Paper - Live Wallpapers</a>
@@ -854,7 +877,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
@@ -871,7 +894,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1575178082">Max NTFS - NTFS Disk Helper</a>
@@ -894,7 +917,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576064082">DeviceMirror -Screen Mirroring</a>
@@ -911,7 +934,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576794157">飞火动态壁纸-4k超清视频桌面主题壁纸引擎</a>
@@ -934,7 +957,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1598771178">DeviceMirror Lite -Screen Cast</a>
@@ -957,7 +980,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6737146353">KitVPN – Fast & World NetWork</a>
@@ -980,7 +1003,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6444789815">记事本++</a>
@@ -1006,6 +1029,61 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MuseDash]]></title>
+        <id>MuseDash-us-1750936558540</id>
+        <link href="https://apps.apple.com/us/app/musedash/id1361473095?uo=4"/>
+        <updated>2025-06-26T11:15:58.540Z</updated>
+        <summary type="html"><![CDATA[Price: $2.99 → $0.49<br/>unlockall_29: $33.99 → $20.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/musedash/id1361473095?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/86/6d/bf866daf-6403-c4d3-de68-243c20338a98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$2.99</span> → <b>
+  <strong>$0.49</strong>
+</b><span>[Free ~ $2.99]</span>）
+</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>unlockall_29：</strong><span>$33.99</span> → <b>
+  <strong>$20.99</strong>
+</b><span>[$20.99 ~ $33.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  "Hitting while listening to music."
+"Is that the call from another world?"
+[Game Starts Now—!!]
+
+Lovely girls
+or rhythmic music?
+If there’s a place for you to have them both…
+It must be the paradise of parkour & rhythm game  — Muse Dash!!
+
+Huh?! Not your forte? It doesn’t matter!
+Who says you must have a strong sense of rhythm to win?
+Avoid is also a valid option (?)
+As long as you have 100% of passion, courage, and… love for lovely girls~
+Rhythm and fight won’t be an issue
+
+[Gameplay]
+Dance to the music and beat enemies in the air and on the ground. Also, watch out for the obstacles!!
+What an easy, beginner-friendly rhythm game
+
+[Media Review]
+可愛らしいビジュアルのキャラクターが躍動する、新感覚の2Dアクションスタイルのリズムゲーム ——IGN Japan
+
+“A bright exterior hides a surprisingly deep and engaging mash up”——POCKET GAMER
+
+Languages Supported:
+English
+简体中文（Simplified Chinese）
+繁体中文 （Traditional Chinese）
+日本語（Japanese)
+韩语 （Korean）
+
+Feedback: https://service.peropero.net/
+Twitter:@MuseDash_EN
+@PeroPeroGuys
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[奇游加速器 - 全球游戏畅玩]]></title>

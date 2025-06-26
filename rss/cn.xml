@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-26T08:31:05.179Z</updated>
+    <updated>2025-06-26T11:22:02.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-26T08:31:05.181Z</updated>
+        <updated>2025-06-26T11:22:02.907Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnThu, 26 Jun 2025 08:31:05 GMT</id>
+        <id>rankingcnThu, 26 Jun 2025 11:22:02 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-26T08:31:05.181Z</updated>
+        <updated>2025-06-26T11:22:02.907Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -50,13 +50,13 @@ feedId:49753297431966720+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>858</b>
+        <b>859</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>858</b>
+        <b>859</b>
       </td>
       <td>
         <b></b>
@@ -67,13 +67,13 @@ feedId:49753297431966720+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>846</b>
+        <b>847</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>846</b>
+        <b>847</b>
       </td>
       <td>
         <b></b>
@@ -602,6 +602,29 @@ feedId:49753297431966720+userId:73658201673997312
         <b>25</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1361473095">喵斯快跑</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>unlockall_29</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>26</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1403919533">MWeb Pro</a>
       </td>
       <td>
@@ -616,7 +639,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1437556716">Mapcasts - 无广告</a>
@@ -639,7 +662,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1523446532">重生细胞</a>
@@ -656,7 +679,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
@@ -673,7 +696,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1535136051">解压 - RAR ZIP 7Z 解压和压缩</a>
@@ -696,7 +719,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1575178082">Max NTFS - NTFS磁盘读写助手</a>
@@ -719,7 +742,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1576064082">DeviceMirror Pro -无线有线手机投屏</a>
@@ -736,7 +759,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1598771178">DeviceMirror Lite -无线手机投屏</a>
@@ -759,7 +782,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737146353">MateFox - VPN&国际网络加速器&无限流量</a>
@@ -782,7 +805,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737795387">鬼谷八荒</a>
@@ -807,7 +830,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6444789815">记事本++</a>
@@ -824,7 +847,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6502489827">大侠立志传</a>
@@ -841,7 +864,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6443786927">全面憨憨战争模拟器</a>
@@ -858,7 +881,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6448913901">全能AI - AI视频、绘画、特效、音乐、聊天、写作、数字人</a>
@@ -890,6 +913,57 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[喵斯快跑]]></title>
+        <id>喵斯快跑-cn-1750936558540</id>
+        <link href="https://apps.apple.com/cn/app/%E5%96%B5%E6%96%AF%E5%BF%AB%E8%B7%91/id1361473095?uo=4"/>
+        <updated>2025-06-26T11:15:58.540Z</updated>
+        <summary type="html"><![CDATA[价格: ¥18.00 → ¥3.00<br/>unlockall_29: ¥228.00 → ¥138.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%96%B5%E6%96%AF%E5%BF%AB%E8%B7%91/id1361473095?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/86/6d/bf866daf-6403-c4d3-de68-243c20338a98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥18.00</span> → <b>
+  <strong>¥3.00</strong>
+</b><span>[免费 ~ ¥18.00]</span>）
+</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>unlockall_29：</strong><span>¥228.00</span> → <b>
+  <strong>¥138.00</strong>
+</b><span>[¥138.00 ~ ¥228.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  『当战斗与演奏间的屏障被打破』
+『你可否听到来自另一个世界的呼唤？』
+【 Game Starts Now!! —— 】
+
+你喜欢可爱的美少女角色？
+还是节奏感十足的音乐？
+如果有一个地方可以同时满足这两个愿望……
+那就是狂拽跑酷和传统音游结合的世界 —— 《 Muse Dash 》!!
+
+什么？！手残？没有关系！
+谁说音游只有照着节奏打才是强者，
+打不过就躲亦是一种制胜之道（？）
+只要你有 100% 的热情、勇气以及……对美少女的爱～
+音乐也好战斗也好都是小问题啦！
+
+【媒体评价】
+可愛らしいビジュアルのキャラクターが躍動する、新感覚の2Dアクションスタイルのリズムゲーム ——IGN Japan
+
+“A bright exterior hides a surprisingly deep and engaging mash up”——POCKET GAMER
+
+支持语言：
+简体中文（Simplified Chinese）
+繁体中文 （Traditional Chinese）
+日本語（Japanese)
+韩语 （Korean）
+English
+
+问题反馈专区：https://service.peropero.net/
+官方微博：@MuseDash_喵斯快跑
+B 站：@MuseDash_喵斯快跑
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[奇游加速器 - 全球游戏畅玩]]></title>
@@ -1419,89 +1493,6 @@ Vythm提供录制功能，使您能够分享或保存您的创作。随时重访
     <strong>LOOP for VOX Subscription：</strong><span>¥698.00</span> → <b>
   <strong>¥518.00</strong>
 </b><span>[¥518.00 ~ ¥698.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  #1 Hi-Res audio player for Mac & iPhone. Music just sounds better! 
-
-*NEW*
-Introducing VOX Premium – Your Ultimate Music Experience. VOX Premium adds a stunning cloud streaming features and unlimited music storage without a decline in quality. Sync, stream and cache your entire music library on Mac and iPhone in a way that suits you best!
-
-Listen to your music regardless of the format:
-• Play numerous lossy and lossless (FLAC, APE, WAV, DSD, etc.) audio formats;
-• Export playlists in various formats (PLS, M3U, XSPF);
-• Open different playlist types including M3U, PLS, XSPF, and the popular CUE format used to store CD rips;
-• Play audio files stored on NAS devices and other network drives.
-
-Manage your music easily: 
-• Control the player from the main interface, Dock context menu or main menu controls;
-• Automatically search for all the missing album artwork from MusicBrainz and Last.fm databases;
-• Use keyboard media keys, headphones controls, and Apple Remote to control the playback (requires VOX Preference Pane);
-• Easily add music via smart drop zones, open dialog and Finder context menu;
-• Use the Equalizer with presets & custom mode, crossfade, fade on play/pause, converting music to 5.1 or 7.1 format;
-• Preview album artwork from your Dock icon;
-• Gapless playback support;
-• Get system or Growl playback notifications.
-
-Focus on music, not the source: 
-• Work with different audio sources including custom Playlists, iTunes Library, online radio and much more;
-• Scrobble to Last.fm to keep your listening stats up-to-date;
-• Play any song, any playlist you find on YouTube via VOX FLAC Player, put all your YouTube songs into one media collection.
-
-Full SoundCloud integration:
-• Easily control SoundCloud via VOX;
-• Access the largest music database in the world and discover new tunes;
-• Bring your SoundCloud stream and likes directly into VOX.
-
-YouTube source:
-• Press CMD+U and paste any link from YouTube to play it in VOX. You can add it to VOX collections as well.
-
-Last.fm:
-• Scrobbling for your music stream;
-
-Radio access for VOX Premium subscribers (**NEW**):
-• 30'000+ Radio stations categorized by genres and countries! 
-
-Equip yourself with all of the audiophile tools of VOX Premium:
-• Advanced Audio Features: HOG Mode; Improved multi-output device support;
-• Convert stereophonic audio in your headphones to binaural using Bauer DSP (BS2B) technology;
-• Automatically Pause playback on headphones disconnection;
-• Take full advantage of AirPlay (10.8+) to listen with any of your wireless output devices.
-• VOX also supports SONOS wireless speakers systems.
-
-
-The beauty of VOX Player is in its simplicity, yet behind the minimal exterior lies a powerful Music Player with a ton of features and support for all audio formats you may ever need. 
-
-
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-
-
-VOX Premium is available by auto-renewable subscriptions:
-
-- $4.99 per month;
-- $49.99 per year.
-
-Your credit card will be charged through your iTunes Account after the purchase confirmation. Your subscription will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current period. 
-Your subscriptions can be managed in your iTunes Account Settings after purchase is made. No cancellation of the current subscription is allowed during active subscription period. Any unused portion of a free trial period will be forfeited when you purchase a subscription.
-
-VOX Premium privacy policy: https://vox.rocks/privacy
-VOX Premium terms and conditions: https://vox.rocks/terms
-
-P.S.: FLAC Player, ALAC Player, Lossless Player, SoundCloud Stream Solution, YouTube MP3 Music, Hi-Res audio Player - check all of them in one VOX Music Player.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/7c/36/637c3612-0070-f326-819e-1e7bcce9c2af/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/82/a4/09/82a40990-99b5-c706-fadb-c1f8ac3651e0/mzl.ptafbcyi.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/0d/27/a70d27b3-0fe0-3c9f-4216-33ee99423452/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/76/4b/44/764b4485-6790-5152-c984-7d9e4154bc71/mzl.lfjljoip.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VOX: MP3 & FLAC Music Player]]></title>
-        <id>VOX: MP3 &amp; FLAC Music Player-cn-1750677401638</id>
-        <link href="https://apps.apple.com/cn/app/vox-mp3-flac-music-player/id461369673?mt=12&amp;uo=4"/>
-        <updated>2025-06-23T11:16:41.638Z</updated>
-        <summary type="html"><![CDATA[VOX Premium Subscription: ¥353.00 → ¥108.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/vox-mp3-flac-music-player/id461369673?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/0c/59/5c0c59d6-9f05-4fb0-836a-15f1e3459b39/AppIconNew-0-0-85-220-0-0-0-4-0-2x.png/60x60bb.png" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>VOX Premium Subscription：</strong><span>¥353.00</span> → <b>
-  <strong>¥108.00</strong>
-</b><span>[¥108.00 ~ ¥353.00]</span>
   </li>
 </ul><h2>应用描述</h2><p>
   #1 Hi-Res audio player for Mac & iPhone. Music just sounds better! 
