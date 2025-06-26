@@ -39,6 +39,16 @@
     "history": [
       [
         {
+          "timestamp": 1750951192217,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Pro Tier 1": "$9.99",
+            "Pro Tier 2": "$99.99",
+            "RadarScope Pro Subscription": "$9.99"
+          }
+        },
+        {
           "timestamp": 1750947459689,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -27733,6 +27743,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750951192217,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包月": "$0.99",
+            "金牛会员连续包月": "$0.99",
+            "手机超级Level-2连续包半年": "$6.49",
+            "金牛会员月版": "$2.99",
+            "手机Level-2包年服务": "$12.99",
+            "金牛会员尊享版连续包年": "$14.99",
+            "神奇电波连续包季": "$27.99",
+            "手机超级Level2两年版": "$22.99",
+            "手机高级诊股连续包月": "$0.99",
+            "金牛会员年版": "$9.99"
+          }
+        },
         {
           "timestamp": 1750947459689,
           "price": 0.99,
@@ -70502,6 +70529,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1750951192217,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- 25 Credits": "$7.99",
+            "Wink- 100 Credits": "$24.99",
+            "10-second AI animation": "$1.99",
+            "Wink- 200 Credits": "$39.99"
+          }
+        },
         {
           "timestamp": 1750947459689,
           "price": 0,

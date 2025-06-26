@@ -7220,6 +7220,17 @@
     "history": [
       [
         {
+          "timestamp": 1750951192217,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "VOX Premium Subscription": "¥108.00",
+            "LOOP for VOX Subscription": "¥698.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750682337914,
           "price": 0,
           "formattedPrice": "免费",

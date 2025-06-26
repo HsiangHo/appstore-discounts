@@ -12,10 +12,10 @@
       "inAppPurchase": {}
     },
     "461369673": {
-      "all": 2,
+      "all": 3,
       "price": 0,
       "inAppPurchase": {
-        "VOX Premium Subscription": 1,
+        "VOX Premium Subscription": 2,
         "LOOP for VOX Subscription": 1
       }
     },
@@ -491,10 +491,10 @@
       }
     },
     "1594288016": {
-      "all": 2,
+      "all": 3,
       "price": 0,
       "inAppPurchase": {
-        "Yearly Auto-renew VIP": 2
+        "Yearly Auto-renew VIP": 3
       }
     },
     "1598771178": {
