@@ -11156,6 +11156,23 @@
     "history": [
       [
         {
+          "timestamp": 1750947459689,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "百度网盘自动续费超级会员（1个月）": "¥25.00",
+            "百度网盘超级会员(1个月-自动续费)(首充)": "¥18.00",
+            "百度网盘会员(3个月)": "¥30.00",
+            "百度网盘云解压券6元": "¥6.00",
+            "百度网盘超级会员(1个月)": "¥40.00",
+            "百度网盘自动续费超级会员（3个月）": "¥68.00",
+            "百度网盘连续包月备份套餐(1个月)": "¥10.00",
+            "百度网盘极速下载券1张": "¥6.00",
+            "百度网盘转存券6元": "¥6.00",
+            "百度网盘会员(1个月-自动续费)": "¥19.00"
+          }
+        },
+        {
           "timestamp": 1750944690599,
           "price": 0,
           "formattedPrice": "免费",
@@ -29617,6 +29634,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750947459689,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749219462787,
@@ -73591,14 +73616,22 @@
   "6612011484": {
     "name": "怪物乐土",
     "maxPriceInfo": {
-      "price": 12,
-      "formattedPrice": "¥12.00"
+      "price": 18,
+      "formattedPrice": "¥18.00"
     },
     "minPriceInfo": {
       "price": 12,
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750947459689,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749803064012,

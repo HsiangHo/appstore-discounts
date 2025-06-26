@@ -33,10 +33,22 @@
       "price": 9.99,
       "formattedPrice": "$9.99",
       "Pro Tier 1": "$9.99",
-      "Pro Tier 2": "$99.99",
+      "Pro Tier 2": "$14.99",
       "RadarScope Pro Subscription": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750947459689,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Pro Tier 2": "$14.99",
+            "Pro Tier 1": "$9.99",
+            "RadarScope Pro Subscription": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -27720,6 +27732,25 @@
       "主力密码连续包月": "$17.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750947459689,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "问财专业版连续包月": "$24.99",
+            "问财进阶版连续包月": "$9.99",
+            "598花币": "$89.99",
+            "299花币": "$39.99",
+            "早盘选股宝连续包月": "$39.99",
+            "机构探测器连续包月": "$17.49",
+            "金牛情报连续包月": "$10.99",
+            "分时顶底连续包季": "$18.99",
+            "波段雷达连续包季": "$41.99",
+            "主力密码连续包月": "$17.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749100723487,
@@ -70470,6 +70501,21 @@
       "Wink- AI Photo Restore": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1750947459689,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$59.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "1 Year + 2 Months Wink SVIP": "$99.99",
+            "Wink- AI Photo Restore": "$2.99",
+            "Weekly Auto-renew VIP": "$7.99",
+            "Wink- Remoji": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750846798593,
