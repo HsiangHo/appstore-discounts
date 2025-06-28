@@ -70651,6 +70651,21 @@
     "history": [
       [
         {
+          "timestamp": 1751073861466,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- 25 Credits": "$7.99",
+            "Yearly SVIP": "$99.99",
+            "10-second AI animation": "$1.99",
+            "Wink- 100 Credits": "$24.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750951192217,
           "price": 0,
           "formattedPrice": "Free",
