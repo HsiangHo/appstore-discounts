@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 598581396,
+    name: {
+      cn: 'Kingdom Rush Frontiers 塔防史诗冒险',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1596736236,
     name: {
       us: "Red's First Flight",

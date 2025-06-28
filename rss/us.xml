@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-28T03:16:03.406Z</updated>
+    <updated>2025-06-28T05:21:25.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-28T03:16:03.407Z</updated>
+        <updated>2025-06-28T05:21:25.526Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSat, 28 Jun 2025 03:16:03 GMT</id>
+        <id>rankingusSat, 28 Jun 2025 05:21:25 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-28T03:16:03.408Z</updated>
+        <updated>2025-06-28T05:21:25.526Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -50,13 +50,13 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>860</b>
+        <b>861</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>860</b>
+        <b>861</b>
       </td>
       <td>
         <b></b>
@@ -67,13 +67,13 @@ feedId:49753370488353792+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>847</b>
+        <b>848</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>847</b>
+        <b>848</b>
       </td>
       <td>
         <b></b>
@@ -668,6 +668,37 @@ feedId:49753370488353792+userId:73658201673997312
         <b>27</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id598581396">Kingdom Rush Frontiers TD</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Bonehart</i>：<b>1</b>
+              </li><li>
+                <i>Ashbite</i>：<b>1</b>
+              </li><li>
+                <i>Sha'tra</i>：<b>1</b>
+              </li><li>
+                <i>Grawl</i>：<b>1</b>
+              </li><li>
+                <i>Dante</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>28</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id797275229">AudioTunes - FLAC, APE, WMA Converter</a>
       </td>
       <td>
@@ -682,7 +713,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id966457795">Super PhotoCut</a>
@@ -699,7 +730,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1027093462">Visual Cue FLAC DMX MP3 Player</a>
@@ -722,7 +753,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1081480270">The Audio Converter</a>
@@ -745,7 +776,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1133028347">Cleaner One Pro - Uninstaller</a>
@@ -768,7 +799,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1361473095">MuseDash</a>
@@ -791,7 +822,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1403919533">MWeb Pro</a>
@@ -808,7 +839,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1456235760">Live Wallpaper - 4K UHD</a>
@@ -831,7 +862,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1484905765">Fast CAD Reader</a>
@@ -854,7 +885,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1502044457">Whisk</a>
@@ -877,7 +908,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1518518216">Paper - Live Wallpapers</a>
@@ -900,7 +931,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
@@ -917,7 +948,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1575178082">Max NTFS - NTFS Disk Helper</a>
@@ -940,7 +971,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576064082">DeviceMirror -Screen Mirroring</a>
@@ -957,7 +988,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576794157">飞火动态壁纸-4k超清视频桌面主题壁纸引擎</a>
@@ -980,7 +1011,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1598771178">DeviceMirror Lite -Screen Cast</a>
@@ -1003,7 +1034,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6737146353">KitVPN – Fast & World NetWork</a>
@@ -1026,7 +1057,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6444789815">记事本++</a>
@@ -1052,6 +1083,96 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kingdom Rush Frontiers TD]]></title>
+        <id>Kingdom Rush Frontiers TD-us-1751087903458</id>
+        <link href="https://apps.apple.com/us/app/kingdom-rush-frontiers-td/id598581396?uo=4"/>
+        <updated>2025-06-28T05:18:23.458Z</updated>
+        <summary type="html"><![CDATA[Price: $1.99 → $0.99<br/>Bonehart: $6.99 → $4.99<br/>Ashbite: $6.99 → $4.99<br/>Sha'tra: $2.99 → $0.99<br/>Grawl: $2.99 → $0.99<br/>Dante: $4.99 → $2.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/kingdom-rush-frontiers-td/id598581396?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/04/70/ec0470a6-3e3b-9fba-453e-30a34ddc6b81/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$1.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $1.99]</span>）
+</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Bonehart：</strong><span>$6.99</span> → <b>
+  <strong>$4.99</strong>
+</b><span>[$4.99 ~ $6.99]</span>
+  </li><li>
+    <strong>Ashbite：</strong><span>$6.99</span> → <b>
+  <strong>$4.99</strong>
+</b><span>[$4.99 ~ $6.99]</span>
+  </li><li>
+    <strong>Sha'tra：</strong><span>$2.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $2.99]</span>
+  </li><li>
+    <strong>Grawl：</strong><span>$2.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $2.99]</span>
+  </li><li>
+    <strong>Dante：</strong><span>$4.99</span> → <b>
+  <strong>$2.99</strong>
+</b><span>[$2.99 ~ $4.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Kingdom Rush Frontiers is a whole new level of the furiously fast, enchantingly charming gameplay that made kingdom Rush an award-winning Tower Defense hit.
+Defend exotic lands from dragons, man-eating plants, and ghastly denizens of the underworld -all with flashy towers, levels, heroes, and more goodies to help you crush your enemies to a pulp.
+
+BUILD MIGHTY TOWERS!
+
+
+• OVER 18 TOWER ABILITIES! Unleash Death Riders, pestilence clouds, or assassins that steal and kill your enemies!
+
+• 8 SPECIALIZED TOWER UPGRADES! Slice, sizzle, and stomp your foes with Crossbow Forts, Mighty Templars, Necromancers, and even Earthquake Machines - hey, we told you we were shaking things up.
+
+• UPGRADE SYSTEM allows you to min/max your towers towards your preferred strategy.
+
+• Fortify the frontier in exotic news lands - hold the line in deserts, jungles, and even the underworld!
+
+TRAIN LEGENDARY HEROES
+
+
+• 16 LEGENDARY HEROES. Choose among mighty champions and train their abilities! Each has unique specialties that fit different play styles and strategies!
+
+• Special units and features on every stage! Watch out for the Black Dragon!
+
+DEFEAT THEM ALL
+
+
+• OVER 40 ENEMIES with unique abilities! Stay on your toes as you fight through desert sandworms, tribal shamans, nomad tribes, and underground terrors. Action like you have never seen before!
+
+• MERCILESS BOSS FIGHTS! Hey, we told you to get those upgrades...
+
+MORE MIND-BOGGLING CONTENT
+
+
+• Hours of army with OVER 80 ACHIEVEMENTS! what can you expect from Ironhide Games, the creators of Kingdom rush? You will be hooked for hours searching for Easter eggs and achievements!
+
+• IN-GAME ENCYCLOPEDIA! learn all about your enemies and you will be able to plan the best strategy to defeat them. Study up!
+
+• CLASSIC, IRON, AND HEROIC GAME MODES to challenge your tactical skills!
+
+• 3 DIFFICULTY MODES! Are you up for a real challenge? Go with Hard mode!
+
+• PLAY IT OFFLINE! No internet? No problem! You will be able to jump into real action even offline!
+
+-----------------------------------------------------
+
+PRAISE FOR KINGDOM RUSH: IGN Editor's Choice, Slide To Play Must Have, 148 Apps Editor's Choice, Jay is Games Game of the Year, Pocket Gamer Gold Award, Touch Arcade 4.5/5
+
+Terms and Conditions:
+https://www.ironhidegames.com/TermsOfService
+
+Privacy Policy:
+https://www.ironhidegames.com/PrivacyPolicy
+
+Video creators, podcast creators, and streamers:
+We would love to see your content on Youtube and Twitch! We support and promote channel creators so, if you want us to showcase your videos or want to know more about our games, feel free to write to us to contact@ironhidegames.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/78/8e/b0/788eb0fc-afa8-245b-799b-a195718790a4/5a6affe9-dc30-420d-a725-ad6aa8e9001b_screenshots_2208x12420001.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/79/98/cd/7998cd5a-99b1-b03b-4c9d-42f9c371611c/10e242a9-64da-43ec-a049-230d6672b48f_screenshots_2208x12420002.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/87/32/a0873242-dd94-fe5d-70f4-ccc55b6d4d54/c1460a05-6fe6-422b-a563-4e245dd8af37_screenshots_2208x12420003.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9a/ba/96/9aba96b9-f838-936d-0524-c1f932ea79b3/7c12dd14-89b7-41c3-968b-33b7225a8730_screenshots_2208x12420004.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a3/e1/00/a3e1007a-194c-5dc2-1c97-3c2991b1ab9c/436d4067-8ab6-4f41-9103-69ee4cd85a91_screenshots_2208x12420005.png/406x228bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Allow Right Click for Safari]]></title>
@@ -1544,46 +1665,5 @@ Twitter:@MuseDash_EN
 
 *本加速器的加速功能仅针对游戏使用，无法访问海外网站。
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/30/d9/a730d9aa-62c0-a310-ef97-258622bbd228/94e6bc59-0ed1-4662-9fe9-c6c451e5eff8_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/7b/26/067b26e4-94e4-e8dd-81e9-14a0ec0a4354/962aa0d0-12c7-4e94-8ce1-f6f9024c412c_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/10/80/20108048-f87d-5509-ee46-993017f4cee9/754dd371-0572-496e-b317-f4f78754097a_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/da/24/c5da242f-ed7d-eee2-aafd-7a134b8a2c1a/a6457b28-d217-4eb7-abbc-b84793c7a4ad_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/98/a2/1998a286-c405-6ee7-2549-d48179653067/5ab7ea42-5dde-488b-8677-e35e2767c474_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/20/76/ab207675-21ca-afc8-418b-a6e058a5628b/c1b12273-03dc-4645-bd76-2ec11fd06f72_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/2d/f0/c12df094-fd43-860b-b9f7-f4ed06d03635/3f45d5df-bae8-4a85-90be-b5c11e6b5d3f_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/fd/2c/35fd2c48-a4ce-0a15-cb14-eba428cdcf3d/57a9a98a-65a9-4a6f-b77f-09227a1a4252_5.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAR Extractor - Unzip File]]></title>
-        <id>RAR Extractor - Unzip File-us-1750821488923</id>
-        <link href="https://apps.apple.com/us/app/rar-extractor-unzip-file/id1535136051?mt=12&amp;uo=4"/>
-        <updated>2025-06-25T03:18:08.923Z</updated>
-        <summary type="html"><![CDATA[Upgrade to VIP(Month renewal): $2.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/rar-extractor-unzip-file/id1535136051?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/b7/3b/23b73bfc-ecc4-f544-749c-f8789247d998/AppIcon-0-0-85-220-0-0-4-0-2x-sRGB.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Upgrade to VIP(Month renewal)：</strong><span>$2.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $2.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  ● Extract 7Z, ZIP, RAR, TAR, GZIP, BZIP2, GZ, XZ, LZIP, ACE, ISO, LZMA, CBR, EXE, MSI, LZH, CPIO, CAB, JAR, PAK, PKG, APK, ACE, ARJ, LQR, SPK, SWF, NSA, RPM, CPT, etc… 
-● Create password-protected 7Z, RAR and ZIP compressed files 
-● Extract images from PDF file
-
-「MAIN FEATURES」
-● Extract over 60 kinds of archive (compressed file) formats.
-● Preview winmail.dat sent from Microsoft Outlook
-● Extract the encrypted archive.
-● Double click to decompress / preview the compressed file  (Like WinRAR).
-● Drag the compressed file to DOCK ICON to decompress or preview directly.
-● Decompress to the same folder as the archive. 
-● Extract any file in the archive.
-● Batch decompress archives
-● AES256 encryption algorithm to create 7Z, RAR and ZIP compressed files . 
-● Support different display windows
-
-「EMAIL」
-● zhiminl@qq.com
-
-「Terms of Use」
-● https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-
-「Privacy Policy」
-● https://dami0209.github.io/privacy.html
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5f/92/6e/5f926e8c-e263-e142-563d-aca5be6c35ad/0fa1125d-105b-46ca-8c4a-9c9db28fb143_1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0c/56/e4/0c56e4fb-9bb8-1b1e-a594-5b56ce775fbd/6c1f4268-dfcf-4f0a-aec3-21dba8102b9e_2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8c/91/01/8c9101d1-6334-6f77-6beb-b47c7bce0a5e/024ac7df-17e2-419f-b741-e85d7e562893_5.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/14/40/e2/1440e22c-a401-bd94-f238-774861d02226/2f414909-4219-4fad-8e87-33491d2c596e_3.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8f/90/50/8f90502c-f825-4a24-6d0c-33c887e99478/69d3d1ac-5cd8-46dd-8e26-7e5c58b9366c_4.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>
