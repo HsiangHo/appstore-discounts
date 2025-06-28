@@ -262,6 +262,11 @@
       "inAppPurchase": {
         "Pro会员": 1
       }
+    },
+    "6745999173": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   },
   "us": {
@@ -512,10 +517,10 @@
       }
     },
     "1594288016": {
-      "all": 3,
+      "all": 4,
       "price": 0,
       "inAppPurchase": {
-        "Yearly Auto-renew VIP": 3
+        "Yearly Auto-renew VIP": 4
       }
     },
     "1598771178": {
@@ -563,6 +568,11 @@
       }
     },
     "6444789815": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6745999173": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}

@@ -32681,6 +32681,25 @@
     "history": [
       [
         {
+          "timestamp": 1751091873510,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "New Jazz Pluggnb": "$2.99",
+            "Platinum Synth Pop": "$2.99",
+            "Terraform Techno": "$2.99",
+            "Speed Hardgroove": "$2.99",
+            "Drip Tech House": "$2.99",
+            "Altered Hip-Hop": "$2.99",
+            "Glow Trap": "$2.99",
+            "Phonk": "$2.99",
+            "Indigo Beats": "$2.99",
+            "Voyager Synthwave": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751062738553,
           "price": 0,
           "formattedPrice": "Free",
@@ -70708,6 +70727,19 @@
     "history": [
       [
         {
+          "timestamp": 1751091873510,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- 25 Credits": "$7.99",
+            "Wink- 100 Credits": "$24.99",
+            "10-second AI animation": "$1.99",
+            "Yearly SVIP": "$99.99"
+          }
+        },
+        {
           "timestamp": 1751087903458,
           "price": 0,
           "formattedPrice": "Free",
@@ -92498,8 +92530,8 @@
       "6元礼包": "$0.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "328元礼包": "$49.99",
       "648元礼包": "$99.99",
       "128元礼包": "$19.99",
@@ -92512,6 +92544,25 @@
       "6元礼包": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751091873510,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "328元礼包": "$49.99",
+            "648元礼包": "$99.99",
+            "128元礼包": "$19.99",
+            "98元礼包": "$14.99",
+            "198元礼包": "$29.99",
+            "68元礼包": "$9.99",
+            "60元礼包": "$8.99",
+            "30元礼包": "$3.99",
+            "18元礼包": "$2.99",
+            "6元礼包": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750926309662,
