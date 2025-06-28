@@ -36044,6 +36044,23 @@
     "history": [
       [
         {
+          "timestamp": 1751098903454,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Open the box to get the rocket": "$0.99",
+            "Get the main entrance lighthouse passcode": "$0.99",
+            "Props Tip: Pyramid": "$0.99",
+            "Props Tip: Temple corner": "$0.99",
+            "Props Tip: flower": "$0.99",
+            "Get coffin password": "$0.99",
+            "Pyramid obtain dial pointer display mode": "$0.99",
+            "Get inside the temple door password": "$0.99",
+            "Rockets get the door unlocking": "$0.99",
+            "Get the factory door unlock": "$0.99"
+          }
+        },
+        {
           "timestamp": 1751094987310,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -91480,6 +91497,25 @@
       "3-Month VIP": "$12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751098903454,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "180 days": "$19.99",
+            "1 Year VIP": "$33.49",
+            "季卡": "$19.99",
+            "半年卡": "$32.49",
+            "连续周卡": "$2.99",
+            "3-Month VIP": "$12.99",
+            "1-Month VIP": "$4.99",
+            "年会员": "$24.99",
+            "周会员": "$0.99",
+            "月会员": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750912042805,
