@@ -12317,6 +12317,25 @@
     "history": [
       [
         {
+          "timestamp": 1751094987310,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Editor Pro - Annual Plan": "$47.99",
+            "Editor Pro - Monthly Plan": "$8.99",
+            "Editor Pro - Annual Plan.2024": "$47.99",
+            "FotorPro+ - Monthly Plan": "$19.99",
+            "Pro discount - Monthly Plan": "$8.99",
+            "FotorPro+ - Annual Plan": "$89.99",
+            "Pro discount - Annual Plan": "$47.99",
+            "Fotor Pro - Recommend Offer": "$47.99",
+            "Pro - Annual Plan.cn.2024": "$47.99",
+            "Editor Pro - Monthly Plan.cn": "$8.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750753572145,
           "price": 0,
           "formattedPrice": "Free",
@@ -32681,6 +32700,22 @@
     "history": [
       [
         {
+          "timestamp": 1751094987310,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Remixlive Premium (Monthly)": "$9.99",
+            "Trap": "$2.99",
+            "Electro": "$2.99",
+            "Drum & Bass": "$2.99",
+            "Deep House": "$2.99",
+            "Hip-Hop": "$2.99",
+            "Full Access to PRO": "$9.99",
+            "Future Beat": "$2.99",
+            "Dubstep": "$2.99"
+          }
+        },
+        {
           "timestamp": 1751091873510,
           "price": 0,
           "formattedPrice": "Free",
@@ -36007,6 +36042,25 @@
       "Get tips about this mysterious stone": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751094987310,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Purchase game": "$0.99",
+            "Props Tip: Temple corner": "$0.99",
+            "Props Tip: Pyramid": "$0.99",
+            "Props Tip: flower": "$0.99",
+            "Get tips on holographic camera": "$0.99",
+            "Get tips about two weeks mesh box factory eye": "$0.99",
+            "Get tips about the triangle blocks (1-6)": "$0.99",
+            "Get tips on the bucket": "$0.99",
+            "Get tips on stone-eyed": "$0.99",
+            "Get tips about this mysterious stone": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749943056638,
