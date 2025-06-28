@@ -70793,10 +70793,23 @@
       "Save Current Result": "$1.99",
       "Wink- 200 Credits": "$39.99",
       "1 Year + 2 Months Wink SVIP": "$99.99",
-      "Wink- AI Photo Restore": "$2.99"
+      "Wink- AI Photo Restore": "$0.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1751127634248,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- AI Photo Restore": "$0.99",
+            "Wink- 25 Credits": "$7.99",
+            "Yearly SVIP": "$99.99",
+            "Wink- 100 Credits": "$24.99"
+          }
+        },
         {
           "timestamp": 1751091873510,
           "price": 0,
