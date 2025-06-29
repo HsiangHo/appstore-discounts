@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-06-29T14:18:12.003Z</updated>
+    <updated>2025-06-29T15:23:02.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-29T14:18:12.004Z</updated>
+        <updated>2025-06-29T15:23:02.396Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSun, 29 Jun 2025 14:18:12 GMT</id>
+        <id>rankingusSun, 29 Jun 2025 15:23:02 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-29T14:18:12.004Z</updated>
+        <updated>2025-06-29T15:23:02.396Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -240,6 +240,31 @@ feedId:49753370488353792+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id461369673">VOX: MP3 & FLAC Music Player</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>4</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>VOX Premium Subscription</i>：<b>2</b>
+              </li><li>
+                <i>LOOP for VOX Subscription</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>8</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1395152179">奇游加速器 - 全球游戏畅玩</a>
       </td>
       <td>
@@ -260,7 +285,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1514073011">QuickFox-海外回国加速器追剧听歌游戏留学生必备</a>
@@ -285,7 +310,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1550581532">Vythm VJ - Music Visualizer DJ</a>
@@ -308,7 +333,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6739523960">Allow Right Click for Safari</a>
@@ -325,7 +350,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6738715418">STEP and IGES File Viewer</a>
@@ -342,7 +367,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6738089759">Hide Mouse Cursor</a>
@@ -353,31 +378,6 @@ feedId:49753370488353792+userId:73658201673997312
             <span>Total Times</span>：<b>4</b>
           </li><li>
             <span>Price</span>：<b>4</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>13</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id461369673">VOX: MP3 & FLAC Music Player</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>3</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>VOX Premium Subscription</i>：<b>2</b>
-              </li><li>
-                <i>LOOP for VOX Subscription</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -1105,6 +1105,89 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[VOX: MP3 & FLAC Music Player]]></title>
+        <id>VOX: MP3 &amp; FLAC Music Player-us-1751210230072</id>
+        <link href="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id461369673?mt=12&amp;uo=4"/>
+        <updated>2025-06-29T15:17:10.072Z</updated>
+        <summary type="html"><![CDATA[LOOP for VOX Subscription: $109.99 → $49.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id461369673?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/0c/59/5c0c59d6-9f05-4fb0-836a-15f1e3459b39/AppIconNew-0-0-85-220-0-0-0-4-0-2x.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>LOOP for VOX Subscription：</strong><span>$109.99</span> → <b>
+  <strong>$49.99</strong>
+</b><span>[$49.99 ~ $109.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  #1 Hi-Res audio player for Mac & iPhone. Music just sounds better! 
+
+*NEW*
+Introducing VOX Premium – Your Ultimate Music Experience. VOX Premium adds a stunning cloud streaming features and unlimited music storage without a decline in quality. Sync, stream and cache your entire music library on Mac and iPhone in a way that suits you best!
+
+Listen to your music regardless of the format:
+• Play numerous lossy and lossless (FLAC, APE, WAV, DSD, etc.) audio formats;
+• Export playlists in various formats (PLS, M3U, XSPF);
+• Open different playlist types including M3U, PLS, XSPF, and the popular CUE format used to store CD rips;
+• Play audio files stored on NAS devices and other network drives.
+
+Manage your music easily: 
+• Control the player from the main interface, Dock context menu or main menu controls;
+• Automatically search for all the missing album artwork from MusicBrainz and Last.fm databases;
+• Use keyboard media keys, headphones controls, and Apple Remote to control the playback (requires VOX Preference Pane);
+• Easily add music via smart drop zones, open dialog and Finder context menu;
+• Use the Equalizer with presets & custom mode, crossfade, fade on play/pause, converting music to 5.1 or 7.1 format;
+• Preview album artwork from your Dock icon;
+• Gapless playback support;
+• Get system or Growl playback notifications.
+
+Focus on music, not the source: 
+• Work with different audio sources including custom Playlists, iTunes Library, online radio and much more;
+• Scrobble to Last.fm to keep your listening stats up-to-date;
+• Play any song, any playlist you find on YouTube via VOX FLAC Player, put all your YouTube songs into one media collection.
+
+Full SoundCloud integration:
+• Easily control SoundCloud via VOX;
+• Access the largest music database in the world and discover new tunes;
+• Bring your SoundCloud stream and likes directly into VOX.
+
+YouTube source:
+• Press CMD+U and paste any link from YouTube to play it in VOX. You can add it to VOX collections as well.
+
+Last.fm:
+• Scrobbling for your music stream;
+
+Radio access for VOX Premium subscribers (**NEW**):
+• 30'000+ Radio stations categorized by genres and countries! 
+
+Equip yourself with all of the audiophile tools of VOX Premium:
+• Advanced Audio Features: HOG Mode; Improved multi-output device support;
+• Convert stereophonic audio in your headphones to binaural using Bauer DSP (BS2B) technology;
+• Automatically Pause playback on headphones disconnection;
+• Take full advantage of AirPlay (10.8+) to listen with any of your wireless output devices.
+• VOX also supports SONOS wireless speakers systems.
+
+
+The beauty of VOX Player is in its simplicity, yet behind the minimal exterior lies a powerful Music Player with a ton of features and support for all audio formats you may ever need. 
+
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+
+VOX Premium is available by auto-renewable subscriptions:
+
+- $4.99 per month;
+- $49.99 per year.
+
+Your credit card will be charged through your iTunes Account after the purchase confirmation. Your subscription will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current period. 
+Your subscriptions can be managed in your iTunes Account Settings after purchase is made. No cancellation of the current subscription is allowed during active subscription period. Any unused portion of a free trial period will be forfeited when you purchase a subscription.
+
+VOX Premium privacy policy: https://vox.rocks/privacy
+VOX Premium terms and conditions: https://vox.rocks/terms
+
+P.S.: FLAC Player, ALAC Player, Lossless Player, SoundCloud Stream Solution, YouTube MP3 Music, Hi-Res audio Player - check all of them in one VOX Music Player.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/7c/36/637c3612-0070-f326-819e-1e7bcce9c2af/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/82/a4/09/82a40990-99b5-c706-fadb-c1f8ac3651e0/mzl.ptafbcyi.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/0d/27/a70d27b3-0fe0-3c9f-4216-33ee99423452/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/76/4b/44/764b4485-6790-5152-c984-7d9e4154bc71/mzl.lfjljoip.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VOX: MP3 & FLAC Music Player]]></title>
         <id>VOX: MP3 &amp; FLAC Music Player-us-1751206528696</id>
         <link href="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id461369673?mt=12&amp;uo=4"/>
         <updated>2025-06-29T14:15:28.696Z</updated>
@@ -1818,76 +1901,5 @@ We would love to see your content on Youtube and Twitch! We support and promote 
 【意见反馈】
 如遇问题或者有好的建议，欢迎加入QQ体验群反馈，将会有萌哒哒的视频妹为大家解答，并有持续好礼相送！官方QQ群：527288510。
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/16/3e/15163e7c-e03a-d9bb-1d24-42356617484c/IMG_1855.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/b6/33/a4b63375-7c02-6eb8-d3f8-446c5c2e13f2/7014b5a6-7cf4-4e28-a688-ff3eff19ee4a_1.jpeg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/f5/15/82f515cc-1b40-bf32-7c08-59b3fccf967b/7e0ac2f1-59ac-40d4-b333-c7ff5cd3652d_2880x1800-01@1x.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/e2/d9/9ae2d96c-bc6d-e6be-fbdb-5e5fcbab67b7/IMG_1854.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wink: Video Enhancer & Editor]]></title>
-        <id>Wink: Video Enhancer &amp; Editor-us-1750951192217</id>
-        <link href="https://apps.apple.com/us/app/wink-video-enhancer-editor/id1594288016?uo=4"/>
-        <updated>2025-06-26T15:19:52.217Z</updated>
-        <summary type="html"><![CDATA[Yearly Auto-renew VIP: $59.99 → $40.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/wink-video-enhancer-editor/id1594288016?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/c8/fc/72c8fc00-bed8-357d-ba87-9d6b7966e02d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Yearly Auto-renew VIP：</strong><span>$59.99</span> → <b>
-  <strong>$40.99</strong>
-</b><span>[$40.99 ~ $59.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Wink 
-l Make any low-quality video & photo into HD/Ultra HD/4K with before/after comparisons.
-l Making video editing easier than ever!
-l Various creative video transition effects enhance final results!
-l Fine-tune your selfies with video retouch tools to highlight your day!
-
-Video ＆ Photo Enhance
-- Video Enhancer: Enhance portraits and selfies to stunning output.
-- 4K Upscaler: AI-powered 4K upscaling for enhanced video quality.
-- Stabilize: Smooth out shaky footage for professional-looking videos. 
-- Noise reduction: Reduce video noise and grain for professional-looking results.
--  AI Color: Give your video a vibrant, fresh look with our easy-to-use color enhancement tool
-
-Video Retouch
-- Manual Face Slimming: Adjust your facial features as you wish
-- Body Shape: Achieve a supermodel physique!
-- Stylish Makeup: Providing a range of natural makeup
-- Face Editor: Remove acne, Face Plump, Skin tone ... and more!
-- Whiten Teeth: Say goodbye to brown teeth and show off your smile!
-
-Video Editing
-- Professional Editing: Color, Crop, Speed, Split, Mirror, Soundtrack and more!
-- Templates: Easily apply to create high-quality vlogs
-- Quality Restoration: Clear AI-enhanced video restoration!
-- Effects: Adds texts, stickers, and transitions to enhance your videos
-- Automatic Subtitle: Utilizes intelligent voice recognition for easy text inputting
-
-
-AI Captions
-- Accurate AI subtitles for your videos in seconds 
-- Support Bilingual: Create dual-language subtitles for your videos
-- Support 8 languages
-
-Wink VIP
-- Access exclusive VIP features
-
-Wink offers a wide range of exclusive VIP features to enhance retouching experience. We are committed to providing you with an improved service. We look forward to your continuing support.
-- Subscriptions
-
-Wink VIP-Monthly Subscription offers a subscription period of one month.
-Wink VIP-Annual subscription entails a 12-month period.
-*The subscription price is determined based on the information provided in the in-app purchase (iAP) application.
-
-- Instructions for Payment and Cancellation
-
-"Payment" will be credited to your iTunes account once you have confirmed and paid for your subscription.
-
-"Renewal" subscriptions for "Monthly/Annual" plans are automatically renewed and will incur charges to your iTunes account following your purchase confirmation. The subscription will be automatically renewed. To cancel it, please disable the automatic renewal at least 24 hours before the subscription period ends. Within 24 hours before the subscription cycle expires, Apple will automatically debit your iTunes account, extending your subscription for a new cycle.
-
-"To cancel your subscription, kindly navigate to the "Settings" section on your iPhone, click on "Apple ID," proceed to the "Subscription" screen, and choose "Wink" to terminate your subscription.
-
-- Agreement
-Terms of Service：https://pro.meitu.com/wink-cut/agreements/common/service-global.html?lang=en
-Privacy Policy：https://pro.meitu.com/wink-cut/agreements/common/policy-global.html?lang=en
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/d1/94/d7d194a2-6f19-146b-d3d5-c592cec24b4b/iOS_1242x2208__U82f1_U6587-1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/45/fd/c345fdde-a422-ad22-4fc4-65e2523de21e/iOS_1242x2208__U82f1_U6587-2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/15/f4/b815f444-2be7-c373-5155-4300114fb70b/iOS_1242x2208__U82f1_U6587-3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/a4/cc/76a4ccf4-7954-c8d9-2ea6-f277d14042d8/iOS_1242x2208__U82f1_U6587-4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/a1/4b/e3a14bef-32d0-d6b7-c90f-d42f6a1a6b5c/iOS_1242x2208__U82f1_U6587-5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/4f/79/d94f7903-c309-764e-fa3e-6f7959b1bed0/iOS_1242x2208__U82f1_U6587-6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/7d/a9/667da93d-9ad6-e8c0-9de4-680f81d0a5d1/iOS_1242x2208__U82f1_U6587-7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/78/bb/f778bb57-2bd3-835c-2185-467529256156/iOS_1242x2208__U82f1_U6587-8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/4a/a4/304aa4d1-4958-cd41-ffda-1fdc855b28ee/iOS_1242x2208__U82f1_U6587-9.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/b3/c2/f4b3c23d-01c2-9fe2-1fa3-e72848d535c6/iOS_1242x2208__U82f1_U6587-10.jpg/392x696bb.jpg" />]]></content>
     </entry>
 </feed>

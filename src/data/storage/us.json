@@ -39,6 +39,16 @@
     "history": [
       [
         {
+          "timestamp": 1751210230072,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Pro Tier 1": "$9.99",
+            "Pro Tier 2": "$99.99",
+            "RadarScope Pro Subscription": "$9.99"
+          }
+        },
+        {
           "timestamp": 1751203604582,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -9417,6 +9427,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751210230072,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "VOX Premium Subscription": "$49.99",
+            "Radio": "$9.99",
+            "LOOP for VOX Subscription": "$49.99"
+          }
+        },
         {
           "timestamp": 1751206528696,
           "price": 0,
