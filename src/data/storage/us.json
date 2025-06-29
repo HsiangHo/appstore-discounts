@@ -9418,6 +9418,17 @@
     "history": [
       [
         {
+          "timestamp": 1751206528696,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "VOX Premium Subscription": "$15.99",
+            "LOOP for VOX Subscription": "$109.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750051194078,
           "price": 0,
           "formattedPrice": "Free",
@@ -10050,6 +10061,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751206528696,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "$1.99",
+            "Realms Plus:10 Friends w/trial": "$7.99",
+            "Minecraft Store Item 6": "$5.99",
+            "Realms Monthly Subscription: You + 2 Friends": "$3.99",
+            "Minecraft Store Item 5": "$4.99",
+            "Minecraft Store Item 10": "$9.99",
+            "Minecraft Store Item 4": "$3.99",
+            "Minecraft Store Item 3": "$2.99",
+            "Realms Plus: You + 10 Friends": "$7.99",
+            "Minecraft Store Item 8": "$7.99"
+          }
+        },
         {
           "timestamp": 1751203604582,
           "price": 6.99,
@@ -12347,6 +12375,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751206528696,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Editor Pro - Annual Plan": "$47.99",
+            "Editor Pro - Monthly Plan": "$8.99",
+            "Editor Pro - Annual Plan.2024": "$47.99",
+            "FotorPro+ - Monthly Plan": "$19.99",
+            "Pro discount - Monthly Plan": "$8.99",
+            "FotorPro+ - Annual Plan": "$89.99",
+            "Pro discount - Annual Plan": "$47.99",
+            "Fotor Pro - Recommend Offer": "$47.99",
+            "Pro - Annual Plan.cn.2024": "$47.99",
+            "200 credits for pro": "$9.99"
+          }
+        },
         {
           "timestamp": 1751203604582,
           "price": 0,
@@ -27886,6 +27931,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751206528696,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包月": "$0.99",
+            "金牛会员连续包月": "$0.99",
+            "手机超级Level-2连续包半年": "$6.49",
+            "金牛会员月版": "$2.99",
+            "手机Level-2包年服务": "$12.99",
+            "金牛会员尊享版连续包年": "$14.99",
+            "神奇电波连续包季": "$27.99",
+            "手机超级Level2两年版": "$22.99",
+            "手机高级诊股连续包月": "$0.99",
+            "金牛会员年版": "$9.99"
+          }
+        },
         {
           "timestamp": 1751203604582,
           "price": 0.99,
@@ -44517,6 +44579,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751206528696,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "订阅一个周.": "$2.49",
+            "Permanent membership": "$11.99",
+            "Subscription for 1 month.": "$4.49",
+            "Monthly membership": "$4.99",
+            "订阅一年": "$9.99",
+            "月度会员": "$4.99",
+            "Annual membership": "$9.99",
+            "Subscription for 1 year.": "$13.49"
+          }
+        },
         {
           "timestamp": 1751203604582,
           "price": 0,
@@ -73367,6 +73444,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751206528696,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "有道云笔记月会员": "$2.99",
+            "有道云笔记超级会员包月会员": "$3.99",
+            "笔记高级会员连续包月": "$2.99",
+            "笔记超级会员连续包月": "$3.99",
+            "有道云笔记超级会员包年会员": "$36.99",
+            "有道云笔记超级会员包季会员": "$10.49",
+            "有道云笔记高级会员包季会员": "$6.99",
+            "2年笔记高级会员": "$59.99",
+            "有道云笔记年会员": "$30.99"
+          }
+        },
         {
           "timestamp": 1751203604582,
           "price": 0,

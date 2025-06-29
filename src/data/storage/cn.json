@@ -57827,6 +57827,21 @@
     "history": [
       [
         {
+          "timestamp": 1751206528696,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "美图粉钻SVIP-连续包月": "¥30.00",
+            "美图粉钻SVIP-连续包年": "¥218.00",
+            "美图粉钻SVIP-1个月": "¥38.00",
+            "美图粉钻SVIP-连续包季": "¥68.00",
+            "连续包月880美豆": "¥68.00",
+            "美图SVIP-3个月": "¥108.00",
+            "美图粉钻SVIP-12个月": "¥288.00",
+            "1500美豆": "¥168.00"
+          }
+        },
+        {
           "timestamp": 1751203604582,
           "price": 0,
           "formattedPrice": "免费",
@@ -73665,6 +73680,14 @@
     "history": [
       [
         {
+          "timestamp": 1751206528696,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751033869117,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -73998,6 +74021,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751206528696,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1751033869117,
