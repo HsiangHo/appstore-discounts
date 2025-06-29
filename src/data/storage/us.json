@@ -39752,6 +39752,24 @@
     "history": [
       [
         {
+          "timestamp": 1751171640866,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "ApowerMirror Personal(Monthly)": "$19.99",
+            "ApowerMirror Personal (Yearly)": "$39.99",
+            "900 minutes": "$12.99",
+            "360 minutes": "$3.99",
+            "Buy 3yr membership, get 3 free": "$59.99",
+            "1800 minutes": "$20.99",
+            "Yearly VIP": "$12.99",
+            "Monthly VIP": "$29.99",
+            "Personal 2 Years (Buy 1 get 1)": "$49.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751148969616,
           "price": 0,
           "formattedPrice": "Free",
@@ -66588,6 +66606,23 @@
       "Tribal for desktop devices": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751171640866,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Vythm PRO": "$9.99",
+            "All features and modes": "$44.99",
+            "Unlock all (including updates)": "$139.99",
+            "Psychedelic mode for mobile": "$4.99",
+            "Mandala mode on mobile devices": "$4.99",
+            "Dreaming mode for mobile": "$4.99",
+            "Fluids mode for mobile devices": "$4.99",
+            "Shapes mode for mobile": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751148969616,
