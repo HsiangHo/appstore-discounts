@@ -517,10 +517,11 @@
       }
     },
     "1594288016": {
-      "all": 4,
+      "all": 5,
       "price": 0,
       "inAppPurchase": {
-        "Yearly Auto-renew VIP": 4
+        "Yearly Auto-renew VIP": 4,
+        "Monthly Auto-renew VIP": 1
       }
     },
     "1598771178": {

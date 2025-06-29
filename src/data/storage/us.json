@@ -45457,6 +45457,24 @@
     "history": [
       [
         {
+          "timestamp": 1751192419764,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "unlockall_3": "$20.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$20.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Let's GROOVE": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751041396192,
           "price": 0.49,
           "formattedPrice": "$0.49",
@@ -70858,13 +70876,14 @@
       "Save Current Result": "$1.99",
       "Wink- 200 Credits": "$39.99",
       "1 Year + 2 Months Wink SVIP": "$99.99",
-      "Wink- AI Photo Restore": "$2.99"
+      "Wink- AI Photo Restore": "$2.99",
+      "30-second AI animation": "$5.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
       "Yearly Auto-renew VIP": "$40.99",
-      "Monthly Auto-renew VIP": "$12.99",
+      "Monthly Auto-renew VIP": "$9.99",
       "Wink- 25 Credits": "$7.99",
       "10-second AI animation": "$1.99",
       "Wink- 5 Credits": "$2.99",
@@ -70879,9 +70898,26 @@
       "Save Current Result": "$1.99",
       "Wink- 200 Credits": "$39.99",
       "1 Year + 2 Months Wink SVIP": "$99.99",
-      "Wink- AI Photo Restore": "$0.99"
+      "Wink- AI Photo Restore": "$0.99",
+      "30-second AI animation": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751192419764,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$9.99",
+            "Wink- AI Photo Restore": "$0.99",
+            "Wink- 25 Credits": "$7.99",
+            "10-second AI animation": "$1.99",
+            "Yearly SVIP": "$99.99",
+            "30-second AI animation": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751127634248,
