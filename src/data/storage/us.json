@@ -39,6 +39,18 @@
     "history": [
       [
         {
+          "timestamp": 1751203604582,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Pro Tier 2": "$14.99",
+            "Pro Tier 1": "$9.99",
+            "RadarScope Pro Subscription": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750951192217,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -10039,6 +10051,25 @@
     "history": [
       [
         {
+          "timestamp": 1751203604582,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Vehicles pack": "$9.99",
+            "Tools Pack": "$5.99",
+            "Scary Pack": "$9.99",
+            "Weapon Pack": "$5.99",
+            "Minecraft Pets Pack": "$9.99",
+            "Minecraft Morph Pack": "$5.99",
+            "Marketplace Pass Full": "$3.99",
+            "Marketplace Pass Trial": "$3.99",
+            "The Incredibles": "$7.99",
+            "Marketplace Pass w/trial": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751084519146,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -12315,6 +12346,25 @@
       "200 credits for pro": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751203604582,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Fotor Pro Annual Special Offer": "$38.99",
+            "Fotor Pro - Recommend Offer": "$47.99",
+            "Fotor Pro - Special Offer": "$39.99",
+            "avatar rich package 80": "$19.99",
+            "avatar rich package 40": "$14.99",
+            "avatar normal package 80": "$11.49",
+            "avatar rich package 20": "$9.99",
+            "avatar normal package 40": "$7.49",
+            "avatar normal package 20": "$4.49",
+            "Pro - Annual Plan.cn.2024": "$47.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751161431728,
@@ -27835,6 +27885,25 @@
       "主力密码连续包月": "$17.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751203604582,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "问财专业版连续包月": "$24.99",
+            "问财进阶版连续包月": "$9.99",
+            "598花币": "$89.99",
+            "299花币": "$39.99",
+            "早盘选股宝连续包月": "$39.99",
+            "机构探测器连续包月": "$17.49",
+            "金牛情报连续包月": "$10.99",
+            "分时顶底连续包季": "$18.99",
+            "波段雷达连续包季": "$41.99",
+            "主力密码连续包月": "$17.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750951192217,
@@ -44449,6 +44518,25 @@
     "history": [
       [
         {
+          "timestamp": 1751203604582,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "年度会员": "$12.99",
+            "订阅一年": "$9.99",
+            "月度会员": "$4.99",
+            "40次按次付费功能使用资格": "$3.99",
+            "订阅一个周.": "$2.49",
+            "60次按次付费功能使用资格": "$4.99",
+            "18次按次付费功能使用资格": "$2.99",
+            "10次按次付费功能使用资格": "$1.99",
+            "3次按次付费功能使用资格": "$0.99",
+            "Permanent membership": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750051194078,
           "price": 0,
           "formattedPrice": "Free",
@@ -45456,6 +45544,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751203604582,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "unlockall_3": "$20.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$20.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Valentine Stage": "$3.99"
+          }
+        },
         {
           "timestamp": 1751192419764,
           "price": 0.49,
@@ -73262,6 +73366,25 @@
       "笔记超级会员连续包年": "$34.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751203604582,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "2年笔记高级会员": "$59.99",
+            "2年笔记超级会员": "$69.99",
+            "1个月笔记超级会员": "$4.99",
+            "1年笔记超级会员": "$39.99",
+            "1年笔记高级会员": "$29.99",
+            "1个月笔记高级会员": "$3.99",
+            "笔记高级会员连续包年": "$29.99",
+            "笔记高级会员连续包季": "$6.99",
+            "笔记高级会员连续包月": "$2.99",
+            "笔记超级会员连续包年": "$34.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750141636166,

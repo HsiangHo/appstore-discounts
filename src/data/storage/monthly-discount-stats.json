@@ -271,10 +271,10 @@
   },
   "us": {
     "288419283": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Pro Tier 2": 1
+        "Pro Tier 2": 2
       }
     },
     "417375580": {
@@ -399,11 +399,11 @@
       }
     },
     "1339124759": {
-      "all": 5,
+      "all": 6,
       "price": 0,
       "inAppPurchase": {
         "Annual membership": 1,
-        "Permanent membership": 4
+        "Permanent membership": 5
       }
     },
     "1361473095": {
