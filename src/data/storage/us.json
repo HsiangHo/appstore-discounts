@@ -33854,6 +33854,16 @@
     "history": [
       [
         {
+          "timestamp": 1751260826176,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Upgrade to Pro": "$19.99",
+            "Upgrade To Pro": "$19.99",
+            "Upgrade to Bundle": "$19.99"
+          }
+        },
+        {
           "timestamp": 1751257923691,
           "price": 0,
           "formattedPrice": "Free",
@@ -71229,6 +71239,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751260826176,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- AI Photo Restore": "$0.99",
+            "Wink- 25 Credits": "$7.99",
+            "10-second AI animation": "$1.99",
+            "Yearly SVIP": "$99.99"
+          }
+        },
         {
           "timestamp": 1751257923691,
           "price": 0,

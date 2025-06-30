@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-28T06:27:14.536Z</updated>
+    <updated>2025-06-30T05:26:04.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-28T06:27:14.537Z</updated>
+        <updated>2025-06-30T05:26:04.152Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnSat, 28 Jun 2025 06:27:14 GMT</id>
+        <id>rankingcnMon, 30 Jun 2025 05:26:04 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-28T06:27:14.538Z</updated>
+        <updated>2025-06-30T05:26:04.152Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -291,6 +291,29 @@ feedId:49753297431966720+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id491854842">网易有道翻译</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>3</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>有道词典超级会员</i>：<b>3</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>11</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id985614903">SQLPro Studio</a>
       </td>
       <td>
@@ -311,7 +334,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1518518216">Paper 壁纸 - 超高清4K动态壁纸, 桌面壁纸</a>
@@ -334,7 +357,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1619925971">UPDF - 新一代 AI 智能 PDF 编辑器</a>
@@ -349,29 +372,6 @@ feedId:49753297431966720+userId:73658201673997312
             <span>App 内购买项目</span><ol>
               <li>
                 <i>永久授权</i>：<b>3</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>13</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id491854842">网易有道翻译</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>有道词典超级会员</i>：<b>2</b>
               </li>
             </ol>
           </li>
@@ -978,6 +978,99 @@ feedId:49753297431966720+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[网易有道翻译]]></title>
+        <id>网易有道翻译-cn-1751260826176</id>
+        <link href="https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E6%9C%89%E9%81%93%E7%BF%BB%E8%AF%91/id491854842?mt=12&amp;uo=4"/>
+        <updated>2025-06-30T05:20:26.176Z</updated>
+        <summary type="html"><![CDATA[有道词典超级会员: ¥358.00 → ¥108.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E6%9C%89%E9%81%93%E7%BF%BB%E8%AF%91/id491854842?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/a9/95/5da9957d-8512-a1e3-01a8-bf67e729f98e/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>有道词典超级会员：</strong><span>¥358.00</span> → <b>
+  <strong>¥108.00</strong>
+</b><span>[¥108.00 ~ ¥358.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  【网易有道词典桌面端】正式改名为【网易有道翻译】
+——比强大更强大的翻译生产力工具，让你的电脑瞬间变身AIPC
+ 针对Mac平台特性，我们特别推出全新的版本，作为Mac系统下必备的翻译软件，在同类软件排行位居前列，10亿用户都在用！
+
+用AI重新定义翻译，WE DO MORE THAN TRANSLATION！
+
+【AI翻译助手】
+翻译更精准，表达更地道，还能自由问答～
+随时随地选中长句段落或截图，即可唤起功能～
+ 【AIBox 跨软件工具】
+选中长句段落，智能润色、改写、纠错一步到位～
+-句子润色：为你提供五种语言风格，一键升级地道高级句；
+-语法纠错：母语级纠错，帮你调整词汇、语法、结构；
+-写作建议：优化文章的同时为你提供写作建议；
+-重点提炼：复杂长文精准提炼重点；
+-单词百科：无需打开搜索引擎，即可快速检索语句百科知识；
+【AI文档翻译·问答】
+-一键上传文档，全文翻译；
+-支持多格式、多语种、多专业领域；
+-保留原文排版，双语对照查看；
+-便捷译后批注，支持一键导出；
+-同时还能自动总结，深度问答；
+-已开放240万字符/年免费翻译额度，让你想翻就翻，随手就翻，敞开了翻！
+【AI写作】
+-一键成文，AI快速生成邮件、通知模板内容，提高生产力；
+-母语级润色、扩写、总结、去重等功能助力内容质量提升；
+-智能纠错，智能识别200种错误，覆盖语法、词汇、拼写、格式等；
+【AI一键创作PPT】
+只需输入主题，即刻生成一份布局配色丰富的PPT~
+ 
+强大的桌面翻译软件，什么都能帮你翻！
+
+ 【有道词典】
+-实时收录最新词汇；支持英汉、日汉、韩汉、法汉、德汉、俄汉、葡汉、西汉互译；
+-完整收录《学习型牛津词典》、《新牛津英汉双解大词典》、《韦氏大学英语词典》、《柯林斯COBUILD高级英汉双解词典》、《新世纪日汉双解大辞典》、龙朝《韩中词典》《中韩词典》等权威词典；
+-单词图谱：可视化词典+思维导图记忆法；
+-单词笔记：支持添加单词笔记，同步保存单词本；
+【文本翻译】
+-长短句实时翻译，109种语言互译，26种常用语种tts发音；；
+-支持医学、计算机、金融经济三种专业领域翻译；
+-提供42个专业术语库&上传自定义术语库；
+-快捷键翻译：选中任意文本按下Command+2，快速获取翻译结果；
+【音频翻译】
+-从听到看，一键搞定；
+-中英文音频快速转录->翻译->整理为高质量文本；
+-支持100MB以内的MP3、WAV、AAC多种音频格式；
+【视频翻译】
+-字幕制作，省时高效；
+-提取视频内原字幕->翻译->生成新字幕；
+-自动生成字幕时间轴，一键导出srt字幕文件；
+【截图翻译】
+-按下Shift+Command+2，选取屏幕上的任意区域实现快速翻译；
+-截屏翻译结果支持一键钉至屏幕，随时进行下一次翻译。多次截屏翻译的结果同时查看，省时高效；
+【图片翻译】
+-快速识别、提取、翻译图片中的文本，支持99种语言；
+-支持macOS的“连续互通”相机功能，用iPhone或iPad拍摄任意文本，自动导入Mac；
+【同传翻译】
+支持中英日韩等14种语言互译，实时展示多人同传翻译字幕；
+【状态栏菜单】
+不打开主窗口，也能在mini窗口快速查词；
+【网页翻译】
+输入网址快速翻译网页内容，保持原排版信息，阅读体验舒适流畅；
+【人工翻译】
+提供专业定制化服务；
+ 
+【超级会员自动续费说明】
+1、服务名称：超级会员自动续费
+2、价格：38元/月
+3、购买会员自动续费的账号，会在每个月到期前24小时，自动在iTunes账户扣费并延长1个月会员有效期。
+4、如需取消订阅，请打开“App Store”--> 点击“商店”中的 “查看我的账户”，选择"查看信息"，进入"我的账户信息"页面，点击“管理”，取消“有道词典VIP服务”订阅即可。如未在订阅期结束的至少24小时前关闭订阅，此订阅将会自动续订。
+5、会员自动续费服务协议：https://c.youdao.com/dict/law/renew.html
+6、隐私协议：https://c.youdao.com/dict/law/youdaofanyi_pc_privacy.html
+ 
+【联系我们】
+微信：有道翻译
+官方网站：fanyi.youdao.com/download
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/19/b3/4719b3f0-95d5-28de-cb95-f7fd4d31c78f/4089b4b1-ef3b-4b54-9544-04b77dd0aafe_1440_900.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/12/77/25127735-75e4-a792-79c9-aa9275deefa7/01ca9f69-7245-430e-af80-aa9e9407dab7_2_mac__U5e94_U7528_U622a_U56fe__U9996_U9875.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/7d/1d/6b7d1d50-1ce2-780f-dc79-3caf005238be/1a4e8a66-453e-42fa-99e1-1a14b49df97f_3_mac__U5e94_U7528_U622a_U56fe_AI_U6587_U6863_U7ffb_U8bd1_U00b7_U95ee_U7b54.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/86/92/c7869296-9928-151f-789a-a571ad49eff0/07e3275c-bc25-4940-a861-d8b1551763e0_6_mac__U5e94_U7528_U622a_U56fe_AIBox_U8de8_U8f6f_U4ef6_U5de5_U5177.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/4a/17/184a1762-0b9b-b20d-b8ca-055467912e53/1cf1e7e9-1170-44dc-b397-2109f2e9f41b_4_mac__U5e94_U7528_U622a_U56fe_AI_U622a_U56fe.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/ca/3a/f0ca3a8c-a9bf-0451-2845-2161009ef5b3/3e21f929-1003-4ddb-98f0-e7590fc22a23_5_mac__U5e94_U7528_U622a_U56fe_AI_U5212_U8bcd.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/17/9c/d3179c8d-a16b-346a-40e3-5f3f3569ed5e/a7692139-eb7c-45c5-8643-602dd2a63bf4_7_mac__U5e94_U7528_U622a_U56fe_AI_U5199_U4f5c.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/49/76/d249765c-73d8-efa7-26eb-0422f57dec93/b6dbca02-0d72-4118-bd1c-442e37befe38_8_mac__U5e94_U7528_U622a_U56fe_AI_U4e00_U952e_U521b_U4f5cPPT.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[圆桌三国-三国休闲卡牌]]></title>
         <id>圆桌三国-三国休闲卡牌-cn-1751091873510</id>
         <link href="https://apps.apple.com/cn/app/%E5%9C%86%E6%A1%8C%E4%B8%89%E5%9B%BD-%E4%B8%89%E5%9B%BD%E4%BC%91%E9%97%B2%E5%8D%A1%E7%89%8C/id6745999173?uo=4"/>
@@ -1101,411 +1194,5 @@ feedId:49753297431966720+userId:73658201673997312
   <strong>免费</strong>
 </b><span>[免费 ~ ¥8.00]</span>）
 </h2><h2>应用描述</h2><p>这款应用是一款专为用户隐藏鼠标光标的工具，特别适合全屏演示、视频播放或游戏，让用户能够专注于内容而不受光标的干扰，包括一键隐藏/显示光标、快捷键支持和自定义设置。</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/e7/e9/14e7e980-14b9-dd96-141a-2deecdd1fe0c/Screenshot_2024-11-22_at_5.14.01_U202fPM_copy.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/48/67/b748678b-92ca-24f1-ea97-72ecc7924d6b/Screenshot_2024-11-22_at_5.14.01_U202fPM.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奇游加速器 - 全球游戏畅玩]]></title>
-        <id>奇游加速器 - 全球游戏畅玩-cn-1750998437380</id>
-        <link href="https://apps.apple.com/cn/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4"/>
-        <updated>2025-06-27T04:27:17.380Z</updated>
-        <summary type="html"><![CDATA[移动端会员-年卡: ¥108.00 → ¥88.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/24/0d/5d240d0a-4401-ac6e-fe9f-165012b8adf4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>移动端会员-年卡：</strong><span>¥108.00</span> → <b>
-  <strong>¥88.00</strong>
-</b><span>[¥79.00 ~ ¥108.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  【 热门游戏，“游”先支持】
-支持PUBGM、王者荣耀国际服 、使命召唤战区、绝地求生：刺激战场 、吃鸡外服、鹅鸭杀手游，暗区突围国际服、飞机大厨、咒术回战、炉石传说国际服、ROBLOX国际版、原神国际服、英雄联盟手游（lol：wild rift）、云顶之弈手游、方舟：终极移动版等游戏加速！
-
-【海量手游库 新游上线快 】
-支持PUBGM、王者国际服、使命召唤战区、星际战甲国际服、炉石传说国际服、暗区突围国际服、飞机大厨、对峙2、云顶之奕PBE、鹅鸭杀、赛马娘、pubg2、暗黑破坏神不朽、apex手游、二之国、全境封锁手游、战地手游、瓦罗兰特手游、绝地求生刺激战场全球服、使命召唤手游全球服、八方旅人、符文大地传说、Among US、游戏王、方舟生存进化、黎明杀机、公主连接、冒险岛M、地球末日生存、Teon中文版、剑灵：革命、战争机器人、地牢猎手5、FIFA、碧蓝幻想全球服、iron force、世界计划、多彩舞台、第七史诗（epic 7）、和平精英全球服、堡垒之夜、fgo、影之诗、失落龙约黑色沙漠、文明重启全球服、荒野乱斗、狂野飙车9等游戏加速！游戏库包罗千款好玩游戏，热游新游排行一目了然。平均每天3款游戏的速度上新。App内可以随时提交想玩的游戏，你想玩的我们都支持！
-
-【 奇游电竞级加速 】
-奇游全自研“Qiy”电竞级加速引擎震撼上线，加速稳定性更胜一筹，不惧移动网络的波动。基于奇游电竞级游戏网络，带你感受稳定流畅的游戏体验。低延迟、不掉线，WIFI/5G随心切换。
-
-【新游推荐 硬核攻略 】
-新增游戏清单、新游预上线时间表等功能，更多实用、funny的游戏主题等你探索。游戏介绍、新游推荐、硬核攻略，丰富的游戏深度内容带你打开新世界的大门！
-
-【客服小队 随时待命 】
-奇游客服小队7x12h陪伴你的左右。使用过程中有任何疑问和反馈，我们随时待命。
-
-【自动续费套餐说明】
-1、订阅周期及套餐名称：1个月（连续包月），3个月(连续包季)
-2、订阅价格：以IAP申请信息为准，例如连续包月价格为首月15元，次月15元/月自动续费 
-3、付款：用户确认购买并付款后计入iTunes账户。
-4、取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能，到期前24小时内取消，将会收取订阅费用。
-5、续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
-6、隐私政策：https://www.qiyou.cn/specials/qymobile-protocol.html
-7、服务协议：https://mfront.qiyou.cn/protocol.html
-8、自动续费会员服务协议：https://mfront.qiyou.cn/renewal-protocol.html
-
-*本加速器的加速功能仅针对游戏使用，无法访问海外网站。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/30/d9/a730d9aa-62c0-a310-ef97-258622bbd228/94e6bc59-0ed1-4662-9fe9-c6c451e5eff8_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/7b/26/067b26e4-94e4-e8dd-81e9-14a0ec0a4354/962aa0d0-12c7-4e94-8ce1-f6f9024c412c_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/10/80/20108048-f87d-5509-ee46-993017f4cee9/754dd371-0572-496e-b317-f4f78754097a_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/da/24/c5da242f-ed7d-eee2-aafd-7a134b8a2c1a/a6457b28-d217-4eb7-abbc-b84793c7a4ad_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/98/a2/1998a286-c405-6ee7-2549-d48179653067/5ab7ea42-5dde-488b-8677-e35e2767c474_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/20/76/ab207675-21ca-afc8-418b-a6e058a5628b/c1b12273-03dc-4645-bd76-2ec11fd06f72_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/2d/f0/c12df094-fd43-860b-b9f7-f4ed06d03635/3f45d5df-bae8-4a85-90be-b5c11e6b5d3f_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/fd/2c/35fd2c48-a4ce-0a15-cb14-eba428cdcf3d/57a9a98a-65a9-4a6f-b77f-09227a1a4252_5.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VOX: MP3 & FLAC Music Player]]></title>
-        <id>VOX: MP3 &amp; FLAC Music Player-cn-1750954967133</id>
-        <link href="https://apps.apple.com/cn/app/vox-mp3-flac-music-player/id461369673?mt=12&amp;uo=4"/>
-        <updated>2025-06-26T16:22:47.133Z</updated>
-        <summary type="html"><![CDATA[LOOP for VOX Subscription: ¥698.00 → ¥518.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/vox-mp3-flac-music-player/id461369673?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/0c/59/5c0c59d6-9f05-4fb0-836a-15f1e3459b39/AppIconNew-0-0-85-220-0-0-0-4-0-2x.png/60x60bb.png" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>LOOP for VOX Subscription：</strong><span>¥698.00</span> → <b>
-  <strong>¥518.00</strong>
-</b><span>[¥518.00 ~ ¥698.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  #1 Hi-Res audio player for Mac & iPhone. Music just sounds better! 
-
-*NEW*
-Introducing VOX Premium – Your Ultimate Music Experience. VOX Premium adds a stunning cloud streaming features and unlimited music storage without a decline in quality. Sync, stream and cache your entire music library on Mac and iPhone in a way that suits you best!
-
-Listen to your music regardless of the format:
-• Play numerous lossy and lossless (FLAC, APE, WAV, DSD, etc.) audio formats;
-• Export playlists in various formats (PLS, M3U, XSPF);
-• Open different playlist types including M3U, PLS, XSPF, and the popular CUE format used to store CD rips;
-• Play audio files stored on NAS devices and other network drives.
-
-Manage your music easily: 
-• Control the player from the main interface, Dock context menu or main menu controls;
-• Automatically search for all the missing album artwork from MusicBrainz and Last.fm databases;
-• Use keyboard media keys, headphones controls, and Apple Remote to control the playback (requires VOX Preference Pane);
-• Easily add music via smart drop zones, open dialog and Finder context menu;
-• Use the Equalizer with presets & custom mode, crossfade, fade on play/pause, converting music to 5.1 or 7.1 format;
-• Preview album artwork from your Dock icon;
-• Gapless playback support;
-• Get system or Growl playback notifications.
-
-Focus on music, not the source: 
-• Work with different audio sources including custom Playlists, iTunes Library, online radio and much more;
-• Scrobble to Last.fm to keep your listening stats up-to-date;
-• Play any song, any playlist you find on YouTube via VOX FLAC Player, put all your YouTube songs into one media collection.
-
-Full SoundCloud integration:
-• Easily control SoundCloud via VOX;
-• Access the largest music database in the world and discover new tunes;
-• Bring your SoundCloud stream and likes directly into VOX.
-
-YouTube source:
-• Press CMD+U and paste any link from YouTube to play it in VOX. You can add it to VOX collections as well.
-
-Last.fm:
-• Scrobbling for your music stream;
-
-Radio access for VOX Premium subscribers (**NEW**):
-• 30'000+ Radio stations categorized by genres and countries! 
-
-Equip yourself with all of the audiophile tools of VOX Premium:
-• Advanced Audio Features: HOG Mode; Improved multi-output device support;
-• Convert stereophonic audio in your headphones to binaural using Bauer DSP (BS2B) technology;
-• Automatically Pause playback on headphones disconnection;
-• Take full advantage of AirPlay (10.8+) to listen with any of your wireless output devices.
-• VOX also supports SONOS wireless speakers systems.
-
-
-The beauty of VOX Player is in its simplicity, yet behind the minimal exterior lies a powerful Music Player with a ton of features and support for all audio formats you may ever need. 
-
-
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-
-
-VOX Premium is available by auto-renewable subscriptions:
-
-- $4.99 per month;
-- $49.99 per year.
-
-Your credit card will be charged through your iTunes Account after the purchase confirmation. Your subscription will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current period. 
-Your subscriptions can be managed in your iTunes Account Settings after purchase is made. No cancellation of the current subscription is allowed during active subscription period. Any unused portion of a free trial period will be forfeited when you purchase a subscription.
-
-VOX Premium privacy policy: https://vox.rocks/privacy
-VOX Premium terms and conditions: https://vox.rocks/terms
-
-P.S.: FLAC Player, ALAC Player, Lossless Player, SoundCloud Stream Solution, YouTube MP3 Music, Hi-Res audio Player - check all of them in one VOX Music Player.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/7c/36/637c3612-0070-f326-819e-1e7bcce9c2af/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/82/a4/09/82a40990-99b5-c706-fadb-c1f8ac3651e0/mzl.ptafbcyi.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/0d/27/a70d27b3-0fe0-3c9f-4216-33ee99423452/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/76/4b/44/764b4485-6790-5152-c984-7d9e4154bc71/mzl.lfjljoip.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VOX: MP3 & FLAC Music Player]]></title>
-        <id>VOX: MP3 &amp; FLAC Music Player-cn-1750951192217</id>
-        <link href="https://apps.apple.com/cn/app/vox-mp3-flac-music-player/id461369673?mt=12&amp;uo=4"/>
-        <updated>2025-06-26T15:19:52.217Z</updated>
-        <summary type="html"><![CDATA[VOX Premium Subscription: ¥353.00 → ¥108.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/vox-mp3-flac-music-player/id461369673?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/0c/59/5c0c59d6-9f05-4fb0-836a-15f1e3459b39/AppIconNew-0-0-85-220-0-0-0-4-0-2x.png/60x60bb.png" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>VOX Premium Subscription：</strong><span>¥353.00</span> → <b>
-  <strong>¥108.00</strong>
-</b><span>[¥108.00 ~ ¥353.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  #1 Hi-Res audio player for Mac & iPhone. Music just sounds better! 
-
-*NEW*
-Introducing VOX Premium – Your Ultimate Music Experience. VOX Premium adds a stunning cloud streaming features and unlimited music storage without a decline in quality. Sync, stream and cache your entire music library on Mac and iPhone in a way that suits you best!
-
-Listen to your music regardless of the format:
-• Play numerous lossy and lossless (FLAC, APE, WAV, DSD, etc.) audio formats;
-• Export playlists in various formats (PLS, M3U, XSPF);
-• Open different playlist types including M3U, PLS, XSPF, and the popular CUE format used to store CD rips;
-• Play audio files stored on NAS devices and other network drives.
-
-Manage your music easily: 
-• Control the player from the main interface, Dock context menu or main menu controls;
-• Automatically search for all the missing album artwork from MusicBrainz and Last.fm databases;
-• Use keyboard media keys, headphones controls, and Apple Remote to control the playback (requires VOX Preference Pane);
-• Easily add music via smart drop zones, open dialog and Finder context menu;
-• Use the Equalizer with presets & custom mode, crossfade, fade on play/pause, converting music to 5.1 or 7.1 format;
-• Preview album artwork from your Dock icon;
-• Gapless playback support;
-• Get system or Growl playback notifications.
-
-Focus on music, not the source: 
-• Work with different audio sources including custom Playlists, iTunes Library, online radio and much more;
-• Scrobble to Last.fm to keep your listening stats up-to-date;
-• Play any song, any playlist you find on YouTube via VOX FLAC Player, put all your YouTube songs into one media collection.
-
-Full SoundCloud integration:
-• Easily control SoundCloud via VOX;
-• Access the largest music database in the world and discover new tunes;
-• Bring your SoundCloud stream and likes directly into VOX.
-
-YouTube source:
-• Press CMD+U and paste any link from YouTube to play it in VOX. You can add it to VOX collections as well.
-
-Last.fm:
-• Scrobbling for your music stream;
-
-Radio access for VOX Premium subscribers (**NEW**):
-• 30'000+ Radio stations categorized by genres and countries! 
-
-Equip yourself with all of the audiophile tools of VOX Premium:
-• Advanced Audio Features: HOG Mode; Improved multi-output device support;
-• Convert stereophonic audio in your headphones to binaural using Bauer DSP (BS2B) technology;
-• Automatically Pause playback on headphones disconnection;
-• Take full advantage of AirPlay (10.8+) to listen with any of your wireless output devices.
-• VOX also supports SONOS wireless speakers systems.
-
-
-The beauty of VOX Player is in its simplicity, yet behind the minimal exterior lies a powerful Music Player with a ton of features and support for all audio formats you may ever need. 
-
-
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-
-
-VOX Premium is available by auto-renewable subscriptions:
-
-- $4.99 per month;
-- $49.99 per year.
-
-Your credit card will be charged through your iTunes Account after the purchase confirmation. Your subscription will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current period. 
-Your subscriptions can be managed in your iTunes Account Settings after purchase is made. No cancellation of the current subscription is allowed during active subscription period. Any unused portion of a free trial period will be forfeited when you purchase a subscription.
-
-VOX Premium privacy policy: https://vox.rocks/privacy
-VOX Premium terms and conditions: https://vox.rocks/terms
-
-P.S.: FLAC Player, ALAC Player, Lossless Player, SoundCloud Stream Solution, YouTube MP3 Music, Hi-Res audio Player - check all of them in one VOX Music Player.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/7c/36/637c3612-0070-f326-819e-1e7bcce9c2af/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/82/a4/09/82a40990-99b5-c706-fadb-c1f8ac3651e0/mzl.ptafbcyi.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/0d/27/a70d27b3-0fe0-3c9f-4216-33ee99423452/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/76/4b/44/764b4485-6790-5152-c984-7d9e4154bc71/mzl.lfjljoip.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泰拉瑞亚]]></title>
-        <id>泰拉瑞亚-cn-1750947459689</id>
-        <link href="https://apps.apple.com/cn/app/%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A/id1157863540?uo=4"/>
-        <updated>2025-06-26T14:17:39.689Z</updated>
-        <summary type="html"><![CDATA[价格: ¥18.00 → ¥12.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A/id1157863540?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/18/db/3d18db92-4add-46d3-8074-76834d63fa0b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥18.00</span> → <b>
-  <strong>¥12.00</strong>
-</b><span>[¥12.00 ~ ¥18.00]</span>）
-</h2><h2>应用描述</h2><p>
-  挖掘，战斗，探索，建造！在这个动感十足的冒险游戏里没有什么是不可能的。世界是你的画布，地面是你的油漆。
-
-拿起你的工具出发！制造武器和各种各样的敌人作战。前往地下寻找配件，金钱，以及其他有用的东西。收集资源创造你的世界所需要的一切。建造一栋房子，一个堡垒，甚至是一座城堡。人们会搬到那里居住，而或许他们还会卖给你不同的商品来协助你完成旅程。
-
-但要注意，那有很多挑战在等着你……你能完成任务吗？
-
-【拥有完整体验的移动版】
-- 加入最新 1.4.4版本“爱的付出”的全部内容！ (无氪金要素)
-- 支持8人联机（联机功能终于能还给大家了）
-- 国内官方服务器加持 & 匹配功能 （没有朋友555也能找人一起游戏）
-- 买断制（拒绝一刀999）
-- 内置了完整的游戏Wiki（“方便知道自己该干嘛”）
-- 云存档 & 成就功能
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ce/67/1f/ce671f48-1d3f-5c1f-e5af-b7009cf9dead/a894acbc-a48d-4263-b7d5-40bdd1436cdf_1-_U5efa_U7b51_2208X1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/86/c4/aa/86c4aa54-63e6-0712-2883-59fbe66da9c0/04e5cec4-647b-4278-beb2-7c99d0a098b1_2_U77ff_U8f66_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/82/50/40/82504003-8877-d62c-fb68-b7faf2f71425/703e18a3-90d8-4f97-8da1-bf5f9e172a3b_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7a/6f/86/7a6f86de-c6b9-e373-074d-dfb3b53f103e/a5fdcfa3-d1f0-4016-bed2-8b066f77cebd_4-_U5149_U4e4b_U5973_U7687_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1a/0e/18/1a0e18e7-7f42-22d7-b25e-c73eebe66ed1/01497a69-57ac-4f94-ad8c-6e1e2c4d5d64_5-_U5929_U9876_U5251_2208X1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/a8/10/c6a81046-ae87-d399-7d37-78b7f4afc3fc/833514ac-f807-46c6-8121-ebd84c4341f6_6-_U98ce_U7b5d2208x1242.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/51/39/bb/5139bb58-f61c-be58-e2e7-b54316626075/98176f28-defa-4ca9-9bc1-c2e5438fb479_1-_U5efa_U7b51_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/78/7c/94/787c945e-2567-7e52-414c-dc370e52a580/ca4db6f1-67ad-4338-8453-15d5759e266c_2-_U77ff_U8f66_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/b5/24/c1/b524c175-4af7-df23-b206-2a547844562e/95cbe753-ab60-4dbb-a832-2529b8b75ff5_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/b1/5b/dab15b26-5ce2-7b1f-44f8-24c9afa734b5/70fa9930-13e0-40f2-b4de-63cc973fccdf_4-_U5149_U4e4b_U5973_U7687_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/03/1f/a1031fb3-89cb-05af-b71c-6da2c4ce17ba/4df26619-57e4-47de-9193-1c00f7df6983_5-_U5929_U9876_U5251_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/76/0e/61/760e61a0-2a55-8308-bc1f-36edd8bdb70c/7ad1db4d-ee2f-4db3-bbaf-7bb3027bf701_6-_U98ce_U7b5d2732x2048.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[喵斯快跑]]></title>
-        <id>喵斯快跑-cn-1750936558540</id>
-        <link href="https://apps.apple.com/cn/app/%E5%96%B5%E6%96%AF%E5%BF%AB%E8%B7%91/id1361473095?uo=4"/>
-        <updated>2025-06-26T11:15:58.540Z</updated>
-        <summary type="html"><![CDATA[价格: ¥18.00 → ¥3.00<br/>unlockall_29: ¥228.00 → ¥138.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%96%B5%E6%96%AF%E5%BF%AB%E8%B7%91/id1361473095?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/86/6d/bf866daf-6403-c4d3-de68-243c20338a98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥18.00</span> → <b>
-  <strong>¥3.00</strong>
-</b><span>[免费 ~ ¥18.00]</span>）
-</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>unlockall_29：</strong><span>¥228.00</span> → <b>
-  <strong>¥138.00</strong>
-</b><span>[¥138.00 ~ ¥228.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  『当战斗与演奏间的屏障被打破』
-『你可否听到来自另一个世界的呼唤？』
-【 Game Starts Now!! —— 】
-
-你喜欢可爱的美少女角色？
-还是节奏感十足的音乐？
-如果有一个地方可以同时满足这两个愿望……
-那就是狂拽跑酷和传统音游结合的世界 —— 《 Muse Dash 》!!
-
-什么？！手残？没有关系！
-谁说音游只有照着节奏打才是强者，
-打不过就躲亦是一种制胜之道（？）
-只要你有 100% 的热情、勇气以及……对美少女的爱～
-音乐也好战斗也好都是小问题啦！
-
-【媒体评价】
-可愛らしいビジュアルのキャラクターが躍動する、新感覚の2Dアクションスタイルのリズムゲーム ——IGN Japan
-
-“A bright exterior hides a surprisingly deep and engaging mash up”——POCKET GAMER
-
-支持语言：
-简体中文（Simplified Chinese）
-繁体中文 （Traditional Chinese）
-日本語（Japanese)
-韩语 （Korean）
-English
-
-问题反馈专区：https://service.peropero.net/
-官方微博：@MuseDash_喵斯快跑
-B 站：@MuseDash_喵斯快跑
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奇游加速器 - 全球游戏畅玩]]></title>
-        <id>奇游加速器 - 全球游戏畅玩-cn-1750926309662</id>
-        <link href="https://apps.apple.com/cn/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4"/>
-        <updated>2025-06-26T08:25:09.662Z</updated>
-        <summary type="html"><![CDATA[移动端会员-年卡: ¥98.00 → ¥88.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/24/0d/5d240d0a-4401-ac6e-fe9f-165012b8adf4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>移动端会员-年卡：</strong><span>¥98.00</span> → <b>
-  <strong>¥88.00</strong>
-</b><span>[¥79.00 ~ ¥108.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  【 热门游戏，“游”先支持】
-支持PUBGM、王者荣耀国际服 、使命召唤战区、绝地求生：刺激战场 、吃鸡外服、鹅鸭杀手游，暗区突围国际服、飞机大厨、咒术回战、炉石传说国际服、ROBLOX国际版、原神国际服、英雄联盟手游（lol：wild rift）、云顶之弈手游、方舟：终极移动版等游戏加速！
-
-【海量手游库 新游上线快 】
-支持PUBGM、王者国际服、使命召唤战区、星际战甲国际服、炉石传说国际服、暗区突围国际服、飞机大厨、对峙2、云顶之奕PBE、鹅鸭杀、赛马娘、pubg2、暗黑破坏神不朽、apex手游、二之国、全境封锁手游、战地手游、瓦罗兰特手游、绝地求生刺激战场全球服、使命召唤手游全球服、八方旅人、符文大地传说、Among US、游戏王、方舟生存进化、黎明杀机、公主连接、冒险岛M、地球末日生存、Teon中文版、剑灵：革命、战争机器人、地牢猎手5、FIFA、碧蓝幻想全球服、iron force、世界计划、多彩舞台、第七史诗（epic 7）、和平精英全球服、堡垒之夜、fgo、影之诗、失落龙约黑色沙漠、文明重启全球服、荒野乱斗、狂野飙车9等游戏加速！游戏库包罗千款好玩游戏，热游新游排行一目了然。平均每天3款游戏的速度上新。App内可以随时提交想玩的游戏，你想玩的我们都支持！
-
-【 奇游电竞级加速 】
-奇游全自研“Qiy”电竞级加速引擎震撼上线，加速稳定性更胜一筹，不惧移动网络的波动。基于奇游电竞级游戏网络，带你感受稳定流畅的游戏体验。低延迟、不掉线，WIFI/5G随心切换。
-
-【新游推荐 硬核攻略 】
-新增游戏清单、新游预上线时间表等功能，更多实用、funny的游戏主题等你探索。游戏介绍、新游推荐、硬核攻略，丰富的游戏深度内容带你打开新世界的大门！
-
-【客服小队 随时待命 】
-奇游客服小队7x12h陪伴你的左右。使用过程中有任何疑问和反馈，我们随时待命。
-
-【自动续费套餐说明】
-1、订阅周期及套餐名称：1个月（连续包月），3个月(连续包季)
-2、订阅价格：以IAP申请信息为准，例如连续包月价格为首月15元，次月15元/月自动续费 
-3、付款：用户确认购买并付款后计入iTunes账户。
-4、取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能，到期前24小时内取消，将会收取订阅费用。
-5、续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
-6、隐私政策：https://www.qiyou.cn/specials/qymobile-protocol.html
-7、服务协议：https://mfront.qiyou.cn/protocol.html
-8、自动续费会员服务协议：https://mfront.qiyou.cn/renewal-protocol.html
-
-*本加速器的加速功能仅针对游戏使用，无法访问海外网站。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/30/d9/a730d9aa-62c0-a310-ef97-258622bbd228/94e6bc59-0ed1-4662-9fe9-c6c451e5eff8_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/7b/26/067b26e4-94e4-e8dd-81e9-14a0ec0a4354/962aa0d0-12c7-4e94-8ce1-f6f9024c412c_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/10/80/20108048-f87d-5509-ee46-993017f4cee9/754dd371-0572-496e-b317-f4f78754097a_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/da/24/c5da242f-ed7d-eee2-aafd-7a134b8a2c1a/a6457b28-d217-4eb7-abbc-b84793c7a4ad_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/98/a2/1998a286-c405-6ee7-2549-d48179653067/5ab7ea42-5dde-488b-8677-e35e2767c474_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/20/76/ab207675-21ca-afc8-418b-a6e058a5628b/c1b12273-03dc-4645-bd76-2ec11fd06f72_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/2d/f0/c12df094-fd43-860b-b9f7-f4ed06d03635/3f45d5df-bae8-4a85-90be-b5c11e6b5d3f_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/fd/2c/35fd2c48-a4ce-0a15-cb14-eba428cdcf3d/57a9a98a-65a9-4a6f-b77f-09227a1a4252_5.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paper 壁纸 - 超高清4K动态壁纸, 桌面壁纸]]></title>
-        <id>Paper 壁纸 - 超高清4K动态壁纸, 桌面壁纸-cn-1750922308799</id>
-        <link href="https://apps.apple.com/cn/app/paper-%E5%A3%81%E7%BA%B8-%E8%B6%85%E9%AB%98%E6%B8%854k%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8-%E6%A1%8C%E9%9D%A2%E5%A3%81%E7%BA%B8/id1518518216?uo=4"/>
-        <updated>2025-06-26T07:18:28.799Z</updated>
-        <summary type="html"><![CDATA[Upgrade to Plus: ¥88.00 → ¥22.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/paper-%E5%A3%81%E7%BA%B8-%E8%B6%85%E9%AB%98%E6%B8%854k%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8-%E6%A1%8C%E9%9D%A2%E5%A3%81%E7%BA%B8/id1518518216?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1e/29/fe/1e29fe6c-0637-27ee-b058-e16646430315/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>Upgrade to Plus：</strong><span>¥88.00</span> → <b>
-  <strong>¥22.00</strong>
-</b><span>[¥22.00 ~ ¥88.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  「 Paper 壁纸 - 动态壁纸 & 4k高清壁纸 」
-
-Paper 壁纸是一款 4K Live Wallpaper,每天为您的手机墙纸制作令人惊叹的照片。这是iPhone上有史以来最出色的壁纸应用程序之一。
-所有壁纸均由我们的团队精心挑选，以使每一个背景看起来美丽动人，包含4K（超高清|超高清）以及 5K （全高清）壁纸|背景。
-
-丰富的动态壁纸，给iPhone桌面赋予灵动，同时尽可能少占用系统资源。如果您还在寻找iPhone下的壁纸应用，不要犹豫，《Paper 壁纸》就是您想要的！
-
-特性：
-
-● 提供20000+精美壁纸素材（iPad 含有 10000+壁纸），持续更新，你不必花时间找素材。
-
-● 动态壁纸，仅支持iphone设备设置为锁定屏幕时，按压展示动态壁纸效果。iOS 16.0以上的系统，设置动态壁纸后不会显示动态效果。
-
-● 充电动画
-
-● 桌面主题
-
-● 零App学习成本，简洁的交互，追求最好的体验。
-
-● Paper 壁纸的界面精美，舒适的体验，支持深色模式，漂亮至极。
-
-● 我们致力于简化应用程序，从而提供出色的性能。节省电池。
-
-● 不断增加的动态壁纸主题：每周添加新壁纸。 如果您有独特的动态视频壁纸，并想与所有人共享，欢迎提交给我们。
-
-支持一键预览，20000+精美壁纸等着你。 Happy！ Happy！
-
-立即安装《Paper 壁纸》，让您的设备屏幕惊艳有趣！
-
-
-这是普通版本。某些功能将受到限制。
-
-iPad版本不含有动态壁纸。
-
-如果您对应用程序或壁纸有任何问题，请通过ninthgame.team@gmail.com与我们联系，我们很乐意帮助您解决问题。
-
-请享用！
-
-
-关于Paper的自动续订：
-
-– 购买确认后,付款将立即记入iTunes帐户。
-– 当前周期结束前至少24小时可关闭自动续订，否则将自动续订。
-– 当前周期结束前24小时内帐户将续订扣费。该费用根据选定计划而定。
-– 用户可管理订阅，购买后前往用户帐户设置可关闭自动续订。
-– 免费试用期限的任何未用部分将在用户购买适用性订阅时自动作废。
-
-现提供以下三种购买方式，享受所有壁纸使用权，每日更新，且无广告:
-
-• 每6个月订阅 – ￥35
-• 每年订阅,含三天免费试用 – ￥63
-• 一次性买断  - ￥88 
-
-隐私政策: https://artyli.github.io/privacy.html
-使用条款: https://artyli.github.io/terms.html
-
-
-需要帮助，请联系我们：ninthgame.team@gmail.com
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/38/c8/52/38c852f8-783b-6e25-2054-5ea24fb41d2f/2b535f3a-aaa9-466e-9c3f-bfb57d825f51_1242x2208_cn_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/80/d6/d1/80d6d182-868f-4736-8ed9-e07f93801ad3/287146c0-92a3-4238-85f2-eaf5920b6aad_1242x2208_cn_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2e/68/28/2e68287d-31c0-b532-fa3c-71ba1084a515/016626b2-30ad-43bf-81ff-4c8bde7cd01b_1242x2208_cn_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/68/9a/6e/689a6e18-4d72-00db-48b6-1fe246a94ad2/2f146c5b-72ed-4ab2-abf6-3d25b8054b57_1242x2208_cn_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/93/5a/f0/935af0e6-33de-0d35-57eb-7d030328696b/a88b4297-a6ad-418e-a0ef-c701f637a715_1242x2208_cn_5.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/15/60/e2/1560e2a3-bd6e-d9e4-7fd3-d0c5492323d2/fcfd6faf-a3f5-4e8b-828c-c9b13356a767_2048x2732_cn_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e8/0b/b8/e80bb862-a3e2-7b27-7f70-81f7252204a2/6a4719e3-5028-4e0f-8da2-85f7c715bcc9_2048x2732_cn_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ca/55/92/ca5592cc-c94a-64c8-e1a9-098a6a5ba37e/573cb342-a8bc-4942-8028-0e77fcf5598a_2048x2732_cn_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5a/76/2f/5a762fb1-ca85-6e3c-e360-693182a57b51/38a72462-997c-4f12-9bc6-121e2d541944_2048x2732_cn_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/68/6c/10/686c10d8-853c-435f-15e0-60d94604aa57/8a13a184-5978-4231-bc66-6ad1457195bb_2048x2732_cn_5.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
