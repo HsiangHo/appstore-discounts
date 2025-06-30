@@ -17028,6 +17028,25 @@
     "history": [
       [
         {
+          "timestamp": 1751278807702,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Vault Of Gems": "$49.99",
+            "Wagon Of Gems": "$19.99",
+            "Chest Of Gems": "$9.99",
+            "Barrel Of Gems": "$4.99",
+            "Bag Of Gems": "$2.99",
+            "Special Offer Saitam": "$2.99",
+            "Big Hero Pack 2": "$12.99",
+            "Saitam": "$2.99",
+            "Big Hero Pack": "$9.99",
+            "Hero Pack 5": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751087903458,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -45681,7 +45700,16 @@
       "Muse Dash・Legend": "$3.99",
       "unlockall_12": "$23.99",
       "Happy Otaku Pack Vol.20": "$3.99",
-      "Aquaria Cruising Guide": "$3.99"
+      "Aquaria Cruising Guide": "$3.99",
+      "Aim to Be a Rhythm Master!(30%": "$2.99",
+      "Chill & Sip Summer Pass": "$2.99",
+      "Aquaria Cruising Guide(30%)": "$2.99",
+      "Happy Otaku Pack Vol.20(30%)": "$2.99",
+      "Muse Dash・Legend(30%)": "$2.99",
+      "Cosmic Radio 2024(30%)": "$2.99",
+      "MSR Anthology_Vol.02(30%)": "$3.99",
+      "Ensemble Arcanum(30%)": "$1.99",
+      "Touhou Mugakudan -IV-(30%)": "$2.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -45710,7 +45738,7 @@
       "MSR Anthology": "$3.99",
       "MSR Anthology_Vol.02": "$3.99",
       "Cosmic Radio 2024": "$2.99",
-      "MDlevelTacticalTrainingBlu-ray": "$2.99",
+      "MDlevelTacticalTrainingBlu-ray": "$1.99",
       "Touhou Mugakudan -IV-": "$3.99",
       "Touhou Collection Bundle100": "$15.99",
       "Touhou Collection Bundle88": "$12.99",
@@ -45721,10 +45749,36 @@
       "Muse Dash・Legend": "$2.99",
       "unlockall_12": "$23.99",
       "Happy Otaku Pack Vol.20": "$2.99",
-      "Aquaria Cruising Guide": "$3.99"
+      "Aquaria Cruising Guide": "$3.99",
+      "Aim to Be a Rhythm Master!(30%": "$2.99",
+      "Chill & Sip Summer Pass": "$2.99",
+      "Aquaria Cruising Guide(30%)": "$2.99",
+      "Happy Otaku Pack Vol.20(30%)": "$2.99",
+      "Muse Dash・Legend(30%)": "$2.99",
+      "Cosmic Radio 2024(30%)": "$2.99",
+      "MSR Anthology_Vol.02(30%)": "$3.99",
+      "Ensemble Arcanum(30%)": "$1.99",
+      "Touhou Mugakudan -IV-(30%)": "$2.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1751278807702,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "Aim to Be a Rhythm Master!(30%": "$2.99",
+            "Chill & Sip Summer Pass": "$2.99",
+            "Aquaria Cruising Guide(30%)": "$2.99",
+            "Happy Otaku Pack Vol.20(30%)": "$2.99",
+            "Muse Dash・Legend(30%)": "$2.99",
+            "Cosmic Radio 2024(30%)": "$2.99",
+            "MSR Anthology_Vol.02(30%)": "$3.99",
+            "MDlevelTacticalTrainingBlu-ray": "$1.99",
+            "Ensemble Arcanum(30%)": "$1.99",
+            "Touhou Mugakudan -IV-(30%)": "$2.99"
+          }
+        },
         {
           "timestamp": 1751257923691,
           "price": 0.49,
@@ -71239,6 +71293,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751278807702,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- AI Photo Restore": "$0.99",
+            "Wink- 25 Credits": "$7.99",
+            "10-second AI animation": "$1.99",
+            "Wink- 100 Credits": "$24.99"
+          }
+        },
         {
           "timestamp": 1751260826176,
           "price": 0,
