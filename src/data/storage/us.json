@@ -5853,6 +5853,23 @@
     "history": [
       [
         {
+          "timestamp": 1751293087481,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Synth Lead": "$1.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Groove Machine Synth": "$0.00",
+            "Synth Plucks": "$1.99",
+            "Transistor Bass": "$0.00"
+          }
+        },
+        {
           "timestamp": 1751290315292,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -71379,6 +71396,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751293087481,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- AI Photo Restore": "$0.99",
+            "Wink- 25 Credits": "$7.99",
+            "10-second AI animation": "$1.99",
+            "Wink- 100 Credits": "$24.99"
+          }
+        },
         {
           "timestamp": 1751290315292,
           "price": 0,

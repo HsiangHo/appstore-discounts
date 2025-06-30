@@ -518,11 +518,12 @@
       }
     },
     "1594288016": {
-      "all": 5,
+      "all": 6,
       "price": 0,
       "inAppPurchase": {
-        "Yearly Auto-renew VIP": 4,
-        "Monthly Auto-renew VIP": 1
+        "Yearly Auto-renew VIP": 5,
+        "Monthly Auto-renew VIP": 1,
+        "Wink- AI Photo Restore": 1
       }
     },
     "1598771178": {
