@@ -369,10 +369,10 @@
       }
     },
     "1068435535": {
-      "all": 2,
+      "all": 3,
       "price": 0,
       "inAppPurchase": {
-        "Upgrade to Pro": 1,
+        "Upgrade to Pro": 2,
         "Upgrade To Pro": 1
       }
     },
@@ -407,17 +407,18 @@
       }
     },
     "1361473095": {
-      "all": 1,
+      "all": 2,
       "price": 1,
       "inAppPurchase": {
-        "unlockall_29": 1
+        "unlockall_29": 1,
+        "Rin·Len's Mirrorland": 1
       }
     },
     "1395152179": {
-      "all": 4,
+      "all": 5,
       "price": 0,
       "inAppPurchase": {
-        "移动端会员-连续包月": 4
+        "移动端会员-连续包月": 5
       }
     },
     "1403919533": {

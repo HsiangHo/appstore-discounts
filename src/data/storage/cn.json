@@ -4745,6 +4745,25 @@
     "history": [
       [
         {
+          "timestamp": 1751257923691,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "Acoustic Guitars": "¥8.00",
+            "Tuned 808 Bass": "¥8.00",
+            "Varazdin Orchestral Mobile": "¥28.00",
+            "Voices": "¥8.00",
+            "Amped Guitar & Bass": "¥22.00",
+            "Synth Lead": "¥15.00",
+            "Groove Machine Synth": "¥0.00",
+            "Sliced Beats": "¥8.00",
+            "Synth Plucks": "¥15.00",
+            "Transistor Bass": "¥0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751148969616,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -9001,6 +9020,21 @@
       "有道词典超级会员1年": "¥388.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751257923691,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "超级会员年卡": "¥358.00",
+            "超级会员": "¥498.00",
+            "有道翻译超级会员": "¥388.00",
+            "有道词典超级会员": "¥358.00",
+            "超级会员1年": "¥358.00",
+            "会员年卡促销": "¥248.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750393527586,
@@ -49715,6 +49749,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751257923691,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "连续包周": "¥35.00",
+            "500小时vip会员": "¥58.00",
+            "连续包月": "¥40.00",
+            "体验套餐": "¥22.00",
+            "1800小时VIP会员": "¥98.00",
+            "连续包季": "¥118.00",
+            "包月套餐": "¥48.00",
+            "1个设备/月": "¥38.00",
+            "2个设备/月": "¥88.00",
+            "包季套餐": "¥128.00"
+          }
+        },
         {
           "timestamp": 1751235388226,
           "price": 0,
