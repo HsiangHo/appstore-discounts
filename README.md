@@ -414,7 +414,7 @@ So far, we've covered `2` `Countries or Regions` and  `861` `Apps` <br />Push no
 |519|1575178082|Automatic|Max NTFS - NTFS磁盘读写助手||||Max NTFS - NTFS Disk Helper||
 |518|1619925971|Automatic|UPDF - 新一代 AI 智能 PDF 编辑器||||UPDF 2 - AI-Powered PDF Editor||
 |517|1395152179|Automatic|奇游加速器 - 全球游戏畅玩||||奇游加速器 - 全球游戏畅玩||
-|516|503039729|Automatic|Fotor图片编辑器||||Fotor: AI Photo & Video Editor||
+|516|503039729|Automatic|Fotor图片编辑器||||Fotor: AI Photo Editor, Design||
 |515|1476545828|Automatic|MacDroid - 安卓版管理器||||MacDroid - Manager for Android||
 |514|6449164812|Automatic|打字通 - 打字练习软件||||打字通 - 打字练习软件||
 |513|1536071582|Automatic|Omni Converter 全能视频音频格式转换器||||Omni Converter - Video & Audio||
@@ -644,7 +644,7 @@ So far, we've covered `2` `Countries or Regions` and  `861` `Apps` <br />Push no
 |289|1171417699|Automatic|吉他调音器 吉他谱 :: Guitar Gravitas||||Guitar Gravitas: Chords Scales||
 |288|1594027432|Automatic|Flacbox||||Flacbox||
 |287|1057051963|Automatic|Music Transfer for iTunes||||Music Transfer for iTunes||
-|286|1027093462|Automatic|Visual Cue 无损音乐播放器 离线 flac m4a||||Visual Cue FLAC DMX MP3 Player||
+|286|1027093462|Automatic|Visual Cue 无损音乐播放器 离线 flac m4a||||Visual Cue Audio Player||
 |285|1594027661|Automatic|Evertag||||Evertag||
 |284|1058801458|Automatic|Remixlive - Make Music & Beats||||Remixlive - Make Music & Beats||
 |283|1233048948|Automatic|Boom3D: Volume Booster and EQ||||Boom3D: Volume Booster and EQ||
@@ -808,7 +808,7 @@ So far, we've covered `2` `Countries or Regions` and  `861` `Apps` <br />Push no
 |125|1575178082|Automatic|Max NTFS - NTFS磁盘读写助手||||Max NTFS - NTFS Disk Helper||
 |124|1619925971|Automatic|UPDF - 新一代 AI 智能 PDF 编辑器||||UPDF 2 - AI-Powered PDF Editor||
 |123|1395152179|Automatic|奇游加速器 - 全球游戏畅玩||||奇游加速器 - 全球游戏畅玩||
-|122|503039729|Automatic|Fotor图片编辑器||||Fotor: AI Photo & Video Editor||
+|122|503039729|Automatic|Fotor图片编辑器||||Fotor: AI Photo Editor, Design||
 |121|1476545828|Automatic|MacDroid - 安卓版管理器||||MacDroid - Manager for Android||
 |120|6449164812|Automatic|打字通 - 打字练习软件||||打字通 - 打字练习软件||
 |119|1536071582|Automatic|Omni Converter 全能视频音频格式转换器||||Omni Converter - Video & Audio||

@@ -12375,7 +12375,7 @@
     ]
   },
   "503039729": {
-    "name": "Fotor: AI Photo & Video Editor",
+    "name": "Fotor: AI Photo Editor, Design",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
@@ -30714,7 +30714,7 @@
     ]
   },
   "1027093462": {
-    "name": "Visual Cue FLAC DMX MP3 Player",
+    "name": "Visual Cue Audio Player",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
@@ -71150,6 +71150,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751247616484,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- AI Photo Restore": "$0.99",
+            "Wink- 25 Credits": "$7.99",
+            "10-second AI animation": "$1.99",
+            "Yearly SVIP": "$99.99"
+          }
+        },
         {
           "timestamp": 1751192419764,
           "price": 0,
