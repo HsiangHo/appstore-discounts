@@ -33130,6 +33130,25 @@
     "history": [
       [
         {
+          "timestamp": 1751361695824,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "New Jazz Pluggnb": "$2.99",
+            "Platinum Synth Pop": "$2.99",
+            "Terraform Techno": "$2.99",
+            "Speed Hardgroove": "$2.99",
+            "Drip Tech House": "$2.99",
+            "Altered Hip-Hop": "$2.99",
+            "Glow Trap": "$2.99",
+            "Phonk": "$2.99",
+            "Indigo Beats": "$2.99",
+            "Voyager Synthwave": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751094987310,
           "price": 0,
           "formattedPrice": "Free",
