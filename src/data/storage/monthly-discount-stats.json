@@ -1,11 +1,25 @@
 {
   "month": "2025-07",
   "cn": {
+    "1012296988": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "连续包月": 1
+      }
+    },
     "1058801458": {
       "all": 1,
       "price": 0,
       "inAppPurchase": {
         "Full Access to PRO": 1
+      }
+    },
+    "6450397515": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "VIP": 1
       }
     }
   },

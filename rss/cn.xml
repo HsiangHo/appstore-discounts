@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-07-01T01:48:13.659Z</updated>
+    <updated>2025-07-01T05:25:04.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-01T01:48:13.660Z</updated>
+        <updated>2025-07-01T05:25:04.436Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnTue, 01 Jul 2025 01:48:13 GMT</id>
+        <id>rankingcnTue, 01 Jul 2025 05:25:04 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-01T01:48:13.660Z</updated>
+        <updated>2025-07-01T05:25:04.437Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -94,6 +94,29 @@ feedId:49753297431966720+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1012296988">爱奇艺-临江仙 离婚仙侠</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>连续包月</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1058801458">Remixlive - Make Music & Beats</a>
       </td>
       <td>
@@ -112,6 +135,29 @@ feedId:49753297431966720+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6450397515">录音转文字-语音转文字助手</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>VIP</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -123,6 +169,107 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[录音转文字-语音转文字助手]]></title>
+        <id>录音转文字-语音转文字助手-cn-1751347309572</id>
+        <link href="https://apps.apple.com/cn/app/%E5%BD%95%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-%E8%AF%AD%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97%E5%8A%A9%E6%89%8B/id6450397515?mt=12&amp;uo=4"/>
+        <updated>2025-07-01T05:21:49.572Z</updated>
+        <summary type="html"><![CDATA[VIP: ¥128.00 → ¥38.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%BD%95%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-%E8%AF%AD%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97%E5%8A%A9%E6%89%8B/id6450397515?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/08/4f/b6084f79-e085-5513-2310-1e11b8823f5f/AppIcon-85-220-4-2x.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>VIP：</strong><span>¥128.00</span> → <b>
+  <strong>¥38.00</strong>
+</b><span>[¥38.00 ~ ¥128.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  特色功能：
+1.迅速转录音频，录音，会议录音，语音笔记;
+2.各类音频转文字准确率达98.8%;
+3.录音专家，导入音频，一键转录。
+
+隐私政策：https://rain7027.github.io/rainstt/privacy
+使用条款：https://rain7027.github.io/rainstt/terms
+有任何问题欢迎联系：zyang7027@gmail.com
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a3/2a/bd/a32abd46-f26e-a85e-b107-7ff96c894ede/38c71f2a-8558-402d-838b-0f943aedf5b1_1n.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/43/c5/de/43c5defb-4b6b-f290-9681-39954b7ffd4f/a55f6969-2062-47e7-a638-9b98ff1c5ece_2n.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱奇艺-临江仙 离婚仙侠]]></title>
+        <id>爱奇艺-临江仙 离婚仙侠-cn-1751347309572</id>
+        <link href="https://apps.apple.com/cn/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&amp;uo=4"/>
+        <updated>2025-07-01T05:21:49.572Z</updated>
+        <summary type="html"><![CDATA[连续包月: ¥25.00 → ¥15.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/2e/3f/222e3ff7-222b-8c27-aeb1-2d1082336d55/Mac_AppIcon-2x_U007euniversal-0-5-0-85-220-0.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>连续包月：</strong><span>¥25.00</span> → <b>
+  <strong>¥15.00</strong>
+</b><span>[¥15.00 ~ ¥25.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  爱奇艺Mac客户端，简洁轻量的视频客户端。
+支持TouchBar&TrackPad、小窗播放。
+支持4K画质、杜比音效，爱奇艺海量内容畅享视听盛宴！
+体验最新版需要升级到macOS 10.15或更高版本。如有其它问题可以访问： https://app.iqiyi.com/mac/player/index.html
+欢迎联系我们的官方QQ：938355165
+———————我是海量内容的分割线———————
+【独播热播 给你想要】
+精彩戏剧实时看：临江仙、在人间、护宝寻踪、人生若如初见、淮水竹亭、无忧渡、借命而生、绝密较量、乌云之上、念无双、黄雀、北上
+热播电影不间断：向阳·花、黄沙漫天、美国队长4、唐探1900、红色一号：冬日行动、误杀3、射雕英雄传：侠之大者、哪吒之魔童降世
+热门综艺看不停：微笑一号店、亚洲新声、奔跑吧第9季、哈哈哈哈哈第5季、种地吧第3季、现在就开麦—妈妈请就位！、恋爱兄妹、哈哈哈哈哈第4季、喜剧之王单口季
+动漫番剧随心换：航海王、超能立方：超凡篇、绝世战魂、我能无限顿悟、成何体统、都市古仙医、蜡笔小新 第8季 普通话、名侦探柯南 普通话
+经典纪录片细品味：与恐龙同行、舌尖上的中国 第四季、舌尖上的中国 第一季、河西走廊、人间世、中国医生、中华才子传第一季
+海外剧集尽情选：请回答1988、经常请吃饭的漂亮姐姐、金秘书为何那样、大力女子都奉顺、老友记、风骚律师、哥谭镇、明日传奇、小谢尔顿
+
+【VIP会员 尊享特权】
+1、内容特权：院线新片、海量高分大片、热剧抢先看、独家综艺、付费影片折扣、畅读小说。
+2、观影特权：广告特权、1080P、帧绮映画、杜比全景声、杜比视界、专属弹幕、下载加速、并行下载、边下边播、预约下载。
+3、身份特权：七端全屏通、畅享多会员、尊贵标识、尊享装扮、生日礼包、专属客服、等级权益红包、赠送好友影片、好友免费一起看。
+
+【自动续费黄金会员】
+-- 黄金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、杜比音效、下载特权等。
+-- 订阅周期：1个月（黄金会员连续包月产品），3个月(黄金会员连续包季产品)，12个月（黄金会员连续包年产品）。
+-- 订阅价格：以iAP申请信息为准，例如连续包月产品每月25元，连续包季产品每季68元，连续包年产品每年238元。
+-- 付款：用户确认购买并付款后记入iTunes账户。
+-- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
+-- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+-- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
+-- 隐私政策： http://www.iqiyi.com/common/privateh5.html
+-- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
+-- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
+【自动续费白金会员】
+-- 白金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画MAX、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、2台设备同时播放、下载特权等。
+-- 订阅周期：1个月（白金会员连续包月产品），3个月(白金会员连续包季产品)，12个月（白金会员连续包年产品）。
+-- 订阅价格：以iAP申请信息为准，例如连续包月产品每月35元，连续包季产品每季98元，连续包年产品每年348元。
+-- 付款：用户确认购买并付款后记入iTunes账户。
+-- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
+-- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+-- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
+-- 隐私政策： http://www.iqiyi.com/common/privateh5.html
+-- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
+-- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
+【自动续费星钻会员套餐说明】
+-- 星钻会员权益：享海量会员专享内容、会员抢先看、加更礼免费看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、3台设备同时播放、下载特权等。
+-- 订阅周期：1个月（星钻会员连续包月产品），3个月（星钻会员连续包季产品），12个月（星钻连续包年产品）
+-- 订阅价格：以iAP申请信息为准，例如连续包月产品为每月45元，连续包季产品每季118元，连续包年每年428元。
+-- 付款：用户确认购买并付款后计入iTunes账户。
+-- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能。
+-- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+-- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
+-- 隐私政策： http://www.iqiyi.com/common/privateh5.html
+-- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
+-- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
+【自动续费体育会员套餐说明】
+--体育会员权益：爱体育会员享每月2场付费比赛直播或点播（高尔夫比赛除外），爱足球会员有效期内可看平台播出的所有足球比赛，并享广告特权、1080P、多语解说、额外单点付费低至3折。
+--订阅周期：1个月（连续包月产品）。
+--订阅价格：爱体育会员连续包月9元/月，爱足球会员连续包月33元/月
+--付款：用户确认购买并付款后记入iTunes账户
+--取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
+--续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/19/d3/bf/19d3bfd6-9e0a-3605-7ddb-1e9913dda13c/132add12-49bd-4d88-8ae5-5ac5488a4ca1_App_Store_U7269_U65991.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/03/a0/da/03a0da78-2838-3c81-c29d-28700c0682f7/80a29786-6e1e-4cd9-8a4a-00e146f32816_App_Store_U7269_U65992.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/32/58/00/325800bb-a68b-32ec-cbe8-5c90b590dc5f/cec956df-a085-48a5-b159-9a135f1e5ef2_App_Store_U7269_U65993.jpg/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Remixlive - Make Music & Beats]]></title>
@@ -302,70 +449,5 @@ https://www.mixvibes.com/privacy
 
 游戏以经典轨道推进玩法为核心，操作直观易上手：滑动瞄准、自动放箭，箭矢轨迹与攻速节奏考验你的临场反应。随着关卡推进，可强化弓箭手的攻击力、射速与暴击属性，体验“万箭齐发，摧枯拉朽”的畅快感！
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kingdom Rush Frontiers 塔防史诗冒险]]></title>
-        <id>Kingdom Rush Frontiers 塔防史诗冒险-cn-1751087903458</id>
-        <link href="https://apps.apple.com/cn/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E5%8F%B2%E8%AF%97%E5%86%92%E9%99%A9/id598581396?uo=4"/>
-        <updated>2025-06-28T05:18:23.458Z</updated>
-        <summary type="html"><![CDATA[价格: ¥15.00 → ¥8.00<br/>波恩哈特: ¥48.00 → ¥38.00<br/>阿什比特: ¥48.00 → ¥38.00<br/>沙塔尔: ¥22.00 → ¥8.00<br/>但丁: ¥38.00 → ¥22.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/kingdom-rush-frontiers-%E5%A1%94%E9%98%B2%E5%8F%B2%E8%AF%97%E5%86%92%E9%99%A9/id598581396?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/04/70/ec0470a6-3e3b-9fba-453e-30a34ddc6b81/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥15.00</span> → <b>
-  <strong>¥8.00</strong>
-</b><span>[¥8.00 ~ ¥15.00]</span>）
-</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>波恩哈特：</strong><span>¥48.00</span> → <b>
-  <strong>¥38.00</strong>
-</b><span>[¥38.00 ~ ¥48.00]</span>
-  </li><li>
-    <strong>阿什比特：</strong><span>¥48.00</span> → <b>
-  <strong>¥38.00</strong>
-</b><span>[¥38.00 ~ ¥48.00]</span>
-  </li><li>
-    <strong>沙塔尔：</strong><span>¥22.00</span> → <b>
-  <strong>¥8.00</strong>
-</b><span>[¥8.00 ~ ¥22.00]</span>
-  </li><li>
-    <strong>但丁：</strong><span>¥38.00</span> → <b>
-  <strong>¥22.00</strong>
-</b><span>[¥22.00 ~ ¥38.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  全世界最令人着迷的防御游戏重磅回归 —— 欢迎来到《王国保卫战：前线》！ 
-
-《王国保卫战：前线》规模更加宏大，战况更胜从前，堪称全新水准的快节奏、超迷人游戏玩法，可谓是实至名归。轻按指挥你的的部队，展开一场史诗级的冒险，保卫这片异国大陆免受飞龙、食人植物和地下世界可怕居民的侵害 —— 你完全可以利用华丽的新防御塔、关卡、英雄和众多好东西，助你将敌人碾碎！（别担心，我们仍然提供前作中的好东西，只不过现在已是陈年经典。） 
-
-《王国保卫战：前线》涵盖众多内容，它就像是完全升级版的诱人火炮，将像素化的欢乐径直发射到你笑逐颜开的小脸上... 可疼了！ 
-
-游戏
-
-•  巩固异国新大陆的前线 —— 在沙漠、丛林甚至地下世界中坚守阵地！
-
-•  八种全新专业防御塔升级！你可以用弩兵堡垒、强大的圣殿骑士、亡灵甚至地震机切开、烤焦和践踏你的敌人 —— 嘿，我们告诉过你会动摇一切的。
-
-•  超过18种防御塔技能！释放死亡骑手、瘟疫毒云或刺客，暗杀你的敌人！
-
-•  超过40位具有独特技能的敌人！随时待命，对抗沙漠沙虫、部落萨满、游牧部落和地下世界恐怖生物。
-
-• 十六位传奇英雄。选择你的战士，训练他们的技能！
-
-•  每个关卡都会出现特殊单位和特色！注意黑龙！
-
-•  残酷无情的头目战！嘿，我们告诉过你会有这些升级...
-
-•  70多个成就，让你尽享游戏时间！
-
-•  经典、钢铁和英雄游戏模式，挑战你的战术技能！
-
-•  三种难度模式！你是否准备迎接真正的挑战？试试困难模式吧！
-振奋人心的配乐，圆润醇厚的旁白，加上图文并茂的动画效果，真令人陶醉其中而不能自拔！（自然也包括动画的鲜血效果。）
-
-•  游戏内百科全书！真正的战士知己知彼... 对防御塔的了解也不例外。用功研读吧！
-
-《王国保卫战》所获赞誉：IGN编辑精选游戏，Slide To Play必玩游戏，148 Apps编辑精选游戏，Jay is Games年度游戏，Pocket Gamer金奖，Touch Arcade 4.5/5，CNET。最佳iPad游戏
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/e4/d0/0f/e4d00fcd-188d-fd5a-d105-835ed009c5bd/a317a203-92f2-4e87-9e66-bc34f6146e23_screenshots_2208x12420011.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/db/36/28/db36287e-872c-b2bb-e4ca-880fb04e4e64/ed2440e8-7636-4721-9cd6-e6611ee15246_screenshots_2208x12420012.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/44/9c/8a/449c8a55-c61f-2507-f4a6-4b85479272b4/ce301336-b1fa-4b2a-aa90-c274d5374365_screenshots_2208x12420013.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/e9/49/3c/e9493ccd-0f7b-99ee-ec09-a046b8893f50/26187e05-8313-40e0-9f8b-c1558caf7bd7_screenshots_2208x12420014.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/27/9c/ff/279cff26-14e4-a77a-e316-2a44a896833b/95e7c5b8-6e36-4971-b952-799de509b935_screenshots_2208x12420015.jpg/406x228bb.jpg" />]]></content>
     </entry>
 </feed>

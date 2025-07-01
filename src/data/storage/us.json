@@ -71577,6 +71577,19 @@
     "history": [
       [
         {
+          "timestamp": 1751347309572,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- 25 Credits": "$7.99",
+            "Wink- AI Photo Restore": "$0.99",
+            "10-second AI animation": "$1.99",
+            "Wink- 100 Credits": "$24.99"
+          }
+        },
+        {
           "timestamp": 1751344599150,
           "price": 0,
           "formattedPrice": "Free",
