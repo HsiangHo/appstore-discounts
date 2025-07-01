@@ -16,6 +16,20 @@
       "inAppPurchase": {
         "BetterTouchTool License": 1
       }
+    },
+    "491854842": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "有道词典超级会员": 1
+      }
+    },
+    "1575178082": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Upgrade to Plus Version": 1
+      }
     }
   }
 }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-07-01T01:48:13.666Z</updated>
+    <updated>2025-07-01T03:44:03.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-01T01:48:13.666Z</updated>
+        <updated>2025-07-01T03:44:03.665Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 01 Jul 2025 01:48:13 GMT</id>
+        <id>rankingusTue, 01 Jul 2025 03:44:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-01T01:48:13.666Z</updated>
+        <updated>2025-07-01T03:44:03.665Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -112,6 +112,52 @@ feedId:49753370488353792+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id491854842">Youdao Translate</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>有道词典超级会员</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1575178082">Max NTFS - NTFS Disk Helper</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Upgrade to Plus Version</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -123,6 +169,194 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Max NTFS - NTFS Disk Helper]]></title>
+        <id>Max NTFS - NTFS Disk Helper-us-1751341090242</id>
+        <link href="https://apps.apple.com/us/app/max-ntfs-ntfs-disk-helper/id1575178082?mt=12&amp;uo=4"/>
+        <updated>2025-07-01T03:38:10.242Z</updated>
+        <summary type="html"><![CDATA[Upgrade to Plus Version: $12.99 → $11.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/max-ntfs-ntfs-disk-helper/id1575178082?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/45/fd/af45fd74-8295-497a-b50b-38d1fa398833/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Upgrade to Plus Version：</strong><span>$12.99</span> → <b>
+  <strong>$11.99</strong>
+</b><span>[$11.99 ~ $12.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Max NTFS is a small tool that can open NTFS format disks in read-write mode.
+
+We can support the read and write of NTFS format disks very effectively.
+
+Start the application, it will automatically detect all the hard disks, and you can start reading and writing to NTFS format disks with one key operation on the main interface, no need to execute cumbersome commands.
+
+Remind:
+
+After you finish using the NTFS disk, please do not unplug the USB device directly. Please click the eject button in the App to safely eject. Otherwise, the status of the disk may become dirty, and the last written file may not be saved.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/7f/9a/4b/7f9a4bd0-150f-eeeb-b56a-d9e9a48dced2/d4d4fbf7-681f-467c-9cde-f8e30ac18984_us_1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/f6/c7/93/f6c79378-1eba-2d13-9fe6-9dd72b9c40ff/78e2d1c4-cf44-41cc-ad5b-d89c2ced60d5_us_2.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Youdao Translate]]></title>
+        <id>Youdao Translate-us-1751341090242</id>
+        <link href="https://apps.apple.com/us/app/youdao-translate/id491854842?mt=12&amp;uo=4"/>
+        <updated>2025-07-01T03:38:10.242Z</updated>
+        <summary type="html"><![CDATA[有道词典超级会员: $49.99 → $14.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/youdao-translate/id491854842?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/a9/95/5da9957d-8512-a1e3-01a8-bf67e729f98e/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>有道词典超级会员：</strong><span>$49.99</span> → <b>
+  <strong>$14.99</strong>
+</b><span>[$14.99 ~ $49.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  【网易有道词典桌面端】正式改名为【网易有道翻译】
+——比强大更强大的翻译生产力工具，让你的电脑瞬间变身AIPC
+ 针对Mac平台特性，我们特别推出全新的版本，作为Mac系统下必备的翻译软件，在同类软件排行位居前列，10亿用户都在用！
+
+用AI重新定义翻译，WE DO MORE THAN TRANSLATION！
+
+【AI翻译助手】
+翻译更精准，表达更地道，还能自由问答～
+随时随地选中长句段落或截图，即可唤起功能～
+ 【AIBox 跨软件工具】
+选中长句段落，智能润色、改写、纠错一步到位～
+-句子润色：为你提供五种语言风格，一键升级地道高级句；
+-语法纠错：母语级纠错，帮你调整词汇、语法、结构；
+-写作建议：优化文章的同时为你提供写作建议；
+-重点提炼：复杂长文精准提炼重点；
+-单词百科：无需打开搜索引擎，即可快速检索语句百科知识；
+【AI文档翻译·问答】
+-一键上传文档，全文翻译；
+-支持多格式、多语种、多专业领域；
+-保留原文排版，双语对照查看；
+-便捷译后批注，支持一键导出；
+-同时还能自动总结，深度问答；
+-已开放240万字符/年免费翻译额度，让你想翻就翻，随手就翻，敞开了翻！
+【AI写作】
+-一键成文，AI快速生成邮件、通知模板内容，提高生产力；
+-母语级润色、扩写、总结、去重等功能助力内容质量提升；
+-智能纠错，智能识别200种错误，覆盖语法、词汇、拼写、格式等；
+【AI一键创作PPT】
+只需输入主题，即刻生成一份布局配色丰富的PPT~
+ 
+强大的桌面翻译软件，什么都能帮你翻！
+
+ 【有道词典】
+-实时收录最新词汇；支持英汉、日汉、韩汉、法汉、德汉、俄汉、葡汉、西汉互译；
+-完整收录《学习型牛津词典》、《新牛津英汉双解大词典》、《韦氏大学英语词典》、《柯林斯COBUILD高级英汉双解词典》、《新世纪日汉双解大辞典》、龙朝《韩中词典》《中韩词典》等权威词典；
+-单词图谱：可视化词典+思维导图记忆法；
+-单词笔记：支持添加单词笔记，同步保存单词本；
+【文本翻译】
+-长短句实时翻译，109种语言互译，26种常用语种tts发音；；
+-支持医学、计算机、金融经济三种专业领域翻译；
+-提供42个专业术语库&上传自定义术语库；
+-快捷键翻译：选中任意文本按下Command+2，快速获取翻译结果；
+【音频翻译】
+-从听到看，一键搞定；
+-中英文音频快速转录->翻译->整理为高质量文本；
+-支持100MB以内的MP3、WAV、AAC多种音频格式；
+【视频翻译】
+-字幕制作，省时高效；
+-提取视频内原字幕->翻译->生成新字幕；
+-自动生成字幕时间轴，一键导出srt字幕文件；
+【截图翻译】
+-按下Shift+Command+2，选取屏幕上的任意区域实现快速翻译；
+-截屏翻译结果支持一键钉至屏幕，随时进行下一次翻译。多次截屏翻译的结果同时查看，省时高效；
+【图片翻译】
+-快速识别、提取、翻译图片中的文本，支持99种语言；
+-支持macOS的“连续互通”相机功能，用iPhone或iPad拍摄任意文本，自动导入Mac；
+【同传翻译】
+支持中英日韩等14种语言互译，实时展示多人同传翻译字幕；
+【状态栏菜单】
+不打开主窗口，也能在mini窗口快速查词；
+【网页翻译】
+输入网址快速翻译网页内容，保持原排版信息，阅读体验舒适流畅；
+【人工翻译】
+提供专业定制化服务；
+ 
+【超级会员自动续费说明】
+1、服务名称：超级会员自动续费
+2、价格：38元/月
+3、购买会员自动续费的账号，会在每个月到期前24小时，自动在iTunes账户扣费并延长1个月会员有效期。
+4、如需取消订阅，请打开“App Store”--> 点击“商店”中的 “查看我的账户”，选择"查看信息"，进入"我的账户信息"页面，点击“管理”，取消“有道词典VIP服务”订阅即可。如未在订阅期结束的至少24小时前关闭订阅，此订阅将会自动续订。
+5、会员自动续费服务协议：https://c.youdao.com/dict/law/renew.html
+6、隐私协议：https://c.youdao.com/dict/law/youdaofanyi_pc_privacy.html
+ 
+【联系我们】
+微信：有道翻译
+官方网站：fanyi.youdao.com/download【网易有道词典桌面端】正式改名为【网易有道翻译】
+——比强大更强大的翻译生产力工具
+ 针对Mac平台特性，我们特别推出全新的版本，作为Mac系统下必备的词典软件，在同类软件排行位居前列，10亿用户都在用！
+
+ 用AI重新定义翻译，WE DO MORE THAN TRANSLATION！
+ 【AIBox 智能改写润色】
+选中长句段落，一键AI优化。
+-句子润色：为你提供五种语言风格，一键升级地道高级句；
+-语法纠错：母语级纠错，帮你调整词汇、语法、结构；
+-写作建议：优化文章的同时为你提供写作建议；
+-重点提炼：复杂长文精准提炼重点；
+-单词百科：无需打开搜索引擎，即可快速检索语句百科知识；
+【AI文档翻译】
+-一键上传文档，全文翻译；
+-支持多格式、多语种、多专业领域；
+-保留原文排版，双语对照查看；
+-便捷译后批注，支持一键导出；
+-已开放240万字符/年免费翻译额度，让你想翻就翻，随手就翻，敞开了翻！
+【AI写作】
+-一键成文，AI快速生成邮件、通知模板内容，提高生产力；
+-母语级润色、扩写、总结、去重等功能助力内容质量提升；
+-智能纠错，智能识别200种错误，覆盖语法、词汇、拼写、格式等；
+
+ 
+强大的桌面翻译软件，什么都能帮你翻！
+ 【有道词典】
+-实时收录最新词汇；支持英汉、日汉、韩汉、法汉、德汉、俄汉、葡汉、西汉互译；
+-完整收录《学习型牛津词典》、《新牛津英汉双解大词典》、《韦氏大学英语词典》、《柯林斯COBUILD高级英汉双解词典》、《新世纪日汉双解大辞典》、龙朝《韩中词典》《中韩词典》等权威词典；
+-单词图谱：可视化词典+思维导图记忆法；
+-单词笔记：支持添加单词笔记，同步保存单词本；
+【文本翻译】
+-长短句实时翻译，109种语言互译，26种常用语种tts发音；；
+-支持医学、计算机、金融经济三种专业领域翻译；
+-提供42个专业术语库&上传自定义术语库；
+-快捷键翻译：选中任意文本按下Command+2，快速获取翻译结果；
+【音频翻译】
+-从听到看，一键搞定；
+-中英文音频快速转录->翻译->整理为高质量文本；
+-支持100MB以内的MP3、WAV、AAC多种音频格式；
+【视频翻译】
+-字幕制作，省时高效；
+-提取视频内原字幕->翻译->生成新字幕；
+-自动生成字幕时间轴，一键导出srt字幕文件；
+【截图翻译】
+-按下Shift+Command+2，选取屏幕上的任意区域实现快速翻译；
+-截屏翻译结果支持一键钉至屏幕，随时进行下一次翻译。多次截屏翻译的结果同时查看，省时高效；
+【图片翻译】
+-快速识别、提取、翻译图片中的文本，支持99种语言；
+-支持macOS的“连续互通”相机功能，用iPhone或iPad拍摄任意文本，自动导入Mac；
+【同传翻译】
+支持中英日韩等14种语言互译，实时展示多人同传翻译字幕；
+【状态栏菜单】
+不打开主窗口，也能在mini窗口快速查词；
+【网页翻译】
+输入网址快速翻译网页内容，保持原排版信息，阅读体验舒适流畅；
+【人工翻译】
+提供专业定制化服务；
+ 
+【超级会员自动续费说明】
+1、服务名称：超级会员自动续费
+2、价格：38元/月
+3、购买会员自动续费的账号，会在每个月到期前24小时，自动在iTunes账户扣费并延长1个月会员有效期。
+4、如需取消订阅，请打开“App Store”--> 点击“商店”中的 “查看我的账户”，选择"查看信息"，进入"我的账户信息"页面，点击“管理”，取消“有道词典VIP服务”订阅即可。如未在订阅期结束的至少24小时前关闭订阅，此订阅将会自动续订。
+5、会员自动续费服务协议：https://c.youdao.com/dict/law/renew.html
+6、隐私协议：https://c.youdao.com/dict/law/youdaofanyi_pc_privacy.html
+ 
+【联系我们】
+ 
+微信：有道翻译
+官方网站：fanyi.youdao.com/download
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/19/b3/4719b3f0-95d5-28de-cb95-f7fd4d31c78f/4089b4b1-ef3b-4b54-9544-04b77dd0aafe_1440_900.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/12/77/25127735-75e4-a792-79c9-aa9275deefa7/01ca9f69-7245-430e-af80-aa9e9407dab7_2_mac__U5e94_U7528_U622a_U56fe__U9996_U9875.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/7d/1d/6b7d1d50-1ce2-780f-dc79-3caf005238be/1a4e8a66-453e-42fa-99e1-1a14b49df97f_3_mac__U5e94_U7528_U622a_U56fe_AI_U6587_U6863_U7ffb_U8bd1_U00b7_U95ee_U7b54.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/86/92/c7869296-9928-151f-789a-a571ad49eff0/07e3275c-bc25-4940-a861-d8b1551763e0_6_mac__U5e94_U7528_U622a_U56fe_AIBox_U8de8_U8f6f_U4ef6_U5de5_U5177.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/4a/17/184a1762-0b9b-b20d-b8ca-055467912e53/1cf1e7e9-1170-44dc-b397-2109f2e9f41b_4_mac__U5e94_U7528_U622a_U56fe_AI_U622a_U56fe.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/ca/3a/f0ca3a8c-a9bf-0451-2845-2161009ef5b3/3e21f929-1003-4ddb-98f0-e7590fc22a23_5_mac__U5e94_U7528_U622a_U56fe_AI_U5212_U8bcd.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/17/9c/d3179c8d-a16b-346a-40e3-5f3f3569ed5e/a7692139-eb7c-45c5-8643-602dd2a63bf4_7_mac__U5e94_U7528_U622a_U56fe_AI_U5199_U4f5c.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/49/76/d249765c-73d8-efa7-26eb-0422f57dec93/b6dbca02-0d72-4118-bd1c-442e37befe38_8_mac__U5e94_U7528_U622a_U56fe_AI_U4e00_U952e_U521b_U4f5cPPT.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BetterSnapTool]]></title>
@@ -1205,47 +1439,5 @@ https://www.ironhidegames.com/PrivacyPolicy
 Video creators, podcast creators, and streamers:
 We would love to see your content on Youtube and Twitch! We support and promote channel creators so, if you want us to showcase your videos or want to know more about our games, feel free to write to us to contact@ironhidegames.com
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/78/8e/b0/788eb0fc-afa8-245b-799b-a195718790a4/5a6affe9-dc30-420d-a725-ad6aa8e9001b_screenshots_2208x12420001.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/79/98/cd/7998cd5a-99b1-b03b-4c9d-42f9c371611c/10e242a9-64da-43ec-a049-230d6672b48f_screenshots_2208x12420002.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/87/32/a0873242-dd94-fe5d-70f4-ccc55b6d4d54/c1460a05-6fe6-422b-a563-4e245dd8af37_screenshots_2208x12420003.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9a/ba/96/9aba96b9-f838-936d-0524-c1f932ea79b3/7c12dd14-89b7-41c3-968b-33b7225a8730_screenshots_2208x12420004.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a3/e1/00/a3e1007a-194c-5dc2-1c97-3c2991b1ab9c/436d4067-8ab6-4f41-9103-69ee4cd85a91_screenshots_2208x12420005.png/406x228bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allow Right Click for Safari]]></title>
-        <id>Allow Right Click for Safari-us-1751080368881</id>
-        <link href="https://apps.apple.com/us/app/allow-right-click-for-safari/id6739523960?uo=4"/>
-        <updated>2025-06-28T03:12:48.881Z</updated>
-        <summary type="html"><![CDATA[Price: $1.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/allow-right-click-for-safari/id6739523960?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ea/35/f9ea3591-a3aa-59b0-1a37-183f419f88f2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$1.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $1.99]</span>）
-</h2><h2>Application Description</h2><p>This software allows right-click, copy, cut, and paste functionality on all websites. It has a simple interface and is easy to use. You can copy any content, whether it’s text, images, or other media.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STEP and IGES File Viewer]]></title>
-        <id>STEP and IGES File Viewer-us-1751080368881</id>
-        <link href="https://apps.apple.com/us/app/step-and-iges-file-viewer/id6738715418?mt=12&amp;uo=4"/>
-        <updated>2025-06-28T03:12:48.881Z</updated>
-        <summary type="html"><![CDATA[Price: $12.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/step-and-iges-file-viewer/id6738715418?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/55/f8/ee55f8c1-9e6f-b66e-8745-8fa4073cc1e3/icon.png/60x60bb.png" />
-</a><h2>
-  Discount Information（Price：<span>$12.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $12.99]</span>）
-</h2><h2>Application Description</h2><p>A professional 3D viewer for STEP/STP, IGES/IGS, and other 3D file formats. Supports printing and converting 3D files with ease.</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/84/ec/4984ec88-a04a-e981-64d6-d6fec8d8a2b2/_U65e0_U6807_U989829.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/c7/6d/aec76dd3-5cd8-fe26-ef16-bf4ccf3a72ed/_U65e0_U6807_U9898.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/68/5a/63685a4f-4f46-ce54-b618-f9c0f6c6dada/_U65e0_U6807_U98982.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hide Mouse Cursor]]></title>
-        <id>Hide Mouse Cursor-us-1751080368881</id>
-        <link href="https://apps.apple.com/us/app/hide-mouse-cursor/id6738089759?mt=12&amp;uo=4"/>
-        <updated>2025-06-28T03:12:48.881Z</updated>
-        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/hide-mouse-cursor/id6738089759?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/3e/95/423e9529-c3a8-daed-aa31-a91b61fc449c/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png" />
-</a><h2>
-  Discount Information（Price：<span>$0.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $0.99]</span>）
-</h2><h2>Application Description</h2><p>This app is a tool designed for users to hide the mouse cursor, which is particularly suitable for full-screen presentations, video playback or games, allowing users to focus on the content without being disturbed by the cursor, including one-click hiding/showing the cursor, shortcut key support, and custom settings.</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/e7/e9/14e7e980-14b9-dd96-141a-2deecdd1fe0c/Screenshot_2024-11-22_at_5.14.01_U202fPM_copy.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/48/67/b748678b-92ca-24f1-ea97-72ecc7924d6b/Screenshot_2024-11-22_at_5.14.01_U202fPM.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>
