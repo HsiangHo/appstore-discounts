@@ -17170,6 +17170,25 @@
     "history": [
       [
         {
+          "timestamp": 1751344599150,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Bonehart": "$4.99",
+            "Ashbite": "$4.99",
+            "Sha'tra": "$0.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$0.99",
+            "Dante": "$2.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Kahz": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751290315292,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -45939,6 +45958,24 @@
     "history": [
       [
         {
+          "timestamp": 1751344599150,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "unlockall_3": "$20.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$20.99",
+            "Miku in Museland": "$8.99",
+            "Valentine Stage": "$3.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "cyTus": "$5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751334319490,
           "price": 0.49,
           "formattedPrice": "$0.49",
@@ -71538,6 +71575,21 @@
       "30-second AI animation": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751344599150,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- AI Photo Restore": "$0.99",
+            "Wink- 25 Credits": "$7.99",
+            "10-second AI animation": "$1.99",
+            "Yearly SVIP": "$99.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751293087481,
