@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-07-01T14:21:03.090Z</updated>
+    <updated>2025-07-01T16:26:15.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-01T14:21:03.091Z</updated>
+        <updated>2025-07-01T16:26:15.268Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnTue, 01 Jul 2025 14:21:03 GMT</id>
+        <id>rankingcnTue, 01 Jul 2025 16:26:15 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-01T14:21:03.091Z</updated>
+        <updated>2025-07-01T16:26:15.269Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -99,13 +99,13 @@ feedId:49753297431966720+userId:73658201673997312
       <td>
         <ul>
           <li>
-            <span>总次数</span>：<b>1</b>
+            <span>总次数</span>：<b>2</b>
           </li><li>
             <span>价格</span>：<b>0</b>
           </li><li>
             <span>App 内购买项目</span><ol>
               <li>
-                <i>连续包月</i>：<b>1</b>
+                <i>连续包月</i>：<b>2</b>
               </li>
             </ol>
           </li>
@@ -140,6 +140,29 @@ feedId:49753297431966720+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1068435535">Antivirus One - Virus Cleaner</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>Upgrade to Pro</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1458460469">人类跌落梦境</a>
       </td>
       <td>
@@ -154,7 +177,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6450397515">录音转文字-语音转文字助手</a>
@@ -186,6 +209,149 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antivirus One - Virus Cleaner]]></title>
+        <id>Antivirus One - Virus Cleaner-cn-1751387017316</id>
+        <link href="https://apps.apple.com/cn/app/antivirus-one-virus-cleaner/id1068435535?mt=12&amp;uo=4"/>
+        <updated>2025-07-01T16:23:37.316Z</updated>
+        <summary type="html"><![CDATA[Upgrade to Pro: ¥148.00 → ¥20.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/antivirus-one-virus-cleaner/id1068435535?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/45/8a/f2458a80-bd15-2169-91f1-f74706cc7c84/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>Upgrade to Pro：</strong><span>¥148.00</span> → <b>
+  <strong>¥20.00</strong>
+</b><span>[¥20.00 ~ ¥148.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  使用您的个人网络安全专家“趋势安全大师”来保持数字钱包和钥匙链的安全。
+ 
+趋势安全大师提供实时防病毒监控，保护您的 Mac 免遭广告程序、勒索软件、间谍软件和所有恶意软件攻击的危害。
+ 
+立即下载，杜绝弹出式诈骗、间谍软件和病毒!
+
+由趋势科技拥有的全球最大防病毒和间谍软件活动监控实验室独家开发。使用以下强大的趋势安全大师保护功能来保护您的 Mac:
+
+1. 实时检测
+移动式实时恶意软件检测器。全天候保护您的 Mac 远离所有威胁。
+
+2. 病毒扫描程序
+快速扫描、深度扫描或自定义扫描位置，彻底保护整个磁盘。
+
+3. 病毒清理器 (需要应用程序内购买)
+自动移除全部病毒，保护您的系统和隐私的安全。
+
+4. 广告程序清除器
+杜绝弹出窗口、广告程序和浏览器劫持，让您自在上网。
+
+5. 隐私清除器
+自定义您的在线透明度。在网络上隐身，不在浏览器中留下一丝痕迹。
+
+6. 安全搜索
+标记每条 Google 搜索结果的安全等级。
+
+7. 网络安全防护
+防止用户浏览网络钓鱼网站。
+
+我们强烈建议定期使用趋势安全大师进行全磁盘扫描，让您的 Mac 远离安全威胁。
+
+我们提供两种自动续费的订购模式：
+— 月付：低至￥20
+— 年付：低至￥143
+价格可能根据地区的不同而有所不同。
+ 
+如不取消，订购将会自动续费。
+— 确认付款后，您将会通过您的iTunes 账户付款
+— 您可以在您的iTunes账户里面管理您的订购或者关闭自动续费
+— 一旦此次订购成功，您的当前订购将不可取消
+— 订购将会自动续费除非您在当前订购时间结束前24小时关闭自动续费
+— 在订购到期前的24小时内，你的账户将会自动为此续费。所有订购的费用如前所述。
+
+我们期待您的反馈，您的任何意见和建议都将有益于趋势安全大师的成长，请在App Store里的评论区留下您的意见和建议，或者您也可以在趋势安全大师的反馈页面提出您的宝贵建议。
+
+隐私策略及使用条款：
+http://gr.trendmicro.com/GREntry/NonPayment?Target=AntivirusOne&OS=&SP=&PID=DS10&FunID=PrivacyPolicy&VID=&Locale=ZH-CN
+http://gr.trendmicro.com/GREntry/NonPayment?Target=AntivirusOne&OS=&SP=&PID=DS10&FunID=LicenseAgreement&VID=&Locale=ZH-CN
+
+联系客服：mac_support@trendmicro.com
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/25/93/62/25936269-6a62-d668-0135-693d64d4475f/ab143dd1-7476-4d41-8f0b-f0176e2a56a1_SC_01.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/55/04/e9/5504e9f0-5e3a-628f-62a3-9e43b8241254/08c1a2e1-22dd-4404-9ec1-7fd31317fdee_SC_02.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b0/28/d9/b028d922-7648-f80a-129f-e089b45f1d11/db0c6d8b-e63e-409d-a1fb-ca2e07efe03a_SC_03.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/95/d4/09/95d409f4-f81a-2ddd-0a49-0f6de99f3866/a7e49abc-e9a8-4fda-9901-5c47805f636a_SC_04.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d7/cc/13/d7cc1386-848a-6a1e-1433-d32e87e62c2b/a9ba931d-7834-4ae7-ab81-2e0b5a99056d_SC_05.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱奇艺-临江仙 离婚仙侠]]></title>
+        <id>爱奇艺-临江仙 离婚仙侠-cn-1751387017316</id>
+        <link href="https://apps.apple.com/cn/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&amp;uo=4"/>
+        <updated>2025-07-01T16:23:37.316Z</updated>
+        <summary type="html"><![CDATA[连续包月: ¥25.00 → ¥15.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/2e/3f/222e3ff7-222b-8c27-aeb1-2d1082336d55/Mac_AppIcon-2x_U007euniversal-0-5-0-85-220-0.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>连续包月：</strong><span>¥25.00</span> → <b>
+  <strong>¥15.00</strong>
+</b><span>[¥15.00 ~ ¥25.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  爱奇艺Mac客户端，简洁轻量的视频客户端。
+支持TouchBar&TrackPad、小窗播放。
+支持4K画质、杜比音效，爱奇艺海量内容畅享视听盛宴！
+体验最新版需要升级到macOS 10.15或更高版本。如有其它问题可以访问： https://app.iqiyi.com/mac/player/index.html
+欢迎联系我们的官方QQ：938355165
+———————我是海量内容的分割线———————
+【独播热播 给你想要】
+精彩戏剧实时看：临江仙、在人间、护宝寻踪、人生若如初见、淮水竹亭、无忧渡、借命而生、绝密较量、乌云之上、念无双、黄雀、北上
+热播电影不间断：向阳·花、黄沙漫天、美国队长4、唐探1900、红色一号：冬日行动、误杀3、射雕英雄传：侠之大者、哪吒之魔童降世
+热门综艺看不停：微笑一号店、亚洲新声、奔跑吧第9季、哈哈哈哈哈第5季、种地吧第3季、现在就开麦—妈妈请就位！、恋爱兄妹、哈哈哈哈哈第4季、喜剧之王单口季
+动漫番剧随心换：航海王、超能立方：超凡篇、绝世战魂、我能无限顿悟、成何体统、都市古仙医、蜡笔小新 第8季 普通话、名侦探柯南 普通话
+经典纪录片细品味：与恐龙同行、舌尖上的中国 第四季、舌尖上的中国 第一季、河西走廊、人间世、中国医生、中华才子传第一季
+海外剧集尽情选：请回答1988、经常请吃饭的漂亮姐姐、金秘书为何那样、大力女子都奉顺、老友记、风骚律师、哥谭镇、明日传奇、小谢尔顿
+
+【VIP会员 尊享特权】
+1、内容特权：院线新片、海量高分大片、热剧抢先看、独家综艺、付费影片折扣、畅读小说。
+2、观影特权：广告特权、1080P、帧绮映画、杜比全景声、杜比视界、专属弹幕、下载加速、并行下载、边下边播、预约下载。
+3、身份特权：七端全屏通、畅享多会员、尊贵标识、尊享装扮、生日礼包、专属客服、等级权益红包、赠送好友影片、好友免费一起看。
+
+【自动续费黄金会员】
+-- 黄金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、杜比音效、下载特权等。
+-- 订阅周期：1个月（黄金会员连续包月产品），3个月(黄金会员连续包季产品)，12个月（黄金会员连续包年产品）。
+-- 订阅价格：以iAP申请信息为准，例如连续包月产品每月25元，连续包季产品每季68元，连续包年产品每年238元。
+-- 付款：用户确认购买并付款后记入iTunes账户。
+-- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
+-- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+-- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
+-- 隐私政策： http://www.iqiyi.com/common/privateh5.html
+-- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
+-- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
+【自动续费白金会员】
+-- 白金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画MAX、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、2台设备同时播放、下载特权等。
+-- 订阅周期：1个月（白金会员连续包月产品），3个月(白金会员连续包季产品)，12个月（白金会员连续包年产品）。
+-- 订阅价格：以iAP申请信息为准，例如连续包月产品每月35元，连续包季产品每季98元，连续包年产品每年348元。
+-- 付款：用户确认购买并付款后记入iTunes账户。
+-- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
+-- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+-- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
+-- 隐私政策： http://www.iqiyi.com/common/privateh5.html
+-- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
+-- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
+【自动续费星钻会员套餐说明】
+-- 星钻会员权益：享海量会员专享内容、会员抢先看、加更礼免费看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、3台设备同时播放、下载特权等。
+-- 订阅周期：1个月（星钻会员连续包月产品），3个月（星钻会员连续包季产品），12个月（星钻连续包年产品）
+-- 订阅价格：以iAP申请信息为准，例如连续包月产品为每月45元，连续包季产品每季118元，连续包年每年428元。
+-- 付款：用户确认购买并付款后计入iTunes账户。
+-- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能。
+-- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+-- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
+-- 隐私政策： http://www.iqiyi.com/common/privateh5.html
+-- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
+-- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
+【自动续费体育会员套餐说明】
+--体育会员权益：爱体育会员享每月2场付费比赛直播或点播（高尔夫比赛除外），爱足球会员有效期内可看平台播出的所有足球比赛，并享广告特权、1080P、多语解说、额外单点付费低至3折。
+--订阅周期：1个月（连续包月产品）。
+--订阅价格：爱体育会员连续包月9元/月，爱足球会员连续包月33元/月
+--付款：用户确认购买并付款后记入iTunes账户
+--取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
+--续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/19/d3/bf/19d3bfd6-9e0a-3605-7ddb-1e9913dda13c/132add12-49bd-4d88-8ae5-5ac5488a4ca1_App_Store_U7269_U65991.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/03/a0/da/03a0da78-2838-3c81-c29d-28700c0682f7/80a29786-6e1e-4cd9-8a4a-00e146f32816_App_Store_U7269_U65992.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/32/58/00/325800bb-a68b-32ec-cbe8-5c90b590dc5f/cec956df-a085-48a5-b159-9a135f1e5ef2_App_Store_U7269_U65993.jpg/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[人类跌落梦境]]></title>

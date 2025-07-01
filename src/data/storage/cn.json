@@ -16447,6 +16447,25 @@
     "history": [
       [
         {
+          "timestamp": 1751387017316,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Telegram Premium": "¥33.00",
+            "Telegram Premium Annual": "¥268.00",
+            "1x Premium (3 Months)": "¥98.00",
+            "Telegram Premium (3-Month)": "¥98.00",
+            "1x Premium (1 Year)": "¥268.00",
+            "1x Premium (6 Months)": "¥148.00",
+            "100 Telegram Stars": "¥16.80",
+            "Telegram Premium (1 Year)": "¥298.00",
+            "250 Telegram Stars": "¥41.80",
+            "Telegram Premium (6 month)": "¥168.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750587456166,
           "price": 0,
           "formattedPrice": "免费",
@@ -22250,6 +22269,22 @@
     "history": [
       [
         {
+          "timestamp": 1751387017316,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "白金VIP升级星钻VIP360天": "¥144.00",
+            "会员限时活动": "¥25.00",
+            "连续包月": "¥15.00",
+            "12个月": "¥148.00",
+            "连续包年": "¥178.00",
+            "白金VIP升级星钻VIP90天": "¥36.00",
+            "基础VIP升级黄金VIP90天": "¥36.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751351298604,
           "price": 0,
           "formattedPrice": "免费",
@@ -22555,11 +22590,13 @@
       "price": 0,
       "formattedPrice": "免费",
       "月度VIP会员": "¥25.00",
-      "优酷视频点播": "¥8.00",
+      "优酷视频点播": "¥40.00",
       "优酷月度VIP会员": "¥30.00",
       "季度VIP会员": "¥68.00",
       "年度VIP会员": "¥228.00",
-      "优酷季度VIP会员": "¥78.00"
+      "优酷季度VIP会员": "¥78.00",
+      "优酷视频付费包": "¥9.00",
+      "优酷年度VIP会员": "¥258.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -22569,9 +22606,25 @@
       "优酷月度VIP会员": "¥30.00",
       "季度VIP会员": "¥68.00",
       "年度VIP会员": "¥228.00",
-      "优酷季度VIP会员": "¥78.00"
+      "优酷季度VIP会员": "¥78.00",
+      "优酷视频付费包": "¥9.00",
+      "优酷年度VIP会员": "¥258.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751387017316,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "优酷视频付费包": "¥9.00",
+            "优酷视频点播": "¥40.00",
+            "优酷季度VIP会员": "¥78.00",
+            "优酷年度VIP会员": "¥258.00",
+            "优酷月度VIP会员": "¥30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -25542,10 +25595,21 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "Upgrade to Pro": "¥148.00",
+      "Upgrade to Pro": "¥20.00",
       "Upgrade to Bundle": "¥148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751387017316,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Upgrade to Bundle": "¥148.00",
+            "Upgrade to Pro": "¥20.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -32430,6 +32494,18 @@
       "该影片": "¥25.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751387017316,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "99元商品": "¥99.00",
+            "单点商品": "¥20.00",
+            "该影片": "¥118.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750912042805,
