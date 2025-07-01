@@ -4682,6 +4682,16 @@
     "history": [
       [
         {
+          "timestamp": 1751334319490,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "BetterTouchTool License": "$12.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750169904669,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -11896,6 +11906,21 @@
     "history": [
       [
         {
+          "timestamp": 1751334319490,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "超级会员年卡": "$49.99",
+            "超级会员": "$69.99",
+            "有道翻译超级会员": "$59.99",
+            "有道词典超级会员": "$49.99",
+            "超级会员1年": "$49.99",
+            "会员年卡促销": "$34.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751239009328,
           "price": 0,
           "formattedPrice": "Free",
@@ -12468,6 +12493,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751334319490,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Fotor Pro Annual Special Offer": "$38.99",
+            "Fotor Pro - Recommend Offer": "$47.99",
+            "Fotor Pro - Special Offer": "$39.99",
+            "avatar rich package 80": "$19.99",
+            "avatar rich package 40": "$14.99",
+            "avatar normal package 80": "$11.49",
+            "avatar rich package 20": "$9.99",
+            "avatar normal package 40": "$7.49",
+            "avatar normal package 20": "$4.49",
+            "Pro - Annual Plan.cn.2024": "$47.99"
+          }
+        },
         {
           "timestamp": 1751300594971,
           "price": 0,
@@ -45858,6 +45900,23 @@
     "history": [
       [
         {
+          "timestamp": 1751334319490,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "unlockall_3": "$20.99",
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$20.99",
+            "Miku in Museland": "$8.99",
+            "Valentine Stage": "$3.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$8.99",
+            "MUSE RADIO FM104": "$3.99"
+          }
+        },
+        {
           "timestamp": 1751282156583,
           "price": 0.49,
           "formattedPrice": "$0.49",
@@ -69581,6 +69640,17 @@
       "Upgrade to Plus": "$12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751334319490,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Upgrade to Plus": "$12.99",
+            "Upgrade to Plus Version": "$12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750796442002,

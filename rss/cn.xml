@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-06-30T05:26:04.150Z</updated>
+    <updated>2025-07-01T01:48:13.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-30T05:26:04.152Z</updated>
+        <updated>2025-07-01T01:48:13.660Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnMon, 30 Jun 2025 05:26:04 GMT</id>
+        <id>rankingcnTue, 01 Jul 2025 01:48:13 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-30T05:26:04.152Z</updated>
+        <updated>2025-07-01T01:48:13.660Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -50,13 +50,13 @@ feedId:49753297431966720+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>861</b>
+        <b>862</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>861</b>
+        <b>862</b>
       </td>
       <td>
         <b></b>
@@ -94,873 +94,20 @@ feedId:49753297431966720+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1395152179">奇游加速器 - 全球游戏畅玩</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>14</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>移动端会员-年卡</i>：<b>14</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>2</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1339124759">音频剪辑 – 手机铃声制作&mp3音乐剪辑</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>6</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>月度会员</i>：<b>5</b>
-              </li><li>
-                <i>永久会员</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>3</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1231336508">腾讯视频-五十公里桃花坞5 全网独播</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>5</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>该付费商品</i>：<b>4</b>
-              </li><li>
-                <i>付费商品</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>4</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id461369673">VOX: MP3 & FLAC Music Player</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>4</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>VOX Premium Subscription</i>：<b>2</b>
-              </li><li>
-                <i>LOOP for VOX Subscription</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
         <a href="https://apps.apple.com/cn/app/id1058801458">Remixlive - Make Music & Beats</a>
       </td>
       <td>
         <ul>
           <li>
-            <span>总次数</span>：<b>4</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>Full Access to PRO</i>：<b>4</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>6</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6739523960">允许 Safari 右键单击</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>4</b>
-          </li><li>
-            <span>价格</span>：<b>4</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>7</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6738715418">STEP 和 IGES 文件查看器</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>4</b>
-          </li><li>
-            <span>价格</span>：<b>4</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>8</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6738089759">隐藏鼠标光标</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>4</b>
-          </li><li>
-            <span>价格</span>：<b>4</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>9</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6450397515">录音转文字-语音转文字助手</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>4</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>每日5小时</i>：<b>4</b>
-              </li><li>
-                <i>VIP</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>10</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id491854842">网易有道翻译</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>3</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>有道词典超级会员</i>：<b>3</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>11</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id985614903">SQLPro Studio</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>3</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>SQLPro Premium</i>：<b>3</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>12</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1518518216">Paper 壁纸 - 超高清4K动态壁纸, 桌面壁纸</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>3</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>Upgrade to Plus</i>：<b>3</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>13</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1619925971">UPDF - 新一代 AI 智能 PDF 编辑器</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>3</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>永久授权</i>：<b>3</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>14</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1012296988">爱奇艺-临江仙 离婚仙侠</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>连续包月</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>15</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1133028347">Cleaner One Pro - Uninstaller</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>解锁完整版</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>16</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1544190466">避难所：生存</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>2</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>17</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1550581532">Vythm JR - 音乐可视化 VJ & DJ</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>Vythm PRO</i>：<b>2</b>
-              </li><li>
-                <i>All features and modes</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>18</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1576794157">飞火动态壁纸-4k超清视频桌面主题壁纸引擎</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>三个月会员</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>19</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id430798174">HazeOver • 干扰调节器</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>20</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id447726582">iAudioConverter</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>21</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id522349879">DM1 - The Drum Machine</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>22</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id598581396">Kingdom Rush Frontiers 塔防史诗冒险</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>波恩哈特</i>：<b>1</b>
-              </li><li>
-                <i>阿什比特</i>：<b>1</b>
-              </li><li>
-                <i>沙塔尔</i>：<b>1</b>
-              </li><li>
-                <i>但丁</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>23</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id673906093">歌曲音量调节器Audio Normalizer</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>24</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id797275229">AudioTunes - FLAC, APE, WMA Converter</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>25</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id828466809">SQLPro for MSSQL</a>
-      </td>
-      <td>
-        <ul>
-          <li>
             <span>总次数</span>：<b>1</b>
           </li><li>
             <span>价格</span>：<b>0</b>
           </li><li>
             <span>App 内购买项目</span><ol>
               <li>
-                <i>SQLPro Premium</i>：<b>1</b>
+                <i>Full Access to PRO</i>：<b>1</b>
               </li>
             </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>26</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1157863540">泰拉瑞亚</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>27</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1361473095">喵斯快跑</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>unlockall_29</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>28</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1403919533">MWeb Pro</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>29</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1437556716">Mapcasts - 无广告</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>地图广播高级版</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>30</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1523446532">重生细胞</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>31</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>32</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1535136051">解压 - RAR ZIP 7Z 解压和压缩</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>升级为VIP按月续订</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>33</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1575178082">Max NTFS - NTFS磁盘读写助手</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>Upgrade to Plus Version</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>34</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1576064082">DeviceMirror Pro -无线有线手机投屏</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>35</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1598771178">DeviceMirror Lite -无线手机投屏</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>DeviceMirror Lite Lifetime</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>36</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6737146353">MateFox - KitVPN&国际网络加速器&无限流量</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>Monthly</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>37</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6737795387">鬼谷八荒</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>五朵金花</i>：<b>1</b>
-              </li><li>
-                <i>不归玄境</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>38</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6444789815">记事本++</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>39</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6502489827">大侠立志传</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>40</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6443786927">全面憨憨战争模拟器</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>41</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6448913901">全能AI - AI视频、绘画、特效、音乐、聊天、写作、数字人</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>Pro会员</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>42</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6745999173">圆桌三国-三国休闲卡牌</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
           </li>
         </ul>
       </td>
@@ -976,6 +123,74 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remixlive - Make Music & Beats]]></title>
+        <id>Remixlive - Make Music &amp; Beats-cn-1751334319490</id>
+        <link href="https://apps.apple.com/cn/app/remixlive-make-music-beats/id1058801458?uo=4"/>
+        <updated>2025-07-01T01:45:19.490Z</updated>
+        <summary type="html"><![CDATA[Full Access to PRO: ¥228.00 → ¥198.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/remixlive-make-music-beats/id1058801458?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/a7/6f/afa76f06-1976-ae54-53e8-8b822513ebd6/AppIcon-Remixlive-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>Full Access to PRO：</strong><span>¥228.00</span> → <b>
+  <strong>¥198.00</strong>
+</b><span>[¥198.00 ~ ¥228.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Remixlive是制作人和DJ的完美节拍制作和现场表演应用。
+
+播放、干扰、混合和重新混合你的音乐。直播!
+• 最多可以播放48个音调和节奏同步的循环片段 
+• 实时改变调子和BPM
+• 即兴演奏和录制现场鼓和乐器
+• 使用专业级FXs实时塑造和重采样你的声音
+• 创建你自己的序列和模式
+• 在时间轴上安排你的声音来完成你的歌曲
+
+用独家样本库为你的曲目增添色彩!
+• 在20多种音乐类型中获得超过32000个专业级样本
+• 由顶级声音设计师和世界级艺术家完美打造。
+• 免收版权费用，可在任何平台上进行个人和商业使用。
+• 每周都有新内容！
+
+享受先进的专业级功能!
+• 专业音频引擎和样本时间拉伸
+• 导入你自己的样本（MP3、WAV、AAC、M4A、AIFF、16/24比特）。
+• 连接任何MIDI控制器，你想要多少就有多少 (Launchpad Mini/MK2/MK3/Pro/S/X, AKAI APCMini/MPKminiMK3/APCKey25, DJControl Compact...)
+• 用我们的AI干线分离算法对任何歌曲进行混音
+• 记录和采样任何音源（Audiobus/麦克风/声卡）
+• 通过Ableton Link ""与你的朋友们进行现场演出。
+
+Remixlive拥有您所需要的一切，以创建令人惊叹的曲目，释放您的创造力，并进行令人难忘的现场表演。任何地方!
+
+他们喜欢remixlive
+
+"在便携式设备上制作专业音轨的非常直观的方法。"
+- DJ Mag (新闻)
+
+"我已经把Remixlive整合到我的DJ组合中，它提供了很多创造性的潜力。我会向任何艺术家推荐Remixlive，因为它非常简单，你可以创造出很多有趣和鼓舞人心的东西！"
+- T78（艺术家）
+
+"绝对令人惊奇的应用程序，太有趣了！它就像一个混合的Dj和一个混合的音乐播放器。它就像一个混合的Dj和作曲工具。我被它的力量和可靠性震惊了。"
+- Crystalogic（Remixlive用户）
+
+高级计划和购买
+您可以选择单独购买样品包和功能，或通过订阅计划一次性解锁所有功能。
+
+高级订阅计划
+Remixlive有月度或年度订阅计划，可以解锁所有可用的和未来的功能，让你获得整个26000多个样本库以及每周一个新的样本包。
+
+条款和条件
+购买确认后，付款将从您的账户中扣除。除非在当前期限结束前至少24小时关闭自动续订，否则订阅将自动续订。账户将在当前期限结束前24小时内被收取续订费用，并确定续订费用。订阅可以由用户管理，自动续订可以在购买后进入用户的账户设置中关闭。
+
+使用条款
+https://www.mixvibes.com/terms
+
+隐私政策
+https://www.mixvibes.com/privacy
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/04/92/8b049214-3c09-11cd-5139-34bfc7552eb0/7407096d-5742-4238-b42a-e3f503d2687b_0_APP_IPHONE_55_0.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/2e/25/662e25bf-48ac-3f82-eb14-3fb87c703c8f/780227cd-c9d2-49ce-9e38-260413903945_1_APP_IPHONE_55_1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/56/4d/76564d17-08ac-498a-2dcd-a6b20b12acbb/2a10b050-f229-4ac1-ac4c-411e9e82e4c0_2_APP_IPHONE_55_2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/37/f2/b337f2ae-d399-9635-5175-d29c3fe4d774/0ab643b2-a9d8-47c8-9356-50f02246383f_3_APP_IPHONE_55_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/df/f5/71dff567-230e-e00f-27fe-f3799f4834f7/33f3f5d7-0b0d-4d1e-9703-96a9303099aa_5_APP_IPHONE_55_5.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/38/1a/03381afb-a809-2fc6-c5a5-109541d6c2b8/5e57a27f-2271-4061-9062-5de24403891a_4_APP_IPHONE_55_4.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/c6/3b/09c63bad-adc4-da4b-5ec5-7f89ff83c5da/7cb380a3-b58b-44c1-b84e-58a4a6235764_6_APP_IPHONE_55_6.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/64/fb/2864fb75-0618-3f96-9fdc-5476a1bd5da7/8316f06e-b806-45ea-a1aa-bc3fc2bbc25f_7_APP_IPHONE_55_7.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/fe/67/8afe672c-8078-08bd-2b47-f622884370c6/d68fa9f1-1472-40bf-876e-af0740b31487_8_APP_IPHONE_55_8.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/fd/b8/c3fdb8c0-d0b8-cb84-9824-8fd78503241f/3371f955-4af8-44cb-88ca-1cfc1b0fd23f_9_APP_IPHONE_55_9.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/eb/16/5eeb16c7-56a5-b350-d440-1cb7c4ac1f1d/e61917df-b245-4728-935a-b870008b20ea_0_APP_IPAD_PRO_129_0.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/ba/56/44ba567e-df49-dbe7-2041-be07b3b187f6/7f6c19c3-5088-4c06-b657-37ab4ec98341_1_APP_IPAD_PRO_129_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/9f/89/1c9f89ee-fe4a-d398-a3c5-e2893c219f48/27c0b11b-0bf4-45dd-80b8-198320365e59_2_APP_IPAD_PRO_129_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/1a/35/621a35e7-91ce-72c0-7505-28dae225abac/0faeba01-54b5-4322-b28e-d2d6a85615ad_3_APP_IPAD_PRO_129_3__U00286_U0029.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/96/66/049666d1-db48-0c54-91ab-b5f843f5b94c/3daed6f0-3215-4a24-adb0-d777778821ff_4_APP_IPAD_PRO_129_4.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/b3/5a/95b35a11-ffe9-9e28-de61-12059f76cf81/c5ec5430-14e7-4036-9aec-526697c5c963_5_APP_IPAD_PRO_129_5.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/c1/48/c5c148cf-d56d-e7a6-0323-d91ee6311259/d0cec703-83b2-475b-a6b2-fc1d97e09519_6_APP_IPAD_PRO_129_6.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/97/13/51971302-d237-6ac5-158e-258e13fd46aa/7e661645-afb7-4bda-9947-b09f18193f7e_7_APP_IPAD_PRO_3GEN_129_7.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/ed/d4/9cedd454-bed7-1fca-810e-3c7c7364eb38/9bc1c1d6-6fba-4d68-ba47-b91e00bc0a3f_8_APP_IPAD_PRO_129_8.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/ae/b0/ecaeb034-0b54-fb54-1dee-b7416eba9eee/aff67452-af5f-436f-a2ac-f21f87921bcd_9_APP_IPAD_PRO_129_9.jpg/552x414bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[网易有道翻译]]></title>
@@ -1152,47 +367,5 @@ feedId:49753297431966720+userId:73658201673997312
 
 《王国保卫战》所获赞誉：IGN编辑精选游戏，Slide To Play必玩游戏，148 Apps编辑精选游戏，Jay is Games年度游戏，Pocket Gamer金奖，Touch Arcade 4.5/5，CNET。最佳iPad游戏
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/e4/d0/0f/e4d00fcd-188d-fd5a-d105-835ed009c5bd/a317a203-92f2-4e87-9e66-bc34f6146e23_screenshots_2208x12420011.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/db/36/28/db36287e-872c-b2bb-e4ca-880fb04e4e64/ed2440e8-7636-4721-9cd6-e6611ee15246_screenshots_2208x12420012.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/44/9c/8a/449c8a55-c61f-2507-f4a6-4b85479272b4/ce301336-b1fa-4b2a-aa90-c274d5374365_screenshots_2208x12420013.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/e9/49/3c/e9493ccd-0f7b-99ee-ec09-a046b8893f50/26187e05-8313-40e0-9f8b-c1558caf7bd7_screenshots_2208x12420014.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/27/9c/ff/279cff26-14e4-a77a-e316-2a44a896833b/95e7c5b8-6e36-4971-b952-799de509b935_screenshots_2208x12420015.jpg/406x228bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[允许 Safari 右键单击]]></title>
-        <id>允许 Safari 右键单击-cn-1751033869117</id>
-        <link href="https://apps.apple.com/cn/app/%E5%85%81%E8%AE%B8-safari-%E5%8F%B3%E9%94%AE%E5%8D%95%E5%87%BB/id6739523960?uo=4"/>
-        <updated>2025-06-27T14:17:49.117Z</updated>
-        <summary type="html"><![CDATA[价格: ¥15.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%85%81%E8%AE%B8-safari-%E5%8F%B3%E9%94%AE%E5%8D%95%E5%87%BB/id6739523960?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ea/35/f9ea3591-a3aa-59b0-1a37-183f419f88f2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥15.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥15.00]</span>）
-</h2><h2>应用描述</h2><p>该软件允许在所有网站上使用右键单击、复制、剪切和粘贴功能。它具有简单的界面，易于使用。您可以复制任何内容，无论是文本、图像还是其他媒体。</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STEP 和 IGES 文件查看器]]></title>
-        <id>STEP 和 IGES 文件查看器-cn-1751033869117</id>
-        <link href="https://apps.apple.com/cn/app/step-%E5%92%8C-iges-%E6%96%87%E4%BB%B6%E6%9F%A5%E7%9C%8B%E5%99%A8/id6738715418?mt=12&amp;uo=4"/>
-        <updated>2025-06-27T14:17:49.117Z</updated>
-        <summary type="html"><![CDATA[价格: ¥88.00 → ¥8.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/step-%E5%92%8C-iges-%E6%96%87%E4%BB%B6%E6%9F%A5%E7%9C%8B%E5%99%A8/id6738715418?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/55/f8/ee55f8c1-9e6f-b66e-8745-8fa4073cc1e3/icon.png/60x60bb.png" />
-</a><h2>
-  优惠信息（价格：<span>¥88.00</span> → <b>
-  <strong>¥8.00</strong>
-</b><span>[¥8.00 ~ ¥88.00]</span>）
-</h2><h2>应用描述</h2><p>适用于 STEP/STP、IGES/IGS 和其他 3D 文件格式的专业 3D 查看器。支持轻松打印和转换 3D 文件。</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/84/ec/4984ec88-a04a-e981-64d6-d6fec8d8a2b2/_U65e0_U6807_U989829.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/c7/6d/aec76dd3-5cd8-fe26-ef16-bf4ccf3a72ed/_U65e0_U6807_U9898.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/68/5a/63685a4f-4f46-ce54-b618-f9c0f6c6dada/_U65e0_U6807_U98982.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隐藏鼠标光标]]></title>
-        <id>隐藏鼠标光标-cn-1751033869117</id>
-        <link href="https://apps.apple.com/cn/app/%E9%9A%90%E8%97%8F%E9%BC%A0%E6%A0%87%E5%85%89%E6%A0%87/id6738089759?mt=12&amp;uo=4"/>
-        <updated>2025-06-27T14:17:49.117Z</updated>
-        <summary type="html"><![CDATA[价格: ¥8.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E9%9A%90%E8%97%8F%E9%BC%A0%E6%A0%87%E5%85%89%E6%A0%87/id6738089759?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/3e/95/423e9529-c3a8-daed-aa31-a91b61fc449c/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png" />
-</a><h2>
-  优惠信息（价格：<span>¥8.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥8.00]</span>）
-</h2><h2>应用描述</h2><p>这款应用是一款专为用户隐藏鼠标光标的工具，特别适合全屏演示、视频播放或游戏，让用户能够专注于内容而不受光标的干扰，包括一键隐藏/显示光标、快捷键支持和自定义设置。</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/e7/e9/14e7e980-14b9-dd96-141a-2deecdd1fe0c/Screenshot_2024-11-22_at_5.14.01_U202fPM_copy.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/48/67/b748678b-92ca-24f1-ea97-72ecc7924d6b/Screenshot_2024-11-22_at_5.14.01_U202fPM.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>
