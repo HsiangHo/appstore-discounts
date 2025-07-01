@@ -988,6 +988,94 @@
   ],
   "us": [
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/float-tech-llc/id483697886?mt=12&uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a6/12/eb/a612ebf2-0792-2872-e270-95fc99cc8d19/AppIcon-0-0-85-220-0-0-4-0-2x.png/60x60bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a6/12/eb/a612ebf2-0792-2872-e270-95fc99cc8d19/AppIcon-0-0-85-220-0-0-4-0-2x.png/100x100bb.png",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/a6/d0/63/a6d063b5-8194-3e3a-dabd-69cc1a17c1b4/51fab44a-f38c-4c8b-9947-35caa4c3a46a_en-US-Mac_ss1.jpg/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/23/9c/bc/239cbcbb-42e0-bf0a-b067-6d0b4c8860d7/3e90d419-fa14-45ad-bbca-7e314f50dd59_en-US-Mac_ss2.jpg/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/9a/7c/5f/9a7c5ff2-6296-c62d-086e-c7d4592a384c/481fbb67-f60a-40cd-8aec-3fdc93881085_en-US-Mac_ss3.jpg/800x500bb.jpg"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a6/12/eb/a612ebf2-0792-2872-e270-95fc99cc8d19/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png",
+      "kind": "mac-software",
+      "trackCensoredName": "The Audio Converter",
+      "trackViewUrl": "https://apps.apple.com/us/app/the-audio-converter/id1081480270?mt=12&uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "averageUserRatingForCurrentVersion": 0,
+      "languageCodesISO2A": [
+        "DA",
+        "NL",
+        "EN",
+        "FI",
+        "FR",
+        "DE",
+        "EL",
+        "HI",
+        "ID",
+        "IT",
+        "JA",
+        "KO",
+        "MS",
+        "NN",
+        "PT",
+        "RU",
+        "ZH",
+        "ES",
+        "SV",
+        "TH",
+        "ZH",
+        "TR",
+        "VI"
+      ],
+      "fileSizeBytes": "33749207",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "artistId": 483697886,
+      "artistName": "Float Tech, LLC",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "price": 0,
+      "bundleId": "com.smoothmobile.mTheAudioConverter",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "releaseNotes": "Improved menu UI",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2016-02-18T18:59:15Z",
+      "trackId": 1081480270,
+      "trackName": "The Audio Converter",
+      "sellerName": "Float Tech, LLC",
+      "currentVersionReleaseDate": "2023-12-28T20:31:28Z",
+      "version": "12.8.0",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Quickly convert your audio or video files to nearly any audio format!\n\n1. Select your input file\n2. Choose your output format ( MP3, WAV, M4A, AAC  etc.  )\n3. Convert! It will only take a few seconds.\n4. Done! Listen right away, or open  in your favorite app\n\nHere are the video and audio output formats you can choose from:\nMP3, M4A, AAC, FLAC, OGG, WAV, WMA, AIFF\n\nYou can convert from dozens of input formats, here are some of the most popular formats we support converting from:\nMOV, M4A, MP3, WMA, MP4, WAV, OGG, OPUS, AMR, AAC, WEBM, MID and many more!\n\nSave, Share or Listen to your converted audio files in your favorite apps immediately.\n\nConversion is done on a secure cloud server, which makes conversion easier, faster and much more battery-friendly. You must have an internet connection to use this app. Files are immediately deleted from the server after conversion. While the files are immediately deleted after conversion or cancellation, you should be aware that by using this app, you agree that your files will be sent over to internet from the app to the conversion server.\n\nWe've also recently added support for local conversions for many popular conversion types. These conversions don't require a server, and are usually done almost instantly! We are continuing to add support for more local conversions with each update.\n\n\nThis app includes an optional auto-renewable subscription (Premium Pass): Premium Pass beings with a free trial period, then an auto-renewable monthly subscription when trial ends. Payment will be charged to your Apple account at confirmation of purchase and will automatically renew (at the duration/price selected) unless auto-renew is turned off at least 24 hrs before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period. Current subscription may not be cancelled during the active subscription period; however, you can manage your subscription and/or turn off auto-renewal by visiting your Apple Account Settings after purchase. Any unused portion of the free initial period will be forfeited when you purchase a subscription.\n\nPrivacy Policy: https://float.support/the-audio-converter-mac/privacy\nTerms of Use: https://float.support/the-audio-converter-mac/terms",
+      "minimumOsVersion": "10.15",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "userRatingCount": 0,
+      "inAppPurchases": {
+        "Premium Pass": "$1.99",
+        "Lifetime Pass Promo": "$0.00",
+        "Lifetime Pass": "$9.99"
+      },
+      "timestamp": 1751404640681,
+      "discounts": [
+        {
+          "type": "inAppPurchase",
+          "name": "Premium Pass",
+          "from": "$19.99",
+          "to": "$1.99",
+          "range": "[$1.99 ~ $19.99]"
+        }
+      ]
+    },
+    {
       "artistViewUrl": "https://apps.apple.com/us/developer/xiamen-meitu-technology-co-ltd/id416048308?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/c8/fc/72c8fc00-bed8-357d-ba87-9d6b7966e02d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/c8/fc/72c8fc00-bed8-357d-ba87-9d6b7966e02d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",

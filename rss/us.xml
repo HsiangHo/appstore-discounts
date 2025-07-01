@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-07-01T10:26:02.874Z</updated>
+    <updated>2025-07-01T21:21:06.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-01T10:26:02.875Z</updated>
+        <updated>2025-07-01T21:21:06.631Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 01 Jul 2025 10:26:02 GMT</id>
+        <id>rankingusTue, 01 Jul 2025 21:21:06 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-01T10:26:02.876Z</updated>
+        <updated>2025-07-01T21:21:06.631Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -140,6 +140,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1081480270">The Audio Converter</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Premium Pass</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1361473095">MuseDash</a>
       </td>
       <td>
@@ -160,7 +183,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1575178082">Max NTFS - NTFS Disk Helper</a>
@@ -183,7 +206,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1594288016">Wink: Video Enhancer & Editor</a>
@@ -215,6 +238,47 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Audio Converter]]></title>
+        <id>The Audio Converter-us-1751404640681</id>
+        <link href="https://apps.apple.com/us/app/the-audio-converter/id1081480270?mt=12&amp;uo=4"/>
+        <updated>2025-07-01T21:17:20.681Z</updated>
+        <summary type="html"><![CDATA[Premium Pass: $19.99 → $1.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/the-audio-converter/id1081480270?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a6/12/eb/a612ebf2-0792-2872-e270-95fc99cc8d19/AppIcon-0-0-85-220-0-0-4-0-2x.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Premium Pass：</strong><span>$19.99</span> → <b>
+  <strong>$1.99</strong>
+</b><span>[$1.99 ~ $19.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Quickly convert your audio or video files to nearly any audio format!
+
+1. Select your input file
+2. Choose your output format ( MP3, WAV, M4A, AAC  etc.  )
+3. Convert! It will only take a few seconds.
+4. Done! Listen right away, or open  in your favorite app
+
+Here are the video and audio output formats you can choose from:
+MP3, M4A, AAC, FLAC, OGG, WAV, WMA, AIFF
+
+You can convert from dozens of input formats, here are some of the most popular formats we support converting from:
+MOV, M4A, MP3, WMA, MP4, WAV, OGG, OPUS, AMR, AAC, WEBM, MID and many more!
+
+Save, Share or Listen to your converted audio files in your favorite apps immediately.
+
+Conversion is done on a secure cloud server, which makes conversion easier, faster and much more battery-friendly. You must have an internet connection to use this app. Files are immediately deleted from the server after conversion. While the files are immediately deleted after conversion or cancellation, you should be aware that by using this app, you agree that your files will be sent over to internet from the app to the conversion server.
+
+We've also recently added support for local conversions for many popular conversion types. These conversions don't require a server, and are usually done almost instantly! We are continuing to add support for more local conversions with each update.
+
+
+This app includes an optional auto-renewable subscription (Premium Pass): Premium Pass beings with a free trial period, then an auto-renewable monthly subscription when trial ends. Payment will be charged to your Apple account at confirmation of purchase and will automatically renew (at the duration/price selected) unless auto-renew is turned off at least 24 hrs before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period. Current subscription may not be cancelled during the active subscription period; however, you can manage your subscription and/or turn off auto-renewal by visiting your Apple Account Settings after purchase. Any unused portion of the free initial period will be forfeited when you purchase a subscription.
+
+Privacy Policy: https://float.support/the-audio-converter-mac/privacy
+Terms of Use: https://float.support/the-audio-converter-mac/terms
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/a6/d0/63/a6d063b5-8194-3e3a-dabd-69cc1a17c1b4/51fab44a-f38c-4c8b-9947-35caa4c3a46a_en-US-Mac_ss1.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/23/9c/bc/239cbcbb-42e0-bf0a-b067-6d0b4c8860d7/3e90d419-fa14-45ad-bbca-7e314f50dd59_en-US-Mac_ss2.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/9a/7c/5f/9a7c5ff2-6296-c62d-086e-c7d4592a384c/481fbb67-f60a-40cd-8aec-3fdc93881085_en-US-Mac_ss3.jpg/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wink: Video Enhancer & Editor]]></title>
