@@ -54397,6 +54397,22 @@
     "history": [
       [
         {
+          "timestamp": 1751483667337,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "连续包月": "$5.99",
+            "快帆30天VIP": "$6.99",
+            "连续包季": "$17.49",
+            "连续包年": "$64.99",
+            "360天VIP": "$69.99",
+            "90天VIP": "$16.99",
+            "快帆360天VIP": "$74.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751290315292,
           "price": 0,
           "formattedPrice": "Free",
@@ -67833,6 +67849,22 @@
     "history": [
       [
         {
+          "timestamp": 1751483667337,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Vythm PRO": "$9.99",
+            "All features and modes": "$29.99",
+            "Unlock all (including updates)": "$139.99",
+            "Psychedelic mode for mobile": "$4.99",
+            "Mandala mode on mobile devices": "$4.99",
+            "Dreaming mode for mobile": "$4.99",
+            "Fluids mode for mobile devices": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751171640866,
           "price": 0,
           "formattedPrice": "Free",
@@ -72130,6 +72162,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751483667337,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$9.99",
+            "Wink- 25 Credits": "$7.99",
+            "Wink- AI Photo Restore": "$2.99",
+            "10-second AI animation": "$1.99",
+            "Wink- 100 Credits": "$24.99"
+          }
+        },
         {
           "timestamp": 1751451607021,
           "price": 0,
