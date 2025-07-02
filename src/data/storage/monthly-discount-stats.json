@@ -47,6 +47,11 @@
       "inAppPurchase": {
         "VIP": 1
       }
+    },
+    "6612011484": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   },
   "us": {
@@ -69,6 +74,13 @@
       "price": 0,
       "inAppPurchase": {
         "Premium Pass": 1
+      }
+    },
+    "1231336508": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "该影片": 1
       }
     },
     "1361473095": {
