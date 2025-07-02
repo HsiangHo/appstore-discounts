@@ -30367,6 +30367,20 @@
     "history": [
       [
         {
+          "timestamp": 1751440708338,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "黄金会员连续包月": "$3.99",
+            "月卡": "$3.99",
+            "黄金会员连续包季": "$10.49",
+            "季卡": "$9.99",
+            "黄金会员连续包年": "$29.99",
+            "连续包月": "$6.99",
+            "年卡": "$29.99"
+          }
+        },
+        {
           "timestamp": 1751437680892,
           "price": 0,
           "formattedPrice": "Free",
@@ -52177,6 +52191,22 @@
     "history": [
       [
         {
+          "timestamp": 1751440708338,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "移动端会员-三年卡": "$29.99",
+            "移动端会员-两年卡": "$19.99",
+            "移动端会员-年卡": "$14.99",
+            "移动端会员-活动连续包月": "$1.99",
+            "移动端会员-活动季卡": "$5.99",
+            "移动端会员-月卡": "$2.99",
+            "移动端会员-连续包月": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751376732281,
           "price": 0,
           "formattedPrice": "Free",
@@ -72085,6 +72115,21 @@
       "30-second AI animation": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751440708338,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- 25 Credits": "$7.99",
+            "Wink- AI Photo Restore": "$0.99",
+            "10-second AI animation": "$1.99",
+            "Wink- 100 Credits": "$24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751408258059,
@@ -93282,6 +93327,20 @@
       "月会员": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751440708338,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro会员": "$19.99",
+            "周会员": "$4.99",
+            "积分": "$9.99",
+            "月会员": "$9.99",
+            "季度会员": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750080755476,
