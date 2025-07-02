@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-07-02T04:34:01.970Z</updated>
+    <updated>2025-07-02T16:29:03.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-02T04:34:01.971Z</updated>
+        <updated>2025-07-02T16:29:03.341Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnWed, 02 Jul 2025 04:34:01 GMT</id>
+        <id>rankingcnWed, 02 Jul 2025 16:29:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-02T04:34:01.971Z</updated>
+        <updated>2025-07-02T16:29:03.341Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -226,6 +226,29 @@ feedId:49753297431966720+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1576794157">飞火动态壁纸-4k超清视频桌面主题壁纸引擎</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>半年会员</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>8</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1619925971">UPDF - 新一代 AI 智能 PDF 编辑器</a>
       </td>
       <td>
@@ -246,7 +269,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6450397515">录音转文字-语音转文字助手</a>
@@ -269,7 +292,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6612011484">怪物乐土</a>
@@ -295,6 +318,29 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[飞火动态壁纸-4k超清视频桌面主题壁纸引擎]]></title>
+        <id>飞火动态壁纸-4k超清视频桌面主题壁纸引擎-cn-1751473375722</id>
+        <link href="https://apps.apple.com/cn/app/%E9%A3%9E%E7%81%AB%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8-4k%E8%B6%85%E6%B8%85%E8%A7%86%E9%A2%91%E6%A1%8C%E9%9D%A2%E4%B8%BB%E9%A2%98%E5%A3%81%E7%BA%B8%E5%BC%95%E6%93%8E/id1576794157?mt=12&amp;uo=4"/>
+        <updated>2025-07-02T16:22:55.722Z</updated>
+        <summary type="html"><![CDATA[半年会员: ¥29.00 → ¥27.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E9%A3%9E%E7%81%AB%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8-4k%E8%B6%85%E6%B8%85%E8%A7%86%E9%A2%91%E6%A1%8C%E9%9D%A2%E4%B8%BB%E9%A2%98%E5%A3%81%E7%BA%B8%E5%BC%95%E6%93%8E/id1576794157?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/4c/d2/cb4cd29c-9d6b-6df0-4865-8d6db6ef86bb/AppIcon-85-220-0-4-2x.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>半年会员：</strong><span>¥29.00</span> → <b>
+  <strong>¥27.00</strong>
+</b><span>[¥27.00 ~ ¥29.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  【动态视频桌面】
+一键设置动态壁纸，唤醒你沉睡的桌面
+【海量超清壁纸】
+每日更新新鲜壁纸，让你的桌面每天焕然一新
+【趣味交互壁纸】各类特色交互壁纸，移动鼠标开启和桌面的有趣互动
+飞火动态壁纸拥有海量壁纸资源，超清无水印动态壁纸、优质静态壁纸大全一键美化你的桌面，让你的桌面动起来！ 更有各种隐藏彩蛋等着你哦！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/ca/73/e9ca7323-84d2-047c-1609-8e657e0eb97e/5a50f404baa27c1488934de8c030e532.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/b5/ff/fcb5ffaf-95f5-7952-9950-298088193e0f/ce8c09195637625df422c61122ad14ae.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/fb/e9/63fbe99d-8074-09f3-3373-2263d3c7509c/_U52a8_U6001.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/9d/81/409d8183-19f5-5fec-e5c3-5804a4d268a4/_U9759_U6001.jpg/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[UPDF - 新一代 AI 智能 PDF 编辑器]]></title>

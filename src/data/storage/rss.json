@@ -1,6 +1,76 @@
 {
   "cn": [
     {
+      "kind": "mac-software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/ca/73/e9ca7323-84d2-047c-1609-8e657e0eb97e/5a50f404baa27c1488934de8c030e532.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/b5/ff/fcb5ffaf-95f5-7952-9950-298088193e0f/ce8c09195637625df422c61122ad14ae.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/fb/e9/63fbe99d-8074-09f3-3373-2263d3c7509c/_U52a8_U6001.jpg/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/9d/81/409d8183-19f5-5fec-e5c3-5804a4d268a4/_U9759_U6001.jpg/800x500bb.jpg"
+      ],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/4c/d2/cb4cd29c-9d6b-6df0-4865-8d6db6ef86bb/AppIcon-85-220-0-4-2x.png/60x60bb.png",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/4c/d2/cb4cd29c-9d6b-6df0-4865-8d6db6ef86bb/AppIcon-85-220-0-4-2x.png/512x512bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/4c/d2/cb4cd29c-9d6b-6df0-4865-8d6db6ef86bb/AppIcon-85-220-0-4-2x.png/100x100bb.png",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%90%88%E8%82%A5%E8%AF%BA%E6%8B%89%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1576794159?mt=12&uo=4",
+      "minimumOsVersion": "10.15",
+      "artistId": 1576794159,
+      "artistName": "合肥诺拉网络科技有限公司",
+      "genres": [
+        "工具"
+      ],
+      "price": 0,
+      "releaseDate": "2021-07-27T07:00:00Z",
+      "trackId": 1576794157,
+      "trackName": "飞火动态壁纸-4k超清视频桌面主题壁纸引擎",
+      "bundleId": "com.bizhi.nora",
+      "genreIds": [
+        "6002"
+      ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Hefei Nora Network Technology co., ltd",
+      "releaseNotes": "修复已知问题\n优化用户体验",
+      "version": "1.4.0",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "【动态视频桌面】\n一键设置动态壁纸，唤醒你沉睡的桌面\n【海量超清壁纸】\n每日更新新鲜壁纸，让你的桌面每天焕然一新\n【趣味交互壁纸】各类特色交互壁纸，移动鼠标开启和桌面的有趣互动\n飞火动态壁纸拥有海量壁纸资源，超清无水印动态壁纸、优质静态壁纸大全一键美化你的桌面，让你的桌面动起来！ 更有各种隐藏彩蛋等着你哦！",
+      "averageUserRating": 0,
+      "averageUserRatingForCurrentVersion": 0,
+      "trackCensoredName": "飞火动态壁纸-4k超清视频桌面主题壁纸引擎",
+      "languageCodesISO2A": [
+        "EN",
+        "ZH"
+      ],
+      "fileSizeBytes": "78464417",
+      "formattedPrice": "免费",
+      "contentAdvisoryRating": "17+",
+      "userRatingCountForCurrentVersion": 0,
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E9%A3%9E%E7%81%AB%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8-4k%E8%B6%85%E6%B8%85%E8%A7%86%E9%A2%91%E6%A1%8C%E9%9D%A2%E4%B8%BB%E9%A2%98%E5%A3%81%E7%BA%B8%E5%BC%95%E6%93%8E/id1576794157?mt=12&uo=4",
+      "trackContentRating": "17+",
+      "currentVersionReleaseDate": "2025-02-17T02:17:43Z",
+      "userRatingCount": 0,
+      "inAppPurchases": {
+        "一个月会员": "¥8.00",
+        "新1年会员": "¥39.00",
+        "三个月会员": "¥22.00",
+        "一年会员": "¥58.00",
+        "永久会员": "¥188.00",
+        "半年会员": "¥27.00",
+        "1年会员-超低价": "¥29.00"
+      },
+      "timestamp": 1751473375722,
+      "discounts": [
+        {
+          "type": "inAppPurchase",
+          "name": "半年会员",
+          "from": "¥29.00",
+          "to": "¥27.00",
+          "range": "[¥27.00 ~ ¥29.00]"
+        }
+      ]
+    },
+    {
       "artistViewUrl": "https://apps.apple.com/cn/developer/superace-software-technology-co-ltd/id1595826625?mt=12&uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/62/61/a7626105-03d0-6da3-1c29-3f82263de901/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/62/61/a7626105-03d0-6da3-1c29-3f82263de901/AppIcon-0-0-85-220-0-0-5-0-2x.png/100x100bb.png",
