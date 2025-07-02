@@ -12552,6 +12552,25 @@
     "history": [
       [
         {
+          "timestamp": 1751419614445,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Editor Pro - Annual Plan": "$47.99",
+            "Editor Pro - Monthly Plan": "$8.99",
+            "Editor Pro - Annual Plan.2024": "$47.99",
+            "FotorPro+ - Monthly Plan": "$19.99",
+            "Pro discount - Monthly Plan": "$8.99",
+            "FotorPro+ - Annual Plan": "$89.99",
+            "Pro discount - Annual Plan": "$47.99",
+            "Fotor Pro - Recommend Offer": "$47.99",
+            "Pro - Annual Plan.cn.2024": "$47.99",
+            "200 credits for pro": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751341090242,
           "price": 0,
           "formattedPrice": "Free",
@@ -15028,6 +15047,21 @@
       "5分钟下载券（忙时）": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751419614445,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "5分钟下载券（忙时）": "$0.99",
+            "简单听记600分钟时长包": "$9.99",
+            "简单听记60分钟时长包": "$2.99",
+            "简单听记300分钟时长包": "$5.99",
+            "简单听记30分钟时长包": "$0.99",
+            "简单听记180分钟时长包": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750944690599,
@@ -24715,6 +24749,21 @@
       "Select Pack": "$12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751419614445,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Deluxe Pack": "$18.99",
+            "Select Pack": "$12.99",
+            "Elite Package": "$9.99",
+            "Supreme Package": "$4.99",
+            "Advanced Package": "$2.99",
+            "Starter Package": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750843284914,
@@ -36014,6 +36063,23 @@
     "history": [
       [
         {
+          "timestamp": 1751419614445,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Desperado Unlock Pack": "$7.99",
+            "She-Ra Prestige Pack Sale": "$6.99",
+            "She-Ra Sword Booster Sale": "$1.99",
+            "She-Ra Sword Power Booster": "$3.99",
+            "She-Ra Prestige Pack": "$12.99",
+            "Battle Cat Booster Pack": "$3.99",
+            "Battle Cat Prestige Pack": "$3.99",
+            "Rogue Legends": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750583877379,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -39757,6 +39823,18 @@
       "99元商品": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751419614445,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "99元商品": "$14.99",
+            "单点商品": "$2.99",
+            "该影片": "$17.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751257923691,
@@ -46154,6 +46232,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751419614445,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "Aim to Be a Rhythm Master!(30%": "$2.99",
+            "Chill & Sip Summer Pass": "$2.99",
+            "Aquaria Cruising Guide(30%)": "$2.99",
+            "Happy Otaku Pack Vol.20(30%)": "$2.99",
+            "Muse Dash・Legend(30%)": "$2.99",
+            "Cosmic Radio 2024(30%)": "$2.99",
+            "MSR Anthology_Vol.02(30%)": "$3.99",
+            "MDlevelTacticalTrainingBlu-ray": "$1.99",
+            "Ensemble Arcanum(30%)": "$1.99",
+            "Touhou Mugakudan -IV-(30%)": "$2.99"
+          }
+        },
         {
           "timestamp": 1751390193121,
           "price": 0.49,
