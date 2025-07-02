@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-07-02T03:23:05.168Z</updated>
+    <updated>2025-07-02T04:34:01.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-02T03:23:05.168Z</updated>
+        <updated>2025-07-02T04:34:01.978Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusWed, 02 Jul 2025 03:23:05 GMT</id>
+        <id>rankingusWed, 02 Jul 2025 04:34:01 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-02T03:23:05.168Z</updated>
+        <updated>2025-07-02T04:34:01.978Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -94,6 +94,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1361473095">MuseDash</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Rin·Len's Mirrorland</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id417375580">BetterSnapTool</a>
       </td>
       <td>
@@ -114,7 +137,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>3</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id491854842">Youdao Translate</a>
@@ -137,7 +160,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1081480270">The Audio Converter</a>
@@ -160,7 +183,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1231336508">腾讯视频-五十公里桃花坞5 全网独播</a>
@@ -175,29 +198,6 @@ feedId:49753370488353792+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>该影片</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1361473095">MuseDash</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Rin·Len's Mirrorland</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -261,6 +261,57 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MuseDash]]></title>
+        <id>MuseDash-us-1751430503586</id>
+        <link href="https://apps.apple.com/us/app/musedash/id1361473095?uo=4"/>
+        <updated>2025-07-02T04:28:23.586Z</updated>
+        <summary type="html"><![CDATA[Rin·Len's Mirrorland: $8.99 → $5.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/musedash/id1361473095?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/32/bc/f032bc12-3152-93ef-deeb-f6ec4bf3a610/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Rin·Len's Mirrorland：</strong><span>$8.99</span> → <b>
+  <strong>$5.99</strong>
+</b><span>[$4.99 ~ $8.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  "Hitting while listening to music."
+"Is that the call from another world?"
+[Game Starts Now—!!]
+
+Lovely girls
+or rhythmic music?
+If there’s a place for you to have them both…
+It must be the paradise of parkour & rhythm game  — Muse Dash!!
+
+Huh?! Not your forte? It doesn’t matter!
+Who says you must have a strong sense of rhythm to win?
+Avoid is also a valid option (?)
+As long as you have 100% of passion, courage, and… love for lovely girls~
+Rhythm and fight won’t be an issue
+
+[Gameplay]
+Dance to the music and beat enemies in the air and on the ground. Also, watch out for the obstacles!!
+What an easy, beginner-friendly rhythm game
+
+[Media Review]
+可愛らしいビジュアルのキャラクターが躍動する、新感覚の2Dアクションスタイルのリズムゲーム ——IGN Japan
+
+“A bright exterior hides a surprisingly deep and engaging mash up”——POCKET GAMER
+
+Languages Supported:
+English
+简体中文（Simplified Chinese）
+繁体中文 （Traditional Chinese）
+日本語（Japanese)
+韩语 （Korean）
+
+Feedback: https://service.peropero.net/
+Twitter:@MuseDash_EN
+@PeroPeroGuys
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[腾讯视频-五十公里桃花坞5 全网独播]]></title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-07-02T03:23:05.159Z</updated>
+    <updated>2025-07-02T04:34:01.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-02T03:23:05.161Z</updated>
+        <updated>2025-07-02T04:34:01.971Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnWed, 02 Jul 2025 03:23:05 GMT</id>
+        <id>rankingcnWed, 02 Jul 2025 04:34:01 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-02T03:23:05.161Z</updated>
+        <updated>2025-07-02T04:34:01.971Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -226,6 +226,29 @@ feedId:49753297431966720+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1619925971">UPDF - 新一代 AI 智能 PDF 编辑器</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>UPDF AI 标准版</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>8</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id6450397515">录音转文字-语音转文字助手</a>
       </td>
       <td>
@@ -246,7 +269,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6612011484">怪物乐土</a>
@@ -272,6 +295,93 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UPDF - 新一代 AI 智能 PDF 编辑器]]></title>
+        <id>UPDF - 新一代 AI 智能 PDF 编辑器-cn-1751430503586</id>
+        <link href="https://apps.apple.com/cn/app/updf-%E6%96%B0%E4%B8%80%E4%BB%A3-ai-%E6%99%BA%E8%83%BD-pdf-%E7%BC%96%E8%BE%91%E5%99%A8/id1619925971?mt=12&amp;uo=4"/>
+        <updated>2025-07-02T04:28:23.586Z</updated>
+        <summary type="html"><![CDATA[UPDF AI 标准版: ¥148.00 → ¥69.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/updf-%E6%96%B0%E4%B8%80%E4%BB%A3-ai-%E6%99%BA%E8%83%BD-pdf-%E7%BC%96%E8%BE%91%E5%99%A8/id1619925971?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/62/61/a7626105-03d0-6da3-1c29-3f82263de901/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>UPDF AI 标准版：</strong><span>¥148.00</span> → <b>
+  <strong>¥69.00</strong>
+</b><span>[¥69.00 ~ ¥148.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  UPDF 2.0大版本更新，这是一款AI PDF编辑器，具有AI，阅读，编辑，注释、云同步、转换、加密、裁剪、拆分、文档对比等功能。1个账号付费，全平台都可以使用（电脑＋手机＋iPad）。UPDF 凭借年轻化高颜值的界面设计让你拥有一个愉快轻松的阅读和办公体验。
+主要功能：
+1. 编辑 PDF
+-你可以添加或者删除文本，编辑文本属性和格式，比如字体，颜色，大小等。
+-UPDF 也支持通过修改文本的对齐方式使您的文档看起来更整洁。
+-对于 PDF里的图片，你可以进行裁剪，旋转，替换，提取，删除等操作。
+-你可以直接通过拖拽添加和替换图片。
+-支持添加、删除、和编辑水印、背景、以及页眉页脚。
+
+2. AI 功能
+-对单个或多个PDF文档进行总结。
+-对 PDF 文档进行全文翻译。
+-对 PDF文档进行解释，润色或编写。
+-与 UPDF AI 自由对话。
+-支持与图片进行自由问答。
+-支持将文档总结生成思维导图。
+
+3. 注释 PDF
+-在阅读 PDF 文档的过程中，你可以对文档内容添加注释，比如高亮，下划线，删除线来标注突出重点内容。
+-你也可以通过添加图形和文本框来注释你的PDF 文档。
+-如果需要对某些内容进行注解，你可以在文档任意位置添加便签来输入笔记或者审批意见等。
+-你可以在文档中添加并旋转各种各样的签章和贴纸用以注释和评论。
+-若需要在文档里签名，你也可以直接快速地创建你的签名。
+-通过注释列表一键查看或删除所有注释内容。
+
+4.OCR（光学字符识别）（仅适用于官网下载的版本）
+-将扫描的 PDF 转换为可搜索和可编辑的PDF。
+-支持可根据选择检测的38种语言。
+-将可搜索和可编辑的PDF 转换为纯图像PDF。
+
+5. 转换 PDF
+-你可以将 PDF转换为 Word，Excel，PowerPoint，Image，HTML，Text，CSV，XML，PDFIA等格式。
+-将 Word，Excel，PowerPoint，图片，CAJ转成PDF。
+-转换之后的文档会保持原文档格式不变。
+
+6. 云同步
+-支持上传文档至 UPDF Cloud，实现 PC+移动端全平合同步。
+
+7. 管理 PDF 页面
+-对于页面布局，你可以通过旋转调整页面方向，通过拖拽页面调整页面顺序。
+-如果你需要文档中的某些页面，你可以直接提取它们；另外，当你不需要某个页面时，也可以直接删除它。
+-你可以添加空白页或者从其他文件中添加页面。
+-你也可以快速替换文档中的页面。
+-快速根据页码拆分一个 PDF文档为多个文档。
+-根据需要自定义裁剪页面大小。
+
+8. 浏览和定位 PDF 文档
+-你可以放大或缩小页面，清晰地浏览文档内容。
+-通过在页面添加书签，快速定位找到需要的页面。
+-如果你需要同时查看多个 PDF 文档，不用在另外的窗口打开阅览它们，你可以在同一窗日多个标签打开预览，这样更简单快捷。
+-想要快速找到某文本内容，可以一键搜索查找定位文本。
+-快速通过缩略图旋转，删除，旋转和打印 PDF 页面。
+-通过幻灯片的形式攝放 PDF文档。
+
+9. 保护文档
+-可添加文档打开密码防止末经授权的用户打开。
+-可设置文档功能权限控制密码，限制其他用户打印、編辑、复制 PDF 文档等。
+-支持两个文档进行对比，查看不同之处。
+-数字签名，防止他人篡改文件内容。
+-支持马赛克（密文）重要信息。
+
+10. 创建 PDF
+-创建空白页。
+-从选区、窗口、或屏幕捕捉创建 PDF。
+
+11. 扁平化 PDF
+-快速扁平化 PDE，压平文档中的图层。
+
+12. 批量处理
+-支持批量转换，合并，OCR，压缩，打印，创建，水印，页眉页脚，贝茨编码，插入，背景，加密，删除。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/0b/be/370bbe94-df5e-37b5-addf-6f6981191514/EN1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a4/a2/6ca4a263-0229-4f24-5062-d39376710040/EN2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/28/68/ad286852-7a31-e093-76c9-f67a649ca38b/EN3.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/cf/46/b8cf46ed-b206-f262-9a2c-c2428281c17a/EN4.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/c2/a5/95c2a538-d375-7858-33b6-3a34f0615538/EN5.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/4a/b4/a14ab4dd-9a60-93fc-38f4-17b4b315bf1a/EN6.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/90/3f/e1903f0a-08af-1023-377b-9db8e286c9a5/EN7.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/1e/87/bc1e877f-517b-249c-c9b9-c1a98c4c9bff/EN8.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/97/59/96975995-0734-41d0-7340-68615f3c4283/EN9.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[怪物乐土]]></title>
