@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-07-02T19:20:03.219Z</updated>
+    <updated>2025-07-03T04:36:03.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-02T19:20:03.220Z</updated>
+        <updated>2025-07-03T04:36:03.522Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusWed, 02 Jul 2025 19:20:03 GMT</id>
+        <id>rankingusThu, 03 Jul 2025 04:36:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-02T19:20:03.221Z</updated>
+        <updated>2025-07-03T04:36:03.522Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -119,6 +119,31 @@ feedId:49753370488353792+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1231336508">腾讯视频-五十公里桃花坞5 全网独播</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>该影片</i>：<b>1</b>
+              </li><li>
+                <i>付费商品</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1361473095">MuseDash</a>
       </td>
       <td>
@@ -139,7 +164,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id417375580">BetterSnapTool</a>
@@ -162,7 +187,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id491854842">Youdao Translate</a>
@@ -185,7 +210,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1012296988">爱奇艺-临江仙 离婚仙侠</a>
@@ -208,7 +233,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1081480270">The Audio Converter</a>
@@ -223,29 +248,6 @@ feedId:49753370488353792+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>Premium Pass</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>7</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1231336508">腾讯视频-五十公里桃花坞5 全网独播</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>该影片</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -355,6 +357,95 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯视频-五十公里桃花坞5 全网独播]]></title>
+        <id>腾讯视频-五十公里桃花坞5 全网独播-us-1751517036410</id>
+        <link href="https://apps.apple.com/us/app/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C%E6%A1%83%E8%8A%B1%E5%9D%9E5-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1231336508?mt=12&amp;uo=4"/>
+        <updated>2025-07-03T04:30:36.410Z</updated>
+        <summary type="html"><![CDATA[付费商品: $2.99 → $1.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C%E6%A1%83%E8%8A%B1%E5%9D%9E5-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1231336508?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/5b/e7/b25be7a0-cb82-4e4f-5fae-b19d1ada30a6/AppIcon-85-220-0-4-2x-sRGB.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>付费商品：</strong><span>$2.99</span> → <b>
+  <strong>$1.99</strong>
+</b><span>[$1.99 ~ $2.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  电视剧热播：
+《长安的荔枝》古代传奇大剧！雷佳音岳云鹏喜感郎舅大唐“荔”劫运荔枝
+《绽放的许开心》反内耗极品爽剧！张雨绮韩庚半熟烈爱带娃试婚
+《潜渊》多重身份连环迷局！黄晓明张佳宁暗夜潜伏上演谍战大戏
+《焕羽》张婧仪周翊然青春之旅蜕变成长，踏浪逐风恣意翱翔！
+《桃花映江山》刘学义孟子义互虐生情，落魄公主敌国和亲，攻心猎爱震荡朝堂！
+《淬火年代》大江大河姊妹篇！张新成宋祖儿热血办厂逆袭，正午阳光年代剧上新
+《陷入我们的热恋》现偶之光顶级上头！刘浩存王安宇要谈不谈得暧昧最撩人
+《紫川之光明王》壮丽诗史！杨旭文刘宇宁张铭恩三兄弟热血燃战
+综艺强档：
+《让我来唱》天后萧亚轩复出首秀，史上最卷“全女声”音综重磅来袭，66人直播大战一触即发！
+《哈哈哈哈哈 第5季》“舞王”邓超遇对手！王俊凯大跳抽象甩葱舞，这互联网是没他在乎的人了吗？
+《开始推理吧 第3季》推理团徒手抓“丧尸”，演绎现实版生化危机，谁看了不说一句有极限逃生那味儿了。
+《奔跑吧》每周五爆笑开跑，白鹿孟子义古装扮相美我一大跳，李昀锐走趾压板疼得嗷嗷叫。
+《一见你就笑》大型短剧拍摄现场，杨迪搭戏杨超越被狠扇一巴掌？徐冬冬反向壁咚高瀚宇众人尖叫。
+《毛雪汪》陈昊宇新专辑首唱绝美嗓音！独居惊魂记？陈昊宇自曝家里曾遭陌生男性潜入，毛毛雪琴瑟瑟发抖。
+《天赐的声音 第6季》A-Lin黄子弘凡音浪太强，张碧晨周兴哲合唱声起心碎。
+《朋友请吃饭 第3季》这是我能听的吗？孔雪儿颜安饭桌上狂爆剧组内幕，周洁琼姜珮瑶自曝“初始配置”，杨迪尹正全程惊讶脸。
+《旷野星球》跟魏大勋王安宇到离地心最近的地方云探险，看溶洞内的“生命之树”，感慨大自然的鬼斧神工。
+《进步班》章子怡分享《酱园弄》拍摄过程，李诚儒模仿张子枫唐探名场面。
+电影超燃：
+《制暴：无限杀机》硬核痛片!斯坦森血洗黑帮三代
+《苍茫的天涯是我的爱》神曲改编笑果逆天！曾毅周奇爆笑公路奇旅
+《雄狮少年2》豆瓣8.5分高口碑国漫，雄狮归来少年拳战擂台
+《小丑2：双重妄想》影帝华金与LadyGaga飙戏
+《穿越时空的少女》豆瓣8.6！日漫纯爱天花板
+《楚幽秘境》鬼吹灯外传！古楚千年墓穴探险
+强势动漫：
+《诡秘之主》世界级作品，一键进入19世纪魔法世界
+《诛仙 第3季》兽神乱世撼九州，诛仙再临证苍生，第3季热播中！
+《遮天》四极破境，叶天帝横扫一切敌！
+《仙逆》王林再战天道！这一次你依然带不走她
+《神印王座》终局之战！龙皓晨战李正直！
+《大猿魂》灵明赤尻通臂六耳齐聚，四大神猴来战！
+精品短剧：
+《彼岸灯塔》海风呜咽，命案连环。渔村小镇迷雾重重，连环凶杀案掀起陈年悬案！
+《贵嫡》财阀贵女重启人生！踩碎渣夫恶妾算盘，爽爆复仇！
+纪录片新热：
+《早餐中国 第5季》：经典回归！一道传统早餐、一家有趣小店、一群忘我的食客，丰沛你的每一个清晨。
+《中国刑侦实录 第2季》：围绕一系列离奇案件，每集聚焦一个震撼人心的真实故事，深入挖掘案件背后的真相与情感纠葛。
+《人间惊鸿客 第2季》：走进李白、杜甫的惊鸿一世，深度解读千古诗人如何面对人生起落。
+《惊魂高速公路》：危险超车、岔路撞车、轮胎爆炸……那些惊险的公路事故全记录！
+《72种危险动物·亚洲篇》：盘点在广袤亚洲大陆上，生存的已知及鲜为人知的危险动物，揭开凶险共生的自然界致命法则！
+《猎杀倒计时》：探索四大洲自然界强大的捕食者的世界，见证捕食者的原始力量和坚韧意志。
+《西藏味道》：就爱这口西藏味儿！全方位展现西藏独具特色的饮食文化。
+《乡野有真味·奇食》：深入竹林溪涧、古村深巷，探访颠覆味蕾认知的“暗黑”美食与新奇风味！
+儿童节目：
+《水晶岛守卫者》：能变猫，能变人，还能变成猫人守护城镇
+《猪猪侠之竞速小英雄9》：面对重重困难，超星车队完成挑战重启比赛
+《我是妹猪请多指教》：一起来看超治愈的熊猫成长日记！
+《超级小猫战队：喵喵好伙伴》：小猫也能解决难题！看喵喵的超能力出击
+
+【自动订阅服务说明】
+1.订阅服务：
+ a）腾讯视频VIP连续包月(1个月)、腾讯视频VIP连续包季(3个月)、腾讯视频VIP连续包年(12个月)
+ b）超级影视VIP连续包月(1个月)、超级影视VIP连续包季(3个月)、超级影视VIP连续包年(12个月)
+ c）腾讯体育VIP连续包月(1个月)、腾讯体育超级VIP连续包月(1个月)
+ 2.订阅价格：
+ a）腾讯视频VIP：连续包月产品为25元/月，连续包季产品为68元/季，连续包年产品为238元/年
+ b）超级影视VIP：连续包月产品为35元/月、连续包季产品为98元/季、连续包年产品为348元/年
+ c）腾讯体育VIP系列会员：腾讯体育VIP连续包月产品为25元/月、腾讯体育超级VIP连续包月产品为60元/月
+ 3.付款：用户确认购买并付款后计入iTunes账户
+ 4.自动续费：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期
+ 5.关闭服务：您可以在苹果手机“设置” --> 进入“iTunes Store 与 App Store”-->点击 “Apple ID”，选择"查看Apple ID"，进入"账户设置"页面，点击“订阅”，管理自动订阅服务，如需取消，每个计费周期结束前24小时关闭即可，到期前24小时内则不再扣费
+ 6.服务协议： 
+ a）腾讯视频VIP：https://film.qq.com/weixin/term.html
+ b）超级影视VIP：https://film.qq.com/weixin/term.html?bizId=svip
+ c）腾讯体育VIP系列会员：https://film.qq.com/weixin/term.html?bizId=sport
+ 7 .隐私协议：https://privacy.qq.com/document/preview/3fab9c7fc1424ebda42c3ce488322c8a
+
+【意见反馈】
+如遇问题或者有好的建议，欢迎加入QQ体验群反馈，将会有萌哒哒的视频妹为大家解答，并有持续好礼相送！官方QQ群：527288510。
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/16/3e/15163e7c-e03a-d9bb-1d24-42356617484c/IMG_1855.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/b6/33/a4b63375-7c02-6eb8-d3f8-446c5c2e13f2/7014b5a6-7cf4-4e28-a688-ff3eff19ee4a_1.jpeg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/f5/15/82f515cc-1b40-bf32-7c08-59b3fccf967b/7e0ac2f1-59ac-40d4-b333-c7ff5cd3652d_2880x1800-01@1x.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/e2/d9/9ae2d96c-bc6d-e6be-fbdb-5e5fcbab67b7/IMG_1854.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wink: Video Enhancer & Editor]]></title>
@@ -1380,330 +1471,5 @@ Contact support: mac_support@trendmicro.com
 
 Please be advised that this app is only offered in English in this country.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fe/66/ea/fe66ea73-00d5-e896-118b-e100975d701c/fef617ed-c9c5-4cf8-beb9-55212d0e43ca_EN_01.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d4/ec/e2/d4ece2dc-3764-6337-30f1-89cadd295fe2/1f53872e-eed6-47e1-b2a6-4a880e357f55_EN_02.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b3/f0/b7/b3f0b750-dee9-2742-5ec1-0a4c5a20002d/5c5da793-a7b4-40c0-a269-1fc17bc7cbf8_EN_03.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/07/fb/f5/07fbf5f9-af25-59c4-7a9c-cae83e97535d/fa392ba7-3ace-4575-ac2f-b41374dc693c_EN_04.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/38/d3/bd/38d3bd34-bf58-986e-54bc-8856c02e2159/7085872b-3c40-4e66-bde9-26f41e215f1e_EN_05.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MuseDash]]></title>
-        <id>MuseDash-us-1751257923691</id>
-        <link href="https://apps.apple.com/us/app/musedash/id1361473095?uo=4"/>
-        <updated>2025-06-30T04:32:03.691Z</updated>
-        <summary type="html"><![CDATA[Rin·Len's Mirrorland: $8.99 → $5.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/musedash/id1361473095?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/32/bc/f032bc12-3152-93ef-deeb-f6ec4bf3a610/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Rin·Len's Mirrorland：</strong><span>$8.99</span> → <b>
-  <strong>$5.99</strong>
-</b><span>[$4.99 ~ $8.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  "Hitting while listening to music."
-"Is that the call from another world?"
-[Game Starts Now—!!]
-
-Lovely girls
-or rhythmic music?
-If there’s a place for you to have them both…
-It must be the paradise of parkour & rhythm game  — Muse Dash!!
-
-Huh?! Not your forte? It doesn’t matter!
-Who says you must have a strong sense of rhythm to win?
-Avoid is also a valid option (?)
-As long as you have 100% of passion, courage, and… love for lovely girls~
-Rhythm and fight won’t be an issue
-
-[Gameplay]
-Dance to the music and beat enemies in the air and on the ground. Also, watch out for the obstacles!!
-What an easy, beginner-friendly rhythm game
-
-[Media Review]
-可愛らしいビジュアルのキャラクターが躍動する、新感覚の2Dアクションスタイルのリズムゲーム ——IGN Japan
-
-“A bright exterior hides a surprisingly deep and engaging mash up”——POCKET GAMER
-
-Languages Supported:
-English
-简体中文（Simplified Chinese）
-繁体中文 （Traditional Chinese）
-日本語（Japanese)
-韩语 （Korean）
-
-Feedback: https://service.peropero.net/
-Twitter:@MuseDash_EN
-@PeroPeroGuys
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奇游加速器 - 全球游戏畅玩]]></title>
-        <id>奇游加速器 - 全球游戏畅玩-us-1751257923691</id>
-        <link href="https://apps.apple.com/us/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4"/>
-        <updated>2025-06-30T04:32:03.691Z</updated>
-        <summary type="html"><![CDATA[移动端会员-连续包月: $2.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/24/0d/5d240d0a-4401-ac6e-fe9f-165012b8adf4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>移动端会员-连续包月：</strong><span>$2.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $2.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  【 热门游戏，“游”先支持】
-支持PUBGM、王者荣耀国际服 、使命召唤战区、绝地求生：刺激战场 、吃鸡外服、鹅鸭杀手游，暗区突围国际服、飞机大厨、咒术回战、炉石传说国际服、ROBLOX国际版、原神国际服、英雄联盟手游（lol：wild rift）、云顶之弈手游、方舟：终极移动版等游戏加速！
-
-【海量手游库 新游上线快 】
-支持PUBGM、王者国际服、使命召唤战区、星际战甲国际服、炉石传说国际服、暗区突围国际服、飞机大厨、对峙2、云顶之奕PBE、鹅鸭杀、赛马娘、pubg2、暗黑破坏神不朽、apex手游、二之国、全境封锁手游、战地手游、瓦罗兰特手游、绝地求生刺激战场全球服、使命召唤手游全球服、八方旅人、符文大地传说、Among US、游戏王、方舟生存进化、黎明杀机、公主连接、冒险岛M、地球末日生存、Teon中文版、剑灵：革命、战争机器人、地牢猎手5、FIFA、碧蓝幻想全球服、iron force、世界计划、多彩舞台、第七史诗（epic 7）、和平精英全球服、堡垒之夜、fgo、影之诗、失落龙约黑色沙漠、文明重启全球服、荒野乱斗、狂野飙车9等游戏加速！游戏库包罗千款好玩游戏，热游新游排行一目了然。平均每天3款游戏的速度上新。App内可以随时提交想玩的游戏，你想玩的我们都支持！
-
-【 奇游电竞级加速 】
-奇游全自研“Qiy”电竞级加速引擎震撼上线，加速稳定性更胜一筹，不惧移动网络的波动。基于奇游电竞级游戏网络，带你感受稳定流畅的游戏体验。低延迟、不掉线，WIFI/5G随心切换。
-
-【新游推荐 硬核攻略 】
-新增游戏清单、新游预上线时间表等功能，更多实用、funny的游戏主题等你探索。游戏介绍、新游推荐、硬核攻略，丰富的游戏深度内容带你打开新世界的大门！
-
-【客服小队 随时待命 】
-奇游客服小队7x12h陪伴你的左右。使用过程中有任何疑问和反馈，我们随时待命。
-
-【自动续费套餐说明】
-1、订阅周期及套餐名称：1个月（连续包月），3个月(连续包季)
-2、订阅价格：以IAP申请信息为准，例如连续包月价格为首月15元，次月15元/月自动续费 
-3、付款：用户确认购买并付款后计入iTunes账户。
-4、取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能，到期前24小时内取消，将会收取订阅费用。
-5、续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
-6、隐私政策：https://www.qiyou.cn/specials/qymobile-protocol.html
-7、服务协议：https://mfront.qiyou.cn/protocol.html
-8、自动续费会员服务协议：https://mfront.qiyou.cn/renewal-protocol.html
-
-*本加速器的加速功能仅针对游戏使用，无法访问海外网站。
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/30/d9/a730d9aa-62c0-a310-ef97-258622bbd228/94e6bc59-0ed1-4662-9fe9-c6c451e5eff8_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/7b/26/067b26e4-94e4-e8dd-81e9-14a0ec0a4354/962aa0d0-12c7-4e94-8ce1-f6f9024c412c_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/10/80/20108048-f87d-5509-ee46-993017f4cee9/754dd371-0572-496e-b317-f4f78754097a_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/da/24/c5da242f-ed7d-eee2-aafd-7a134b8a2c1a/a6457b28-d217-4eb7-abbc-b84793c7a4ad_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/98/a2/1998a286-c405-6ee7-2549-d48179653067/5ab7ea42-5dde-488b-8677-e35e2767c474_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/20/76/ab207675-21ca-afc8-418b-a6e058a5628b/c1b12273-03dc-4645-bd76-2ec11fd06f72_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/2d/f0/c12df094-fd43-860b-b9f7-f4ed06d03635/3f45d5df-bae8-4a85-90be-b5c11e6b5d3f_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/fd/2c/35fd2c48-a4ce-0a15-cb14-eba428cdcf3d/57a9a98a-65a9-4a6f-b77f-09227a1a4252_5.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antivirus One - Virus Cleaner]]></title>
-        <id>Antivirus One - Virus Cleaner-us-1751257923691</id>
-        <link href="https://apps.apple.com/us/app/antivirus-one-virus-cleaner/id1068435535?mt=12&amp;uo=4"/>
-        <updated>2025-06-30T04:32:03.691Z</updated>
-        <summary type="html"><![CDATA[Upgrade to Pro: $19.99 → $2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/antivirus-one-virus-cleaner/id1068435535?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/45/8a/f2458a80-bd15-2169-91f1-f74706cc7c84/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Upgrade to Pro：</strong><span>$19.99</span> → <b>
-  <strong>$2.99</strong>
-</b><span>[$2.99 ~ $19.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Keep your digital wallets and keychains safe with Antivirus One, your personal cyber security expert.
-
-Antivirus One offers live antivirus monitoring to protect your Mac from adware, ransomware, spyware and all kinds of malware attacks.
-
-Download now and say goodbye to pop-up scams, spyware and viruses! 
- 
-Developed exclusively by the world’s largest antivirus and spyware active monitoring lab at Trend Micro. Secure your Mac with these powerful Antivirus One protection features:
-
-1. Real Time Detection
-Live malware detector on the go. Protect your Mac against all threats 24/7.
-
-2. Virus Scanner
-Quick scan, deep scan or customize scan locations to safeguard every part of your disk.
-
-3. Virus Cleaner (In-App Purchase required)
-Automatically remove viruses completely for the security of your system and privacy.
-
-4. Adware Cleaner
-Get rid of pop-ups, adware, and browser hijackers so you can browse at peace.
-
-5. Privacy Cleaner
-Customize your online transparency. Turn invisible without leaving a trace in your browser.
-
-6. Safe Search
-Flag safety ratings of every Google search result.
-
-7. Web Threat Protection
-Prevents users from visiting phishing websites.
-
-We highly recommend full disk scanning using Antivirus One on a regular basis to keep your Mac safe from security threats.
-
-We offer two auto-renewing subscription options:
-— Monthly: as low as $2.99
-— Yearly: as low as $19.99
-Price may vary by location.
- 
-Subscriptions will auto-renew unless canceled.
-— Payment will be charged to iTunes Account at confirmation of purchase
-— Subscription may be managed by the user and auto-renewal may be turned off by going to the user’s Account Setting after purchase.
-— No cancellation of the current subscription is allowed during active subscription period.
-— Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
-— Your account will be charged for renewal for the amount of your current subscription within 24-hours prior to the end of the current period. All cost for subscriptions are mentioned above.
-
-We value your feedback, it helps us to improve Antivirus One to better serve you! Please send us your comments or suggestions in the App Store or by the feedback page inside Antivirus One.
- 
-Privacy Policy and Terms of Use
-http://gr.trendmicro.com/GREntry/NonPayment?Target=AntivirusOne&OS=&SP=&PID=DS10&FunID=PrivacyPolicy&VID=&Locale=EN-US
-http://gr.trendmicro.com/GREntry/NonPayment?Target=AntivirusOne&OS=&SP=&PID=DS10&FunID=LicenseAgreement&VID=&Locale=EN-US
-
-Contact support: mac_support@trendmicro.com
-
-Please be advised that this app is only offered in English in this country.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fe/66/ea/fe66ea73-00d5-e896-118b-e100975d701c/fef617ed-c9c5-4cf8-beb9-55212d0e43ca_EN_01.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d4/ec/e2/d4ece2dc-3764-6337-30f1-89cadd295fe2/1f53872e-eed6-47e1-b2a6-4a880e357f55_EN_02.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b3/f0/b7/b3f0b750-dee9-2742-5ec1-0a4c5a20002d/5c5da793-a7b4-40c0-a269-1fc17bc7cbf8_EN_03.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/07/fb/f5/07fbf5f9-af25-59c4-7a9c-cae83e97535d/fa392ba7-3ace-4575-ac2f-b41374dc693c_EN_04.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/38/d3/bd/38d3bd34-bf58-986e-54bc-8856c02e2159/7085872b-3c40-4e66-bde9-26f41e215f1e_EN_05.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Youdao Translate]]></title>
-        <id>Youdao Translate-us-1751239009328</id>
-        <link href="https://apps.apple.com/us/app/youdao-translate/id491854842?mt=12&amp;uo=4"/>
-        <updated>2025-06-29T23:16:49.328Z</updated>
-        <summary type="html"><![CDATA[有道词典超级会员: $49.99 → $14.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/youdao-translate/id491854842?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/a9/95/5da9957d-8512-a1e3-01a8-bf67e729f98e/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>有道词典超级会员：</strong><span>$49.99</span> → <b>
-  <strong>$14.99</strong>
-</b><span>[$14.99 ~ $49.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  【网易有道词典桌面端】正式改名为【网易有道翻译】
-——比强大更强大的翻译生产力工具，让你的电脑瞬间变身AIPC
- 针对Mac平台特性，我们特别推出全新的版本，作为Mac系统下必备的翻译软件，在同类软件排行位居前列，10亿用户都在用！
-
-用AI重新定义翻译，WE DO MORE THAN TRANSLATION！
-
-【AI翻译助手】
-翻译更精准，表达更地道，还能自由问答～
-随时随地选中长句段落或截图，即可唤起功能～
- 【AIBox 跨软件工具】
-选中长句段落，智能润色、改写、纠错一步到位～
--句子润色：为你提供五种语言风格，一键升级地道高级句；
--语法纠错：母语级纠错，帮你调整词汇、语法、结构；
--写作建议：优化文章的同时为你提供写作建议；
--重点提炼：复杂长文精准提炼重点；
--单词百科：无需打开搜索引擎，即可快速检索语句百科知识；
-【AI文档翻译·问答】
--一键上传文档，全文翻译；
--支持多格式、多语种、多专业领域；
--保留原文排版，双语对照查看；
--便捷译后批注，支持一键导出；
--同时还能自动总结，深度问答；
--已开放240万字符/年免费翻译额度，让你想翻就翻，随手就翻，敞开了翻！
-【AI写作】
--一键成文，AI快速生成邮件、通知模板内容，提高生产力；
--母语级润色、扩写、总结、去重等功能助力内容质量提升；
--智能纠错，智能识别200种错误，覆盖语法、词汇、拼写、格式等；
-【AI一键创作PPT】
-只需输入主题，即刻生成一份布局配色丰富的PPT~
- 
-强大的桌面翻译软件，什么都能帮你翻！
-
- 【有道词典】
--实时收录最新词汇；支持英汉、日汉、韩汉、法汉、德汉、俄汉、葡汉、西汉互译；
--完整收录《学习型牛津词典》、《新牛津英汉双解大词典》、《韦氏大学英语词典》、《柯林斯COBUILD高级英汉双解词典》、《新世纪日汉双解大辞典》、龙朝《韩中词典》《中韩词典》等权威词典；
--单词图谱：可视化词典+思维导图记忆法；
--单词笔记：支持添加单词笔记，同步保存单词本；
-【文本翻译】
--长短句实时翻译，109种语言互译，26种常用语种tts发音；；
--支持医学、计算机、金融经济三种专业领域翻译；
--提供42个专业术语库&上传自定义术语库；
--快捷键翻译：选中任意文本按下Command+2，快速获取翻译结果；
-【音频翻译】
--从听到看，一键搞定；
--中英文音频快速转录->翻译->整理为高质量文本；
--支持100MB以内的MP3、WAV、AAC多种音频格式；
-【视频翻译】
--字幕制作，省时高效；
--提取视频内原字幕->翻译->生成新字幕；
--自动生成字幕时间轴，一键导出srt字幕文件；
-【截图翻译】
--按下Shift+Command+2，选取屏幕上的任意区域实现快速翻译；
--截屏翻译结果支持一键钉至屏幕，随时进行下一次翻译。多次截屏翻译的结果同时查看，省时高效；
-【图片翻译】
--快速识别、提取、翻译图片中的文本，支持99种语言；
--支持macOS的“连续互通”相机功能，用iPhone或iPad拍摄任意文本，自动导入Mac；
-【同传翻译】
-支持中英日韩等14种语言互译，实时展示多人同传翻译字幕；
-【状态栏菜单】
-不打开主窗口，也能在mini窗口快速查词；
-【网页翻译】
-输入网址快速翻译网页内容，保持原排版信息，阅读体验舒适流畅；
-【人工翻译】
-提供专业定制化服务；
- 
-【超级会员自动续费说明】
-1、服务名称：超级会员自动续费
-2、价格：38元/月
-3、购买会员自动续费的账号，会在每个月到期前24小时，自动在iTunes账户扣费并延长1个月会员有效期。
-4、如需取消订阅，请打开“App Store”--> 点击“商店”中的 “查看我的账户”，选择"查看信息"，进入"我的账户信息"页面，点击“管理”，取消“有道词典VIP服务”订阅即可。如未在订阅期结束的至少24小时前关闭订阅，此订阅将会自动续订。
-5、会员自动续费服务协议：https://c.youdao.com/dict/law/renew.html
-6、隐私协议：https://c.youdao.com/dict/law/youdaofanyi_pc_privacy.html
- 
-【联系我们】
-微信：有道翻译
-官方网站：fanyi.youdao.com/download【网易有道词典桌面端】正式改名为【网易有道翻译】
-——比强大更强大的翻译生产力工具
- 针对Mac平台特性，我们特别推出全新的版本，作为Mac系统下必备的词典软件，在同类软件排行位居前列，10亿用户都在用！
-
- 用AI重新定义翻译，WE DO MORE THAN TRANSLATION！
- 【AIBox 智能改写润色】
-选中长句段落，一键AI优化。
--句子润色：为你提供五种语言风格，一键升级地道高级句；
--语法纠错：母语级纠错，帮你调整词汇、语法、结构；
--写作建议：优化文章的同时为你提供写作建议；
--重点提炼：复杂长文精准提炼重点；
--单词百科：无需打开搜索引擎，即可快速检索语句百科知识；
-【AI文档翻译】
--一键上传文档，全文翻译；
--支持多格式、多语种、多专业领域；
--保留原文排版，双语对照查看；
--便捷译后批注，支持一键导出；
--已开放240万字符/年免费翻译额度，让你想翻就翻，随手就翻，敞开了翻！
-【AI写作】
--一键成文，AI快速生成邮件、通知模板内容，提高生产力；
--母语级润色、扩写、总结、去重等功能助力内容质量提升；
--智能纠错，智能识别200种错误，覆盖语法、词汇、拼写、格式等；
-
- 
-强大的桌面翻译软件，什么都能帮你翻！
- 【有道词典】
--实时收录最新词汇；支持英汉、日汉、韩汉、法汉、德汉、俄汉、葡汉、西汉互译；
--完整收录《学习型牛津词典》、《新牛津英汉双解大词典》、《韦氏大学英语词典》、《柯林斯COBUILD高级英汉双解词典》、《新世纪日汉双解大辞典》、龙朝《韩中词典》《中韩词典》等权威词典；
--单词图谱：可视化词典+思维导图记忆法；
--单词笔记：支持添加单词笔记，同步保存单词本；
-【文本翻译】
--长短句实时翻译，109种语言互译，26种常用语种tts发音；；
--支持医学、计算机、金融经济三种专业领域翻译；
--提供42个专业术语库&上传自定义术语库；
--快捷键翻译：选中任意文本按下Command+2，快速获取翻译结果；
-【音频翻译】
--从听到看，一键搞定；
--中英文音频快速转录->翻译->整理为高质量文本；
--支持100MB以内的MP3、WAV、AAC多种音频格式；
-【视频翻译】
--字幕制作，省时高效；
--提取视频内原字幕->翻译->生成新字幕；
--自动生成字幕时间轴，一键导出srt字幕文件；
-【截图翻译】
--按下Shift+Command+2，选取屏幕上的任意区域实现快速翻译；
--截屏翻译结果支持一键钉至屏幕，随时进行下一次翻译。多次截屏翻译的结果同时查看，省时高效；
-【图片翻译】
--快速识别、提取、翻译图片中的文本，支持99种语言；
--支持macOS的“连续互通”相机功能，用iPhone或iPad拍摄任意文本，自动导入Mac；
-【同传翻译】
-支持中英日韩等14种语言互译，实时展示多人同传翻译字幕；
-【状态栏菜单】
-不打开主窗口，也能在mini窗口快速查词；
-【网页翻译】
-输入网址快速翻译网页内容，保持原排版信息，阅读体验舒适流畅；
-【人工翻译】
-提供专业定制化服务；
- 
-【超级会员自动续费说明】
-1、服务名称：超级会员自动续费
-2、价格：38元/月
-3、购买会员自动续费的账号，会在每个月到期前24小时，自动在iTunes账户扣费并延长1个月会员有效期。
-4、如需取消订阅，请打开“App Store”--> 点击“商店”中的 “查看我的账户”，选择"查看信息"，进入"我的账户信息"页面，点击“管理”，取消“有道词典VIP服务”订阅即可。如未在订阅期结束的至少24小时前关闭订阅，此订阅将会自动续订。
-5、会员自动续费服务协议：https://c.youdao.com/dict/law/renew.html
-6、隐私协议：https://c.youdao.com/dict/law/youdaofanyi_pc_privacy.html
- 
-【联系我们】
- 
-微信：有道翻译
-官方网站：fanyi.youdao.com/download
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/19/b3/4719b3f0-95d5-28de-cb95-f7fd4d31c78f/4089b4b1-ef3b-4b54-9544-04b77dd0aafe_1440_900.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/12/77/25127735-75e4-a792-79c9-aa9275deefa7/01ca9f69-7245-430e-af80-aa9e9407dab7_2_mac__U5e94_U7528_U622a_U56fe__U9996_U9875.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/7d/1d/6b7d1d50-1ce2-780f-dc79-3caf005238be/1a4e8a66-453e-42fa-99e1-1a14b49df97f_3_mac__U5e94_U7528_U622a_U56fe_AI_U6587_U6863_U7ffb_U8bd1_U00b7_U95ee_U7b54.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/86/92/c7869296-9928-151f-789a-a571ad49eff0/07e3275c-bc25-4940-a861-d8b1551763e0_6_mac__U5e94_U7528_U622a_U56fe_AIBox_U8de8_U8f6f_U4ef6_U5de5_U5177.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/4a/17/184a1762-0b9b-b20d-b8ca-055467912e53/1cf1e7e9-1170-44dc-b397-2109f2e9f41b_4_mac__U5e94_U7528_U622a_U56fe_AI_U622a_U56fe.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/ca/3a/f0ca3a8c-a9bf-0451-2845-2161009ef5b3/3e21f929-1003-4ddb-98f0-e7590fc22a23_5_mac__U5e94_U7528_U622a_U56fe_AI_U5212_U8bcd.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/17/9c/d3179c8d-a16b-346a-40e3-5f3f3569ed5e/a7692139-eb7c-45c5-8643-602dd2a63bf4_7_mac__U5e94_U7528_U622a_U56fe_AI_U5199_U4f5c.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/49/76/d249765c-73d8-efa7-26eb-0422f57dec93/b6dbca02-0d72-4118-bd1c-442e37befe38_8_mac__U5e94_U7528_U622a_U56fe_AI_U4e00_U952e_U521b_U4f5cPPT.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>
