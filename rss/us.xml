@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-07-03T04:36:03.521Z</updated>
+    <updated>2025-07-03T18:32:01.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-03T04:36:03.522Z</updated>
+        <updated>2025-07-03T18:32:01.684Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusThu, 03 Jul 2025 04:36:03 GMT</id>
+        <id>rankingusThu, 03 Jul 2025 18:32:01 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-03T04:36:03.522Z</updated>
+        <updated>2025-07-03T18:32:01.685Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -119,6 +119,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1081480270">The Audio Converter</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Premium Pass</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1231336508">腾讯视频-五十公里桃花坞5 全网独播</a>
       </td>
       <td>
@@ -141,7 +164,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1361473095">MuseDash</a>
@@ -164,7 +187,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id417375580">BetterSnapTool</a>
@@ -187,7 +210,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id491854842">Youdao Translate</a>
@@ -210,7 +233,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1012296988">爱奇艺-临江仙 离婚仙侠</a>
@@ -225,29 +248,6 @@ feedId:49753370488353792+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>连续包月</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>7</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1081480270">The Audio Converter</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Premium Pass</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -357,6 +357,47 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Audio Converter]]></title>
+        <id>The Audio Converter-us-1751567158761</id>
+        <link href="https://apps.apple.com/us/app/the-audio-converter/id1081480270?mt=12&amp;uo=4"/>
+        <updated>2025-07-03T18:25:58.761Z</updated>
+        <summary type="html"><![CDATA[Premium Pass: $19.99 → $1.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/the-audio-converter/id1081480270?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a6/12/eb/a612ebf2-0792-2872-e270-95fc99cc8d19/AppIcon-0-0-85-220-0-0-4-0-2x.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Premium Pass：</strong><span>$19.99</span> → <b>
+  <strong>$1.99</strong>
+</b><span>[$1.99 ~ $19.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Quickly convert your audio or video files to nearly any audio format!
+
+1. Select your input file
+2. Choose your output format ( MP3, WAV, M4A, AAC  etc.  )
+3. Convert! It will only take a few seconds.
+4. Done! Listen right away, or open  in your favorite app
+
+Here are the video and audio output formats you can choose from:
+MP3, M4A, AAC, FLAC, OGG, WAV, WMA, AIFF
+
+You can convert from dozens of input formats, here are some of the most popular formats we support converting from:
+MOV, M4A, MP3, WMA, MP4, WAV, OGG, OPUS, AMR, AAC, WEBM, MID and many more!
+
+Save, Share or Listen to your converted audio files in your favorite apps immediately.
+
+Conversion is done on a secure cloud server, which makes conversion easier, faster and much more battery-friendly. You must have an internet connection to use this app. Files are immediately deleted from the server after conversion. While the files are immediately deleted after conversion or cancellation, you should be aware that by using this app, you agree that your files will be sent over to internet from the app to the conversion server.
+
+We've also recently added support for local conversions for many popular conversion types. These conversions don't require a server, and are usually done almost instantly! We are continuing to add support for more local conversions with each update.
+
+
+This app includes an optional auto-renewable subscription (Premium Pass): Premium Pass beings with a free trial period, then an auto-renewable monthly subscription when trial ends. Payment will be charged to your Apple account at confirmation of purchase and will automatically renew (at the duration/price selected) unless auto-renew is turned off at least 24 hrs before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period. Current subscription may not be cancelled during the active subscription period; however, you can manage your subscription and/or turn off auto-renewal by visiting your Apple Account Settings after purchase. Any unused portion of the free initial period will be forfeited when you purchase a subscription.
+
+Privacy Policy: https://float.support/the-audio-converter-mac/privacy
+Terms of Use: https://float.support/the-audio-converter-mac/terms
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/a6/d0/63/a6d063b5-8194-3e3a-dabd-69cc1a17c1b4/51fab44a-f38c-4c8b-9947-35caa4c3a46a_en-US-Mac_ss1.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/23/9c/bc/239cbcbb-42e0-bf0a-b067-6d0b4c8860d7/3e90d419-fa14-45ad-bbca-7e314f50dd59_en-US-Mac_ss2.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/9a/7c/5f/9a7c5ff2-6296-c62d-086e-c7d4592a384c/481fbb67-f60a-40cd-8aec-3fdc93881085_en-US-Mac_ss3.jpg/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[腾讯视频-五十公里桃花坞5 全网独播]]></title>
@@ -1327,149 +1368,5 @@ BetterSnapTool is very customizable and will change the way you work with your M
 
 BetterSnapTool works with almost every application, only some apps with non-standard windows can't be supported.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/46/82/69/46826900-be7b-63f7-44fb-46c6272e4d39/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/4b/b9/fa/4bb9fa79-bf61-c591-e4c0-d4b93408b332/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/31/51/01/315101f0-cd97-9bf1-674a-df0294446a0b/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/8b/e7/66/8be766bd-2cf0-52b9-f10b-8dd0e99520a0/pr_source.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/14/8c/ca/148cca35-00c2-83a0-7d46-3b75072a1bfc/pr_source.jpg/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wink: Video Enhancer & Editor]]></title>
-        <id>Wink: Video Enhancer &amp; Editor-us-1751293087481</id>
-        <link href="https://apps.apple.com/us/app/wink-video-enhancer-editor/id1594288016?uo=4"/>
-        <updated>2025-06-30T14:18:07.481Z</updated>
-        <summary type="html"><![CDATA[Yearly Auto-renew VIP: $59.99 → $40.99<br/>Wink- AI Photo Restore: $2.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/wink-video-enhancer-editor/id1594288016?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/c8/fc/72c8fc00-bed8-357d-ba87-9d6b7966e02d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Yearly Auto-renew VIP：</strong><span>$59.99</span> → <b>
-  <strong>$40.99</strong>
-</b><span>[$40.99 ~ $59.99]</span>
-  </li><li>
-    <strong>Wink- AI Photo Restore：</strong><span>$2.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $2.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Wink 
-l Make any low-quality video & photo into HD/Ultra HD/4K with before/after comparisons.
-l Making video editing easier than ever!
-l Various creative video transition effects enhance final results!
-l Fine-tune your selfies with video retouch tools to highlight your day!
-
-Video ＆ Photo Enhance
-- Video Enhancer: Enhance portraits and selfies to stunning output.
-- 4K Upscaler: AI-powered 4K upscaling for enhanced video quality.
-- Stabilize: Smooth out shaky footage for professional-looking videos. 
-- Noise reduction: Reduce video noise and grain for professional-looking results.
--  AI Color: Give your video a vibrant, fresh look with our easy-to-use color enhancement tool
-
-Video Retouch
-- Manual Face Slimming: Adjust your facial features as you wish
-- Body Shape: Achieve a supermodel physique!
-- Stylish Makeup: Providing a range of natural makeup
-- Face Editor: Remove acne, Face Plump, Skin tone ... and more!
-- Whiten Teeth: Say goodbye to brown teeth and show off your smile!
-
-Video Editing
-- Professional Editing: Color, Crop, Speed, Split, Mirror, Soundtrack and more!
-- Templates: Easily apply to create high-quality vlogs
-- Quality Restoration: Clear AI-enhanced video restoration!
-- Effects: Adds texts, stickers, and transitions to enhance your videos
-- Automatic Subtitle: Utilizes intelligent voice recognition for easy text inputting
-
-
-AI Captions
-- Accurate AI subtitles for your videos in seconds 
-- Support Bilingual: Create dual-language subtitles for your videos
-- Support 8 languages
-
-Wink VIP
-- Access exclusive VIP features
-
-Wink offers a wide range of exclusive VIP features to enhance retouching experience. We are committed to providing you with an improved service. We look forward to your continuing support.
-- Subscriptions
-
-Wink VIP-Monthly Subscription offers a subscription period of one month.
-Wink VIP-Annual subscription entails a 12-month period.
-*The subscription price is determined based on the information provided in the in-app purchase (iAP) application.
-
-- Instructions for Payment and Cancellation
-
-"Payment" will be credited to your iTunes account once you have confirmed and paid for your subscription.
-
-"Renewal" subscriptions for "Monthly/Annual" plans are automatically renewed and will incur charges to your iTunes account following your purchase confirmation. The subscription will be automatically renewed. To cancel it, please disable the automatic renewal at least 24 hours before the subscription period ends. Within 24 hours before the subscription cycle expires, Apple will automatically debit your iTunes account, extending your subscription for a new cycle.
-
-"To cancel your subscription, kindly navigate to the "Settings" section on your iPhone, click on "Apple ID," proceed to the "Subscription" screen, and choose "Wink" to terminate your subscription.
-
-- Agreement
-Terms of Service：https://pro.meitu.com/wink-cut/agreements/common/service-global.html?lang=en
-Privacy Policy：https://pro.meitu.com/wink-cut/agreements/common/policy-global.html?lang=en
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/d1/94/d7d194a2-6f19-146b-d3d5-c592cec24b4b/iOS_1242x2208__U82f1_U6587-1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/45/fd/c345fdde-a422-ad22-4fc4-65e2523de21e/iOS_1242x2208__U82f1_U6587-2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/15/f4/b815f444-2be7-c373-5155-4300114fb70b/iOS_1242x2208__U82f1_U6587-3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/a4/cc/76a4ccf4-7954-c8d9-2ea6-f277d14042d8/iOS_1242x2208__U82f1_U6587-4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/a1/4b/e3a14bef-32d0-d6b7-c90f-d42f6a1a6b5c/iOS_1242x2208__U82f1_U6587-5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/4f/79/d94f7903-c309-764e-fa3e-6f7959b1bed0/iOS_1242x2208__U82f1_U6587-6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/7d/a9/667da93d-9ad6-e8c0-9de4-680f81d0a5d1/iOS_1242x2208__U82f1_U6587-7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/78/bb/f778bb57-2bd3-835c-2185-467529256156/iOS_1242x2208__U82f1_U6587-8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/4a/a4/304aa4d1-4958-cd41-ffda-1fdc855b28ee/iOS_1242x2208__U82f1_U6587-9.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/b3/c2/f4b3c23d-01c2-9fe2-1fa3-e72848d535c6/iOS_1242x2208__U82f1_U6587-10.jpg/392x696bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antivirus One - Virus Cleaner]]></title>
-        <id>Antivirus One - Virus Cleaner-us-1751260826176</id>
-        <link href="https://apps.apple.com/us/app/antivirus-one-virus-cleaner/id1068435535?mt=12&amp;uo=4"/>
-        <updated>2025-06-30T05:20:26.176Z</updated>
-        <summary type="html"><![CDATA[Upgrade To Pro: $29.99 → $19.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/antivirus-one-virus-cleaner/id1068435535?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/45/8a/f2458a80-bd15-2169-91f1-f74706cc7c84/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Upgrade To Pro：</strong><span>$29.99</span> → <b>
-  <strong>$19.99</strong>
-</b><span>[$19.99 ~ $29.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Keep your digital wallets and keychains safe with Antivirus One, your personal cyber security expert.
-
-Antivirus One offers live antivirus monitoring to protect your Mac from adware, ransomware, spyware and all kinds of malware attacks.
-
-Download now and say goodbye to pop-up scams, spyware and viruses! 
- 
-Developed exclusively by the world’s largest antivirus and spyware active monitoring lab at Trend Micro. Secure your Mac with these powerful Antivirus One protection features:
-
-1. Real Time Detection
-Live malware detector on the go. Protect your Mac against all threats 24/7.
-
-2. Virus Scanner
-Quick scan, deep scan or customize scan locations to safeguard every part of your disk.
-
-3. Virus Cleaner (In-App Purchase required)
-Automatically remove viruses completely for the security of your system and privacy.
-
-4. Adware Cleaner
-Get rid of pop-ups, adware, and browser hijackers so you can browse at peace.
-
-5. Privacy Cleaner
-Customize your online transparency. Turn invisible without leaving a trace in your browser.
-
-6. Safe Search
-Flag safety ratings of every Google search result.
-
-7. Web Threat Protection
-Prevents users from visiting phishing websites.
-
-We highly recommend full disk scanning using Antivirus One on a regular basis to keep your Mac safe from security threats.
-
-We offer two auto-renewing subscription options:
-— Monthly: as low as $2.99
-— Yearly: as low as $19.99
-Price may vary by location.
- 
-Subscriptions will auto-renew unless canceled.
-— Payment will be charged to iTunes Account at confirmation of purchase
-— Subscription may be managed by the user and auto-renewal may be turned off by going to the user’s Account Setting after purchase.
-— No cancellation of the current subscription is allowed during active subscription period.
-— Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
-— Your account will be charged for renewal for the amount of your current subscription within 24-hours prior to the end of the current period. All cost for subscriptions are mentioned above.
-
-We value your feedback, it helps us to improve Antivirus One to better serve you! Please send us your comments or suggestions in the App Store or by the feedback page inside Antivirus One.
- 
-Privacy Policy and Terms of Use
-http://gr.trendmicro.com/GREntry/NonPayment?Target=AntivirusOne&OS=&SP=&PID=DS10&FunID=PrivacyPolicy&VID=&Locale=EN-US
-http://gr.trendmicro.com/GREntry/NonPayment?Target=AntivirusOne&OS=&SP=&PID=DS10&FunID=LicenseAgreement&VID=&Locale=EN-US
-
-Contact support: mac_support@trendmicro.com
-
-Please be advised that this app is only offered in English in this country.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fe/66/ea/fe66ea73-00d5-e896-118b-e100975d701c/fef617ed-c9c5-4cf8-beb9-55212d0e43ca_EN_01.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d4/ec/e2/d4ece2dc-3764-6337-30f1-89cadd295fe2/1f53872e-eed6-47e1-b2a6-4a880e357f55_EN_02.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b3/f0/b7/b3f0b750-dee9-2742-5ec1-0a4c5a20002d/5c5da793-a7b4-40c0-a269-1fc17bc7cbf8_EN_03.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/07/fb/f5/07fbf5f9-af25-59c4-7a9c-cae83e97535d/fa392ba7-3ace-4575-ac2f-b41374dc693c_EN_04.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/38/d3/bd/38d3bd34-bf58-986e-54bc-8856c02e2159/7085872b-3c40-4e66-bde9-26f41e215f1e_EN_05.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>

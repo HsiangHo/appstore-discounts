@@ -34701,6 +34701,18 @@
     "history": [
       [
         {
+          "timestamp": 1751567158761,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Pass": "$1.99",
+            "Lifetime Pass Promo": "$0.00",
+            "Lifetime Pass": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751408258059,
           "price": 0,
           "formattedPrice": "Free",
