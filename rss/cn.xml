@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-07-02T16:29:03.339Z</updated>
+    <updated>2025-07-03T19:20:03.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-02T16:29:03.341Z</updated>
+        <updated>2025-07-03T19:20:03.790Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnWed, 02 Jul 2025 16:29:03 GMT</id>
+        <id>rankingcnThu, 03 Jul 2025 19:20:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-02T16:29:03.341Z</updated>
+        <updated>2025-07-03T19:20:03.790Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -117,6 +117,31 @@ feedId:49753297431966720+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1619925971">UPDF - 新一代 AI 智能 PDF 编辑器</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>UPDF AI 标准版</i>：<b>1</b>
+              </li><li>
+                <i>永久授权</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1014945607">优酷视频-嘘国王在冬眠 全网独播</a>
       </td>
       <td>
@@ -137,7 +162,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1058801458">Remixlive - Make Music & Beats</a>
@@ -160,7 +185,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1068435535">Antivirus One - Virus Cleaner</a>
@@ -183,7 +208,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1231336508">腾讯视频-五十公里桃花坞5 全网独播</a>
@@ -206,7 +231,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1458460469">人类跌落梦境</a>
@@ -223,7 +248,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1576794157">飞火动态壁纸-4k超清视频桌面主题壁纸引擎</a>
@@ -238,29 +263,6 @@ feedId:49753297431966720+userId:73658201673997312
             <span>App 内购买项目</span><ol>
               <li>
                 <i>半年会员</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>8</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1619925971">UPDF - 新一代 AI 智能 PDF 编辑器</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>UPDF AI 标准版</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -318,6 +320,93 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UPDF - 新一代 AI 智能 PDF 编辑器]]></title>
+        <id>UPDF - 新一代 AI 智能 PDF 编辑器-cn-1751570053052</id>
+        <link href="https://apps.apple.com/cn/app/updf-%E6%96%B0%E4%B8%80%E4%BB%A3-ai-%E6%99%BA%E8%83%BD-pdf-%E7%BC%96%E8%BE%91%E5%99%A8/id1619925971?mt=12&amp;uo=4"/>
+        <updated>2025-07-03T19:14:13.052Z</updated>
+        <summary type="html"><![CDATA[永久授权: ¥338.00 → ¥268.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/updf-%E6%96%B0%E4%B8%80%E4%BB%A3-ai-%E6%99%BA%E8%83%BD-pdf-%E7%BC%96%E8%BE%91%E5%99%A8/id1619925971?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/62/61/a7626105-03d0-6da3-1c29-3f82263de901/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>永久授权：</strong><span>¥338.00</span> → <b>
+  <strong>¥268.00</strong>
+</b><span>[¥238.00 ~ ¥338.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  UPDF 2.0大版本更新，这是一款AI PDF编辑器，具有AI，阅读，编辑，注释、云同步、转换、加密、裁剪、拆分、文档对比等功能。1个账号付费，全平台都可以使用（电脑＋手机＋iPad）。UPDF 凭借年轻化高颜值的界面设计让你拥有一个愉快轻松的阅读和办公体验。
+主要功能：
+1. 编辑 PDF
+-你可以添加或者删除文本，编辑文本属性和格式，比如字体，颜色，大小等。
+-UPDF 也支持通过修改文本的对齐方式使您的文档看起来更整洁。
+-对于 PDF里的图片，你可以进行裁剪，旋转，替换，提取，删除等操作。
+-你可以直接通过拖拽添加和替换图片。
+-支持添加、删除、和编辑水印、背景、以及页眉页脚。
+
+2. AI 功能
+-对单个或多个PDF文档进行总结。
+-对 PDF 文档进行全文翻译。
+-对 PDF文档进行解释，润色或编写。
+-与 UPDF AI 自由对话。
+-支持与图片进行自由问答。
+-支持将文档总结生成思维导图。
+
+3. 注释 PDF
+-在阅读 PDF 文档的过程中，你可以对文档内容添加注释，比如高亮，下划线，删除线来标注突出重点内容。
+-你也可以通过添加图形和文本框来注释你的PDF 文档。
+-如果需要对某些内容进行注解，你可以在文档任意位置添加便签来输入笔记或者审批意见等。
+-你可以在文档中添加并旋转各种各样的签章和贴纸用以注释和评论。
+-若需要在文档里签名，你也可以直接快速地创建你的签名。
+-通过注释列表一键查看或删除所有注释内容。
+
+4.OCR（光学字符识别）（仅适用于官网下载的版本）
+-将扫描的 PDF 转换为可搜索和可编辑的PDF。
+-支持可根据选择检测的38种语言。
+-将可搜索和可编辑的PDF 转换为纯图像PDF。
+
+5. 转换 PDF
+-你可以将 PDF转换为 Word，Excel，PowerPoint，Image，HTML，Text，CSV，XML，PDFIA等格式。
+-将 Word，Excel，PowerPoint，图片，CAJ转成PDF。
+-转换之后的文档会保持原文档格式不变。
+
+6. 云同步
+-支持上传文档至 UPDF Cloud，实现 PC+移动端全平合同步。
+
+7. 管理 PDF 页面
+-对于页面布局，你可以通过旋转调整页面方向，通过拖拽页面调整页面顺序。
+-如果你需要文档中的某些页面，你可以直接提取它们；另外，当你不需要某个页面时，也可以直接删除它。
+-你可以添加空白页或者从其他文件中添加页面。
+-你也可以快速替换文档中的页面。
+-快速根据页码拆分一个 PDF文档为多个文档。
+-根据需要自定义裁剪页面大小。
+
+8. 浏览和定位 PDF 文档
+-你可以放大或缩小页面，清晰地浏览文档内容。
+-通过在页面添加书签，快速定位找到需要的页面。
+-如果你需要同时查看多个 PDF 文档，不用在另外的窗口打开阅览它们，你可以在同一窗日多个标签打开预览，这样更简单快捷。
+-想要快速找到某文本内容，可以一键搜索查找定位文本。
+-快速通过缩略图旋转，删除，旋转和打印 PDF 页面。
+-通过幻灯片的形式攝放 PDF文档。
+
+9. 保护文档
+-可添加文档打开密码防止末经授权的用户打开。
+-可设置文档功能权限控制密码，限制其他用户打印、編辑、复制 PDF 文档等。
+-支持两个文档进行对比，查看不同之处。
+-数字签名，防止他人篡改文件内容。
+-支持马赛克（密文）重要信息。
+
+10. 创建 PDF
+-创建空白页。
+-从选区、窗口、或屏幕捕捉创建 PDF。
+
+11. 扁平化 PDF
+-快速扁平化 PDE，压平文档中的图层。
+
+12. 批量处理
+-支持批量转换，合并，OCR，压缩，打印，创建，水印，页眉页脚，贝茨编码，插入，背景，加密，删除。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/0b/be/370bbe94-df5e-37b5-addf-6f6981191514/EN1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a4/a2/6ca4a263-0229-4f24-5062-d39376710040/EN2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/28/68/ad286852-7a31-e093-76c9-f67a649ca38b/EN3.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/cf/46/b8cf46ed-b206-f262-9a2c-c2428281c17a/EN4.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/c2/a5/95c2a538-d375-7858-33b6-3a34f0615538/EN5.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/4a/b4/a14ab4dd-9a60-93fc-38f4-17b4b315bf1a/EN6.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/90/3f/e1903f0a-08af-1023-377b-9db8e286c9a5/EN7.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/1e/87/bc1e877f-517b-249c-c9b9-c1a98c4c9bff/EN8.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/97/59/96975995-0734-41d0-7340-68615f3c4283/EN9.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[飞火动态壁纸-4k超清视频桌面主题壁纸引擎]]></title>
@@ -920,98 +1009,5 @@ https://www.mixvibes.com/terms
 隐私政策
 https://www.mixvibes.com/privacy
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/04/92/8b049214-3c09-11cd-5139-34bfc7552eb0/7407096d-5742-4238-b42a-e3f503d2687b_0_APP_IPHONE_55_0.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/2e/25/662e25bf-48ac-3f82-eb14-3fb87c703c8f/780227cd-c9d2-49ce-9e38-260413903945_1_APP_IPHONE_55_1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/56/4d/76564d17-08ac-498a-2dcd-a6b20b12acbb/2a10b050-f229-4ac1-ac4c-411e9e82e4c0_2_APP_IPHONE_55_2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/37/f2/b337f2ae-d399-9635-5175-d29c3fe4d774/0ab643b2-a9d8-47c8-9356-50f02246383f_3_APP_IPHONE_55_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/df/f5/71dff567-230e-e00f-27fe-f3799f4834f7/33f3f5d7-0b0d-4d1e-9703-96a9303099aa_5_APP_IPHONE_55_5.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/38/1a/03381afb-a809-2fc6-c5a5-109541d6c2b8/5e57a27f-2271-4061-9062-5de24403891a_4_APP_IPHONE_55_4.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/c6/3b/09c63bad-adc4-da4b-5ec5-7f89ff83c5da/7cb380a3-b58b-44c1-b84e-58a4a6235764_6_APP_IPHONE_55_6.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/64/fb/2864fb75-0618-3f96-9fdc-5476a1bd5da7/8316f06e-b806-45ea-a1aa-bc3fc2bbc25f_7_APP_IPHONE_55_7.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/fe/67/8afe672c-8078-08bd-2b47-f622884370c6/d68fa9f1-1472-40bf-876e-af0740b31487_8_APP_IPHONE_55_8.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/fd/b8/c3fdb8c0-d0b8-cb84-9824-8fd78503241f/3371f955-4af8-44cb-88ca-1cfc1b0fd23f_9_APP_IPHONE_55_9.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/eb/16/5eeb16c7-56a5-b350-d440-1cb7c4ac1f1d/e61917df-b245-4728-935a-b870008b20ea_0_APP_IPAD_PRO_129_0.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/ba/56/44ba567e-df49-dbe7-2041-be07b3b187f6/7f6c19c3-5088-4c06-b657-37ab4ec98341_1_APP_IPAD_PRO_129_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/9f/89/1c9f89ee-fe4a-d398-a3c5-e2893c219f48/27c0b11b-0bf4-45dd-80b8-198320365e59_2_APP_IPAD_PRO_129_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/1a/35/621a35e7-91ce-72c0-7505-28dae225abac/0faeba01-54b5-4322-b28e-d2d6a85615ad_3_APP_IPAD_PRO_129_3__U00286_U0029.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/96/66/049666d1-db48-0c54-91ab-b5f843f5b94c/3daed6f0-3215-4a24-adb0-d777778821ff_4_APP_IPAD_PRO_129_4.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/b3/5a/95b35a11-ffe9-9e28-de61-12059f76cf81/c5ec5430-14e7-4036-9aec-526697c5c963_5_APP_IPAD_PRO_129_5.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/c1/48/c5c148cf-d56d-e7a6-0323-d91ee6311259/d0cec703-83b2-475b-a6b2-fc1d97e09519_6_APP_IPAD_PRO_129_6.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/97/13/51971302-d237-6ac5-158e-258e13fd46aa/7e661645-afb7-4bda-9947-b09f18193f7e_7_APP_IPAD_PRO_3GEN_129_7.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/ed/d4/9cedd454-bed7-1fca-810e-3c7c7364eb38/9bc1c1d6-6fba-4d68-ba47-b91e00bc0a3f_8_APP_IPAD_PRO_129_8.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/ae/b0/ecaeb034-0b54-fb54-1dee-b7416eba9eee/aff67452-af5f-436f-a2ac-f21f87921bcd_9_APP_IPAD_PRO_129_9.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网易有道翻译]]></title>
-        <id>网易有道翻译-cn-1751260826176</id>
-        <link href="https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E6%9C%89%E9%81%93%E7%BF%BB%E8%AF%91/id491854842?mt=12&amp;uo=4"/>
-        <updated>2025-06-30T05:20:26.176Z</updated>
-        <summary type="html"><![CDATA[有道词典超级会员: ¥358.00 → ¥108.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E6%9C%89%E9%81%93%E7%BF%BB%E8%AF%91/id491854842?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/a9/95/5da9957d-8512-a1e3-01a8-bf67e729f98e/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>有道词典超级会员：</strong><span>¥358.00</span> → <b>
-  <strong>¥108.00</strong>
-</b><span>[¥108.00 ~ ¥358.00]</span>
-  </li>
-</ul><h2>应用描述</h2><p>
-  【网易有道词典桌面端】正式改名为【网易有道翻译】
-——比强大更强大的翻译生产力工具，让你的电脑瞬间变身AIPC
- 针对Mac平台特性，我们特别推出全新的版本，作为Mac系统下必备的翻译软件，在同类软件排行位居前列，10亿用户都在用！
-
-用AI重新定义翻译，WE DO MORE THAN TRANSLATION！
-
-【AI翻译助手】
-翻译更精准，表达更地道，还能自由问答～
-随时随地选中长句段落或截图，即可唤起功能～
- 【AIBox 跨软件工具】
-选中长句段落，智能润色、改写、纠错一步到位～
--句子润色：为你提供五种语言风格，一键升级地道高级句；
--语法纠错：母语级纠错，帮你调整词汇、语法、结构；
--写作建议：优化文章的同时为你提供写作建议；
--重点提炼：复杂长文精准提炼重点；
--单词百科：无需打开搜索引擎，即可快速检索语句百科知识；
-【AI文档翻译·问答】
--一键上传文档，全文翻译；
--支持多格式、多语种、多专业领域；
--保留原文排版，双语对照查看；
--便捷译后批注，支持一键导出；
--同时还能自动总结，深度问答；
--已开放240万字符/年免费翻译额度，让你想翻就翻，随手就翻，敞开了翻！
-【AI写作】
--一键成文，AI快速生成邮件、通知模板内容，提高生产力；
--母语级润色、扩写、总结、去重等功能助力内容质量提升；
--智能纠错，智能识别200种错误，覆盖语法、词汇、拼写、格式等；
-【AI一键创作PPT】
-只需输入主题，即刻生成一份布局配色丰富的PPT~
- 
-强大的桌面翻译软件，什么都能帮你翻！
-
- 【有道词典】
--实时收录最新词汇；支持英汉、日汉、韩汉、法汉、德汉、俄汉、葡汉、西汉互译；
--完整收录《学习型牛津词典》、《新牛津英汉双解大词典》、《韦氏大学英语词典》、《柯林斯COBUILD高级英汉双解词典》、《新世纪日汉双解大辞典》、龙朝《韩中词典》《中韩词典》等权威词典；
--单词图谱：可视化词典+思维导图记忆法；
--单词笔记：支持添加单词笔记，同步保存单词本；
-【文本翻译】
--长短句实时翻译，109种语言互译，26种常用语种tts发音；；
--支持医学、计算机、金融经济三种专业领域翻译；
--提供42个专业术语库&上传自定义术语库；
--快捷键翻译：选中任意文本按下Command+2，快速获取翻译结果；
-【音频翻译】
--从听到看，一键搞定；
--中英文音频快速转录->翻译->整理为高质量文本；
--支持100MB以内的MP3、WAV、AAC多种音频格式；
-【视频翻译】
--字幕制作，省时高效；
--提取视频内原字幕->翻译->生成新字幕；
--自动生成字幕时间轴，一键导出srt字幕文件；
-【截图翻译】
--按下Shift+Command+2，选取屏幕上的任意区域实现快速翻译；
--截屏翻译结果支持一键钉至屏幕，随时进行下一次翻译。多次截屏翻译的结果同时查看，省时高效；
-【图片翻译】
--快速识别、提取、翻译图片中的文本，支持99种语言；
--支持macOS的“连续互通”相机功能，用iPhone或iPad拍摄任意文本，自动导入Mac；
-【同传翻译】
-支持中英日韩等14种语言互译，实时展示多人同传翻译字幕；
-【状态栏菜单】
-不打开主窗口，也能在mini窗口快速查词；
-【网页翻译】
-输入网址快速翻译网页内容，保持原排版信息，阅读体验舒适流畅；
-【人工翻译】
-提供专业定制化服务；
- 
-【超级会员自动续费说明】
-1、服务名称：超级会员自动续费
-2、价格：38元/月
-3、购买会员自动续费的账号，会在每个月到期前24小时，自动在iTunes账户扣费并延长1个月会员有效期。
-4、如需取消订阅，请打开“App Store”--> 点击“商店”中的 “查看我的账户”，选择"查看信息"，进入"我的账户信息"页面，点击“管理”，取消“有道词典VIP服务”订阅即可。如未在订阅期结束的至少24小时前关闭订阅，此订阅将会自动续订。
-5、会员自动续费服务协议：https://c.youdao.com/dict/law/renew.html
-6、隐私协议：https://c.youdao.com/dict/law/youdaofanyi_pc_privacy.html
- 
-【联系我们】
-微信：有道翻译
-官方网站：fanyi.youdao.com/download
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/19/b3/4719b3f0-95d5-28de-cb95-f7fd4d31c78f/4089b4b1-ef3b-4b54-9544-04b77dd0aafe_1440_900.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/12/77/25127735-75e4-a792-79c9-aa9275deefa7/01ca9f69-7245-430e-af80-aa9e9407dab7_2_mac__U5e94_U7528_U622a_U56fe__U9996_U9875.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/7d/1d/6b7d1d50-1ce2-780f-dc79-3caf005238be/1a4e8a66-453e-42fa-99e1-1a14b49df97f_3_mac__U5e94_U7528_U622a_U56fe_AI_U6587_U6863_U7ffb_U8bd1_U00b7_U95ee_U7b54.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/86/92/c7869296-9928-151f-789a-a571ad49eff0/07e3275c-bc25-4940-a861-d8b1551763e0_6_mac__U5e94_U7528_U622a_U56fe_AIBox_U8de8_U8f6f_U4ef6_U5de5_U5177.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/4a/17/184a1762-0b9b-b20d-b8ca-055467912e53/1cf1e7e9-1170-44dc-b397-2109f2e9f41b_4_mac__U5e94_U7528_U622a_U56fe_AI_U622a_U56fe.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/ca/3a/f0ca3a8c-a9bf-0451-2845-2161009ef5b3/3e21f929-1003-4ddb-98f0-e7590fc22a23_5_mac__U5e94_U7528_U622a_U56fe_AI_U5212_U8bcd.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/17/9c/d3179c8d-a16b-346a-40e3-5f3f3569ed5e/a7692139-eb7c-45c5-8643-602dd2a63bf4_7_mac__U5e94_U7528_U622a_U56fe_AI_U5199_U4f5c.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/49/76/d249765c-73d8-efa7-26eb-0422f57dec93/b6dbca02-0d72-4118-bd1c-442e37befe38_8_mac__U5e94_U7528_U622a_U56fe_AI_U4e00_U952e_U521b_U4f5cPPT.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>

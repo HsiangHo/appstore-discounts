@@ -34701,6 +34701,16 @@
     "history": [
       [
         {
+          "timestamp": 1751570053052,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Pass": "$19.99",
+            "Lifetime Pass": "$9.99",
+            "Lifetime Pass Promo": "$0.00"
+          }
+        },
+        {
           "timestamp": 1751567158761,
           "price": 0,
           "formattedPrice": "Free",
@@ -38381,6 +38391,21 @@
       "All Chords, Scales & Arpeggios": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751570053052,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "All Current Content": "$9.99",
+            "All Chords, Scales and Arpeggios": "$7.99",
+            "All Chords": "$5.99",
+            "All Scales": "$5.99",
+            "All Arpeggios": "$5.99",
+            "Lesson Pack": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748549986654,
