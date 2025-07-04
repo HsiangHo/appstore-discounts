@@ -30492,6 +30492,22 @@
     "history": [
       [
         {
+          "timestamp": 1751606448361,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "黄金会员连续包月": "$3.99",
+            "月卡": "$3.99",
+            "黄金会员连续包季": "$10.49",
+            "季卡": "$9.99",
+            "黄金会员连续包年": "$29.99",
+            "连续包月": "$6.99",
+            "年卡": "$29.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751592399622,
           "price": 0,
           "formattedPrice": "Free",
@@ -45536,6 +45552,21 @@
     "history": [
       [
         {
+          "timestamp": 1751606448361,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "订阅一个周.": "$2.49",
+            "Subscription for 1 month.": "$4.49",
+            "Permanent membership": "$11.99",
+            "Monthly membership": "$4.99",
+            "订阅一年": "$9.99",
+            "月度会员": "$4.99",
+            "Annual membership": "$9.99",
+            "Subscription for 1 year.": "$13.49"
+          }
+        },
+        {
           "timestamp": 1751603292271,
           "price": 0,
           "formattedPrice": "Free",
@@ -52423,6 +52454,22 @@
       "移动端会员-半年卡": "$8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751606448361,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "移动端会员-连续包月": "$1.99",
+            "移动端会员-月卡": "$2.99",
+            "移动端会员-连续包季": "$5.99",
+            "大学生专属特惠季卡": "$2.99",
+            "大学生专属特惠年卡": "$9.99",
+            "移动端会员-年卡": "$14.99",
+            "移动端会员-季卡": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751444719531,
@@ -72396,6 +72443,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751606448361,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- 25 Credits": "$7.99",
+            "Wink- AI Photo Restore": "$2.99",
+            "10-second AI animation": "$1.99"
+          }
+        },
         {
           "timestamp": 1751603292271,
           "price": 0,
