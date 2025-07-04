@@ -30,10 +30,10 @@
       }
     },
     "1231336508": {
-      "all": 2,
+      "all": 3,
       "price": 0,
       "inAppPurchase": {
-        "单点商品": 1,
+        "单点商品": 2,
         "1个月腾讯视频VIP": 1,
         "3个月腾讯视频VIP": 1
       }
@@ -156,10 +156,10 @@
       }
     },
     "1594288016": {
-      "all": 4,
+      "all": 5,
       "price": 0,
       "inAppPurchase": {
-        "Monthly Auto-renew VIP": 2,
+        "Monthly Auto-renew VIP": 3,
         "Wink- AI Photo Restore": 2
       }
     },
