@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const appConfig: AppConfig[] = [
   {
+    id: 404990064,
+    name: {
+      us: 'SkyView®',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1631859420,
     name: {
       us: 'After Inc.',
