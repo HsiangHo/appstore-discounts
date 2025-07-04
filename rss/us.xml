@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-07-04T16:28:05.534Z</updated>
+    <updated>2025-07-04T17:21:04.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-04T16:28:05.534Z</updated>
+        <updated>2025-07-04T17:21:04.559Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusFri, 04 Jul 2025 16:28:05 GMT</id>
+        <id>rankingusFri, 04 Jul 2025 17:21:04 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-04T16:28:05.534Z</updated>
+        <updated>2025-07-04T17:21:04.560Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -328,6 +328,23 @@ feedId:49753370488353792+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>12</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1550581532">Vythm VJ - Music Visualizer DJ</a>
       </td>
       <td>
@@ -348,7 +365,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1575178082">Max NTFS - NTFS Disk Helper</a>
@@ -371,7 +388,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6448913901">全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理</a>
@@ -403,6 +420,53 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TextSniper - OCR, Copy & Paste]]></title>
+        <id>TextSniper - OCR, Copy &amp; Paste-us-1751649340843</id>
+        <link href="https://apps.apple.com/us/app/textsniper-ocr-copy-paste/id1528890965?mt=12&amp;uo=4"/>
+        <updated>2025-07-04T17:15:40.843Z</updated>
+        <summary type="html"><![CDATA[Price: $11.99 → $9.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/textsniper-ocr-copy-paste/id1528890965?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/7a/b6/2b7ab603-fdee-d92e-f3ea-f3ef5f597aef/AppIcon-new-0-0-85-220-0-2-0-2x.png/60x60bb.png" />
+</a><h2>
+  Discount Information（Price：<span>$11.99</span> → <b>
+  <strong>$9.99</strong>
+</b><span>[$7.99 ~ $11.99]</span>）
+</h2><h2>Application Description</h2><p>
+  TextSniper is an easy-to-use desktop Mac OCR app that can extract and recognize any non-searchable and non-editable text on your Mac's screen. As an extra feature, it can turn OCR text into speech. It is a super convenient alternative to complicated optical character recognition tools.
+
+The tool is intuitive to use and makes extracting text from your images, scanned paper documents, PDFs, or even videos easy. No training or special skills are required, and it fits perfectly home and business Mac users. Easily accessible from the menu bar whenever you need it and has a simple user interface. 
+
+If you have used a built-in Mac screen capture application before, it wouldn't be any trouble to work with TextSniper, too. Select with a mouse any part of an image, photo, PDF document, or anything on your screen, and the app will process and recognize any text within this selection. The text output will be saved into a clipboard so you can paste it into your favourite macOS text editing or note-taking software. 
+
+Finally, the app's optical character recognition engine doesn't need an internet connection to process documents. Great OCR solution for those who are concerned about privacy. The application does not collect any users' data.
+
+Use Cases:
+• Convert different image formats to text (JPEG, PNG, GIF, TIFF, BMP, etc.).
+• Pull text from a non-searchable PDF file without a need to process the whole document.
+• Read text from images, PDF documents, photos, Zoom meetings, or any other sources.
+• Copy text even when it is uncopiable, like in ebooks or web articles.
+• Quickly extract emails, links, phone numbers, etc.
+• Grab text or turn it into speech in video games.
+• Read QR or barcodes.
+• Quickly generate alt text from the screenshot for tweets.
+
+Features:
+• On-device OCR technology. No internet connection is needed.
+• Instant text recognition. No need to upload files into the application. OCR document or file on the fly.
+• High accuracy and performance in processing any documents.
+• Recognizes even tiny text on images with low-quality or dense background.
+• Customizable. Custom keyboard shortcuts to extract text with various options.
+• You can have TextSniper speak the recognized text whenever you need it.
+• Supports optical character recognition in multiple languages: English, Spanish, French, German, Portuguese, Italian,  Traditional and Simplified Chinese.
+• Running macOS Ventura: All the above languages plus Ukrainian, Korean, Japanese and Russian.
+• Running macOS Sonoma: All the above languages plus Thai and Vietnamese.
+• Running macOS Sequoia: All the above languages plus Arabic and Najdi Arabic.
+• Running macOS Catalina: English language only supported.
+• Use your iPad or iPhone camera to capture text from a photo or scanned document quickly.
+• Fully compatible with macOS Sonoma and optimised for Apple's M1-M3 chips.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/78/ec/c778ec00-fd20-75d8-8490-1595db186fe5/874d684d-dee4-4c59-a252-70064415d940_appStore_01_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/04/75/7b047524-c1a5-9579-0bff-ce1aefe96010/374d7e25-b5b4-447f-bdbe-45651cc8884b_appStore_02_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/87/fd/bc87fd48-719b-11e2-1385-1d56379504e3/8d73581b-f46e-4881-a83c-304cbddadc5c_appStore_03_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/0d/68/f30d68d9-9451-0333-7ba4-b12f0b07ae2e/07e2c426-538f-4876-8210-408c3943a5b1_appStore_04_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/50/9a/1f509a06-e7bf-f355-960a-96783793aae9/95ccc544-4cdb-4d91-b7e4-4a7eea3ffa48_appStore_05_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/bd/98/8dbd9870-243d-dbbe-bc5d-1abe5369718b/65a3f23b-cf55-4730-a569-4c661d1da6da_appStore_06_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/4a/19/d34a192d-e9b8-ffeb-cb3e-a6dbf2594d7d/4c5a6f15-dd6f-4964-9414-34b0bef9d62b_appStore_07_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/00/94/6500942d-a32c-3254-3230-201cb9323fc0/0aed8b36-02b2-471c-802c-bfc3bbbea1dc_appStore_08_2560x1600.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wink: Video Enhancer & Editor]]></title>
