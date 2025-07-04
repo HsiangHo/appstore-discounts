@@ -14460,6 +14460,23 @@
     "history": [
       [
         {
+          "timestamp": 1751592399622,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Necroa Virus Expansion Pack": "$1.99",
+            "Unlock 7 Standard Plagues": "$2.99",
+            "Neurax Worm Expansion Pack": "$1.99",
+            "Unlock All Genes": "$7.99",
+            "Unlock Cheats": "$9.99",
+            "Plague Pack": "$12.99",
+            "Scenario Pack": "$2.99",
+            "Simian Flu Expansion Pack": "$1.99",
+            "Shadow Plague Expansion Pack": "$1.99",
+            "Unlock Virus": "$0.99"
+          }
+        },
+        {
           "timestamp": 1751584639273,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -30456,6 +30473,21 @@
     "history": [
       [
         {
+          "timestamp": 1751592399622,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "黄金会员连续包月": "$3.99",
+            "月卡": "$3.99",
+            "黄金会员连续包季": "$10.49",
+            "季卡": "$9.99",
+            "黄金会员连续包年": "$29.99",
+            "连续包月": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751440708338,
           "price": 0,
           "formattedPrice": "Free",
@@ -40067,6 +40099,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751592399622,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "1个月腾讯视频VIP": "$3.99",
+            "付费商品": "$2.99",
+            "该付费商品": "$0.99",
+            "3个月腾讯视频VIP": "$9.99",
+            "该影片": "$3.99"
+          }
+        },
         {
           "timestamp": 1751581033943,
           "price": 0,
