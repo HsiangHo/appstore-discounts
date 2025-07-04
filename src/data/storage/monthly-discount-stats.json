@@ -9,10 +9,10 @@
       }
     },
     "1014945607": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "优酷视频点播": 1
+        "优酷视频点播": 2
       }
     },
     "1058801458": {
@@ -108,6 +108,13 @@
         "付费商品": 1
       }
     },
+    "1339124759": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Permanent membership": 1
+      }
+    },
     "1361473095": {
       "all": 2,
       "price": 0,
@@ -137,11 +144,11 @@
       }
     },
     "1594288016": {
-      "all": 3,
+      "all": 4,
       "price": 0,
       "inAppPurchase": {
         "Monthly Auto-renew VIP": 2,
-        "Wink- AI Photo Restore": 1
+        "Wink- AI Photo Restore": 2
       }
     },
     "6448913901": {

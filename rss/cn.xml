@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-07-04T03:22:04.285Z</updated>
+    <updated>2025-07-04T04:34:01.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-04T03:22:04.286Z</updated>
+        <updated>2025-07-04T04:34:01.808Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnFri, 04 Jul 2025 03:22:04 GMT</id>
+        <id>rankingcnFri, 04 Jul 2025 04:34:01 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-04T03:22:04.287Z</updated>
+        <updated>2025-07-04T04:34:01.808Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -117,6 +117,29 @@ feedId:49753297431966720+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1014945607">优酷视频-嘘国王在冬眠 全网独播</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>优酷视频点播</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1231336508">腾讯视频-五十公里桃花坞5 全网独播</a>
       </td>
       <td>
@@ -141,7 +164,7 @@ feedId:49753297431966720+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1619925971">UPDF - 新一代 AI 智能 PDF 编辑器</a>
@@ -158,29 +181,6 @@ feedId:49753297431966720+userId:73658201673997312
                 <i>UPDF AI 标准版</i>：<b>1</b>
               </li><li>
                 <i>永久授权</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>4</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1014945607">优酷视频-嘘国王在冬眠 全网独播</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>优酷视频点播</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -324,6 +324,27 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[优酷视频-嘘国王在冬眠 全网独播]]></title>
+        <id>优酷视频-嘘国王在冬眠 全网独播-cn-1751603292271</id>
+        <link href="https://apps.apple.com/cn/app/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91-%E5%98%98%E5%9B%BD%E7%8E%8B%E5%9C%A8%E5%86%AC%E7%9C%A0-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1014945607?mt=12&amp;uo=4"/>
+        <updated>2025-07-04T04:28:12.271Z</updated>
+        <summary type="html"><![CDATA[优酷视频点播: ¥40.00 → ¥8.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91-%E5%98%98%E5%9B%BD%E7%8E%8B%E5%9C%A8%E5%86%AC%E7%9C%A0-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1014945607?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/ca/f6/afcaf62c-52c9-f8ae-5817-e4ef8e8e05c8/icon.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>优酷视频点播：</strong><span>¥40.00</span> → <b>
+  <strong>¥8.00</strong>
+</b><span>[¥8.00 ~ ¥40.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  优酷Mac客户端，聚焦全网精品内容，提供电影、电视剧、综艺、动漫、少儿等海量高清视频在线观看
+提供优质Mac本地视频播放器，同时支持优酷缓存视频和电脑本地视频播放
+支持4K画质，畅享极致视觉盛宴
+支持优酷账号及第三方登录，视频云记录，多屏同步看
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/4f/67/cd4f67e5-652e-3291-cfcc-61108e59a326/1280_U002a800-p1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/03/79/700379d4-5e0c-b64d-9118-5598426638d6/1280_U002a800-p2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/c9/48/7ec9485b-3ae7-eee3-dc9a-04da21cb21c2/1280_U002a800-p3.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[腾讯视频-五十公里桃花坞5 全网独播]]></title>

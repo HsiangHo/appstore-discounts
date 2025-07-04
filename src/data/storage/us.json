@@ -22852,6 +22852,25 @@
     "history": [
       [
         {
+          "timestamp": 1751603292271,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Telegram Premium": "$4.99",
+            "250 Telegram Stars": "$5.09",
+            "500 Telegram Stars": "$9.99",
+            "Telegram Premium Annual": "$34.99",
+            "1x Premium (3 Months)": "$14.99",
+            "75 Telegram Stars": "$1.59",
+            "1000 Telegram Stars": "$19.99",
+            "1x Premium (1 Year)": "$35.99",
+            "Telegram Premium (3-Month)": "$14.99",
+            "100 Telegram Stars": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751537991576,
           "price": 0,
           "formattedPrice": "Free",
@@ -45515,6 +45534,25 @@
       "3次按次付费功能使用资格": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751603292271,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "年度会员": "$12.99",
+            "订阅一年": "$9.99",
+            "月度会员": "$4.99",
+            "40次按次付费功能使用资格": "$3.99",
+            "订阅一个周.": "$2.49",
+            "60次按次付费功能使用资格": "$4.99",
+            "18次按次付费功能使用资格": "$2.99",
+            "10次按次付费功能使用资格": "$1.99",
+            "3次按次付费功能使用资格": "$0.99",
+            "Permanent membership": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751206528696,
@@ -72357,6 +72395,21 @@
       "30-second AI animation": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751603292271,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$12.99",
+            "Wink- 25 Credits": "$7.99",
+            "Wink- AI Photo Restore": "$0.99",
+            "10-second AI animation": "$1.99",
+            "Wink- 100 Credits": "$24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751483667337,
