@@ -70352,7 +70352,8 @@
       "15% off for 3-month": "$2.99",
       "1 year VIP (7-day free trial)": "$9.99",
       "10% off for 1-year": "$8.99",
-      "10% off for 3-month": "$3.99"
+      "10% off for 3-month": "$3.99",
+      "15% off for 1-year": "$7.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -70363,9 +70364,26 @@
       "15% off for 3-month": "$2.99",
       "1 year VIP (7-day free trial)": "$9.99",
       "10% off for 1-year": "$8.99",
-      "10% off for 3-month": "$3.99"
+      "10% off for 3-month": "$3.99",
+      "15% off for 1-year": "$7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751667444474,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "1 year": "$9.99",
+            "3 months": "$3.99",
+            "3 years": "$19.99",
+            "15% off for 1-year": "$7.99",
+            "15% off for 3-month": "$2.99",
+            "1 year VIP (7-day free trial)": "$9.99",
+            "10% off for 1-year": "$8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,

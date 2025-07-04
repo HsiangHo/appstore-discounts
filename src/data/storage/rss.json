@@ -2,6 +2,101 @@
   "cn": [
     {
       "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/0b/be/370bbe94-df5e-37b5-addf-6f6981191514/EN1.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a4/a2/6ca4a263-0229-4f24-5062-d39376710040/EN2.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/28/68/ad286852-7a31-e093-76c9-f67a649ca38b/EN3.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/cf/46/b8cf46ed-b206-f262-9a2c-c2428281c17a/EN4.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/c2/a5/95c2a538-d375-7858-33b6-3a34f0615538/EN5.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/4a/b4/a14ab4dd-9a60-93fc-38f4-17b4b315bf1a/EN6.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/90/3f/e1903f0a-08af-1023-377b-9db8e286c9a5/EN7.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/1e/87/bc1e877f-517b-249c-c9b9-c1a98c4c9bff/EN8.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/97/59/96975995-0734-41d0-7340-68615f3c4283/EN9.png/800x500bb.jpg"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/62/61/a7626105-03d0-6da3-1c29-3f82263de901/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png",
+      "kind": "mac-software",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/superace-software-technology-co-ltd/id1595826625?mt=12&uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/62/61/a7626105-03d0-6da3-1c29-3f82263de901/AppIcon-0-0-85-220-0-0-5-0-2x.png/60x60bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/62/61/a7626105-03d0-6da3-1c29-3f82263de901/AppIcon-0-0-85-220-0-0-5-0-2x.png/100x100bb.png",
+      "sellerUrl": "https://updf.cn",
+      "languageCodesISO2A": [
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "RU",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "fileSizeBytes": "150641768",
+      "formattedPrice": "免费",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 0,
+      "releaseNotes": "- AI 对话功能现已支持显示 LaTeX 公式。\n- 支持将其他格式文件拖拽至编辑器以创建 PDF 文档。\n- 支持隐藏工具栏操作，让界面更简洁。\n- UPDF AI 在生成思维导图时，现已支持开启深度思考模式。\n- PDF 转换插件已完成升级，转换效果得到进一步提升。\n- 修复了部分产品问题，改进并提升了产品性能和稳定性。",
+      "currentVersionReleaseDate": "2025-06-30T10:18:48Z",
+      "genreIds": [
+        "6007",
+        "6000"
+      ],
+      "bundleId": "com.superace.updf.mac",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "releaseDate": "2022-05-03T07:00:00Z",
+      "version": "2.0.3",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "UPDF 2.0大版本更新，这是一款AI PDF编辑器，具有AI，阅读，编辑，注释、云同步、转换、加密、裁剪、拆分、文档对比等功能。1个账号付费，全平台都可以使用（电脑＋手机＋iPad）。UPDF 凭借年轻化高颜值的界面设计让你拥有一个愉快轻松的阅读和办公体验。\n主要功能：\n1. 编辑 PDF\n-你可以添加或者删除文本，编辑文本属性和格式，比如字体，颜色，大小等。\n-UPDF 也支持通过修改文本的对齐方式使您的文档看起来更整洁。\n-对于 PDF里的图片，你可以进行裁剪，旋转，替换，提取，删除等操作。\n-你可以直接通过拖拽添加和替换图片。\n-支持添加、删除、和编辑水印、背景、以及页眉页脚。\n\n2. AI 功能\n-对单个或多个PDF文档进行总结。\n-对 PDF 文档进行全文翻译。\n-对 PDF文档进行解释，润色或编写。\n-与 UPDF AI 自由对话。\n-支持与图片进行自由问答。\n-支持将文档总结生成思维导图。\n\n3. 注释 PDF\n-在阅读 PDF 文档的过程中，你可以对文档内容添加注释，比如高亮，下划线，删除线来标注突出重点内容。\n-你也可以通过添加图形和文本框来注释你的PDF 文档。\n-如果需要对某些内容进行注解，你可以在文档任意位置添加便签来输入笔记或者审批意见等。\n-你可以在文档中添加并旋转各种各样的签章和贴纸用以注释和评论。\n-若需要在文档里签名，你也可以直接快速地创建你的签名。\n-通过注释列表一键查看或删除所有注释内容。\n\n4.OCR（光学字符识别）（仅适用于官网下载的版本）\n-将扫描的 PDF 转换为可搜索和可编辑的PDF。\n-支持可根据选择检测的38种语言。\n-将可搜索和可编辑的PDF 转换为纯图像PDF。\n\n5. 转换 PDF\n-你可以将 PDF转换为 Word，Excel，PowerPoint，Image，HTML，Text，CSV，XML，PDFIA等格式。\n-将 Word，Excel，PowerPoint，图片，CAJ转成PDF。\n-转换之后的文档会保持原文档格式不变。\n\n6. 云同步\n-支持上传文档至 UPDF Cloud，实现 PC+移动端全平合同步。\n\n7. 管理 PDF 页面\n-对于页面布局，你可以通过旋转调整页面方向，通过拖拽页面调整页面顺序。\n-如果你需要文档中的某些页面，你可以直接提取它们；另外，当你不需要某个页面时，也可以直接删除它。\n-你可以添加空白页或者从其他文件中添加页面。\n-你也可以快速替换文档中的页面。\n-快速根据页码拆分一个 PDF文档为多个文档。\n-根据需要自定义裁剪页面大小。\n\n8. 浏览和定位 PDF 文档\n-你可以放大或缩小页面，清晰地浏览文档内容。\n-通过在页面添加书签，快速定位找到需要的页面。\n-如果你需要同时查看多个 PDF 文档，不用在另外的窗口打开阅览它们，你可以在同一窗日多个标签打开预览，这样更简单快捷。\n-想要快速找到某文本内容，可以一键搜索查找定位文本。\n-快速通过缩略图旋转，删除，旋转和打印 PDF 页面。\n-通过幻灯片的形式攝放 PDF文档。\n\n9. 保护文档\n-可添加文档打开密码防止末经授权的用户打开。\n-可设置文档功能权限控制密码，限制其他用户打印、編辑、复制 PDF 文档等。\n-支持两个文档进行对比，查看不同之处。\n-数字签名，防止他人篡改文件内容。\n-支持马赛克（密文）重要信息。\n\n10. 创建 PDF\n-创建空白页。\n-从选区、窗口、或屏幕捕捉创建 PDF。\n\n11. 扁平化 PDF\n-快速扁平化 PDE，压平文档中的图层。\n\n12. 批量处理\n-支持批量转换，合并，OCR，压缩，打印，创建，水印，页眉页脚，贝茨编码，插入，背景，加密，删除。",
+      "trackCensoredName": "UPDF - 新一代 AI 智能 PDF 编辑器",
+      "trackViewUrl": "https://apps.apple.com/cn/app/updf-%E6%96%B0%E4%B8%80%E4%BB%A3-ai-%E6%99%BA%E8%83%BD-pdf-%E7%BC%96%E8%BE%91%E5%99%A8/id1619925971?mt=12&uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "minimumOsVersion": "11.0",
+      "trackName": "UPDF - 新一代 AI 智能 PDF 编辑器",
+      "trackId": 1619925971,
+      "sellerName": "Superace Software Technology Co., Ltd.",
+      "price": 0,
+      "artistId": 1595826625,
+      "artistName": "Superace Software Technology Co., Ltd.",
+      "genres": [
+        "效率",
+        "商务"
+      ],
+      "userRatingCount": 0,
+      "inAppPurchases": {
+        "永久授权": "¥238.00",
+        "年度订阅": "¥168.00",
+        "UPDF AI 标准版": "¥69.00",
+        "UPDF Pro + AI 无限": "¥428.00",
+        "UPDF AI 无限版": "¥268.00",
+        "UPDF Pro + UPDF AI 标准版": "¥298.00",
+        "季度订阅": "¥88.00"
+      },
+      "timestamp": 1751667444474,
+      "discounts": [
+        {
+          "type": "inAppPurchase",
+          "name": "永久授权",
+          "from": "¥268.00",
+          "to": "¥238.00",
+          "range": "[¥238.00 ~ ¥338.00]"
+        },
+        {
+          "type": "inAppPurchase",
+          "name": "UPDF Pro + AI 无限",
+          "from": "¥468.00",
+          "to": "¥428.00",
+          "range": "[¥428.00 ~ ¥468.00]"
+        }
+      ]
+    },
+    {
+      "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/16/3e/15163e7c-e03a-d9bb-1d24-42356617484c/IMG_1855.png/800x500bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/b6/33/a4b63375-7c02-6eb8-d3f8-446c5c2e13f2/7014b5a6-7cf4-4e28-a688-ff3eff19ee4a_1.jpeg/800x500bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/f5/15/82f515cc-1b40-bf32-7c08-59b3fccf967b/7e0ac2f1-59ac-40d4-b333-c7ff5cd3652d_2880x1800-01@1x.jpg/800x500bb.jpg",
