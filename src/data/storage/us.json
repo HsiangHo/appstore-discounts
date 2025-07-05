@@ -30617,6 +30617,22 @@
     "history": [
       [
         {
+          "timestamp": 1751714045987,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "白金VIP升级星钻VIP360天": "$19.99",
+            "会员限时活动": "$3.99",
+            "连续包月": "$1.99",
+            "12个月": "$19.99",
+            "连续包年": "$24.99",
+            "白金VIP升级星钻VIP90天": "$4.99",
+            "基础VIP升级黄金VIP90天": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751606448361,
           "price": 0,
           "formattedPrice": "Free",
@@ -38690,6 +38706,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1751714045987,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Chords, Scales and Arpeggios": "$9.99",
+            "All Current Content": "$9.99",
+            "Lesson Pack": "$4.99",
+            "All Scales": "$5.99",
+            "All Chords": "$5.99",
+            "All Arpeggios": "$5.99",
+            "ALL ACCESS PASS": "$5.99"
+          }
+        },
         {
           "timestamp": 1751689398723,
           "price": 0,

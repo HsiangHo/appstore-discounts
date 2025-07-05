@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-07-05T10:23:06.986Z</updated>
+    <updated>2025-07-05T11:20:05.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-05T10:23:06.987Z</updated>
+        <updated>2025-07-05T11:20:05.192Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSat, 05 Jul 2025 10:23:06 GMT</id>
+        <id>rankingusSat, 05 Jul 2025 11:20:05 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-05T10:23:06.987Z</updated>
+        <updated>2025-07-05T11:20:05.192Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -119,6 +119,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1012296988">爱奇艺-临江仙 离婚仙侠</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>3</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>连续包月</i>：<b>3</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1231336508">腾讯视频-五十公里桃花坞5 全网独播</a>
       </td>
       <td>
@@ -143,7 +166,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id461369673">VOX: MP3 & FLAC Music Player</a>
@@ -160,29 +183,6 @@ feedId:49753370488353792+userId:73658201673997312
                 <i>VOX Premium Subscription</i>：<b>1</b>
               </li><li>
                 <i>LOOP for VOX Subscription</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>4</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1012296988">爱奇艺-临江仙 离婚仙侠</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>2</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>连续包月</i>：<b>2</b>
               </li>
             </ol>
           </li>
@@ -217,6 +217,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1171417699">Guitar Gravitas: Chords Scales</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Lesson Pack</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1361473095">MuseDash</a>
       </td>
       <td>
@@ -237,7 +260,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1395152179">奇游加速器 - 全球游戏畅玩</a>
@@ -260,7 +283,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id417375580">BetterSnapTool</a>
@@ -283,7 +306,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id491854842">Youdao Translate</a>
@@ -306,7 +329,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1014945607">优酷视频-嘘国王在冬眠 全网独播</a>
@@ -329,7 +352,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1133028347">Cleaner One Pro - Uninstaller</a>
@@ -344,29 +367,6 @@ feedId:49753370488353792+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>Unlock Full Version</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>12</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1171417699">Guitar Gravitas: Chords Scales</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Lesson Pack</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -527,6 +527,125 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱奇艺-临江仙 离婚仙侠]]></title>
+        <id>爱奇艺-临江仙 离婚仙侠-us-1751714045987</id>
+        <link href="https://apps.apple.com/us/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&amp;uo=4"/>
+        <updated>2025-07-05T11:14:05.987Z</updated>
+        <summary type="html"><![CDATA[连续包月: $6.99 → $1.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/2e/3f/222e3ff7-222b-8c27-aeb1-2d1082336d55/Mac_AppIcon-2x_U007euniversal-0-5-0-85-220-0.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>连续包月：</strong><span>$6.99</span> → <b>
+  <strong>$1.99</strong>
+</b><span>[$1.99 ~ $6.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  爱奇艺Mac客户端，简洁轻量的视频客户端。
+支持TouchBar&TrackPad、小窗播放。
+支持4K画质、杜比音效，爱奇艺海量内容畅享视听盛宴！
+体验最新版需要升级到macOS 10.15或更高版本。如有其它问题可以访问： https://app.iqiyi.com/mac/player/index.html
+欢迎联系我们的官方QQ：938355165
+———————我是海量内容的分割线———————
+【独播热播 给你想要】
+精彩戏剧实时看：临江仙、在人间、护宝寻踪、人生若如初见、淮水竹亭、无忧渡、借命而生、绝密较量、乌云之上、念无双、黄雀、北上
+热播电影不间断：向阳·花、黄沙漫天、美国队长4、唐探1900、红色一号：冬日行动、误杀3、射雕英雄传：侠之大者、哪吒之魔童降世
+热门综艺看不停：微笑一号店、亚洲新声、奔跑吧第9季、哈哈哈哈哈第5季、种地吧第3季、现在就开麦—妈妈请就位！、恋爱兄妹、哈哈哈哈哈第4季、喜剧之王单口季
+动漫番剧随心换：航海王、超能立方：超凡篇、绝世战魂、我能无限顿悟、成何体统、都市古仙医、蜡笔小新 第8季 普通话、名侦探柯南 普通话
+经典纪录片细品味：与恐龙同行、舌尖上的中国 第四季、舌尖上的中国 第一季、河西走廊、人间世、中国医生、中华才子传第一季
+海外剧集尽情选：请回答1988、经常请吃饭的漂亮姐姐、金秘书为何那样、大力女子都奉顺、老友记、风骚律师、哥谭镇、明日传奇、小谢尔顿
+
+【VIP会员 尊享特权】
+1、内容特权：院线新片、海量高分大片、热剧抢先看、独家综艺、付费影片折扣、畅读小说。
+2、观影特权：广告特权、1080P、帧绮映画、杜比全景声、杜比视界、专属弹幕、下载加速、并行下载、边下边播、预约下载。
+3、身份特权：七端全屏通、畅享多会员、尊贵标识、尊享装扮、生日礼包、专属客服、等级权益红包、赠送好友影片、好友免费一起看。
+
+【自动续费黄金会员】
+-- 黄金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、杜比音效、下载特权等。
+-- 订阅周期：1个月（黄金会员连续包月产品），3个月(黄金会员连续包季产品)，12个月（黄金会员连续包年产品）。
+-- 订阅价格：以iAP申请信息为准，例如连续包月产品每月25元，连续包季产品每季68元，连续包年产品每年238元。
+-- 付款：用户确认购买并付款后记入iTunes账户。
+-- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
+-- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+-- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
+-- 隐私政策： http://www.iqiyi.com/common/privateh5.html
+-- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
+-- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
+【自动续费白金会员】
+-- 白金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画MAX、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、2台设备同时播放、下载特权等。
+-- 订阅周期：1个月（白金会员连续包月产品），3个月(白金会员连续包季产品)，12个月（白金会员连续包年产品）。
+-- 订阅价格：以iAP申请信息为准，例如连续包月产品每月35元，连续包季产品每季98元，连续包年产品每年348元。
+-- 付款：用户确认购买并付款后记入iTunes账户。
+-- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
+-- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+-- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
+-- 隐私政策： http://www.iqiyi.com/common/privateh5.html
+-- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
+-- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
+【自动续费星钻会员套餐说明】
+-- 星钻会员权益：享海量会员专享内容、会员抢先看、加更礼免费看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、3台设备同时播放、下载特权等。
+-- 订阅周期：1个月（星钻会员连续包月产品），3个月（星钻会员连续包季产品），12个月（星钻连续包年产品）
+-- 订阅价格：以iAP申请信息为准，例如连续包月产品为每月45元，连续包季产品每季118元，连续包年每年428元。
+-- 付款：用户确认购买并付款后计入iTunes账户。
+-- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能。
+-- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+-- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
+-- 隐私政策： http://www.iqiyi.com/common/privateh5.html
+-- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
+-- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
+【自动续费体育会员套餐说明】
+--体育会员权益：爱体育会员享每月2场付费比赛直播或点播（高尔夫比赛除外），爱足球会员有效期内可看平台播出的所有足球比赛，并享广告特权、1080P、多语解说、额外单点付费低至3折。
+--订阅周期：1个月（连续包月产品）。
+--订阅价格：爱体育会员连续包月9元/月，爱足球会员连续包月33元/月
+--付款：用户确认购买并付款后记入iTunes账户
+--取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
+--续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/19/d3/bf/19d3bfd6-9e0a-3605-7ddb-1e9913dda13c/132add12-49bd-4d88-8ae5-5ac5488a4ca1_App_Store_U7269_U65991.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/03/a0/da/03a0da78-2838-3c81-c29d-28700c0682f7/80a29786-6e1e-4cd9-8a4a-00e146f32816_App_Store_U7269_U65992.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/32/58/00/325800bb-a68b-32ec-cbe8-5c90b590dc5f/cec956df-a085-48a5-b159-9a135f1e5ef2_App_Store_U7269_U65993.jpg/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guitar Gravitas: Chords Scales]]></title>
+        <id>Guitar Gravitas: Chords Scales-us-1751714045987</id>
+        <link href="https://apps.apple.com/us/app/guitar-gravitas-chords-scales/id1171417699?uo=4"/>
+        <updated>2025-07-05T11:14:05.987Z</updated>
+        <summary type="html"><![CDATA[Lesson Pack: $5.99 → $4.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/guitar-gravitas-chords-scales/id1171417699?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/aa/b7/0caab733-4f00-6b2b-78ee-d283cadab019/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Lesson Pack：</strong><span>$5.99</span> → <b>
+  <strong>$4.99</strong>
+</b><span>[$4.99 ~ $5.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Learn Guitar. Guitar Chords & Scales Libraries, Lessons, Backing Tracks, Tuner, Metronome and much more.
+
+Guitar Gravitas is an inspirational tool for guitar players of all levels (beginner to pro) that offers the most comprehensive, advanced and interactive chord, arpeggio and scale library in the App Store.
+
+• Over 200 chord types including not only a library of 15,000 of the most commonly used chord shapes but also MILLIONS of playable shapes generated by a state-of-the-art algorithm that allows you to select the root note of the chord and also the lowest or highest note.
+
+• Thousands of arpeggios patterns generated on selection from a list of more than 200 chord types.
+
+• Over 1000 different scales from all over the world including thousands of patterns.
+
+• 31 videos with Guitar Lessons, Backing tracks, Tutorials and Support documents on PDF format.
+
+• High Precision Guitar Tuner.
+
+• Metronome.
+
+• More than 200 predefined guitar tunings and the possibility to create your own. 
+
+• Interact to listen to how chords, arpeggios and scales sound.
+
+• :. Guitar Gravitas .: also comes with chord, arpeggio and scale finders where you can select notes on the fretboard and find out what what you are playing is called.
+
+• No matter what chord, arpeggio or scale you are checking out, :. Guitar Gravitas .: allows you to know what chords, arpeggios or scales you could combine it with.
+
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/c1/e2/73c1e273-e38e-de62-daf8-d90d20f6452a/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ba/78/f5/ba78f595-0f21-ab38-3292-f7e592cc700f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/48/c9/f2/48c9f2a3-42ab-3030-6227-60d7ee824a28/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/7a/f8/2f/7af82f32-3109-2a38-72fa-9b01ad557dcc/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c8/b8/da/c8b8da92-9210-e3c4-2483-4699c8ff0a84/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/d1/8a/7a/d18a7a73-0b7e-5d75-da67-5bae4fee63be/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/4e/b6/23/4eb62330-fbc3-afc8-e21d-5ab0e9a316ea/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/8e/78/02/8e780248-7f4a-d304-11be-5d5db9dccfe3/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ce/93/06/ce930649-a180-257a-ccba-076895a9dff1/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ac/9e/f2/ac9ef2e6-05f2-83d7-eeec-9cb16e7e9f17/mzl.lqmszssc.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/95/b4/00/95b40013-26a4-b33d-3cc7-fc817d10683b/mzl.wawqozlc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/16/2e/a1/162ea1f1-f4b7-624a-3283-782e4994ce25/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/7d/c3/c0/7dc3c041-1912-2efc-4022-8df98ff62089/mzl.ewzeqoly.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/2e/bf/40/2ebf402d-b112-8f9d-6b55-07e8190db070/mzl.ynmscdsc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/80/1f/e6/801fe6ce-8e05-998a-3148-994f7f5be9b8/mzl.hebfsjky.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/42/2d/ad/422dad23-a054-fe10-e751-7fba884950a9/mzl.jctrylyt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/b9/a9/a7/b9a9a774-8198-2a1b-0c6c-871ce3d15b50/mzl.bjtnxaan.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c2/98/06/c29806e5-591e-484b-2c16-11a56731b921/mzl.qjgxihxf.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[腾讯视频-五十公里桃花坞5 全网独播]]></title>
