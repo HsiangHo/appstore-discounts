@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-07-04T17:21:04.558Z</updated>
+    <updated>2025-07-05T01:30:03.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-04T17:21:04.559Z</updated>
+        <updated>2025-07-05T01:30:03.902Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusFri, 04 Jul 2025 17:21:04 GMT</id>
+        <id>rankingusSat, 05 Jul 2025 01:30:03 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-04T17:21:04.560Z</updated>
+        <updated>2025-07-05T01:30:03.902Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -305,6 +305,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1133028347">Cleaner One Pro - Uninstaller</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Unlock Full Version</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>11</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1339124759">Audio Editor & Music Mixer</a>
       </td>
       <td>
@@ -325,7 +348,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
@@ -342,7 +365,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1550581532">Vythm VJ - Music Visualizer DJ</a>
@@ -365,7 +388,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1575178082">Max NTFS - NTFS Disk Helper</a>
@@ -388,7 +411,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6448913901">全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理</a>
@@ -420,6 +443,84 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cleaner One Pro - Uninstaller]]></title>
+        <id>Cleaner One Pro - Uninstaller-us-1751678629469</id>
+        <link href="https://apps.apple.com/us/app/cleaner-one-pro-uninstaller/id1133028347?mt=12&amp;uo=4"/>
+        <updated>2025-07-05T01:23:49.469Z</updated>
+        <summary type="html"><![CDATA[Unlock Full Version: $29.99 → $19.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/cleaner-one-pro-uninstaller/id1133028347?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/19/b4/b819b4d7-860b-4f2a-5013-a109d2117cc9/AppIcon-0-0-85-220-0-4-2x-sRGB.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Unlock Full Version：</strong><span>$29.99</span> → <b>
+  <strong>$19.99</strong>
+</b><span>[$19.99 ~ $29.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Cleaner One Pro is the all-in-one Mac Master Cleaner App. It can optimize your disk usage, free up space on your Mac, keep the hard drive clean, remove duplicate photos and other files, manage your apps, and much more. 
+
+Fully compatible with macOS Monterey and Apple Silicon.
+
+PRIMARY FEATURES
+[Junk Files Cleaner]
+• Has Quick Disk Clean feature you can click from the Status Bar Menu
+• Clean temporary files, including logs, mail caches, iTunes and iOS temporary files, etc. Empty Trash for current user
+• Detect remaining files after deleting Apps
+• Clean Junk Files in removable storage on your Mac
+ 
+[Duplicate File Scanner]
+• Thorough and quick scan — fast and accurate scanning technique covers your entire home folder
+• Smart and Accurate Filter — duplicates are selected not only by file name but also by their content. Files are shown in detailed preview. Click the Auto Select button to help you decide which copy you wish to delete.
+• Easy and safe decision — duplicates can be sorted by file type and listed in their full route for you to track. You can decide which way to clean these files; either by sending them to Trash or deleting them permanently (In-App Purchase required)
+
+[Photo Manager]
+• Quickly find similar photos, blurry photos, and screenshots
+• Preview photos in groups after scanning
+• Organize your photo library
+• Easily remove photos that may be safe to delete to free up space (In-App Purchase required)
+ 
+[Intelligent App Manager]
+• Auto-clean leftovers of deleted Apps
+• Manage all installed applications with the All-in-One App Optimizer
+• Detect and remove leftover files of deleted apps with the App Manager
+• List all the applications installed on your Mac by name, size, and last opened date
+• Remove unwanted applications with Mac Disk Clean (In-App Purchase required)
+• Remove all the associated files of uninstalled applications (In-App Purchase required)
+• Added Vulnerability Scan in the App Manager to enhance security (In-App Purchase required)
+
+[Big Files Scanner]
+• 1-click scan of big files (customizable size from 10 MB and above)
+• Multiple filters of size, date, name and type
+• Local files in sync with your cloud drives can also be found
+* Important big files can be ""locked"" into the protected list to avoid accidental deletion
+
+[Mac Disk Clean Map]
+• Mac Disk Clean scans all your disk drives and creates a clickable map of the files on your disk, color-coded by type
+• Provides additional information about files when you click on an item on the map
+• View your entire disk by file or folder size to determine which files or folders use the most space with Clean Master
+
+[Real-Time System Status]
+• Real-time network usage
+• Real-time CPU usage
+• See detailed network and CPU information (In-App Purchase required)
+
+The paid version costs as little as $19.99 per year (this price may vary by location).
+ 
+Subscriptions will auto-renew unless canceled.
+— Payment will be charged to iTunes Account at confirmation of purchase
+— Subscription may be managed by the user and auto-renewal may be turned off by going to the user’s Account Setting after purchase.
+— No cancellation of the current subscription is allowed during active subscription period.
+— Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+— Your account will be charged for renewal for the amount of your current subscription within 24-hours prior to the end of the current period. All cost for subscriptions are mentioned above.
+
+Privacy Policy and Terms of Use
+Privacy Policy: http://gr.trendmicro.com/GREntry/NonPayment?Target=TrendCleaner&OS=&SP=&PID=TCS60&FunID=PrivacyPolicy&VID=&Locale=en
+Terms of Use: http://gr.trendmicro.com/GREntry/NonPayment?Target=TrendCleaner&OS=&SP=&PID=TCS60&FunID=EULA&VID=&Locale=en
+
+Please comment in the App Store and you can also email us directly at mac_support@trendmicro.com.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/47/df/0647dfec-9e40-5f35-74c1-fe202f37c1f0/d2ac6b69-4c5e-400a-8199-4641b7350179_1_en_Global.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/71/51/ec7151dc-454c-841e-7076-280f0b0408d7/725634c6-1687-4171-a8fc-807a0fa55ca1_2_Global.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/a9/56/1fa956a3-bdd9-e5df-ebe1-d4673f762514/87a95753-0d24-4a32-8493-c3426eee8bc7_3_Global.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/20/88/312088c9-130a-68a5-f0b0-2305c04ba544/9f67a9e8-48d6-400f-803c-dd3cea59041d_4_Global.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/3c/c0/4d3cc0bb-96e9-929c-d90b-ab38dd3ffa6b/COP_PhotoManager_Global.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TextSniper - OCR, Copy & Paste]]></title>
@@ -1411,46 +1512,5 @@ Twitter:@MuseDash_EN
 【意见反馈】
 如遇问题或者有好的建议，欢迎加入QQ体验群反馈，将会有萌哒哒的视频妹为大家解答，并有持续好礼相送！官方QQ群：527288510。
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/16/3e/15163e7c-e03a-d9bb-1d24-42356617484c/IMG_1855.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/b6/33/a4b63375-7c02-6eb8-d3f8-446c5c2e13f2/7014b5a6-7cf4-4e28-a688-ff3eff19ee4a_1.jpeg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/f5/15/82f515cc-1b40-bf32-7c08-59b3fccf967b/7e0ac2f1-59ac-40d4-b333-c7ff5cd3652d_2880x1800-01@1x.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/e2/d9/9ae2d96c-bc6d-e6be-fbdb-5e5fcbab67b7/IMG_1854.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Audio Converter]]></title>
-        <id>The Audio Converter-us-1751404640681</id>
-        <link href="https://apps.apple.com/us/app/the-audio-converter/id1081480270?mt=12&amp;uo=4"/>
-        <updated>2025-07-01T21:17:20.681Z</updated>
-        <summary type="html"><![CDATA[Premium Pass: $19.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/the-audio-converter/id1081480270?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a6/12/eb/a612ebf2-0792-2872-e270-95fc99cc8d19/AppIcon-0-0-85-220-0-0-4-0-2x.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Premium Pass：</strong><span>$19.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $19.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Quickly convert your audio or video files to nearly any audio format!
-
-1. Select your input file
-2. Choose your output format ( MP3, WAV, M4A, AAC  etc.  )
-3. Convert! It will only take a few seconds.
-4. Done! Listen right away, or open  in your favorite app
-
-Here are the video and audio output formats you can choose from:
-MP3, M4A, AAC, FLAC, OGG, WAV, WMA, AIFF
-
-You can convert from dozens of input formats, here are some of the most popular formats we support converting from:
-MOV, M4A, MP3, WMA, MP4, WAV, OGG, OPUS, AMR, AAC, WEBM, MID and many more!
-
-Save, Share or Listen to your converted audio files in your favorite apps immediately.
-
-Conversion is done on a secure cloud server, which makes conversion easier, faster and much more battery-friendly. You must have an internet connection to use this app. Files are immediately deleted from the server after conversion. While the files are immediately deleted after conversion or cancellation, you should be aware that by using this app, you agree that your files will be sent over to internet from the app to the conversion server.
-
-We've also recently added support for local conversions for many popular conversion types. These conversions don't require a server, and are usually done almost instantly! We are continuing to add support for more local conversions with each update.
-
-
-This app includes an optional auto-renewable subscription (Premium Pass): Premium Pass beings with a free trial period, then an auto-renewable monthly subscription when trial ends. Payment will be charged to your Apple account at confirmation of purchase and will automatically renew (at the duration/price selected) unless auto-renew is turned off at least 24 hrs before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period. Current subscription may not be cancelled during the active subscription period; however, you can manage your subscription and/or turn off auto-renewal by visiting your Apple Account Settings after purchase. Any unused portion of the free initial period will be forfeited when you purchase a subscription.
-
-Privacy Policy: https://float.support/the-audio-converter-mac/privacy
-Terms of Use: https://float.support/the-audio-converter-mac/terms
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/a6/d0/63/a6d063b5-8194-3e3a-dabd-69cc1a17c1b4/51fab44a-f38c-4c8b-9947-35caa4c3a46a_en-US-Mac_ss1.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/23/9c/bc/239cbcbb-42e0-bf0a-b067-6d0b4c8860d7/3e90d419-fa14-45ad-bbca-7e314f50dd59_en-US-Mac_ss2.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/9a/7c/5f/9a7c5ff2-6296-c62d-086e-c7d4592a384c/481fbb67-f60a-40cd-8aec-3fdc93881085_en-US-Mac_ss3.jpg/800x500bb.jpg" />]]></content>
     </entry>
 </feed>

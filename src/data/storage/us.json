@@ -36999,6 +36999,16 @@
     "history": [
       [
         {
+          "timestamp": 1751678629469,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Unlock Full Version": "$19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749645470397,
           "price": 0,
           "formattedPrice": "Free",

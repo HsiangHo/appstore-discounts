@@ -113,6 +113,13 @@
         "Premium Pass": 2
       }
     },
+    "1133028347": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Unlock Full Version": 1
+      }
+    },
     "1231336508": {
       "all": 2,
       "price": 0,
