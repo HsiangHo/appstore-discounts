@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-07-04T22:23:59.286Z</updated>
+    <updated>2025-07-05T03:18:05.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753297431966720+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-04T22:23:59.288Z</updated>
+        <updated>2025-07-05T03:18:05.850Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -28,9 +28,9 @@ feedId:49753297431966720+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnFri, 04 Jul 2025 22:23:59 GMT</id>
+        <id>rankingcnSat, 05 Jul 2025 03:18:05 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-04T22:23:59.288Z</updated>
+        <updated>2025-07-05T03:18:05.851Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -332,6 +332,29 @@ feedId:49753297431966720+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>12</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6452726154">Ultra VPN - VPN and Wifi Proxy</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>Yearly VPN subscription</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -343,6 +366,49 @@ feedId:49753297431966720+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultra VPN - VPN and Wifi Proxy]]></title>
+        <id>Ultra VPN - VPN and Wifi Proxy-cn-1751685140873</id>
+        <link href="https://apps.apple.com/cn/app/ultra-vpn-vpn-and-wifi-proxy/id6452726154?mt=12&amp;uo=4"/>
+        <updated>2025-07-05T03:12:20.873Z</updated>
+        <summary type="html"><![CDATA[Yearly VPN subscription: ¥498.00 → ¥88.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/ultra-vpn-vpn-and-wifi-proxy/id6452726154?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/61/ba/7461bad7-7472-9065-c983-632c0cad58eb/UltraVPN_App_Icon-0-0-85-220-0-0-0-4-0-2x.png/60x60bb.png" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>Yearly VPN subscription：</strong><span>¥498.00</span> → <b>
+  <strong>¥88.00</strong>
+</b><span>[¥88.00 ~ ¥498.00]</span>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Protect your online privacy with Ultra VPN's ultra-fast servers with a simple tap of the connect button! Connect today to get unlimited VPN access to one of our 114 virtual locations in 81 countries while keeping your digital identity anonymous and secure.
+
+► Unlimited VPN features:
+
+■ Unlimited bandwidth - Get unthrottled access to all our premium VPN servers.
+■ Unlimited traffic - Send and receive limitless amounts of data without worry.
+■ Unlimited time - Stay connected all the time for complete mobile security.
+
+► Why do I need a VPN?
+
+■ Keep your internet browsing activity private and anonymous.
+■ Protect yourself from cybercriminals when connected to public WiFi.
+■ Secure your internet connection from anywhere in the world.
+
+► Ultra VPN features:
+
+■ One-click connect for quick access
+■ Over 114+ International virtual locations
+■ Full-time customer support anytime, anywhere
+■ Military-grade encryption from your phone to our servers
+■ Connect up to 6 devices
+
+Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. The account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. No cancellation of the current subscription is allowed during an active subscription period. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+
+■ Terms of Service: https://www.ultravpn.com/terms/
+■ Privacy Policy: https://ultravpn.com/privacy
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/9a/e9/db9ae98a-c6b5-5909-625d-0219b63e5c52/afe47afc-3de4-4db8-9bce-bc76ec4006f7_1280x800bb__U00284_U0029.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/ad/14/4cad1453-50ea-1a1a-817c-d36af20aa7ab/a7ed3bb6-88bd-4f9b-a53e-e766c8052cd9_1280x800bb__U00283_U0029.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/49/fa/ca49fa99-1f0e-ef26-4d14-5ee1b4999f20/e3237d86-b5ae-477b-a107-9bcce1caceda_1280x800bb__U00282_U0029.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/d9/c1/5fd9c1f1-4672-a157-f547-db3a82ee62e1/af90fa02-b3df-4565-8b08-86e8ca523909_2.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[UPDF - 新一代 AI 智能 PDF 编辑器]]></title>
@@ -848,46 +914,5 @@ feedId:49753297431966720+userId:73658201673997312
 12. 批量处理
 -支持批量转换，合并，OCR，压缩，打印，创建，水印，页眉页脚，贝茨编码，插入，背景，加密，删除。
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/0b/be/370bbe94-df5e-37b5-addf-6f6981191514/EN1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a4/a2/6ca4a263-0229-4f24-5062-d39376710040/EN2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/28/68/ad286852-7a31-e093-76c9-f67a649ca38b/EN3.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/cf/46/b8cf46ed-b206-f262-9a2c-c2428281c17a/EN4.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/c2/a5/95c2a538-d375-7858-33b6-3a34f0615538/EN5.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/4a/b4/a14ab4dd-9a60-93fc-38f4-17b4b315bf1a/EN6.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/90/3f/e1903f0a-08af-1023-377b-9db8e286c9a5/EN7.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/1e/87/bc1e877f-517b-249c-c9b9-c1a98c4c9bff/EN8.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/97/59/96975995-0734-41d0-7340-68615f3c4283/EN9.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怪物乐土]]></title>
-        <id>怪物乐土-cn-1751426243531</id>
-        <link href="https://apps.apple.com/cn/app/%E6%80%AA%E7%89%A9%E4%B9%90%E5%9C%9F/id6612011484?uo=4"/>
-        <updated>2025-07-02T03:17:23.531Z</updated>
-        <summary type="html"><![CDATA[价格: ¥18.00 → ¥15.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%80%AA%E7%89%A9%E4%B9%90%E5%9C%9F/id6612011484?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/5d/2a/d75d2ab5-2d31-ce7c-758b-2dcc9ec5f1ba/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥18.00</span> → <b>
-  <strong>¥15.00</strong>
-</b><span>[¥12.00 ~ ¥18.00]</span>）
-</h2><h2>应用描述</h2><p>
-  宠物对战与银河恶魔城的融合。在可爱的侧视像素世界中收集和训练怪物，并让其为你作战。
-
-【寻找灵魂使魔，成为你最可靠的冒险伙伴】
-跟随先人的步伐，成为一个怪物饲养人并拯救怪物避难所。借助收集的怪物组建团队，开展史诗般冒险，解锁不断扩张的世界。在成为终极怪物饲养人的过程中，你将揭开威胁着人类与怪物之间和平的谜团。
-
-【探索银河恶魔城式的世界】
-探索银河恶魔城式的世界。借助培养的怪物们各种专属能力，你可以在这个世界上进行探索，拓宽自己视界。砍掉树藤、撞倒墙壁、滑过间隙......在怪物的帮助下，通通不在话下。
-
-【组建你自己的队伍】
-从世界各地孵化、收集和训练怪物，组建自己的组合。每个怪物均具备独有技能树，方便定制你自己的队伍。
-
-【战术3V3作战，激情碰撞】
-有策略地发出进攻命令，发挥最大效果；集中进攻以创造各种连击，反复出招，找到最佳的连击，从而获得最为稀有的怪兽蛋。
-
-【与其他的饲养员联机匹配战斗】
-针锋相对，在线上玩家对战中体验雄壮的战斗，接受技巧与能力的试炼！收集并训练怪物，点满它们的技能树，一路作战，让你的怪物撑到最后！
-
-【联系我们】
-抖音：@良心工作室
-快手：@良心工作室
-B站：@良心工作室
-小红书：@良心工作室
-微博：@良心工作室官方
-Q群：925023982
-
-若有任何关于游戏的建议与反馈，欢迎通过上方任意方式联系我们，我们将会为您提供一对一的客户服务！
-</p>]]></content>
     </entry>
 </feed>

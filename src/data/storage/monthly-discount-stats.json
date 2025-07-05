@@ -75,6 +75,13 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6452726154": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Yearly VPN subscription": 1
+      }
     }
   },
   "us": {
@@ -83,6 +90,13 @@
       "price": 0,
       "inAppPurchase": {
         "BetterTouchTool License": 1
+      }
+    },
+    "461369673": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "VOX Premium Subscription": 1
       }
     },
     "491854842": {
@@ -118,6 +132,13 @@
       "price": 0,
       "inAppPurchase": {
         "Unlock Full Version": 1
+      }
+    },
+    "1171417699": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Lesson Pack": 1
       }
     },
     "1231336508": {
@@ -182,6 +203,16 @@
       "inAppPurchase": {
         "积分": 1
       }
+    },
+    "6739523960": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6738089759": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   }
 }

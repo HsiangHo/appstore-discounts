@@ -74186,6 +74186,17 @@
     "history": [
       [
         {
+          "timestamp": 1751685140873,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Monthly Premium": "¥58.00",
+            "Yearly Premium": "¥598.00",
+            "Yearly VPN subscription": "¥88.00",
+            "Monthly VPN Subscription": "¥88.00"
+          }
+        },
+        {
           "timestamp": 1751678629469,
           "price": 0,
           "formattedPrice": "免费",

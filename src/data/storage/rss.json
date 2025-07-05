@@ -1,6 +1,75 @@
 {
   "cn": [
     {
+      "artistViewUrl": "https://apps.apple.com/cn/developer/fast-vpn-pro-s-de-r-l/id1693337853?mt=12&uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/61/ba/7461bad7-7472-9065-c983-632c0cad58eb/UltraVPN_App_Icon-0-0-85-220-0-0-0-4-0-2x.png/60x60bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/61/ba/7461bad7-7472-9065-c983-632c0cad58eb/UltraVPN_App_Icon-0-0-85-220-0-0-0-4-0-2x.png/100x100bb.png",
+      "kind": "mac-software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/9a/e9/db9ae98a-c6b5-5909-625d-0219b63e5c52/afe47afc-3de4-4db8-9bce-bc76ec4006f7_1280x800bb__U00284_U0029.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/ad/14/4cad1453-50ea-1a1a-817c-d36af20aa7ab/a7ed3bb6-88bd-4f9b-a53e-e766c8052cd9_1280x800bb__U00283_U0029.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/49/fa/ca49fa99-1f0e-ef26-4d14-5ee1b4999f20/e3237d86-b5ae-477b-a107-9bcce1caceda_1280x800bb__U00282_U0029.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/d9/c1/5fd9c1f1-4672-a157-f547-db3a82ee62e1/af90fa02-b3df-4565-8b08-86e8ca523909_2.png/800x500bb.jpg"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/61/ba/7461bad7-7472-9065-c983-632c0cad58eb/UltraVPN_App_Icon-0-0-85-220-0-0-0-4-0-2x.png/512x512bb.png",
+      "trackCensoredName": "Ultra VPN - VPN and Wifi Proxy",
+      "trackViewUrl": "https://apps.apple.com/cn/app/ultra-vpn-vpn-and-wifi-proxy/id6452726154?mt=12&uo=4",
+      "averageUserRating": 0,
+      "contentAdvisoryRating": "4+",
+      "price": 0,
+      "releaseDate": "2023-10-12T07:00:00Z",
+      "bundleId": "com.ultravpn.macos",
+      "sellerName": "Fast VPN Pro, S. DE R.L",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2025-05-30T10:57:03Z",
+      "releaseNotes": "Protect your online privacy and enjoy lightning-fast VPN access with just one click! This update brings performance enhancements and stability improvements to ensure a smoother, more secure experience.\n\nWhat's New:\nEnhanced connection stability across all 114+ global server locations.\n\nOptimized one-click connect experience for faster access.\n\nBug fixes and performance improvements for a more seamless VPN session.\n\nStay secure, stay private—anytime, anywhere.",
+      "version": "2.11.0",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "Protect your online privacy with Ultra VPN's ultra-fast servers with a simple tap of the connect button! Connect today to get unlimited VPN access to one of our 114 virtual locations in 81 countries while keeping your digital identity anonymous and secure.\n\n► Unlimited VPN features:\n\n■ Unlimited bandwidth - Get unthrottled access to all our premium VPN servers.\n■ Unlimited traffic - Send and receive limitless amounts of data without worry.\n■ Unlimited time - Stay connected all the time for complete mobile security.\n\n► Why do I need a VPN?\n\n■ Keep your internet browsing activity private and anonymous.\n■ Protect yourself from cybercriminals when connected to public WiFi.\n■ Secure your internet connection from anywhere in the world.\n\n► Ultra VPN features:\n\n■ One-click connect for quick access\n■ Over 114+ International virtual locations\n■ Full-time customer support anytime, anywhere\n■ Military-grade encryption from your phone to our servers\n■ Connect up to 6 devices\n\nPayment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. The account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. No cancellation of the current subscription is allowed during an active subscription period. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable\n\n■ Terms of Service: https://www.ultravpn.com/terms/\n■ Privacy Policy: https://ultravpn.com/privacy",
+      "minimumOsVersion": "10.15",
+      "averageUserRatingForCurrentVersion": 0,
+      "userRatingCountForCurrentVersion": 0,
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "21762972",
+      "formattedPrice": "免费",
+      "trackContentRating": "4+",
+      "sellerUrl": "https://www.ultravpn.com",
+      "trackId": 6452726154,
+      "trackName": "Ultra VPN - VPN and Wifi Proxy",
+      "genres": [
+        "工具",
+        "效率"
+      ],
+      "artistId": 1693337853,
+      "artistName": "Fast VPN Pro, S. DE R. L.",
+      "userRatingCount": 0,
+      "inAppPurchases": {
+        "Monthly Premium": "¥58.00",
+        "Yearly Premium": "¥598.00",
+        "Yearly VPN subscription": "¥88.00",
+        "Monthly VPN Subscription": "¥88.00"
+      },
+      "timestamp": 1751685140873,
+      "discounts": [
+        {
+          "type": "inAppPurchase",
+          "name": "Yearly VPN subscription",
+          "from": "¥498.00",
+          "to": "¥88.00",
+          "range": "[¥88.00 ~ ¥498.00]"
+        }
+      ]
+    },
+    {
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/0b/be/370bbe94-df5e-37b5-addf-6f6981191514/EN1.png/800x500bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a4/a2/6ca4a263-0229-4f24-5062-d39376710040/EN2.png/800x500bb.jpg",
@@ -665,16 +734,19 @@
           "range": "[¥69.00 ~ ¥148.00]"
         }
       ]
-    },
+    }
+  ],
+  "us": [
     {
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/5d/2a/d75d2ab5-2d31-ce7c-758b-2dcc9ec5f1ba/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/%E6%9F%B1%E8%8D%A3-%E6%9D%8E/id1445806272?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ea/35/f9ea3591-a3aa-59b0-1a37-183f419f88f2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ea/35/f9ea3591-a3aa-59b0-1a37-183f419f88f2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
       "supportedDevices": [
+        "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
         "iPadAirCellular-iPadAirCellular",
@@ -790,70 +862,409 @@
         "iPadAir13M3-iPadAir13M3",
         "iPadAir13M3Cellular-iPadAir13M3Cellular"
       ],
-      "advisories": [
-        "偶尔/轻微的竞赛",
-        "偶尔/轻微的卡通或幻想暴力"
-      ],
-      "isGameCenterEnabled": false,
+      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%8E%A6%E9%97%A8%E5%BF%AB%E7%88%86%E6%B8%B8%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1757778024?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/5d/2a/d75d2ab5-2d31-ce7c-758b-2dcc9ec5f1ba/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/5d/2a/d75d2ab5-2d31-ce7c-758b-2dcc9ec5f1ba/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
-      "languageCodesISO2A": [
-        "ZH"
-      ],
-      "fileSizeBytes": "888177664",
-      "artistId": 1757778024,
-      "artistName": "厦门快爆游网络科技有限公司",
+      "ipadScreenshotUrls": [],
+      "screenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ea/35/f9ea3591-a3aa-59b0-1a37-183f419f88f2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "averageUserRating": 0,
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Allow Right Click for Safari",
+      "trackViewUrl": "https://apps.apple.com/us/app/allow-right-click-for-safari/id6739523960?uo=4",
+      "minimumOsVersion": "15.0",
+      "artistId": 1445806272,
+      "artistName": "柱荣 李",
       "genres": [
-        "游戏",
-        "冒险",
-        "角色扮演"
+        "Utilities"
       ],
-      "price": 15,
-      "bundleId": "com.gwlt.3839",
-      "averageUserRatingForCurrentVersion": 3.72642,
-      "formattedPrice": "¥15.00",
-      "userRatingCountForCurrentVersion": 106,
-      "trackContentRating": "9+",
-      "trackId": 6612011484,
-      "trackName": "怪物乐土",
-      "releaseDate": "2025-06-13T07:00:00Z",
+      "price": 0,
+      "bundleId": "works.truss.Paste-for-Safari",
+      "trackId": 6739523960,
+      "trackName": "Allow Right Click for Safari",
+      "releaseDate": "2025-04-10T07:00:00Z",
       "genreIds": [
-        "6014",
-        "7002",
-        "7014"
+        "6002"
       ],
-      "primaryGenreName": "Games",
-      "primaryGenreId": 6014,
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Xiamen Kuaibaoyou Network Technology Co., Ltd",
-      "currentVersionReleaseDate": "2025-06-26T08:33:56Z",
-      "releaseNotes": "该版本修复问题如下：\n1、优化了地图标记删除时，需要在特定地点才能操作的问题，现在可以选中地图上已放置的标记即可进行删除\n2、处理了【瘟疫蛋】由于存在敏感词问题导致无法展示名称的问题，现已变更为【灾祸蛋】\n3、修复了【格斗家】的技能描述存在错误的问题。\n4、已优化保存退出并重新进入游戏后，魔物技能树会被清空的问题",
-      "version": "1.6",
+      "sellerName": "柱荣 李",
+      "currentVersionReleaseDate": "2025-04-10T10:49:25Z",
+      "releaseNotes": "bug fix",
+      "version": "1.3",
       "wrapperType": "software",
-      "currency": "CNY",
-      "description": "宠物对战与银河恶魔城的融合。在可爱的侧视像素世界中收集和训练怪物，并让其为你作战。\n\n【寻找灵魂使魔，成为你最可靠的冒险伙伴】\n跟随先人的步伐，成为一个怪物饲养人并拯救怪物避难所。借助收集的怪物组建团队，开展史诗般冒险，解锁不断扩张的世界。在成为终极怪物饲养人的过程中，你将揭开威胁着人类与怪物之间和平的谜团。\n\n【探索银河恶魔城式的世界】\n探索银河恶魔城式的世界。借助培养的怪物们各种专属能力，你可以在这个世界上进行探索，拓宽自己视界。砍掉树藤、撞倒墙壁、滑过间隙......在怪物的帮助下，通通不在话下。\n\n【组建你自己的队伍】\n从世界各地孵化、收集和训练怪物，组建自己的组合。每个怪物均具备独有技能树，方便定制你自己的队伍。\n\n【战术3V3作战，激情碰撞】\n有策略地发出进攻命令，发挥最大效果；集中进攻以创造各种连击，反复出招，找到最佳的连击，从而获得最为稀有的怪兽蛋。\n\n【与其他的饲养员联机匹配战斗】\n针锋相对，在线上玩家对战中体验雄壮的战斗，接受技巧与能力的试炼！收集并训练怪物，点满它们的技能树，一路作战，让你的怪物撑到最后！\n\n【联系我们】\n抖音：@良心工作室\n快手：@良心工作室\nB站：@良心工作室\n小红书：@良心工作室\n微博：@良心工作室官方\nQ群：925023982\n\n若有任何关于游戏的建议与反馈，欢迎通过上方任意方式联系我们，我们将会为您提供一对一的客户服务！",
-      "averageUserRating": 3.72642,
-      "trackCensoredName": "怪物乐土",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E6%80%AA%E7%89%A9%E4%B9%90%E5%9C%9F/id6612011484?uo=4",
-      "minimumOsVersion": "12.0",
-      "contentAdvisoryRating": "9+",
-      "userRatingCount": 106,
+      "currency": "USD",
+      "description": "This software allows right-click, copy, cut, and paste functionality on all websites. It has a simple interface and is easy to use. You can copy any content, whether it’s text, images, or other media.",
+      "trackContentRating": "4+",
+      "userRatingCountForCurrentVersion": 0,
+      "averageUserRatingForCurrentVersion": 0,
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "764928",
+      "formattedPrice": "Free",
+      "userRatingCount": 0,
       "inAppPurchases": {},
-      "timestamp": 1751426243531,
+      "timestamp": 1751685140873,
       "discounts": [
         {
           "type": "price",
-          "name": "价格",
-          "from": "¥18.00",
-          "to": "¥15.00",
-          "range": "[¥12.00 ~ ¥18.00]"
+          "name": "Price",
+          "from": "$1.99",
+          "to": "Free",
+          "range": "[Free ~ $1.99]"
         }
       ]
-    }
-  ],
-  "us": [
+    },
+    {
+      "artistViewUrl": "https://apps.apple.com/us/developer/coppertino-inc/id410801091?mt=12&uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/0c/59/5c0c59d6-9f05-4fb0-836a-15f1e3459b39/AppIconNew-0-0-85-220-0-0-0-4-0-2x.png/60x60bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/0c/59/5c0c59d6-9f05-4fb0-836a-15f1e3459b39/AppIconNew-0-0-85-220-0-0-0-4-0-2x.png/100x100bb.png",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/7c/36/637c3612-0070-f326-819e-1e7bcce9c2af/pr_source.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/82/a4/09/82a40990-99b5-c706-fadb-c1f8ac3651e0/mzl.ptafbcyi.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/0d/27/a70d27b3-0fe0-3c9f-4216-33ee99423452/pr_source.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/76/4b/44/764b4485-6790-5152-c984-7d9e4154bc71/mzl.lfjljoip.png/800x500bb.jpg"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/0c/59/5c0c59d6-9f05-4fb0-836a-15f1e3459b39/AppIconNew-0-0-85-220-0-0-0-4-0-2x.png/512x512bb.png",
+      "kind": "mac-software",
+      "averageUserRating": 0,
+      "trackCensoredName": "VOX: MP3 & FLAC Music Player",
+      "trackViewUrl": "https://apps.apple.com/us/app/vox-mp3-flac-music-player/id461369673?mt=12&uo=4",
+      "contentAdvisoryRating": "4+",
+      "releaseNotes": "- Fixed Youtube playback;\n- Fixed launch issue related to companion VOX Cloud app.",
+      "minimumOsVersion": "10.11",
+      "userRatingCountForCurrentVersion": 0,
+      "averageUserRatingForCurrentVersion": 0,
+      "sellerUrl": "https://vox.rocks/mac-music-player",
+      "languageCodesISO2A": [
+        "EN",
+        "JA",
+        "RU",
+        "ZH"
+      ],
+      "fileSizeBytes": "44153084",
+      "formattedPrice": "Free",
+      "trackContentRating": "4+",
+      "artistId": 410801091,
+      "artistName": "Coppertino Inc.",
+      "genres": [
+        "Music",
+        "Utilities"
+      ],
+      "price": 0,
+      "bundleId": "com.coppertino.Vox",
+      "releaseDate": "2013-07-27T07:00:00Z",
+      "trackId": 461369673,
+      "trackName": "VOX: MP3 & FLAC Music Player",
+      "genreIds": [
+        "6011",
+        "6002"
+      ],
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "sellerName": "Coppertino Inc.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2024-04-25T22:52:44Z",
+      "version": "3.6.1",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "#1 Hi-Res audio player for Mac & iPhone. Music just sounds better! \n\n*NEW*\nIntroducing VOX Premium – Your Ultimate Music Experience. VOX Premium adds a stunning cloud streaming features and unlimited music storage without a decline in quality. Sync, stream and cache your entire music library on Mac and iPhone in a way that suits you best!\n\nListen to your music regardless of the format:\n• Play numerous lossy and lossless (FLAC, APE, WAV, DSD, etc.) audio formats;\n• Export playlists in various formats (PLS, M3U, XSPF);\n• Open different playlist types including M3U, PLS, XSPF, and the popular CUE format used to store CD rips;\n• Play audio files stored on NAS devices and other network drives.\n\nManage your music easily: \n• Control the player from the main interface, Dock context menu or main menu controls;\n• Automatically search for all the missing album artwork from MusicBrainz and Last.fm databases;\n• Use keyboard media keys, headphones controls, and Apple Remote to control the playback (requires VOX Preference Pane);\n• Easily add music via smart drop zones, open dialog and Finder context menu;\n• Use the Equalizer with presets & custom mode, crossfade, fade on play/pause, converting music to 5.1 or 7.1 format;\n• Preview album artwork from your Dock icon;\n• Gapless playback support;\n• Get system or Growl playback notifications.\n\nFocus on music, not the source: \n• Work with different audio sources including custom Playlists, iTunes Library, online radio and much more;\n• Scrobble to Last.fm to keep your listening stats up-to-date;\n• Play any song, any playlist you find on YouTube via VOX FLAC Player, put all your YouTube songs into one media collection.\n\nFull SoundCloud integration:\n• Easily control SoundCloud via VOX;\n• Access the largest music database in the world and discover new tunes;\n• Bring your SoundCloud stream and likes directly into VOX.\n\nYouTube source:\n• Press CMD+U and paste any link from YouTube to play it in VOX. You can add it to VOX collections as well.\n\nLast.fm:\n• Scrobbling for your music stream;\n\nRadio access for VOX Premium subscribers (**NEW**):\n• 30'000+ Radio stations categorized by genres and countries! \n\nEquip yourself with all of the audiophile tools of VOX Premium:\n• Advanced Audio Features: HOG Mode; Improved multi-output device support;\n• Convert stereophonic audio in your headphones to binaural using Bauer DSP (BS2B) technology;\n• Automatically Pause playback on headphones disconnection;\n• Take full advantage of AirPlay (10.8+) to listen with any of your wireless output devices.\n• VOX also supports SONOS wireless speakers systems.\n\n\nThe beauty of VOX Player is in its simplicity, yet behind the minimal exterior lies a powerful Music Player with a ton of features and support for all audio formats you may ever need. \n\n\n––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\n\n\nVOX Premium is available by auto-renewable subscriptions:\n\n- $4.99 per month;\n- $49.99 per year.\n\nYour credit card will be charged through your iTunes Account after the purchase confirmation. Your subscription will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current period. \nYour subscriptions can be managed in your iTunes Account Settings after purchase is made. No cancellation of the current subscription is allowed during active subscription period. Any unused portion of a free trial period will be forfeited when you purchase a subscription.\n\nVOX Premium privacy policy: https://vox.rocks/privacy\nVOX Premium terms and conditions: https://vox.rocks/terms\n\nP.S.: FLAC Player, ALAC Player, Lossless Player, SoundCloud Stream Solution, YouTube MP3 Music, Hi-Res audio Player - check all of them in one VOX Music Player.",
+      "userRatingCount": 0,
+      "inAppPurchases": {
+        "VOX Premium Subscription": "$15.99",
+        "LOOP for VOX Subscription": "$109.99"
+      },
+      "timestamp": 1751685140873,
+      "discounts": [
+        {
+          "type": "inAppPurchase",
+          "name": "VOX Premium Subscription",
+          "from": "$49.99",
+          "to": "$15.99",
+          "range": "[$15.99 ~ $49.99]"
+        }
+      ]
+    },
+    {
+      "artistViewUrl": "https://apps.apple.com/us/developer/mad-harmony-inc/id1130218704?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/aa/b7/0caab733-4f00-6b2b-78ee-d283cadab019/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/aa/b7/0caab733-4f00-6b2b-78ee-d283cadab019/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/c1/e2/73c1e273-e38e-de62-daf8-d90d20f6452a/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ba/78/f5/ba78f595-0f21-ab38-3292-f7e592cc700f/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/48/c9/f2/48c9f2a3-42ab-3030-6227-60d7ee824a28/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/7a/f8/2f/7af82f32-3109-2a38-72fa-9b01ad557dcc/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c8/b8/da/c8b8da92-9210-e3c4-2483-4699c8ff0a84/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/d1/8a/7a/d18a7a73-0b7e-5d75-da67-5bae4fee63be/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/4e/b6/23/4eb62330-fbc3-afc8-e21d-5ab0e9a316ea/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/8e/78/02/8e780248-7f4a-d304-11be-5d5db9dccfe3/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ce/93/06/ce930649-a180-257a-ccba-076895a9dff1/pr_source.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ac/9e/f2/ac9ef2e6-05f2-83d7-eeec-9cb16e7e9f17/mzl.lqmszssc.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/95/b4/00/95b40013-26a4-b33d-3cc7-fc817d10683b/mzl.wawqozlc.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/16/2e/a1/162ea1f1-f4b7-624a-3283-782e4994ce25/pr_source.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/7d/c3/c0/7dc3c041-1912-2efc-4022-8df98ff62089/mzl.ewzeqoly.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/2e/bf/40/2ebf402d-b112-8f9d-6b55-07e8190db070/mzl.ynmscdsc.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/80/1f/e6/801fe6ce-8e05-998a-3148-994f7f5be9b8/mzl.hebfsjky.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/42/2d/ad/422dad23-a054-fe10-e751-7fba884950a9/mzl.jctrylyt.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/b9/a9/a7/b9a9a774-8198-2a1b-0c6c-871ce3d15b50/mzl.bjtnxaan.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c2/98/06/c29806e5-591e-484b-2c16-11a56731b921/mzl.qjgxihxf.png/576x768bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/aa/b7/0caab733-4f00-6b2b-78ee-d283cadab019/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "supportedDevices": [
+        "MacDesktop-MacDesktop",
+        "iPhone5s-iPhone5s",
+        "iPadAir-iPadAir",
+        "iPadAirCellular-iPadAirCellular",
+        "iPadMiniRetina-iPadMiniRetina",
+        "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+        "iPhone6-iPhone6",
+        "iPhone6Plus-iPhone6Plus",
+        "iPadAir2-iPadAir2",
+        "iPadAir2Cellular-iPadAir2Cellular",
+        "iPadMini3-iPadMini3",
+        "iPadMini3Cellular-iPadMini3Cellular",
+        "iPodTouchSixthGen-iPodTouchSixthGen",
+        "iPhone6s-iPhone6s",
+        "iPhone6sPlus-iPhone6sPlus",
+        "iPadMini4-iPadMini4",
+        "iPadMini4Cellular-iPadMini4Cellular",
+        "iPadPro-iPadPro",
+        "iPadProCellular-iPadProCellular",
+        "iPadPro97-iPadPro97",
+        "iPadPro97Cellular-iPadPro97Cellular",
+        "iPhoneSE-iPhoneSE",
+        "iPhone7-iPhone7",
+        "iPhone7Plus-iPhone7Plus",
+        "iPad611-iPad611",
+        "iPad612-iPad612",
+        "iPad71-iPad71",
+        "iPad72-iPad72",
+        "iPad73-iPad73",
+        "iPad74-iPad74",
+        "iPhone8-iPhone8",
+        "iPhone8Plus-iPhone8Plus",
+        "iPhoneX-iPhoneX",
+        "iPad75-iPad75",
+        "iPad76-iPad76",
+        "iPhoneXS-iPhoneXS",
+        "iPhoneXSMax-iPhoneXSMax",
+        "iPhoneXR-iPhoneXR",
+        "iPad812-iPad812",
+        "iPad834-iPad834",
+        "iPad856-iPad856",
+        "iPad878-iPad878",
+        "iPadMini5-iPadMini5",
+        "iPadMini5Cellular-iPadMini5Cellular",
+        "iPadAir3-iPadAir3",
+        "iPadAir3Cellular-iPadAir3Cellular",
+        "iPodTouchSeventhGen-iPodTouchSeventhGen",
+        "iPhone11-iPhone11",
+        "iPhone11Pro-iPhone11Pro",
+        "iPadSeventhGen-iPadSeventhGen",
+        "iPadSeventhGenCellular-iPadSeventhGenCellular",
+        "iPhone11ProMax-iPhone11ProMax",
+        "iPhoneSESecondGen-iPhoneSESecondGen",
+        "iPadProSecondGen-iPadProSecondGen",
+        "iPadProSecondGenCellular-iPadProSecondGenCellular",
+        "iPadProFourthGen-iPadProFourthGen",
+        "iPadProFourthGenCellular-iPadProFourthGenCellular",
+        "iPhone12Mini-iPhone12Mini",
+        "iPhone12-iPhone12",
+        "iPhone12Pro-iPhone12Pro",
+        "iPhone12ProMax-iPhone12ProMax",
+        "iPadAir4-iPadAir4",
+        "iPadAir4Cellular-iPadAir4Cellular",
+        "iPadEighthGen-iPadEighthGen",
+        "iPadEighthGenCellular-iPadEighthGenCellular",
+        "iPadProThirdGen-iPadProThirdGen",
+        "iPadProThirdGenCellular-iPadProThirdGenCellular",
+        "iPadProFifthGen-iPadProFifthGen",
+        "iPadProFifthGenCellular-iPadProFifthGenCellular",
+        "iPhone13Pro-iPhone13Pro",
+        "iPhone13ProMax-iPhone13ProMax",
+        "iPhone13Mini-iPhone13Mini",
+        "iPhone13-iPhone13",
+        "iPadMiniSixthGen-iPadMiniSixthGen",
+        "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+        "iPadNinthGen-iPadNinthGen",
+        "iPadNinthGenCellular-iPadNinthGenCellular",
+        "iPhoneSEThirdGen-iPhoneSEThirdGen",
+        "iPadAirFifthGen-iPadAirFifthGen",
+        "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+        "iPhone14-iPhone14",
+        "iPhone14Plus-iPhone14Plus",
+        "iPhone14Pro-iPhone14Pro",
+        "iPhone14ProMax-iPhone14ProMax",
+        "iPadTenthGen-iPadTenthGen",
+        "iPadTenthGenCellular-iPadTenthGenCellular",
+        "iPadPro11FourthGen-iPadPro11FourthGen",
+        "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+        "iPadProSixthGen-iPadProSixthGen",
+        "iPadProSixthGenCellular-iPadProSixthGenCellular",
+        "iPhone15-iPhone15",
+        "iPhone15Plus-iPhone15Plus",
+        "iPhone15Pro-iPhone15Pro",
+        "iPhone15ProMax-iPhone15ProMax",
+        "iPadAir11M2-iPadAir11M2",
+        "iPadAir11M2Cellular-iPadAir11M2Cellular",
+        "iPadAir13M2-iPadAir13M2",
+        "iPadAir13M2Cellular-iPadAir13M2Cellular",
+        "iPadPro11M4-iPadPro11M4",
+        "iPadPro11M4Cellular-iPadPro11M4Cellular",
+        "iPadPro13M4-iPadPro13M4",
+        "iPadPro13M4Cellular-iPadPro13M4Cellular",
+        "iPhone16-iPhone16",
+        "iPhone16Plus-iPhone16Plus",
+        "iPhone16Pro-iPhone16Pro",
+        "iPhone16ProMax-iPhone16ProMax",
+        "iPadMiniA17Pro-iPadMiniA17Pro",
+        "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+        "iPhone16e-iPhone16e",
+        "iPadA16-iPadA16",
+        "iPadA16Cellular-iPadA16Cellular",
+        "iPadAir11M3-iPadAir11M3",
+        "iPadAir11M3Cellular-iPadAir11M3Cellular",
+        "iPadAir13M3-iPadAir13M3",
+        "iPadAir13M3Cellular-iPadAir13M3Cellular"
+      ],
+      "isGameCenterEnabled": false,
+      "advisories": [],
+      "kind": "software",
+      "averageUserRating": 4.8041,
+      "trackCensoredName": "Guitar Gravitas: Chords Scales",
+      "trackViewUrl": "https://apps.apple.com/us/app/guitar-gravitas-chords-scales/id1171417699?uo=4",
+      "contentAdvisoryRating": "4+",
+      "releaseNotes": "- UI improvements.\n\nYour feedback is highly appreciated. If you have any issues, questions or suggestions please contact us by sending an email to contact@guitargravitas.com or directly in our website www.guitargravitas.com.",
+      "minimumOsVersion": "11.0",
+      "userRatingCountForCurrentVersion": 3405,
+      "averageUserRatingForCurrentVersion": 4.8041,
+      "sellerUrl": "http://www.guitargravitas.com",
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "fileSizeBytes": "159857664",
+      "formattedPrice": "Free",
+      "trackContentRating": "4+",
+      "artistId": 1130218704,
+      "artistName": "Mad Harmony Inc",
+      "genres": [
+        "Music",
+        "Education"
+      ],
+      "price": 0,
+      "bundleId": "com.madharmony.GuitarGravitas",
+      "releaseDate": "2016-12-13T18:53:12Z",
+      "trackId": 1171417699,
+      "trackName": "Guitar Gravitas: Chords Scales",
+      "genreIds": [
+        "6011",
+        "6017"
+      ],
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "sellerName": "Mad Harmony Inc",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2024-07-09T16:06:10Z",
+      "version": "3.1.2",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Learn Guitar. Guitar Chords & Scales Libraries, Lessons, Backing Tracks, Tuner, Metronome and much more.\n\nGuitar Gravitas is an inspirational tool for guitar players of all levels (beginner to pro) that offers the most comprehensive, advanced and interactive chord, arpeggio and scale library in the App Store.\n\n• Over 200 chord types including not only a library of 15,000 of the most commonly used chord shapes but also MILLIONS of playable shapes generated by a state-of-the-art algorithm that allows you to select the root note of the chord and also the lowest or highest note.\n\n• Thousands of arpeggios patterns generated on selection from a list of more than 200 chord types.\n\n• Over 1000 different scales from all over the world including thousands of patterns.\n\n• 31 videos with Guitar Lessons, Backing tracks, Tutorials and Support documents on PDF format.\n\n• High Precision Guitar Tuner.\n\n• Metronome.\n\n• More than 200 predefined guitar tunings and the possibility to create your own. \n\n• Interact to listen to how chords, arpeggios and scales sound.\n\n• :. Guitar Gravitas .: also comes with chord, arpeggio and scale finders where you can select notes on the fretboard and find out what what you are playing is called.\n\n• No matter what chord, arpeggio or scale you are checking out, :. Guitar Gravitas .: allows you to know what chords, arpeggios or scales you could combine it with.\n\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "userRatingCount": 3405,
+      "inAppPurchases": {
+        "Chords, Scales and Arpeggios": "$9.99",
+        "All Current Content": "$9.99",
+        "Lesson Pack": "$4.99",
+        "All Scales": "$5.99",
+        "All Chords": "$5.99",
+        "All Arpeggios": "$5.99",
+        "ALL ACCESS PASS": "$5.99"
+      },
+      "timestamp": 1751685140873,
+      "discounts": [
+        {
+          "type": "inAppPurchase",
+          "name": "Lesson Pack",
+          "from": "$5.99",
+          "to": "$4.99",
+          "range": "[$4.99 ~ $5.99]"
+        }
+      ]
+    },
+    {
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/3e/95/423e9529-c3a8-daed-aa31-a91b61fc449c/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/3e/95/423e9529-c3a8-daed-aa31-a91b61fc449c/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/100x100bb.png",
+      "artistViewUrl": "https://apps.apple.com/us/developer/%E8%BF%9C%E8%85%BE-%E6%9D%8E/id1444998894?mt=12&uo=4",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/e7/e9/14e7e980-14b9-dd96-141a-2deecdd1fe0c/Screenshot_2024-11-22_at_5.14.01_U202fPM_copy.png/800x500bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/48/67/b748678b-92ca-24f1-ea97-72ecc7924d6b/Screenshot_2024-11-22_at_5.14.01_U202fPM.png/800x500bb.jpg"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/3e/95/423e9529-c3a8-daed-aa31-a91b61fc449c/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/512x512bb.png",
+      "kind": "mac-software",
+      "minimumOsVersion": "10.14",
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Hide Mouse Cursor",
+      "trackViewUrl": "https://apps.apple.com/us/app/hide-mouse-cursor/id6738089759?mt=12&uo=4",
+      "averageUserRating": 0,
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "1308849",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 0,
+      "artistId": 1444998894,
+      "artistName": "远腾 李",
+      "genres": [
+        "Productivity"
+      ],
+      "price": 0,
+      "bundleId": "com.pdf.spoon",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "远腾 李",
+      "trackId": 6738089759,
+      "trackName": "Hide Mouse Cursor",
+      "releaseDate": "2024-11-18T08:00:00Z",
+      "genreIds": [
+        "6007"
+      ],
+      "currentVersionReleaseDate": "2025-05-12T19:39:47Z",
+      "version": "6.9",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "This app is a tool designed for users to hide the mouse cursor, which is particularly suitable for full-screen presentations, video playback or games, allowing users to focus on the content without being disturbed by the cursor, including one-click hiding/showing the cursor, shortcut key support, and custom settings.",
+      "releaseNotes": "bug fix",
+      "userRatingCount": 0,
+      "inAppPurchases": {},
+      "timestamp": 1751685140873,
+      "discounts": [
+        {
+          "type": "price",
+          "name": "Price",
+          "from": "$0.99",
+          "to": "Free",
+          "range": "[Free ~ $0.99]"
+        }
+      ]
+    },
     {
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/47/df/0647dfec-9e40-5f35-74c1-fe202f37c1f0/d2ac6b69-4c5e-400a-8199-4641b7350179_1_en_Global.png/800x500bb.jpg",
@@ -3507,77 +3918,6 @@
           "from": "$8.99",
           "to": "$5.99",
           "range": "[$4.99 ~ $8.99]"
-        }
-      ]
-    },
-    {
-      "kind": "mac-software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/16/3e/15163e7c-e03a-d9bb-1d24-42356617484c/IMG_1855.png/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/b6/33/a4b63375-7c02-6eb8-d3f8-446c5c2e13f2/7014b5a6-7cf4-4e28-a688-ff3eff19ee4a_1.jpeg/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/f5/15/82f515cc-1b40-bf32-7c08-59b3fccf967b/7e0ac2f1-59ac-40d4-b333-c7ff5cd3652d_2880x1800-01@1x.jpg/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/e2/d9/9ae2d96c-bc6d-e6be-fbdb-5e5fcbab67b7/IMG_1854.png/800x500bb.jpg"
-      ],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/5b/e7/b25be7a0-cb82-4e4f-5fae-b19d1ada30a6/AppIcon-85-220-0-4-2x-sRGB.png/512x512bb.png",
-      "artistViewUrl": "https://apps.apple.com/us/developer/tencent-technology-shenzhen-company-limited/id292374531?mt=12&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/5b/e7/b25be7a0-cb82-4e4f-5fae-b19d1ada30a6/AppIcon-85-220-0-4-2x-sRGB.png/60x60bb.png",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/5b/e7/b25be7a0-cb82-4e4f-5fae-b19d1ada30a6/AppIcon-85-220-0-4-2x-sRGB.png/100x100bb.png",
-      "artistId": 292374531,
-      "artistName": "Tencent Technology (Shenzhen) Company Limited",
-      "genres": [
-        "Entertainment",
-        "Photo & Video"
-      ],
-      "price": 0,
-      "bundleId": "com.tencent.tenvideo",
-      "releaseDate": "2017-06-02T11:05:25Z",
-      "trackId": 1231336508,
-      "genreIds": [
-        "6016",
-        "6008"
-      ],
-      "trackName": "腾讯视频-五十公里桃花坞5 全网独播",
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Tencent Technology (Shenzhen) Company Limited",
-      "currentVersionReleaseDate": "2025-06-27T04:01:12Z",
-      "releaseNotes": "《五十公里桃花坞5》新老坞民抵达牧野，重启社交实验！NBA总决赛重磅来袭，步行者vs雷霆巅峰对决，哈利伯顿PK亚历山大谁能最终捧杯？腾讯视频全程直播！",
-      "version": "2.125.0",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "电视剧热播：\n《长安的荔枝》古代传奇大剧！雷佳音岳云鹏喜感郎舅大唐“荔”劫运荔枝\n《绽放的许开心》反内耗极品爽剧！张雨绮韩庚半熟烈爱带娃试婚\n《潜渊》多重身份连环迷局！黄晓明张佳宁暗夜潜伏上演谍战大戏\n《焕羽》张婧仪周翊然青春之旅蜕变成长，踏浪逐风恣意翱翔！\n《桃花映江山》刘学义孟子义互虐生情，落魄公主敌国和亲，攻心猎爱震荡朝堂！\n《淬火年代》大江大河姊妹篇！张新成宋祖儿热血办厂逆袭，正午阳光年代剧上新\n《陷入我们的热恋》现偶之光顶级上头！刘浩存王安宇要谈不谈得暧昧最撩人\n《紫川之光明王》壮丽诗史！杨旭文刘宇宁张铭恩三兄弟热血燃战\n综艺强档：\n《让我来唱》天后萧亚轩复出首秀，史上最卷“全女声”音综重磅来袭，66人直播大战一触即发！\n《哈哈哈哈哈 第5季》“舞王”邓超遇对手！王俊凯大跳抽象甩葱舞，这互联网是没他在乎的人了吗？\n《开始推理吧 第3季》推理团徒手抓“丧尸”，演绎现实版生化危机，谁看了不说一句有极限逃生那味儿了。\n《奔跑吧》每周五爆笑开跑，白鹿孟子义古装扮相美我一大跳，李昀锐走趾压板疼得嗷嗷叫。\n《一见你就笑》大型短剧拍摄现场，杨迪搭戏杨超越被狠扇一巴掌？徐冬冬反向壁咚高瀚宇众人尖叫。\n《毛雪汪》陈昊宇新专辑首唱绝美嗓音！独居惊魂记？陈昊宇自曝家里曾遭陌生男性潜入，毛毛雪琴瑟瑟发抖。\n《天赐的声音 第6季》A-Lin黄子弘凡音浪太强，张碧晨周兴哲合唱声起心碎。\n《朋友请吃饭 第3季》这是我能听的吗？孔雪儿颜安饭桌上狂爆剧组内幕，周洁琼姜珮瑶自曝“初始配置”，杨迪尹正全程惊讶脸。\n《旷野星球》跟魏大勋王安宇到离地心最近的地方云探险，看溶洞内的“生命之树”，感慨大自然的鬼斧神工。\n《进步班》章子怡分享《酱园弄》拍摄过程，李诚儒模仿张子枫唐探名场面。\n电影超燃：\n《制暴：无限杀机》硬核痛片!斯坦森血洗黑帮三代\n《苍茫的天涯是我的爱》神曲改编笑果逆天！曾毅周奇爆笑公路奇旅\n《雄狮少年2》豆瓣8.5分高口碑国漫，雄狮归来少年拳战擂台\n《小丑2：双重妄想》影帝华金与LadyGaga飙戏\n《穿越时空的少女》豆瓣8.6！日漫纯爱天花板\n《楚幽秘境》鬼吹灯外传！古楚千年墓穴探险\n强势动漫：\n《诡秘之主》世界级作品，一键进入19世纪魔法世界\n《诛仙 第3季》兽神乱世撼九州，诛仙再临证苍生，第3季热播中！\n《遮天》四极破境，叶天帝横扫一切敌！\n《仙逆》王林再战天道！这一次你依然带不走她\n《神印王座》终局之战！龙皓晨战李正直！\n《大猿魂》灵明赤尻通臂六耳齐聚，四大神猴来战！\n精品短剧：\n《彼岸灯塔》海风呜咽，命案连环。渔村小镇迷雾重重，连环凶杀案掀起陈年悬案！\n《贵嫡》财阀贵女重启人生！踩碎渣夫恶妾算盘，爽爆复仇！\n纪录片新热：\n《早餐中国 第5季》：经典回归！一道传统早餐、一家有趣小店、一群忘我的食客，丰沛你的每一个清晨。\n《中国刑侦实录 第2季》：围绕一系列离奇案件，每集聚焦一个震撼人心的真实故事，深入挖掘案件背后的真相与情感纠葛。\n《人间惊鸿客 第2季》：走进李白、杜甫的惊鸿一世，深度解读千古诗人如何面对人生起落。\n《惊魂高速公路》：危险超车、岔路撞车、轮胎爆炸……那些惊险的公路事故全记录！\n《72种危险动物·亚洲篇》：盘点在广袤亚洲大陆上，生存的已知及鲜为人知的危险动物，揭开凶险共生的自然界致命法则！\n《猎杀倒计时》：探索四大洲自然界强大的捕食者的世界，见证捕食者的原始力量和坚韧意志。\n《西藏味道》：就爱这口西藏味儿！全方位展现西藏独具特色的饮食文化。\n《乡野有真味·奇食》：深入竹林溪涧、古村深巷，探访颠覆味蕾认知的“暗黑”美食与新奇风味！\n儿童节目：\n《水晶岛守卫者》：能变猫，能变人，还能变成猫人守护城镇\n《猪猪侠之竞速小英雄9》：面对重重困难，超星车队完成挑战重启比赛\n《我是妹猪请多指教》：一起来看超治愈的熊猫成长日记！\n《超级小猫战队：喵喵好伙伴》：小猫也能解决难题！看喵喵的超能力出击\n\n【自动订阅服务说明】\n1.订阅服务：\n a）腾讯视频VIP连续包月(1个月)、腾讯视频VIP连续包季(3个月)、腾讯视频VIP连续包年(12个月)\n b）超级影视VIP连续包月(1个月)、超级影视VIP连续包季(3个月)、超级影视VIP连续包年(12个月)\n c）腾讯体育VIP连续包月(1个月)、腾讯体育超级VIP连续包月(1个月)\n 2.订阅价格：\n a）腾讯视频VIP：连续包月产品为25元/月，连续包季产品为68元/季，连续包年产品为238元/年\n b）超级影视VIP：连续包月产品为35元/月、连续包季产品为98元/季、连续包年产品为348元/年\n c）腾讯体育VIP系列会员：腾讯体育VIP连续包月产品为25元/月、腾讯体育超级VIP连续包月产品为60元/月\n 3.付款：用户确认购买并付款后计入iTunes账户\n 4.自动续费：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期\n 5.关闭服务：您可以在苹果手机“设置” --> 进入“iTunes Store 与 App Store”-->点击 “Apple ID”，选择\"查看Apple ID\"，进入\"账户设置\"页面，点击“订阅”，管理自动订阅服务，如需取消，每个计费周期结束前24小时关闭即可，到期前24小时内则不再扣费\n 6.服务协议： \n a）腾讯视频VIP：https://film.qq.com/weixin/term.html\n b）超级影视VIP：https://film.qq.com/weixin/term.html?bizId=svip\n c）腾讯体育VIP系列会员：https://film.qq.com/weixin/term.html?bizId=sport\n 7 .隐私协议：https://privacy.qq.com/document/preview/3fab9c7fc1424ebda42c3ce488322c8a\n\n【意见反馈】\n如遇问题或者有好的建议，欢迎加入QQ体验群反馈，将会有萌哒哒的视频妹为大家解答，并有持续好礼相送！官方QQ群：527288510。",
-      "userRatingCountForCurrentVersion": 0,
-      "averageUserRatingForCurrentVersion": 0,
-      "languageCodesISO2A": [
-        "EN",
-        "ZH",
-        "ZH"
-      ],
-      "fileSizeBytes": "162045450",
-      "formattedPrice": "Free",
-      "trackContentRating": "17+",
-      "averageUserRating": 0,
-      "trackCensoredName": "腾讯视频-五十公里桃花坞5 全网独播",
-      "trackViewUrl": "https://apps.apple.com/us/app/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C%E6%A1%83%E8%8A%B1%E5%9D%9E5-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1231336508?mt=12&uo=4",
-      "contentAdvisoryRating": "17+",
-      "minimumOsVersion": "10.15",
-      "userRatingCount": 0,
-      "inAppPurchases": {
-        "1个月腾讯视频VIP": "$3.99",
-        "付费商品": "$2.99",
-        "该付费商品": "$0.99",
-        "3个月腾讯视频VIP": "$9.99",
-        "该影片": "$3.99"
-      },
-      "timestamp": 1751426243531,
-      "discounts": [
-        {
-          "type": "inAppPurchase",
-          "name": "该影片",
-          "from": "$17.99",
-          "to": "$3.99",
-          "range": "[$3.99 ~ $17.99]"
         }
       ]
     }
