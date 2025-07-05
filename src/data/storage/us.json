@@ -15127,6 +15127,23 @@
     "history": [
       [
         {
+          "timestamp": 1751710662534,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "百度网盘自动续费超级会员（1个月）": "$3.99",
+            "百度网盘超级会员折扣价(3个月)": "$9.99",
+            "百度网盘超级会员(1个月)": "$5.99",
+            "百度网盘超级会员(1个月-自动续费)(首充)": "$2.99",
+            "百度网盘超级会员折扣价(6个月)": "$19.99",
+            "百度网盘会员(3个月)": "$3.99",
+            "百度网盘超级会员(1个月-自动续费)": "$3.99",
+            "百度网盘超级会员1年（7.5折）": "$39.99",
+            "百度网盘自动续费超级会员（3个月）": "$10.49",
+            "百度网盘自动续费超级会员（12个月）": "$39.99"
+          }
+        },
+        {
           "timestamp": 1751707062980,
           "price": 0,
           "formattedPrice": "Free",
@@ -40361,6 +40378,18 @@
     "history": [
       [
         {
+          "timestamp": 1751710662534,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "1个月腾讯视频VIP": "$3.99",
+            "付费商品": "$2.99",
+            "该付费商品": "$0.99",
+            "3个月腾讯视频VIP": "$9.99",
+            "单点商品": "$0.99"
+          }
+        },
+        {
           "timestamp": 1751707062980,
           "price": 0,
           "formattedPrice": "Free",
@@ -45308,6 +45337,25 @@
       "Mobile (Annually)": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751710662534,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Xmind Pro (Annually)": "$59.00",
+            "Desktop + Mobile (Monthly)": "$10.00",
+            "Desktop + Mobile (6 Months)": "$39.99",
+            "Xmind Premium (Annually)": "$99.00",
+            "All Platforms Quarterly": "$29.00",
+            "All Platforms Yearly": "$59.00",
+            "Xmind Premium (Monthly)": "$15.00",
+            "Desktop (6 Months)": "$34.99",
+            "Xmind Pro+ (Annually)": "$65.00",
+            "Desktop (Annually)": "$54.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751430503586,
@@ -72754,6 +72802,22 @@
       "30-second AI animation": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751710662534,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Yearly Auto-renew VIP": "$40.99",
+            "Monthly Auto-renew VIP": "$9.99",
+            "Wink- 25 Credits": "$7.99",
+            "Wink- AI Photo Restore": "$0.99",
+            "10-second AI animation": "$1.99",
+            "Wink- 100 Credits": "$24.99",
+            "Wink- 200 Credits": "$39.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751646143535,
