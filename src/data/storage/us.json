@@ -9526,6 +9526,18 @@
     "history": [
       [
         {
+          "timestamp": 1751689398723,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "VOX Premium Subscription": "$49.99",
+            "Radio": "$9.99",
+            "LOOP for VOX Subscription": "$49.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751685140873,
           "price": 0,
           "formattedPrice": "Free",
@@ -36383,7 +36395,8 @@
       "Battle Cat Prestige Pack": "$3.99",
       "Rogue Legends": "$9.99",
       "Heroes and Skins Complete 2024": "$24.99",
-      "Desperado Unlock Pack": "$7.99"
+      "Desperado Unlock Pack": "$7.99",
+      "Vault O Monkey Money": "$19.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -36406,9 +36419,29 @@
       "Battle Cat Prestige Pack": "$3.99",
       "Rogue Legends": "$9.99",
       "Heroes and Skins Complete 2024": "$24.99",
-      "Desperado Unlock Pack": "$7.99"
+      "Desperado Unlock Pack": "$7.99",
+      "Vault O Monkey Money": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751689398723,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "$2.99",
+            "Monkey Money": "$1.99",
+            "Full Tower Unlock": "$4.99",
+            "Pile O Monkey Money": "$4.99",
+            "(5,000) Monkey XP": "$0.99",
+            "Vault O Monkey Money Sale": "$11.99",
+            "Tier 4 Insta Monkeys Pack Sale": "$3.99",
+            "Knowledge Point": "$0.99",
+            "10 Knowledge Points": "$7.99",
+            "Vault O Monkey Money": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751426243531,
@@ -38571,6 +38604,21 @@
     "history": [
       [
         {
+          "timestamp": 1751689398723,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "All Current Content": "$9.99",
+            "All Chords, Scales and Arpeggios": "$7.99",
+            "All Chords": "$5.99",
+            "All Scales": "$5.99",
+            "All Arpeggios": "$5.99",
+            "Lesson Pack": "$5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751685140873,
           "price": 0,
           "formattedPrice": "Free",
@@ -40241,6 +40289,20 @@
       "99元商品": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751689398723,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "1个月腾讯视频VIP": "$3.99",
+            "付费商品": "$2.99",
+            "该付费商品": "$0.99",
+            "3个月腾讯视频VIP": "$9.99",
+            "单点商品": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751592399622,
