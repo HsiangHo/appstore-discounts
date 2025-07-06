@@ -24530,7 +24530,8 @@
       "Sphere Electro": "¥22.00",
       "Chill Boom Bap": "¥22.00",
       "Terraform Techno": "¥22.00",
-      "Platinum Synth Pop": "¥22.00"
+      "Platinum Synth Pop": "¥22.00",
+      "New Jazz Pluggnb": "¥22.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -24555,10 +24556,28 @@
       "Sphere Electro": "¥22.00",
       "Chill Boom Bap": "¥22.00",
       "Terraform Techno": "¥22.00",
-      "Platinum Synth Pop": "¥22.00"
+      "Platinum Synth Pop": "¥22.00",
+      "New Jazz Pluggnb": "¥22.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1751797119480,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "New Jazz Pluggnb": "¥22.00",
+            "Platinum Synth Pop": "¥22.00",
+            "Terraform Techno": "¥22.00",
+            "Speed Hardgroove": "¥22.00",
+            "Drip Tech House": "¥22.00",
+            "Altered Hip-Hop": "¥22.00",
+            "Glow Trap": "¥22.00",
+            "Phonk": "¥22.00",
+            "Indigo Beats": "¥22.00",
+            "Voyager Synthwave": "¥22.00"
+          }
+        },
         {
           "timestamp": 1751776293269,
           "price": 0,
