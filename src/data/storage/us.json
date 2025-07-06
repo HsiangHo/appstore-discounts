@@ -31694,6 +31694,20 @@
     "history": [
       [
         {
+          "timestamp": 1751815024255,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Manage your audio library": "$89.99",
+            "Collections (lifetime)": "$29.99",
+            "Playlists (lifetime)": "$29.99",
+            "Podcasts (lifetime)": "$19.99",
+            "1 DMX universe: 512 channels": "$59.99",
+            "Podcasts": "$9.99",
+            "Playlists": "$14.99"
+          }
+        },
+        {
           "timestamp": 1751811339306,
           "price": 0,
           "formattedPrice": "Free",
@@ -69049,7 +69063,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Pro-Lifetime": "$5.99",
+      "Pro-Lifetime": "$6.99",
       "Add 30 Days": "$0.99",
       "Add 365 Days": "$4.99",
       "Add 90 Days": "$2.99"
@@ -69063,6 +69077,19 @@
       "Add 90 Days": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751815024255,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro-Lifetime": "$6.99",
+            "Add 30 Days": "$0.99",
+            "Add 365 Days": "$4.99",
+            "Add 90 Days": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -69477,14 +69504,22 @@
   "1555844307": {
     "name": "MouseBoost Pro",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99"
+      "price": 6.99,
+      "formattedPrice": "$6.99"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751815024255,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,

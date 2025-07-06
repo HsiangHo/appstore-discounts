@@ -31924,6 +31924,19 @@
     "history": [
       [
         {
+          "timestamp": 1751815024255,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "所有当前内容": "¥38.00",
+            "吉他和弦,琶音和音阶": "¥58.00",
+            "吉他和弦": "¥38.00",
+            "吉他音阶": "¥38.00",
+            "吉他琶音": "¥38.00",
+            "所有内容访问通行证": "¥43.00"
+          }
+        },
+        {
           "timestamp": 1751811339306,
           "price": 0,
           "formattedPrice": "免费",
@@ -55927,7 +55940,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "永久专业版": "¥40.00",
+      "永久专业版": "¥48.00",
       "加30天": "¥8.00",
       "加365天": "¥38.00",
       "加90天": "¥18.00"
@@ -55941,6 +55954,19 @@
       "加90天": "¥18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751815024255,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "永久专业版": "¥48.00",
+            "加30天": "¥8.00",
+            "加365天": "¥38.00",
+            "加90天": "¥18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -56279,14 +56305,22 @@
   "1555844307": {
     "name": "右键助手专业版",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "¥30.00"
+      "price": 48,
+      "formattedPrice": "¥48.00"
     },
     "minPriceInfo": {
       "price": 30,
       "formattedPrice": "¥30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751815024255,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
