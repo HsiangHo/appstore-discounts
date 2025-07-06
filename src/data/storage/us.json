@@ -31694,6 +31694,22 @@
     "history": [
       [
         {
+          "timestamp": 1751811339306,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Podcasts": "$9.99",
+            "Manage your audio library": "$4.99",
+            "Playlists": "$14.99",
+            "2 DMX universes: 1024 channels": "$119.99",
+            "8 DMX universes: 4096 channels": "$279.99",
+            "Collections": "$14.99",
+            "1 DMX universe: 512 channels": "$59.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750163917638,
           "price": 0,
           "formattedPrice": "Free",

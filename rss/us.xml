@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-07-06T04:37:04.619Z</updated>
+    <updated>2025-07-06T14:21:05.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-06T04:37:04.620Z</updated>
+        <updated>2025-07-06T14:21:05.071Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSun, 06 Jul 2025 04:37:04 GMT</id>
+        <id>rankingusSun, 06 Jul 2025 14:21:05 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-06T04:37:04.621Z</updated>
+        <updated>2025-07-06T14:21:05.071Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -355,6 +355,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1027093462">Visual Cue Audio Player</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Manage your audio library</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>13</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1133028347">Cleaner One Pro - Uninstaller</a>
       </td>
       <td>
@@ -375,7 +398,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1339124759">Audio Editor & Music Mixer</a>
@@ -398,7 +421,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
@@ -415,7 +438,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1550581532">Vythm VJ - Music Visualizer DJ</a>
@@ -438,7 +461,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1575178082">Max NTFS - NTFS Disk Helper</a>
@@ -461,7 +484,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6448913901">全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理</a>
@@ -484,7 +507,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6739523960">Allow Right Click for Safari</a>
@@ -501,7 +524,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6738089759">Hide Mouse Cursor</a>
@@ -527,6 +550,70 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Cue Audio Player]]></title>
+        <id>Visual Cue Audio Player-us-1751811339306</id>
+        <link href="https://apps.apple.com/us/app/visual-cue-audio-player/id1027093462?uo=4"/>
+        <updated>2025-07-06T14:15:39.306Z</updated>
+        <summary type="html"><![CDATA[Manage your audio library: $89.99 → $4.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/visual-cue-audio-player/id1027093462?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/fb/e8/25fbe8fc-fd63-ba22-322b-1cec895ee172/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Manage your audio library：</strong><span>$89.99</span> → <b>
+  <strong>$4.99</strong>
+</b><span>[$4.99 ~ $89.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Visual Cue Pro is an advanced, easy-to-use audio player for iOS and iPadOS.
+
+Main Features:
+• Waveform view for visual seeking and setting up cue points
+• Zoom functionality for more precise seeking on longer waveforms
+• Caches waveforms for fast display
+• Supports unlimited cue points per file
+• Quickly switch between cue points across multiple audio files
+• Does not alter your precious source files in any way
+• Drag & drop files directly from Files and other apps
+• Designed for speed and efficiency
+• GPU-based waveform renderer
+• Supports Dark Mode
+
+Collections:
+• Import files from Files using drag & drop
+• Manage your music library
+• Create cue points within each item
+
+Playlists:
+• Import files from Collections using drag & drop (cue points included)
+• Import files from Files using drag & drop (without cue points)
+• Create cue points within each item (shared across playlists if the item is from a Collection)
+• Reorder items using drag & drop in your desired order
+
+For Music Producers:
+• Manage your library of reference tracks to compare with your own
+• Quickly jump between cue points in your reference tracks
+• Manage and listen to your own tracks
+• Organize production elements and recorded source material
+
+For DJs:
+• Manage your library of tracks
+• Set up cue points in your tracks
+• Compile DJ sets by quickly jumping between cue points in different tracks
+• Manage and listen to your own mixes
+• Bookmark tracks in other DJs’ sets and discover new music faster
+
+Visual Cue Pro is an offline music player, music library manager, and music organizer with lossless playback, widely used in sound studios, by music directors, A&R, and for audio transcribing. It's also perfect for venues, theaters, churches, DJs, and more! It features full-screen support, native Apple Silicon support, Dark Mode, and cloud drive compatibility. The best reliable alternative to iTunes, plays audio files and formats supported by macOS, including WAV, AIFF, FLAC, MP3, M4A, and more.
+
+Free to download and try. Purchase modules via in-app purchase (subscriptions or lifetime permanent license).
+
+If you have a Mac, check out the macOS version too, which offers even more functionality!
+
+Privacy Policy: http://visualcueplayer.com/privacy.html
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[爱奇艺-临江仙 离婚仙侠]]></title>
