@@ -23011,6 +23011,25 @@
     "history": [
       [
         {
+          "timestamp": 1751776293269,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Telegram Premium": "$4.99",
+            "250 Telegram Stars": "$5.09",
+            "500 Telegram Stars": "$9.99",
+            "Telegram Premium Annual": "$34.99",
+            "1x Premium (3 Months)": "$14.99",
+            "75 Telegram Stars": "$1.59",
+            "1000 Telegram Stars": "$19.99",
+            "1x Premium (1 Year)": "$35.99",
+            "Telegram Premium (3-Month)": "$14.99",
+            "100 Telegram Stars": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751721972581,
           "price": 0,
           "formattedPrice": "Free",
@@ -30668,6 +30687,22 @@
       "加更礼礼包": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751776293269,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "黄金会员连续包月": "$3.99",
+            "月卡": "$3.99",
+            "黄金会员连续包季": "$10.49",
+            "季卡": "$9.99",
+            "黄金会员连续包年": "$29.99",
+            "连续包月": "$3.99",
+            "年卡": "$29.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751718845474,
@@ -68614,6 +68649,23 @@
       "Tribal for desktop devices": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751776293269,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Vythm PRO": "$9.99",
+            "All features and modes": "$44.99",
+            "Unlock all (including updates)": "$139.99",
+            "Psychedelic mode for mobile": "$4.99",
+            "Mandala mode on mobile devices": "$4.99",
+            "Dreaming mode for mobile": "$4.99",
+            "Fluids mode for mobile devices": "$4.99",
+            "Shapes mode for mobile": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751483667337,

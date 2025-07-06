@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-07-05T11:20:05.191Z</updated>
+    <updated>2025-07-06T04:37:04.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-05T11:20:05.192Z</updated>
+        <updated>2025-07-06T04:37:04.620Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSat, 05 Jul 2025 11:20:05 GMT</id>
+        <id>rankingusSun, 06 Jul 2025 04:37:04 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-05T11:20:05.192Z</updated>
+        <updated>2025-07-06T04:37:04.621Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -124,13 +124,13 @@ feedId:49753370488353792+userId:73658201673997312
       <td>
         <ul>
           <li>
-            <span>Total Times</span>：<b>3</b>
+            <span>Total Times</span>：<b>4</b>
           </li><li>
             <span>Price</span>：<b>0</b>
           </li><li>
             <span>In-App Purchases</span><ol>
               <li>
-                <i>连续包月</i>：<b>3</b>
+                <i>连续包月</i>：<b>4</b>
               </li>
             </ol>
           </li>
@@ -527,6 +527,82 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱奇艺-临江仙 离婚仙侠]]></title>
+        <id>爱奇艺-临江仙 离婚仙侠-us-1751776293269</id>
+        <link href="https://apps.apple.com/us/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&amp;uo=4"/>
+        <updated>2025-07-06T04:31:33.269Z</updated>
+        <summary type="html"><![CDATA[连续包月: $6.99 → $3.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/2e/3f/222e3ff7-222b-8c27-aeb1-2d1082336d55/Mac_AppIcon-2x_U007euniversal-0-5-0-85-220-0.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>连续包月：</strong><span>$6.99</span> → <b>
+  <strong>$3.99</strong>
+</b><span>[$1.99 ~ $6.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  爱奇艺Mac客户端，简洁轻量的视频客户端。
+支持TouchBar&TrackPad、小窗播放。
+支持4K画质、杜比音效，爱奇艺海量内容畅享视听盛宴！
+体验最新版需要升级到macOS 10.15或更高版本。如有其它问题可以访问： https://app.iqiyi.com/mac/player/index.html
+欢迎联系我们的官方QQ：938355165
+———————我是海量内容的分割线———————
+【独播热播 给你想要】
+精彩戏剧实时看：临江仙、在人间、护宝寻踪、人生若如初见、淮水竹亭、无忧渡、借命而生、绝密较量、乌云之上、念无双、黄雀、北上
+热播电影不间断：向阳·花、黄沙漫天、美国队长4、唐探1900、红色一号：冬日行动、误杀3、射雕英雄传：侠之大者、哪吒之魔童降世
+热门综艺看不停：微笑一号店、亚洲新声、奔跑吧第9季、哈哈哈哈哈第5季、种地吧第3季、现在就开麦—妈妈请就位！、恋爱兄妹、哈哈哈哈哈第4季、喜剧之王单口季
+动漫番剧随心换：航海王、超能立方：超凡篇、绝世战魂、我能无限顿悟、成何体统、都市古仙医、蜡笔小新 第8季 普通话、名侦探柯南 普通话
+经典纪录片细品味：与恐龙同行、舌尖上的中国 第四季、舌尖上的中国 第一季、河西走廊、人间世、中国医生、中华才子传第一季
+海外剧集尽情选：请回答1988、经常请吃饭的漂亮姐姐、金秘书为何那样、大力女子都奉顺、老友记、风骚律师、哥谭镇、明日传奇、小谢尔顿
+
+【VIP会员 尊享特权】
+1、内容特权：院线新片、海量高分大片、热剧抢先看、独家综艺、付费影片折扣、畅读小说。
+2、观影特权：广告特权、1080P、帧绮映画、杜比全景声、杜比视界、专属弹幕、下载加速、并行下载、边下边播、预约下载。
+3、身份特权：七端全屏通、畅享多会员、尊贵标识、尊享装扮、生日礼包、专属客服、等级权益红包、赠送好友影片、好友免费一起看。
+
+【自动续费黄金会员】
+-- 黄金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、杜比音效、下载特权等。
+-- 订阅周期：1个月（黄金会员连续包月产品），3个月(黄金会员连续包季产品)，12个月（黄金会员连续包年产品）。
+-- 订阅价格：以iAP申请信息为准，例如连续包月产品每月25元，连续包季产品每季68元，连续包年产品每年238元。
+-- 付款：用户确认购买并付款后记入iTunes账户。
+-- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
+-- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+-- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
+-- 隐私政策： http://www.iqiyi.com/common/privateh5.html
+-- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
+-- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
+【自动续费白金会员】
+-- 白金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画MAX、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、2台设备同时播放、下载特权等。
+-- 订阅周期：1个月（白金会员连续包月产品），3个月(白金会员连续包季产品)，12个月（白金会员连续包年产品）。
+-- 订阅价格：以iAP申请信息为准，例如连续包月产品每月35元，连续包季产品每季98元，连续包年产品每年348元。
+-- 付款：用户确认购买并付款后记入iTunes账户。
+-- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
+-- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+-- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
+-- 隐私政策： http://www.iqiyi.com/common/privateh5.html
+-- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
+-- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
+【自动续费星钻会员套餐说明】
+-- 星钻会员权益：享海量会员专享内容、会员抢先看、加更礼免费看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、3台设备同时播放、下载特权等。
+-- 订阅周期：1个月（星钻会员连续包月产品），3个月（星钻会员连续包季产品），12个月（星钻连续包年产品）
+-- 订阅价格：以iAP申请信息为准，例如连续包月产品为每月45元，连续包季产品每季118元，连续包年每年428元。
+-- 付款：用户确认购买并付款后计入iTunes账户。
+-- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能。
+-- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+-- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
+-- 隐私政策： http://www.iqiyi.com/common/privateh5.html
+-- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
+-- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
+【自动续费体育会员套餐说明】
+--体育会员权益：爱体育会员享每月2场付费比赛直播或点播（高尔夫比赛除外），爱足球会员有效期内可看平台播出的所有足球比赛，并享广告特权、1080P、多语解说、额外单点付费低至3折。
+--订阅周期：1个月（连续包月产品）。
+--订阅价格：爱体育会员连续包月9元/月，爱足球会员连续包月33元/月
+--付款：用户确认购买并付款后记入iTunes账户
+--取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
+--续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/19/d3/bf/19d3bfd6-9e0a-3605-7ddb-1e9913dda13c/132add12-49bd-4d88-8ae5-5ac5488a4ca1_App_Store_U7269_U65991.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/03/a0/da/03a0da78-2838-3c81-c29d-28700c0682f7/80a29786-6e1e-4cd9-8a4a-00e146f32816_App_Store_U7269_U65992.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/32/58/00/325800bb-a68b-32ec-cbe8-5c90b590dc5f/cec956df-a085-48a5-b159-9a135f1e5ef2_App_Store_U7269_U65993.jpg/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[爱奇艺-临江仙 离婚仙侠]]></title>
@@ -1527,214 +1603,5 @@ This app includes an optional auto-renewable subscription (Premium Pass): Premiu
 Privacy Policy: https://float.support/the-audio-converter-mac/privacy
 Terms of Use: https://float.support/the-audio-converter-mac/terms
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/a6/d0/63/a6d063b5-8194-3e3a-dabd-69cc1a17c1b4/51fab44a-f38c-4c8b-9947-35caa4c3a46a_en-US-Mac_ss1.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/23/9c/bc/239cbcbb-42e0-bf0a-b067-6d0b4c8860d7/3e90d419-fa14-45ad-bbca-7e314f50dd59_en-US-Mac_ss2.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/9a/7c/5f/9a7c5ff2-6296-c62d-086e-c7d4592a384c/481fbb67-f60a-40cd-8aec-3fdc93881085_en-US-Mac_ss3.jpg/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾讯视频-五十公里桃花坞5 全网独播]]></title>
-        <id>腾讯视频-五十公里桃花坞5 全网独播-us-1751517036410</id>
-        <link href="https://apps.apple.com/us/app/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C%E6%A1%83%E8%8A%B1%E5%9D%9E5-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1231336508?mt=12&amp;uo=4"/>
-        <updated>2025-07-03T04:30:36.410Z</updated>
-        <summary type="html"><![CDATA[付费商品: $2.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-%E4%BA%94%E5%8D%81%E5%85%AC%E9%87%8C%E6%A1%83%E8%8A%B1%E5%9D%9E5-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1231336508?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/5b/e7/b25be7a0-cb82-4e4f-5fae-b19d1ada30a6/AppIcon-85-220-0-4-2x-sRGB.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>付费商品：</strong><span>$2.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $2.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  电视剧热播：
-《长安的荔枝》古代传奇大剧！雷佳音岳云鹏喜感郎舅大唐“荔”劫运荔枝
-《绽放的许开心》反内耗极品爽剧！张雨绮韩庚半熟烈爱带娃试婚
-《潜渊》多重身份连环迷局！黄晓明张佳宁暗夜潜伏上演谍战大戏
-《焕羽》张婧仪周翊然青春之旅蜕变成长，踏浪逐风恣意翱翔！
-《桃花映江山》刘学义孟子义互虐生情，落魄公主敌国和亲，攻心猎爱震荡朝堂！
-《淬火年代》大江大河姊妹篇！张新成宋祖儿热血办厂逆袭，正午阳光年代剧上新
-《陷入我们的热恋》现偶之光顶级上头！刘浩存王安宇要谈不谈得暧昧最撩人
-《紫川之光明王》壮丽诗史！杨旭文刘宇宁张铭恩三兄弟热血燃战
-综艺强档：
-《让我来唱》天后萧亚轩复出首秀，史上最卷“全女声”音综重磅来袭，66人直播大战一触即发！
-《哈哈哈哈哈 第5季》“舞王”邓超遇对手！王俊凯大跳抽象甩葱舞，这互联网是没他在乎的人了吗？
-《开始推理吧 第3季》推理团徒手抓“丧尸”，演绎现实版生化危机，谁看了不说一句有极限逃生那味儿了。
-《奔跑吧》每周五爆笑开跑，白鹿孟子义古装扮相美我一大跳，李昀锐走趾压板疼得嗷嗷叫。
-《一见你就笑》大型短剧拍摄现场，杨迪搭戏杨超越被狠扇一巴掌？徐冬冬反向壁咚高瀚宇众人尖叫。
-《毛雪汪》陈昊宇新专辑首唱绝美嗓音！独居惊魂记？陈昊宇自曝家里曾遭陌生男性潜入，毛毛雪琴瑟瑟发抖。
-《天赐的声音 第6季》A-Lin黄子弘凡音浪太强，张碧晨周兴哲合唱声起心碎。
-《朋友请吃饭 第3季》这是我能听的吗？孔雪儿颜安饭桌上狂爆剧组内幕，周洁琼姜珮瑶自曝“初始配置”，杨迪尹正全程惊讶脸。
-《旷野星球》跟魏大勋王安宇到离地心最近的地方云探险，看溶洞内的“生命之树”，感慨大自然的鬼斧神工。
-《进步班》章子怡分享《酱园弄》拍摄过程，李诚儒模仿张子枫唐探名场面。
-电影超燃：
-《制暴：无限杀机》硬核痛片!斯坦森血洗黑帮三代
-《苍茫的天涯是我的爱》神曲改编笑果逆天！曾毅周奇爆笑公路奇旅
-《雄狮少年2》豆瓣8.5分高口碑国漫，雄狮归来少年拳战擂台
-《小丑2：双重妄想》影帝华金与LadyGaga飙戏
-《穿越时空的少女》豆瓣8.6！日漫纯爱天花板
-《楚幽秘境》鬼吹灯外传！古楚千年墓穴探险
-强势动漫：
-《诡秘之主》世界级作品，一键进入19世纪魔法世界
-《诛仙 第3季》兽神乱世撼九州，诛仙再临证苍生，第3季热播中！
-《遮天》四极破境，叶天帝横扫一切敌！
-《仙逆》王林再战天道！这一次你依然带不走她
-《神印王座》终局之战！龙皓晨战李正直！
-《大猿魂》灵明赤尻通臂六耳齐聚，四大神猴来战！
-精品短剧：
-《彼岸灯塔》海风呜咽，命案连环。渔村小镇迷雾重重，连环凶杀案掀起陈年悬案！
-《贵嫡》财阀贵女重启人生！踩碎渣夫恶妾算盘，爽爆复仇！
-纪录片新热：
-《早餐中国 第5季》：经典回归！一道传统早餐、一家有趣小店、一群忘我的食客，丰沛你的每一个清晨。
-《中国刑侦实录 第2季》：围绕一系列离奇案件，每集聚焦一个震撼人心的真实故事，深入挖掘案件背后的真相与情感纠葛。
-《人间惊鸿客 第2季》：走进李白、杜甫的惊鸿一世，深度解读千古诗人如何面对人生起落。
-《惊魂高速公路》：危险超车、岔路撞车、轮胎爆炸……那些惊险的公路事故全记录！
-《72种危险动物·亚洲篇》：盘点在广袤亚洲大陆上，生存的已知及鲜为人知的危险动物，揭开凶险共生的自然界致命法则！
-《猎杀倒计时》：探索四大洲自然界强大的捕食者的世界，见证捕食者的原始力量和坚韧意志。
-《西藏味道》：就爱这口西藏味儿！全方位展现西藏独具特色的饮食文化。
-《乡野有真味·奇食》：深入竹林溪涧、古村深巷，探访颠覆味蕾认知的“暗黑”美食与新奇风味！
-儿童节目：
-《水晶岛守卫者》：能变猫，能变人，还能变成猫人守护城镇
-《猪猪侠之竞速小英雄9》：面对重重困难，超星车队完成挑战重启比赛
-《我是妹猪请多指教》：一起来看超治愈的熊猫成长日记！
-《超级小猫战队：喵喵好伙伴》：小猫也能解决难题！看喵喵的超能力出击
-
-【自动订阅服务说明】
-1.订阅服务：
- a）腾讯视频VIP连续包月(1个月)、腾讯视频VIP连续包季(3个月)、腾讯视频VIP连续包年(12个月)
- b）超级影视VIP连续包月(1个月)、超级影视VIP连续包季(3个月)、超级影视VIP连续包年(12个月)
- c）腾讯体育VIP连续包月(1个月)、腾讯体育超级VIP连续包月(1个月)
- 2.订阅价格：
- a）腾讯视频VIP：连续包月产品为25元/月，连续包季产品为68元/季，连续包年产品为238元/年
- b）超级影视VIP：连续包月产品为35元/月、连续包季产品为98元/季、连续包年产品为348元/年
- c）腾讯体育VIP系列会员：腾讯体育VIP连续包月产品为25元/月、腾讯体育超级VIP连续包月产品为60元/月
- 3.付款：用户确认购买并付款后计入iTunes账户
- 4.自动续费：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期
- 5.关闭服务：您可以在苹果手机“设置” --> 进入“iTunes Store 与 App Store”-->点击 “Apple ID”，选择"查看Apple ID"，进入"账户设置"页面，点击“订阅”，管理自动订阅服务，如需取消，每个计费周期结束前24小时关闭即可，到期前24小时内则不再扣费
- 6.服务协议： 
- a）腾讯视频VIP：https://film.qq.com/weixin/term.html
- b）超级影视VIP：https://film.qq.com/weixin/term.html?bizId=svip
- c）腾讯体育VIP系列会员：https://film.qq.com/weixin/term.html?bizId=sport
- 7 .隐私协议：https://privacy.qq.com/document/preview/3fab9c7fc1424ebda42c3ce488322c8a
-
-【意见反馈】
-如遇问题或者有好的建议，欢迎加入QQ体验群反馈，将会有萌哒哒的视频妹为大家解答，并有持续好礼相送！官方QQ群：527288510。
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/16/3e/15163e7c-e03a-d9bb-1d24-42356617484c/IMG_1855.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/b6/33/a4b63375-7c02-6eb8-d3f8-446c5c2e13f2/7014b5a6-7cf4-4e28-a688-ff3eff19ee4a_1.jpeg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/f5/15/82f515cc-1b40-bf32-7c08-59b3fccf967b/7e0ac2f1-59ac-40d4-b333-c7ff5cd3652d_2880x1800-01@1x.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/e2/d9/9ae2d96c-bc6d-e6be-fbdb-5e5fcbab67b7/IMG_1854.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wink: Video Enhancer & Editor]]></title>
-        <id>Wink: Video Enhancer &amp; Editor-us-1751483667337</id>
-        <link href="https://apps.apple.com/us/app/wink-video-enhancer-editor/id1594288016?uo=4"/>
-        <updated>2025-07-02T19:14:27.337Z</updated>
-        <summary type="html"><![CDATA[Monthly Auto-renew VIP: $12.99 → $9.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/wink-video-enhancer-editor/id1594288016?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/c8/fc/72c8fc00-bed8-357d-ba87-9d6b7966e02d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Monthly Auto-renew VIP：</strong><span>$12.99</span> → <b>
-  <strong>$9.99</strong>
-</b><span>[$9.99 ~ $12.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Wink 
-l Make any low-quality video & photo into HD/Ultra HD/4K with before/after comparisons.
-l Making video editing easier than ever!
-l Various creative video transition effects enhance final results!
-l Fine-tune your selfies with video retouch tools to highlight your day!
-
-Video ＆ Photo Enhance
-- Video Enhancer: Enhance portraits and selfies to stunning output.
-- 4K Upscaler: AI-powered 4K upscaling for enhanced video quality.
-- Stabilize: Smooth out shaky footage for professional-looking videos. 
-- Noise reduction: Reduce video noise and grain for professional-looking results.
--  AI Color: Give your video a vibrant, fresh look with our easy-to-use color enhancement tool
-
-Video Retouch
-- Manual Face Slimming: Adjust your facial features as you wish
-- Body Shape: Achieve a supermodel physique!
-- Stylish Makeup: Providing a range of natural makeup
-- Face Editor: Remove acne, Face Plump, Skin tone ... and more!
-- Whiten Teeth: Say goodbye to brown teeth and show off your smile!
-
-Video Editing
-- Professional Editing: Color, Crop, Speed, Split, Mirror, Soundtrack and more!
-- Templates: Easily apply to create high-quality vlogs
-- Quality Restoration: Clear AI-enhanced video restoration!
-- Effects: Adds texts, stickers, and transitions to enhance your videos
-- Automatic Subtitle: Utilizes intelligent voice recognition for easy text inputting
-
-
-AI Captions
-- Accurate AI subtitles for your videos in seconds 
-- Support Bilingual: Create dual-language subtitles for your videos
-- Support 8 languages
-
-Wink VIP
-- Access exclusive VIP features
-
-Wink offers a wide range of exclusive VIP features to enhance retouching experience. We are committed to providing you with an improved service. We look forward to your continuing support.
-- Subscriptions
-
-Wink VIP-Monthly Subscription offers a subscription period of one month.
-Wink VIP-Annual subscription entails a 12-month period.
-*The subscription price is determined based on the information provided in the in-app purchase (iAP) application.
-
-- Instructions for Payment and Cancellation
-
-"Payment" will be credited to your iTunes account once you have confirmed and paid for your subscription.
-
-"Renewal" subscriptions for "Monthly/Annual" plans are automatically renewed and will incur charges to your iTunes account following your purchase confirmation. The subscription will be automatically renewed. To cancel it, please disable the automatic renewal at least 24 hours before the subscription period ends. Within 24 hours before the subscription cycle expires, Apple will automatically debit your iTunes account, extending your subscription for a new cycle.
-
-"To cancel your subscription, kindly navigate to the "Settings" section on your iPhone, click on "Apple ID," proceed to the "Subscription" screen, and choose "Wink" to terminate your subscription.
-
-- Agreement
-Terms of Service：https://pro.meitu.com/wink-cut/agreements/common/service-global.html?lang=en
-Privacy Policy：https://pro.meitu.com/wink-cut/agreements/common/policy-global.html?lang=en
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/d1/94/d7d194a2-6f19-146b-d3d5-c592cec24b4b/iOS_1242x2208__U82f1_U6587-1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/45/fd/c345fdde-a422-ad22-4fc4-65e2523de21e/iOS_1242x2208__U82f1_U6587-2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/15/f4/b815f444-2be7-c373-5155-4300114fb70b/iOS_1242x2208__U82f1_U6587-3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/a4/cc/76a4ccf4-7954-c8d9-2ea6-f277d14042d8/iOS_1242x2208__U82f1_U6587-4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/a1/4b/e3a14bef-32d0-d6b7-c90f-d42f6a1a6b5c/iOS_1242x2208__U82f1_U6587-5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/4f/79/d94f7903-c309-764e-fa3e-6f7959b1bed0/iOS_1242x2208__U82f1_U6587-6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/7d/a9/667da93d-9ad6-e8c0-9de4-680f81d0a5d1/iOS_1242x2208__U82f1_U6587-7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/78/bb/f778bb57-2bd3-835c-2185-467529256156/iOS_1242x2208__U82f1_U6587-8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/4a/a4/304aa4d1-4958-cd41-ffda-1fdc855b28ee/iOS_1242x2208__U82f1_U6587-9.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/b3/c2/f4b3c23d-01c2-9fe2-1fa3-e72848d535c6/iOS_1242x2208__U82f1_U6587-10.jpg/392x696bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vythm VJ - Music Visualizer DJ]]></title>
-        <id>Vythm VJ - Music Visualizer DJ-us-1751483667337</id>
-        <link href="https://apps.apple.com/us/app/vythm-vj-music-visualizer-dj/id1550581532?uo=4"/>
-        <updated>2025-07-02T19:14:27.337Z</updated>
-        <summary type="html"><![CDATA[All features and modes: $44.99 → $29.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/vythm-vj-music-visualizer-dj/id1550581532?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/4c/1a/4d4c1a8f-6bf6-f4e3-6198-f4c2f5b0efac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>All features and modes：</strong><span>$44.99</span> → <b>
-  <strong>$29.99</strong>
-</b><span>[$29.99 ~ $44.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  --- Experience Your Music with Vythm ---
-Unlock the potential of music visualization with Vythm! Vythm is a versatile music visualization app that allows you to create visual artworks in harmony with your selected music. It includes a variety of unique visualization modes, including Equalizer, Mandala, Shapes, Fluids, Psychedelic, Dreaming, and more. Choose a background and apply image effects to personalize your visualization completely.
-
---- Your Vision, Your Visualization ---
-Vythm provides you with numerous options to realize your creative vision:
-- Over 100 carefully selected backgrounds.
-- MIDI input for precise visual control.
-- NDI streaming support for sharing your creations.
-- Real-time image effects like color correction, bloom, chromatic aberration, and more.
-- Size, rotation, and orientation adjustments.
-And much more!
-
-The Equalizer, Rhythm, and Peer modes are available for free, while other modes can be unlocked through a subscription.
-
---- Input Formats ---
-Select your music from a variety of sources:
-- Import any mp3 or m4a files.
-- Access your iTunes library (Please note that Apple Music is not currently supported).
-- Utilize your device's microphone, with sensitivity adjustments for various use cases.
-- Enjoy three preselected songs for quick inspiration.
-
---- Record Your Masterpiece ---
-Vythm offers a recording feature that enables you to share or save your creations. Revisit your immersive visual world at your convenience or dazzle your audience with your artistic masterpiece.
-
---- Share Your Thoughts ---
-Our top priority is to provide you with the best possible experience. If you encounter issues or have ideas for new features, please do not hesitate to contact us at info@mkgames.org.
-
-If you enjoy the app, we would greatly appreciate your feedback and a review! Thank you for choosing Vythm!
-
-Download and experience Vythm (Music Visualization 2024 / Audio Visualizer) today!
-
-Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/cf/b6/32cfb6c4-a7ed-d003-57cb-e398e8500472/969b8d5c-328b-4594-adae-d169c8a20d22_iPhone_8_Plus_-_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/8f/c1/348fc1a6-1eb8-312d-342b-9bb91573f8a5/37871899-1163-44b0-9b6b-5c5639aa6f75_iPhone_8_Plus_-_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/0f/34/440f34a7-6b35-7142-6a29-2f7ccaa970f0/a944b2c6-1f21-45b9-91a7-d29c742548de_iPhone_8_Plus_-_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/57/cc/0557cc2a-c016-363b-38da-da705a3323de/2f7d3b6e-de33-416e-8b28-a6e179eb8218_iPhone_8_Plus_-_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/cd/e7/aacde7db-acf2-7ed5-2ca9-1fa26e9fe54c/26ca2506-fa5c-42cf-b48a-2894faac0978_iPhone_8_Plus_-_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/06/b8/a906b850-7573-827a-a0e6-94e98601796a/9cecd023-d9e5-48ad-b562-090d8cd4dcf8_iPad_Pro_12.9__-_1__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/b8/eb/5eb8eb38-3f40-c460-f6fb-71238c38d845/38b748ef-00ec-4f92-ada5-328ddd019b69_iPad_Pro_12.9__-_2__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/ad/d5/a2add544-3f83-3277-879c-c012a5866944/af682f10-d7a2-432f-a21a-ff34c853dc49_iPad_Pro_12.9__-_3__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/2e/37/f82e374f-a4a8-ade7-23f1-b1ace6f49ef1/f9045d4d-cc6a-40d1-bbba-5c2d6c722551_iPad_Pro_12.9__-_4__U00282nd_generation_U0029.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/d8/d4/2fd8d494-4e2b-35a7-70af-bc5754407c52/78378f23-5337-4063-b6bc-7065901f41d4_iPad_Pro_12.9__-_5__U00282nd_generation_U0029.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
