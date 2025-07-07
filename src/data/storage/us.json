@@ -30649,7 +30649,7 @@
     ]
   },
   "1012296988": {
-    "name": "爱奇艺-临江仙 离婚仙侠",
+    "name": "爱奇艺-书卷一梦 穿书流强制爱",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
@@ -47135,6 +47135,24 @@
       "Touhou Mugakudan -IV-(30%)": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751858615987,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_3": "$20.99",
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "Valentine Stage": "$3.99",
+            "unlockall_29": "$33.99",
+            "Miku in Museland": "$8.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "cyTus": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751430503586,
@@ -93556,6 +93574,14 @@
     "history": [
       [
         {
+          "timestamp": 1751858615987,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751685140873,
           "price": 0,
           "formattedPrice": "Free",
@@ -95109,6 +95135,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751858615987,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1751685140873,
