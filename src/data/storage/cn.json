@@ -49485,8 +49485,8 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "PRO (1 year)": "¥68.00",
-      "PRO (Lifetime)": "¥128.00"
+      "PRO (1 year)": "¥88.00",
+      "PRO (Lifetime)": "¥148.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -49495,6 +49495,17 @@
       "PRO (Lifetime)": "¥128.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751897914178,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "PRO (1 year)": "¥88.00",
+            "PRO (Lifetime)": "¥148.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1748191896014,
@@ -66231,7 +66242,7 @@
     ]
   },
   "1669005649": {
-    "name": "TXT 阅读器 - 阅读听书摸鱼神器",
+    "name": "方舟阅读器 - TXT,EPUB,MOBI 阅读听书摸鱼神器",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",

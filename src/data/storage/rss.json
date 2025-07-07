@@ -1391,65 +1391,6 @@
           "range": "[¥4.80 ~ ¥20.00]"
         }
       ]
-    },
-    {
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E8%BF%9C%E8%85%BE-%E6%9D%8E/id1444998894?mt=12&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/3e/95/423e9529-c3a8-daed-aa31-a91b61fc449c/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/3e/95/423e9529-c3a8-daed-aa31-a91b61fc449c/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/100x100bb.png",
-      "kind": "mac-software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/e7/e9/14e7e980-14b9-dd96-141a-2deecdd1fe0c/Screenshot_2024-11-22_at_5.14.01_U202fPM_copy.png/800x500bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/48/67/b748678b-92ca-24f1-ea97-72ecc7924d6b/Screenshot_2024-11-22_at_5.14.01_U202fPM.png/800x500bb.jpg"
-      ],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/3e/95/423e9529-c3a8-daed-aa31-a91b61fc449c/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/512x512bb.png",
-      "userRatingCountForCurrentVersion": 0,
-      "averageUserRating": 0,
-      "artistName": "远腾 李",
-      "genres": [
-        "效率"
-      ],
-      "price": 0,
-      "releaseDate": "2024-11-25T08:00:00Z",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "genreIds": [
-        "6007"
-      ],
-      "bundleId": "com.pdf.spoon",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "远腾 李",
-      "trackId": 6738089759,
-      "trackName": "隐藏鼠标光标",
-      "currentVersionReleaseDate": "2025-05-12T19:39:47Z",
-      "releaseNotes": "bug fix",
-      "trackCensoredName": "隐藏鼠标光标",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E9%9A%90%E8%97%8F%E9%BC%A0%E6%A0%87%E5%85%89%E6%A0%87/id6738089759?mt=12&uo=4",
-      "contentAdvisoryRating": "4+",
-      "version": "6.9",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "这款应用是一款专为用户隐藏鼠标光标的工具，特别适合全屏演示、视频播放或游戏，让用户能够专注于内容而不受光标的干扰，包括一键隐藏/显示光标、快捷键支持和自定义设置。",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "1308849",
-      "formattedPrice": "免费",
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "minimumOsVersion": "10.14",
-      "artistId": 1444998894,
-      "userRatingCount": 0,
-      "inAppPurchases": {},
-      "timestamp": 1751638662325,
-      "discounts": [
-        {
-          "type": "price",
-          "name": "价格",
-          "from": "¥8.00",
-          "to": "免费",
-          "range": "[免费 ~ ¥8.00]"
-        }
-      ]
     }
   ],
   "us": [
