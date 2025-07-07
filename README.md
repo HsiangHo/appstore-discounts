@@ -69,7 +69,7 @@ So far, we've covered `2` `Countries or Regions` and  `864` `Apps` <br />Push no
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|864|6741474933|Automatic|Berryfilm||||Berryfilm||
+|864|6741474933|Automatic|Berry胶片相机 - 韩系自拍神器||||BerryFilm - Korean Style Cam||
 |863|404990064|Automatic|SkyView®||||SkyView®||
 |862|1631859420|Automatic|❌||||After Inc.||
 |861|598581396|Automatic|Kingdom Rush Frontiers 塔防史诗冒险||||Kingdom Rush Frontiers TD||

@@ -36643,6 +36643,25 @@
     "history": [
       [
         {
+          "timestamp": 1751862771348,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "$2.99",
+            "Monkey Money": "$1.99",
+            "Full Tower Unlock": "$4.99",
+            "Pile O Monkey Money": "$4.99",
+            "(5,000) Monkey XP": "$0.99",
+            "Vault O Monkey Money Sale": "$11.99",
+            "Tier 4 Insta Monkeys Pack Sale": "$3.99",
+            "Knowledge Point": "$0.99",
+            "10 Knowledge Points": "$7.99",
+            "Vault O Monkey Money": "$19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751692661393,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -40553,6 +40572,20 @@
     "history": [
       [
         {
+          "timestamp": 1751862771348,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "1个月腾讯视频VIP": "$3.99",
+            "付费商品": "$2.99",
+            "该付费商品": "$0.99",
+            "3个月腾讯视频VIP": "$9.99",
+            "1年腾讯视频VIP": "$39.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751710662534,
           "price": 0,
           "formattedPrice": "Free",
@@ -41288,6 +41321,24 @@
       "云投屏时长（1800分钟）": "$12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751862771348,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "ApowerMirror Personal(Monthly)": "$19.99",
+            "ApowerMirror Personal (Yearly)": "$39.99",
+            "900 minutes": "$12.99",
+            "360 minutes": "$3.99",
+            "Buy 3yr membership, get 3 free": "$59.99",
+            "1800 minutes": "$20.99",
+            "Yearly VIP": "$12.99",
+            "Monthly VIP": "$29.99",
+            "Personal 2 Years (Buy 1 get 1)": "$49.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751742849599,
@@ -52963,6 +53014,22 @@
       "移动端会员-半年卡": "$8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751862771348,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "移动端会员-连续包月": "$1.99",
+            "移动端会员-月卡": "$2.99",
+            "大学生专属特惠季卡": "$2.99",
+            "移动端会员-连续包季": "$5.99",
+            "大学生专属特惠年卡": "$9.99",
+            "移动端会员-年卡": "$14.99",
+            "移动端会员-季卡": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751721972581,
@@ -86345,7 +86412,7 @@
     ]
   },
   "6741474933": {
-    "name": "Berryfilm",
+    "name": "BerryFilm - Korean Style Cam",
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "$1.99"

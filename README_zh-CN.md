@@ -72,7 +72,7 @@
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|864|6741474933|自动|Berryfilm||||Berryfilm||
+|864|6741474933|自动|Berry胶片相机 - 韩系自拍神器||||BerryFilm - Korean Style Cam||
 |863|404990064|自动|SkyView®||||SkyView®||
 |862|1631859420|自动|❌||||After Inc.||
 |861|598581396|自动|Kingdom Rush Frontiers 塔防史诗冒险||||Kingdom Rush Frontiers TD||
