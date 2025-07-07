@@ -69168,7 +69168,9 @@
       "Pro-Lifetime": "$6.99",
       "Add 30 Days": "$0.99",
       "Add 365 Days": "$4.99",
-      "Add 90 Days": "$2.99"
+      "Add 90 Days": "$2.99",
+      "Yearly Subscription": "$3.99",
+      "Monthly Subscription": "$0.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -69176,9 +69178,26 @@
       "Pro-Lifetime": "$5.99",
       "Add 30 Days": "$0.99",
       "Add 365 Days": "$4.99",
-      "Add 90 Days": "$2.99"
+      "Add 90 Days": "$2.99",
+      "Yearly Subscription": "$3.99",
+      "Monthly Subscription": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751905445643,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro-Lifetime": "$6.99",
+            "Add 30 Days": "$0.99",
+            "Add 365 Days": "$4.99",
+            "Yearly Subscription": "$3.99",
+            "Monthly Subscription": "$0.99",
+            "Add 90 Days": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751815024255,
