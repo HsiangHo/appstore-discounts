@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-07-06T14:21:05.069Z</updated>
+    <updated>2025-07-07T01:46:05.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-06T14:21:05.071Z</updated>
+        <updated>2025-07-07T01:46:05.719Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSun, 06 Jul 2025 14:21:05 GMT</id>
+        <id>rankingusMon, 07 Jul 2025 01:46:05 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-06T14:21:05.071Z</updated>
+        <updated>2025-07-07T01:46:05.719Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -539,6 +539,29 @@ feedId:49753370488353792+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>21</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6450397515">Transcribe & Speech to text</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>5 hours a day</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -550,6 +573,31 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transcribe & Speech to text]]></title>
+        <id>Transcribe &amp; Speech to text-us-1751852438996</id>
+        <link href="https://apps.apple.com/us/app/transcribe-speech-to-text/id6450397515?mt=12&amp;uo=4"/>
+        <updated>2025-07-07T01:40:38.996Z</updated>
+        <summary type="html"><![CDATA[5 hours a day: $29.99 → $6.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/transcribe-speech-to-text/id6450397515?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/08/4f/b6084f79-e085-5513-2310-1e11b8823f5f/AppIcon-85-220-4-2x.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>5 hours a day：</strong><span>$29.99</span> → <b>
+  <strong>$6.99</strong>
+</b><span>[$6.99 ~ $29.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Special feature：
+Quickly transcribe audio, recordings, conference recordings, voice dictation, and voice notes.
+Accurate transcription of various types of audio with a 98.8% accuracy rate.
+Recording expert, import audio and transcribe with just one click.
+
+privacy policy:https://rain7027.github.io/rainstt/privacy
+terms of use:https://rain7027.github.io/rainstt/terms
+any question please contact:zyang7027@gmail.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6d/f3/c2/6df3c258-c882-9d94-a17f-edfcde85f96c/602ee79b-ca3b-40e9-9d92-d4ef5bb5b37c_1n.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b5/26/aa/b526aa81-c80a-f1a6-c0fb-eda3eaa582f7/58f61a40-8cba-4753-a4c7-5a575f3cf1b0_2n.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Visual Cue Audio Player]]></title>
@@ -1573,122 +1621,5 @@ Subscription instrutions：
 - You can access (long press) https://www.camoryapps.com/netpower/service/musicmixer_en.html  to read the Terms of Service
 *The price is equivalent to the 'Apple App Store Matrix' which is equivalent to the subscription price in US dollars.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/04/d6/74/04d67449-289f-2f92-fb36-4a08346f8e28/4a1a840b-5ad5-4865-baad-e79ae521855a_5.5_U82f1_U5bf81_en.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/33/c6/0e/33c60e7a-3f1f-a1b5-ba0a-2a2f8d2f275d/f5f26ef2-3985-4897-8b0f-cc42160e0a7b_5.5_U82f1_U5bf82_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1b/49/be/1b49be06-9cb6-62c8-4136-06b752a1a90f/c4f80133-bb8f-4ea7-8c29-9e12ba482e16_5.5_U82f1_U5bf83_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/b2/e8/dfb2e864-3ff8-37bf-535f-ad070336ad9f/13e6da7b-75fc-4a77-8a6a-07d96936c8d7_5.5_U82f1_U5bf84_cn.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e4/27/dd/e427ddd6-c8c1-5500-c318-f7947ef2277c/89333db5-5bac-449c-b616-efe85f8bc3fd_5.5_U82f1_U5bf85_cn.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c6/d9/72/c6d972aa-5783-cf17-9864-36fcd653ba04/6cec7242-29da-4348-928e-30c0ec66f06d_12.9_U82f1_U5bf81_en.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/1d/b7/f71db7fe-09b2-3396-fa61-706da4a96554/224303f7-1265-48de-8acc-6fbe25c4a929_12.9_U82f1_U5bf82_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/b7/6a/a4b76a12-05ad-265e-b8d2-a8ae9437f75a/72f57bfb-295e-450b-b349-e08b588132eb_12.9_U82f1_U5bf83_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/50/d4/2d/50d42d1c-a37b-27bf-a77e-20a0c21be051/e3f8b0a4-1e9a-49a7-8ea0-1b6a4ce57fb6_12.9_U82f1_U5bf84_cn.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c4/d2/a7/c4d2a7e9-23bb-760a-f87e-5462800a4168/8feea930-614f-4c92-bde7-6856edd0ceed_12.9_U82f1_U5bf85_cn.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱奇艺-临江仙 离婚仙侠]]></title>
-        <id>爱奇艺-临江仙 离婚仙侠-us-1751592399622</id>
-        <link href="https://apps.apple.com/us/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&amp;uo=4"/>
-        <updated>2025-07-04T01:26:39.622Z</updated>
-        <summary type="html"><![CDATA[连续包月: $6.99 → $3.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E4%B8%B4%E6%B1%9F%E4%BB%99-%E7%A6%BB%E5%A9%9A%E4%BB%99%E4%BE%A0/id1012296988?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/2e/3f/222e3ff7-222b-8c27-aeb1-2d1082336d55/Mac_AppIcon-2x_U007euniversal-0-5-0-85-220-0.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>连续包月：</strong><span>$6.99</span> → <b>
-  <strong>$3.99</strong>
-</b><span>[$1.99 ~ $6.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  爱奇艺Mac客户端，简洁轻量的视频客户端。
-支持TouchBar&TrackPad、小窗播放。
-支持4K画质、杜比音效，爱奇艺海量内容畅享视听盛宴！
-体验最新版需要升级到macOS 10.15或更高版本。如有其它问题可以访问： https://app.iqiyi.com/mac/player/index.html
-欢迎联系我们的官方QQ：938355165
-———————我是海量内容的分割线———————
-【独播热播 给你想要】
-精彩戏剧实时看：临江仙、在人间、护宝寻踪、人生若如初见、淮水竹亭、无忧渡、借命而生、绝密较量、乌云之上、念无双、黄雀、北上
-热播电影不间断：向阳·花、黄沙漫天、美国队长4、唐探1900、红色一号：冬日行动、误杀3、射雕英雄传：侠之大者、哪吒之魔童降世
-热门综艺看不停：微笑一号店、亚洲新声、奔跑吧第9季、哈哈哈哈哈第5季、种地吧第3季、现在就开麦—妈妈请就位！、恋爱兄妹、哈哈哈哈哈第4季、喜剧之王单口季
-动漫番剧随心换：航海王、超能立方：超凡篇、绝世战魂、我能无限顿悟、成何体统、都市古仙医、蜡笔小新 第8季 普通话、名侦探柯南 普通话
-经典纪录片细品味：与恐龙同行、舌尖上的中国 第四季、舌尖上的中国 第一季、河西走廊、人间世、中国医生、中华才子传第一季
-海外剧集尽情选：请回答1988、经常请吃饭的漂亮姐姐、金秘书为何那样、大力女子都奉顺、老友记、风骚律师、哥谭镇、明日传奇、小谢尔顿
-
-【VIP会员 尊享特权】
-1、内容特权：院线新片、海量高分大片、热剧抢先看、独家综艺、付费影片折扣、畅读小说。
-2、观影特权：广告特权、1080P、帧绮映画、杜比全景声、杜比视界、专属弹幕、下载加速、并行下载、边下边播、预约下载。
-3、身份特权：七端全屏通、畅享多会员、尊贵标识、尊享装扮、生日礼包、专属客服、等级权益红包、赠送好友影片、好友免费一起看。
-
-【自动续费黄金会员】
--- 黄金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、杜比音效、下载特权等。
--- 订阅周期：1个月（黄金会员连续包月产品），3个月(黄金会员连续包季产品)，12个月（黄金会员连续包年产品）。
--- 订阅价格：以iAP申请信息为准，例如连续包月产品每月25元，连续包季产品每季68元，连续包年产品每年238元。
--- 付款：用户确认购买并付款后记入iTunes账户。
--- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
--- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
--- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
--- 隐私政策： http://www.iqiyi.com/common/privateh5.html
--- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
--- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
-【自动续费白金会员】
--- 白金会员权益：享海量会员专享内容、会员抢先看，享帧绮映画MAX、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、2台设备同时播放、下载特权等。
--- 订阅周期：1个月（白金会员连续包月产品），3个月(白金会员连续包季产品)，12个月（白金会员连续包年产品）。
--- 订阅价格：以iAP申请信息为准，例如连续包月产品每月35元，连续包季产品每季98元，连续包年产品每年348元。
--- 付款：用户确认购买并付款后记入iTunes账户。
--- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
--- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
--- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
--- 隐私政策： http://www.iqiyi.com/common/privateh5.html
--- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
--- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
-【自动续费星钻会员套餐说明】
--- 星钻会员权益：享海量会员专享内容、会员抢先看、加更礼免费看，享帧绮映画、杜比音效等豪华视听体验，同时享广告特权、七端全屏通（电视、手机、电脑、平板电脑、车载、智能家居、VR）、3台设备同时播放、下载特权等。
--- 订阅周期：1个月（星钻会员连续包月产品），3个月（星钻会员连续包季产品），12个月（星钻连续包年产品）
--- 订阅价格：以iAP申请信息为准，例如连续包月产品为每月45元，连续包季产品每季118元，连续包年每年428元。
--- 付款：用户确认购买并付款后计入iTunes账户。
--- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能。
--- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
--- 首月免费试用：免费试用期内再次续订或取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。
--- 隐私政策： http://www.iqiyi.com/common/privateh5.html
--- 用户协议： http://www.iqiyi.com/common/loginProtocol.html
--- 自动续费会员服务协议： http://vip.iqiyi.com/autorenewagreement.html
-【自动续费体育会员套餐说明】
---体育会员权益：爱体育会员享每月2场付费比赛直播或点播（高尔夫比赛除外），爱足球会员有效期内可看平台播出的所有足球比赛，并享广告特权、1080P、多语解说、额外单点付费低至3折。
---订阅周期：1个月（连续包月产品）。
---订阅价格：爱体育会员连续包月9元/月，爱足球会员连续包月33元/月
---付款：用户确认购买并付款后记入iTunes账户
---取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。
---续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/19/d3/bf/19d3bfd6-9e0a-3605-7ddb-1e9913dda13c/132add12-49bd-4d88-8ae5-5ac5488a4ca1_App_Store_U7269_U65991.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/03/a0/da/03a0da78-2838-3c81-c29d-28700c0682f7/80a29786-6e1e-4cd9-8a4a-00e146f32816_App_Store_U7269_U65992.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/32/58/00/325800bb-a68b-32ec-cbe8-5c90b590dc5f/cec956df-a085-48a5-b159-9a135f1e5ef2_App_Store_U7269_U65993.jpg/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Audio Converter]]></title>
-        <id>The Audio Converter-us-1751567158761</id>
-        <link href="https://apps.apple.com/us/app/the-audio-converter/id1081480270?mt=12&amp;uo=4"/>
-        <updated>2025-07-03T18:25:58.761Z</updated>
-        <summary type="html"><![CDATA[Premium Pass: $19.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/the-audio-converter/id1081480270?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a6/12/eb/a612ebf2-0792-2872-e270-95fc99cc8d19/AppIcon-0-0-85-220-0-0-4-0-2x.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Premium Pass：</strong><span>$19.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $19.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Quickly convert your audio or video files to nearly any audio format!
-
-1. Select your input file
-2. Choose your output format ( MP3, WAV, M4A, AAC  etc.  )
-3. Convert! It will only take a few seconds.
-4. Done! Listen right away, or open  in your favorite app
-
-Here are the video and audio output formats you can choose from:
-MP3, M4A, AAC, FLAC, OGG, WAV, WMA, AIFF
-
-You can convert from dozens of input formats, here are some of the most popular formats we support converting from:
-MOV, M4A, MP3, WMA, MP4, WAV, OGG, OPUS, AMR, AAC, WEBM, MID and many more!
-
-Save, Share or Listen to your converted audio files in your favorite apps immediately.
-
-Conversion is done on a secure cloud server, which makes conversion easier, faster and much more battery-friendly. You must have an internet connection to use this app. Files are immediately deleted from the server after conversion. While the files are immediately deleted after conversion or cancellation, you should be aware that by using this app, you agree that your files will be sent over to internet from the app to the conversion server.
-
-We've also recently added support for local conversions for many popular conversion types. These conversions don't require a server, and are usually done almost instantly! We are continuing to add support for more local conversions with each update.
-
-
-This app includes an optional auto-renewable subscription (Premium Pass): Premium Pass beings with a free trial period, then an auto-renewable monthly subscription when trial ends. Payment will be charged to your Apple account at confirmation of purchase and will automatically renew (at the duration/price selected) unless auto-renew is turned off at least 24 hrs before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period. Current subscription may not be cancelled during the active subscription period; however, you can manage your subscription and/or turn off auto-renewal by visiting your Apple Account Settings after purchase. Any unused portion of the free initial period will be forfeited when you purchase a subscription.
-
-Privacy Policy: https://float.support/the-audio-converter-mac/privacy
-Terms of Use: https://float.support/the-audio-converter-mac/terms
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/a6/d0/63/a6d063b5-8194-3e3a-dabd-69cc1a17c1b4/51fab44a-f38c-4c8b-9947-35caa4c3a46a_en-US-Mac_ss1.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/23/9c/bc/239cbcbb-42e0-bf0a-b067-6d0b4c8860d7/3e90d419-fa14-45ad-bbca-7e314f50dd59_en-US-Mac_ss2.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/9a/7c/5f/9a7c5ff2-6296-c62d-086e-c7d4592a384c/481fbb67-f60a-40cd-8aec-3fdc93881085_en-US-Mac_ss3.jpg/800x500bb.jpg" />]]></content>
     </entry>
 </feed>

@@ -93892,6 +93892,19 @@
     "history": [
       [
         {
+          "timestamp": 1751852438996,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "VIP": "$39.99",
+            "5 hours a day": "$6.99",
+            "2 hours a day": "$14.99",
+            "30minutes": "$1.99",
+            "10 minutes": "$0.99",
+            "2 hour": "$3.99"
+          }
+        },
+        {
           "timestamp": 1751843816425,
           "price": 0,
           "formattedPrice": "Free",

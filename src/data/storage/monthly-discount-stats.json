@@ -233,6 +233,13 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6450397515": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "5 hours a day": 1
+      }
     }
   }
 }
