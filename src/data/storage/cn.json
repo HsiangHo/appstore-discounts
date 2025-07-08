@@ -16777,6 +16777,16 @@
     "history": [
       [
         {
+          "timestamp": 1751956073749,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "数据恢复专家 - 1个月": "¥298.00",
+            "数据恢复专家 - 1年": "¥328.00",
+            "数据恢复专家 - 终身": "¥498.00"
+          }
+        },
+        {
           "timestamp": 1751951956773,
           "price": 0,
           "formattedPrice": "免费",

@@ -22905,6 +22905,16 @@
     "history": [
       [
         {
+          "timestamp": 1751956073749,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Data Recovery-1 Month": "$39.95",
+            "Data Recovery Expert - 1 Year": "$49.95",
+            "Data Recovery Expert-Lifetime": "$69.99"
+          }
+        },
+        {
           "timestamp": 1751951956773,
           "price": 0,
           "formattedPrice": "Free",
@@ -31735,6 +31745,22 @@
       "Collections": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1751956073749,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Manage your audio library": "$79.99",
+            "Collections (lifetime)": "$29.99",
+            "Playlists (lifetime)": "$29.99",
+            "Podcasts (lifetime)": "$19.99",
+            "1 DMX universe: 512 channels": "$59.99",
+            "Podcasts": "$9.99",
+            "Playlists": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751815024255,

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-07-08T01:34:02.006Z</updated>
+    <updated>2025-07-08T06:34:08.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-08T01:34:02.007Z</updated>
+        <updated>2025-07-08T06:34:08.858Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 08 Jul 2025 01:34:02 GMT</id>
+        <id>rankingusTue, 08 Jul 2025 06:34:08 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-08T01:34:02.007Z</updated>
+        <updated>2025-07-08T06:34:08.859Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -217,6 +217,29 @@ feedId:49753370488353792+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1027093462">Visual Cue Audio Player</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Manage your audio library</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1081480270">The Audio Converter</a>
       </td>
       <td>
@@ -237,7 +260,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1171417699">Guitar Gravitas: Chords Scales</a>
@@ -260,7 +283,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1361473095">MuseDash</a>
@@ -283,7 +306,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6450397515">Transcribe & Speech to text</a>
@@ -308,7 +331,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id417375580">BetterSnapTool</a>
@@ -331,7 +354,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id491854842">Youdao Translate</a>
@@ -354,7 +377,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1014945607">优酷视频-嘘国王在冬眠 全网独播</a>
@@ -369,29 +392,6 @@ feedId:49753370488353792+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>优酷视频点播</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>13</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1027093462">Visual Cue Audio Player</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Manage your audio library</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -575,6 +575,70 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Cue Audio Player]]></title>
+        <id>Visual Cue Audio Player-us-1751956073749</id>
+        <link href="https://apps.apple.com/us/app/visual-cue-audio-player/id1027093462?uo=4"/>
+        <updated>2025-07-08T06:27:53.749Z</updated>
+        <summary type="html"><![CDATA[Manage your audio library: $89.99 → $79.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/visual-cue-audio-player/id1027093462?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/fb/e8/25fbe8fc-fd63-ba22-322b-1cec895ee172/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Manage your audio library：</strong><span>$89.99</span> → <b>
+  <strong>$79.99</strong>
+</b><span>[$4.99 ~ $89.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Visual Cue Pro is an advanced, easy-to-use audio player for iOS and iPadOS.
+
+Main Features:
+• Waveform view for visual seeking and setting up cue points
+• Zoom functionality for more precise seeking on longer waveforms
+• Caches waveforms for fast display
+• Supports unlimited cue points per file
+• Quickly switch between cue points across multiple audio files
+• Does not alter your precious source files in any way
+• Drag & drop files directly from Files and other apps
+• Designed for speed and efficiency
+• GPU-based waveform renderer
+• Supports Dark Mode
+
+Collections:
+• Import files from Files using drag & drop
+• Manage your music library
+• Create cue points within each item
+
+Playlists:
+• Import files from Collections using drag & drop (cue points included)
+• Import files from Files using drag & drop (without cue points)
+• Create cue points within each item (shared across playlists if the item is from a Collection)
+• Reorder items using drag & drop in your desired order
+
+For Music Producers:
+• Manage your library of reference tracks to compare with your own
+• Quickly jump between cue points in your reference tracks
+• Manage and listen to your own tracks
+• Organize production elements and recorded source material
+
+For DJs:
+• Manage your library of tracks
+• Set up cue points in your tracks
+• Compile DJ sets by quickly jumping between cue points in different tracks
+• Manage and listen to your own mixes
+• Bookmark tracks in other DJs’ sets and discover new music faster
+
+Visual Cue Pro is an offline music player, music library manager, and music organizer with lossless playback, widely used in sound studios, by music directors, A&R, and for audio transcribing. It's also perfect for venues, theaters, churches, DJs, and more! It features full-screen support, native Apple Silicon support, Dark Mode, and cloud drive compatibility. The best reliable alternative to iTunes, plays audio files and formats supported by macOS, including WAV, AIFF, FLAC, MP3, M4A, and more.
+
+Free to download and try. Purchase modules via in-app purchase (subscriptions or lifetime permanent license).
+
+If you have a Mac, check out the macOS version too, which offers even more functionality!
+
+Privacy Policy: http://visualcueplayer.com/privacy.html
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Transcribe & Speech to text]]></title>
@@ -1087,242 +1151,5 @@ Wink VIP-Annual subscription entails a 12-month period.
 Terms of Service：https://pro.meitu.com/wink-cut/agreements/common/service-global.html?lang=en
 Privacy Policy：https://pro.meitu.com/wink-cut/agreements/common/policy-global.html?lang=en
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/d1/94/d7d194a2-6f19-146b-d3d5-c592cec24b4b/iOS_1242x2208__U82f1_U6587-1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/45/fd/c345fdde-a422-ad22-4fc4-65e2523de21e/iOS_1242x2208__U82f1_U6587-2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/15/f4/b815f444-2be7-c373-5155-4300114fb70b/iOS_1242x2208__U82f1_U6587-3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/a4/cc/76a4ccf4-7954-c8d9-2ea6-f277d14042d8/iOS_1242x2208__U82f1_U6587-4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/a1/4b/e3a14bef-32d0-d6b7-c90f-d42f6a1a6b5c/iOS_1242x2208__U82f1_U6587-5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/4f/79/d94f7903-c309-764e-fa3e-6f7959b1bed0/iOS_1242x2208__U82f1_U6587-6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/7d/a9/667da93d-9ad6-e8c0-9de4-680f81d0a5d1/iOS_1242x2208__U82f1_U6587-7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/78/bb/f778bb57-2bd3-835c-2185-467529256156/iOS_1242x2208__U82f1_U6587-8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/4a/a4/304aa4d1-4958-cd41-ffda-1fdc855b28ee/iOS_1242x2208__U82f1_U6587-9.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/b3/c2/f4b3c23d-01c2-9fe2-1fa3-e72848d535c6/iOS_1242x2208__U82f1_U6587-10.jpg/392x696bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VOX: MP3 & FLAC Music Player]]></title>
-        <id>VOX: MP3 &amp; FLAC Music Player-us-1751689398723</id>
-        <link href="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id461369673?mt=12&amp;uo=4"/>
-        <updated>2025-07-05T04:23:18.723Z</updated>
-        <summary type="html"><![CDATA[LOOP for VOX Subscription: $109.99 → $49.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id461369673?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/0c/59/5c0c59d6-9f05-4fb0-836a-15f1e3459b39/AppIconNew-0-0-85-220-0-0-0-4-0-2x.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>LOOP for VOX Subscription：</strong><span>$109.99</span> → <b>
-  <strong>$49.99</strong>
-</b><span>[$49.99 ~ $109.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  #1 Hi-Res audio player for Mac & iPhone. Music just sounds better! 
-
-*NEW*
-Introducing VOX Premium – Your Ultimate Music Experience. VOX Premium adds a stunning cloud streaming features and unlimited music storage without a decline in quality. Sync, stream and cache your entire music library on Mac and iPhone in a way that suits you best!
-
-Listen to your music regardless of the format:
-• Play numerous lossy and lossless (FLAC, APE, WAV, DSD, etc.) audio formats;
-• Export playlists in various formats (PLS, M3U, XSPF);
-• Open different playlist types including M3U, PLS, XSPF, and the popular CUE format used to store CD rips;
-• Play audio files stored on NAS devices and other network drives.
-
-Manage your music easily: 
-• Control the player from the main interface, Dock context menu or main menu controls;
-• Automatically search for all the missing album artwork from MusicBrainz and Last.fm databases;
-• Use keyboard media keys, headphones controls, and Apple Remote to control the playback (requires VOX Preference Pane);
-• Easily add music via smart drop zones, open dialog and Finder context menu;
-• Use the Equalizer with presets & custom mode, crossfade, fade on play/pause, converting music to 5.1 or 7.1 format;
-• Preview album artwork from your Dock icon;
-• Gapless playback support;
-• Get system or Growl playback notifications.
-
-Focus on music, not the source: 
-• Work with different audio sources including custom Playlists, iTunes Library, online radio and much more;
-• Scrobble to Last.fm to keep your listening stats up-to-date;
-• Play any song, any playlist you find on YouTube via VOX FLAC Player, put all your YouTube songs into one media collection.
-
-Full SoundCloud integration:
-• Easily control SoundCloud via VOX;
-• Access the largest music database in the world and discover new tunes;
-• Bring your SoundCloud stream and likes directly into VOX.
-
-YouTube source:
-• Press CMD+U and paste any link from YouTube to play it in VOX. You can add it to VOX collections as well.
-
-Last.fm:
-• Scrobbling for your music stream;
-
-Radio access for VOX Premium subscribers (**NEW**):
-• 30'000+ Radio stations categorized by genres and countries! 
-
-Equip yourself with all of the audiophile tools of VOX Premium:
-• Advanced Audio Features: HOG Mode; Improved multi-output device support;
-• Convert stereophonic audio in your headphones to binaural using Bauer DSP (BS2B) technology;
-• Automatically Pause playback on headphones disconnection;
-• Take full advantage of AirPlay (10.8+) to listen with any of your wireless output devices.
-• VOX also supports SONOS wireless speakers systems.
-
-
-The beauty of VOX Player is in its simplicity, yet behind the minimal exterior lies a powerful Music Player with a ton of features and support for all audio formats you may ever need. 
-
-
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-
-
-VOX Premium is available by auto-renewable subscriptions:
-
-- $4.99 per month;
-- $49.99 per year.
-
-Your credit card will be charged through your iTunes Account after the purchase confirmation. Your subscription will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current period. 
-Your subscriptions can be managed in your iTunes Account Settings after purchase is made. No cancellation of the current subscription is allowed during active subscription period. Any unused portion of a free trial period will be forfeited when you purchase a subscription.
-
-VOX Premium privacy policy: https://vox.rocks/privacy
-VOX Premium terms and conditions: https://vox.rocks/terms
-
-P.S.: FLAC Player, ALAC Player, Lossless Player, SoundCloud Stream Solution, YouTube MP3 Music, Hi-Res audio Player - check all of them in one VOX Music Player.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/7c/36/637c3612-0070-f326-819e-1e7bcce9c2af/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/82/a4/09/82a40990-99b5-c706-fadb-c1f8ac3651e0/mzl.ptafbcyi.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/0d/27/a70d27b3-0fe0-3c9f-4216-33ee99423452/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/76/4b/44/764b4485-6790-5152-c984-7d9e4154bc71/mzl.lfjljoip.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allow Right Click for Safari]]></title>
-        <id>Allow Right Click for Safari-us-1751685140873</id>
-        <link href="https://apps.apple.com/us/app/allow-right-click-for-safari/id6739523960?uo=4"/>
-        <updated>2025-07-05T03:12:20.873Z</updated>
-        <summary type="html"><![CDATA[Price: $1.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/allow-right-click-for-safari/id6739523960?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ea/35/f9ea3591-a3aa-59b0-1a37-183f419f88f2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$1.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $1.99]</span>）
-</h2><h2>Application Description</h2><p>This software allows right-click, copy, cut, and paste functionality on all websites. It has a simple interface and is easy to use. You can copy any content, whether it’s text, images, or other media.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VOX: MP3 & FLAC Music Player]]></title>
-        <id>VOX: MP3 &amp; FLAC Music Player-us-1751685140873</id>
-        <link href="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id461369673?mt=12&amp;uo=4"/>
-        <updated>2025-07-05T03:12:20.873Z</updated>
-        <summary type="html"><![CDATA[VOX Premium Subscription: $49.99 → $15.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/vox-mp3-flac-music-player/id461369673?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/0c/59/5c0c59d6-9f05-4fb0-836a-15f1e3459b39/AppIconNew-0-0-85-220-0-0-0-4-0-2x.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>VOX Premium Subscription：</strong><span>$49.99</span> → <b>
-  <strong>$15.99</strong>
-</b><span>[$15.99 ~ $49.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  #1 Hi-Res audio player for Mac & iPhone. Music just sounds better! 
-
-*NEW*
-Introducing VOX Premium – Your Ultimate Music Experience. VOX Premium adds a stunning cloud streaming features and unlimited music storage without a decline in quality. Sync, stream and cache your entire music library on Mac and iPhone in a way that suits you best!
-
-Listen to your music regardless of the format:
-• Play numerous lossy and lossless (FLAC, APE, WAV, DSD, etc.) audio formats;
-• Export playlists in various formats (PLS, M3U, XSPF);
-• Open different playlist types including M3U, PLS, XSPF, and the popular CUE format used to store CD rips;
-• Play audio files stored on NAS devices and other network drives.
-
-Manage your music easily: 
-• Control the player from the main interface, Dock context menu or main menu controls;
-• Automatically search for all the missing album artwork from MusicBrainz and Last.fm databases;
-• Use keyboard media keys, headphones controls, and Apple Remote to control the playback (requires VOX Preference Pane);
-• Easily add music via smart drop zones, open dialog and Finder context menu;
-• Use the Equalizer with presets & custom mode, crossfade, fade on play/pause, converting music to 5.1 or 7.1 format;
-• Preview album artwork from your Dock icon;
-• Gapless playback support;
-• Get system or Growl playback notifications.
-
-Focus on music, not the source: 
-• Work with different audio sources including custom Playlists, iTunes Library, online radio and much more;
-• Scrobble to Last.fm to keep your listening stats up-to-date;
-• Play any song, any playlist you find on YouTube via VOX FLAC Player, put all your YouTube songs into one media collection.
-
-Full SoundCloud integration:
-• Easily control SoundCloud via VOX;
-• Access the largest music database in the world and discover new tunes;
-• Bring your SoundCloud stream and likes directly into VOX.
-
-YouTube source:
-• Press CMD+U and paste any link from YouTube to play it in VOX. You can add it to VOX collections as well.
-
-Last.fm:
-• Scrobbling for your music stream;
-
-Radio access for VOX Premium subscribers (**NEW**):
-• 30'000+ Radio stations categorized by genres and countries! 
-
-Equip yourself with all of the audiophile tools of VOX Premium:
-• Advanced Audio Features: HOG Mode; Improved multi-output device support;
-• Convert stereophonic audio in your headphones to binaural using Bauer DSP (BS2B) technology;
-• Automatically Pause playback on headphones disconnection;
-• Take full advantage of AirPlay (10.8+) to listen with any of your wireless output devices.
-• VOX also supports SONOS wireless speakers systems.
-
-
-The beauty of VOX Player is in its simplicity, yet behind the minimal exterior lies a powerful Music Player with a ton of features and support for all audio formats you may ever need. 
-
-
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-
-
-VOX Premium is available by auto-renewable subscriptions:
-
-- $4.99 per month;
-- $49.99 per year.
-
-Your credit card will be charged through your iTunes Account after the purchase confirmation. Your subscription will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current period. 
-Your subscriptions can be managed in your iTunes Account Settings after purchase is made. No cancellation of the current subscription is allowed during active subscription period. Any unused portion of a free trial period will be forfeited when you purchase a subscription.
-
-VOX Premium privacy policy: https://vox.rocks/privacy
-VOX Premium terms and conditions: https://vox.rocks/terms
-
-P.S.: FLAC Player, ALAC Player, Lossless Player, SoundCloud Stream Solution, YouTube MP3 Music, Hi-Res audio Player - check all of them in one VOX Music Player.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/63/7c/36/637c3612-0070-f326-819e-1e7bcce9c2af/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/82/a4/09/82a40990-99b5-c706-fadb-c1f8ac3651e0/mzl.ptafbcyi.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/0d/27/a70d27b3-0fe0-3c9f-4216-33ee99423452/pr_source.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/76/4b/44/764b4485-6790-5152-c984-7d9e4154bc71/mzl.lfjljoip.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guitar Gravitas: Chords Scales]]></title>
-        <id>Guitar Gravitas: Chords Scales-us-1751685140873</id>
-        <link href="https://apps.apple.com/us/app/guitar-gravitas-chords-scales/id1171417699?uo=4"/>
-        <updated>2025-07-05T03:12:20.873Z</updated>
-        <summary type="html"><![CDATA[Lesson Pack: $5.99 → $4.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/guitar-gravitas-chords-scales/id1171417699?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/aa/b7/0caab733-4f00-6b2b-78ee-d283cadab019/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Lesson Pack：</strong><span>$5.99</span> → <b>
-  <strong>$4.99</strong>
-</b><span>[$4.99 ~ $5.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Learn Guitar. Guitar Chords & Scales Libraries, Lessons, Backing Tracks, Tuner, Metronome and much more.
-
-Guitar Gravitas is an inspirational tool for guitar players of all levels (beginner to pro) that offers the most comprehensive, advanced and interactive chord, arpeggio and scale library in the App Store.
-
-• Over 200 chord types including not only a library of 15,000 of the most commonly used chord shapes but also MILLIONS of playable shapes generated by a state-of-the-art algorithm that allows you to select the root note of the chord and also the lowest or highest note.
-
-• Thousands of arpeggios patterns generated on selection from a list of more than 200 chord types.
-
-• Over 1000 different scales from all over the world including thousands of patterns.
-
-• 31 videos with Guitar Lessons, Backing tracks, Tutorials and Support documents on PDF format.
-
-• High Precision Guitar Tuner.
-
-• Metronome.
-
-• More than 200 predefined guitar tunings and the possibility to create your own. 
-
-• Interact to listen to how chords, arpeggios and scales sound.
-
-• :. Guitar Gravitas .: also comes with chord, arpeggio and scale finders where you can select notes on the fretboard and find out what what you are playing is called.
-
-• No matter what chord, arpeggio or scale you are checking out, :. Guitar Gravitas .: allows you to know what chords, arpeggios or scales you could combine it with.
-
-
-Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/c1/e2/73c1e273-e38e-de62-daf8-d90d20f6452a/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ba/78/f5/ba78f595-0f21-ab38-3292-f7e592cc700f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/48/c9/f2/48c9f2a3-42ab-3030-6227-60d7ee824a28/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/7a/f8/2f/7af82f32-3109-2a38-72fa-9b01ad557dcc/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c8/b8/da/c8b8da92-9210-e3c4-2483-4699c8ff0a84/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/d1/8a/7a/d18a7a73-0b7e-5d75-da67-5bae4fee63be/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/4e/b6/23/4eb62330-fbc3-afc8-e21d-5ab0e9a316ea/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/8e/78/02/8e780248-7f4a-d304-11be-5d5db9dccfe3/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ce/93/06/ce930649-a180-257a-ccba-076895a9dff1/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ac/9e/f2/ac9ef2e6-05f2-83d7-eeec-9cb16e7e9f17/mzl.lqmszssc.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/95/b4/00/95b40013-26a4-b33d-3cc7-fc817d10683b/mzl.wawqozlc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/16/2e/a1/162ea1f1-f4b7-624a-3283-782e4994ce25/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/7d/c3/c0/7dc3c041-1912-2efc-4022-8df98ff62089/mzl.ewzeqoly.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/2e/bf/40/2ebf402d-b112-8f9d-6b55-07e8190db070/mzl.ynmscdsc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/80/1f/e6/801fe6ce-8e05-998a-3148-994f7f5be9b8/mzl.hebfsjky.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/42/2d/ad/422dad23-a054-fe10-e751-7fba884950a9/mzl.jctrylyt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/b9/a9/a7/b9a9a774-8198-2a1b-0c6c-871ce3d15b50/mzl.bjtnxaan.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c2/98/06/c29806e5-591e-484b-2c16-11a56731b921/mzl.qjgxihxf.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hide Mouse Cursor]]></title>
-        <id>Hide Mouse Cursor-us-1751685140873</id>
-        <link href="https://apps.apple.com/us/app/hide-mouse-cursor/id6738089759?mt=12&amp;uo=4"/>
-        <updated>2025-07-05T03:12:20.873Z</updated>
-        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/hide-mouse-cursor/id6738089759?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/3e/95/423e9529-c3a8-daed-aa31-a91b61fc449c/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/60x60bb.png" />
-</a><h2>
-  Discount Information（Price：<span>$0.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $0.99]</span>）
-</h2><h2>Application Description</h2><p>This app is a tool designed for users to hide the mouse cursor, which is particularly suitable for full-screen presentations, video playback or games, allowing users to focus on the content without being disturbed by the cursor, including one-click hiding/showing the cursor, shortcut key support, and custom settings.</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/e7/e9/14e7e980-14b9-dd96-141a-2deecdd1fe0c/Screenshot_2024-11-22_at_5.14.01_U202fPM_copy.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/48/67/b748678b-92ca-24f1-ea97-72ecc7924d6b/Screenshot_2024-11-22_at_5.14.01_U202fPM.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>
