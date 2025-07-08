@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-07-07T04:39:02.527Z</updated>
+    <updated>2025-07-08T01:34:02.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -20,7 +20,7 @@ feedId:49753370488353792+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-07T04:39:02.528Z</updated>
+        <updated>2025-07-08T01:34:02.007Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -28,9 +28,9 @@ feedId:49753370488353792+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusMon, 07 Jul 2025 04:39:02 GMT</id>
+        <id>rankingusTue, 08 Jul 2025 01:34:02 GMT</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-07-07T04:39:02.529Z</updated>
+        <updated>2025-07-08T01:34:02.007Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>
@@ -50,13 +50,13 @@ feedId:49753370488353792+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>864</b>
+        <b>865</b>
       </td>
       <td>
         <b></b>
       </td>
       <td>
-        <b>864</b>
+        <b>865</b>
       </td>
       <td>
         <b></b>
@@ -286,6 +286,31 @@ feedId:49753370488353792+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id6450397515">Transcribe & Speech to text</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>5 hours a day</i>：<b>1</b>
+              </li><li>
+                <i>VIP</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>10</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id417375580">BetterSnapTool</a>
       </td>
       <td>
@@ -306,7 +331,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id491854842">Youdao Translate</a>
@@ -329,7 +354,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1014945607">优酷视频-嘘国王在冬眠 全网独播</a>
@@ -352,7 +377,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1027093462">Visual Cue Audio Player</a>
@@ -375,7 +400,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1133028347">Cleaner One Pro - Uninstaller</a>
@@ -398,7 +423,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1339124759">Audio Editor & Music Mixer</a>
@@ -421,7 +446,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1528890965">TextSniper - OCR, Copy & Paste</a>
@@ -438,7 +463,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1550581532">Vythm VJ - Music Visualizer DJ</a>
@@ -461,7 +486,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1575178082">Max NTFS - NTFS Disk Helper</a>
@@ -484,7 +509,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6448913901">全能AI - 图生视频、文生视频、AI写歌作曲、AI智能助理</a>
@@ -507,7 +532,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6739523960">Allow Right Click for Safari</a>
@@ -524,7 +549,7 @@ feedId:49753370488353792+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6738089759">Hide Mouse Cursor</a>
@@ -535,29 +560,6 @@ feedId:49753370488353792+userId:73658201673997312
             <span>Total Times</span>：<b>1</b>
           </li><li>
             <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>21</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id6450397515">Transcribe & Speech to text</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>5 hours a day</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -573,6 +575,31 @@ feedId:49753370488353792+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transcribe & Speech to text]]></title>
+        <id>Transcribe &amp; Speech to text-us-1751938047281</id>
+        <link href="https://apps.apple.com/us/app/transcribe-speech-to-text/id6450397515?mt=12&amp;uo=4"/>
+        <updated>2025-07-08T01:27:27.281Z</updated>
+        <summary type="html"><![CDATA[VIP: $39.99 → $19.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/transcribe-speech-to-text/id6450397515?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/08/4f/b6084f79-e085-5513-2310-1e11b8823f5f/AppIcon-85-220-4-2x.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>VIP：</strong><span>$39.99</span> → <b>
+  <strong>$19.99</strong>
+</b><span>[$4.99 ~ $39.99]</span>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Special feature：
+Quickly transcribe audio, recordings, conference recordings, voice dictation, and voice notes.
+Accurate transcription of various types of audio with a 98.8% accuracy rate.
+Recording expert, import audio and transcribe with just one click.
+
+privacy policy:https://rain7027.github.io/rainstt/privacy
+terms of use:https://rain7027.github.io/rainstt/terms
+any question please contact:zyang7027@gmail.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6d/f3/c2/6df3c258-c882-9d94-a17f-edfcde85f96c/602ee79b-ca3b-40e9-9d92-d4ef5bb5b37c_1n.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b5/26/aa/b526aa81-c80a-f1a6-c0fb-eda3eaa582f7/58f61a40-8cba-4753-a4c7-5a575f3cf1b0_2n.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[奇游加速器 - 全球游戏畅玩]]></title>
@@ -1297,265 +1324,5 @@ Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
   <strong>Free</strong>
 </b><span>[Free ~ $0.99]</span>）
 </h2><h2>Application Description</h2><p>This app is a tool designed for users to hide the mouse cursor, which is particularly suitable for full-screen presentations, video playback or games, allowing users to focus on the content without being disturbed by the cursor, including one-click hiding/showing the cursor, shortcut key support, and custom settings.</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/e7/e9/14e7e980-14b9-dd96-141a-2deecdd1fe0c/Screenshot_2024-11-22_at_5.14.01_U202fPM_copy.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/48/67/b748678b-92ca-24f1-ea97-72ecc7924d6b/Screenshot_2024-11-22_at_5.14.01_U202fPM.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cleaner One Pro - Uninstaller]]></title>
-        <id>Cleaner One Pro - Uninstaller-us-1751678629469</id>
-        <link href="https://apps.apple.com/us/app/cleaner-one-pro-uninstaller/id1133028347?mt=12&amp;uo=4"/>
-        <updated>2025-07-05T01:23:49.469Z</updated>
-        <summary type="html"><![CDATA[Unlock Full Version: $29.99 → $19.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/cleaner-one-pro-uninstaller/id1133028347?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/19/b4/b819b4d7-860b-4f2a-5013-a109d2117cc9/AppIcon-0-0-85-220-0-4-2x-sRGB.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Unlock Full Version：</strong><span>$29.99</span> → <b>
-  <strong>$19.99</strong>
-</b><span>[$19.99 ~ $29.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Cleaner One Pro is the all-in-one Mac Master Cleaner App. It can optimize your disk usage, free up space on your Mac, keep the hard drive clean, remove duplicate photos and other files, manage your apps, and much more. 
-
-Fully compatible with macOS Monterey and Apple Silicon.
-
-PRIMARY FEATURES
-[Junk Files Cleaner]
-• Has Quick Disk Clean feature you can click from the Status Bar Menu
-• Clean temporary files, including logs, mail caches, iTunes and iOS temporary files, etc. Empty Trash for current user
-• Detect remaining files after deleting Apps
-• Clean Junk Files in removable storage on your Mac
- 
-[Duplicate File Scanner]
-• Thorough and quick scan — fast and accurate scanning technique covers your entire home folder
-• Smart and Accurate Filter — duplicates are selected not only by file name but also by their content. Files are shown in detailed preview. Click the Auto Select button to help you decide which copy you wish to delete.
-• Easy and safe decision — duplicates can be sorted by file type and listed in their full route for you to track. You can decide which way to clean these files; either by sending them to Trash or deleting them permanently (In-App Purchase required)
-
-[Photo Manager]
-• Quickly find similar photos, blurry photos, and screenshots
-• Preview photos in groups after scanning
-• Organize your photo library
-• Easily remove photos that may be safe to delete to free up space (In-App Purchase required)
- 
-[Intelligent App Manager]
-• Auto-clean leftovers of deleted Apps
-• Manage all installed applications with the All-in-One App Optimizer
-• Detect and remove leftover files of deleted apps with the App Manager
-• List all the applications installed on your Mac by name, size, and last opened date
-• Remove unwanted applications with Mac Disk Clean (In-App Purchase required)
-• Remove all the associated files of uninstalled applications (In-App Purchase required)
-• Added Vulnerability Scan in the App Manager to enhance security (In-App Purchase required)
-
-[Big Files Scanner]
-• 1-click scan of big files (customizable size from 10 MB and above)
-• Multiple filters of size, date, name and type
-• Local files in sync with your cloud drives can also be found
-* Important big files can be ""locked"" into the protected list to avoid accidental deletion
-
-[Mac Disk Clean Map]
-• Mac Disk Clean scans all your disk drives and creates a clickable map of the files on your disk, color-coded by type
-• Provides additional information about files when you click on an item on the map
-• View your entire disk by file or folder size to determine which files or folders use the most space with Clean Master
-
-[Real-Time System Status]
-• Real-time network usage
-• Real-time CPU usage
-• See detailed network and CPU information (In-App Purchase required)
-
-The paid version costs as little as $19.99 per year (this price may vary by location).
- 
-Subscriptions will auto-renew unless canceled.
-— Payment will be charged to iTunes Account at confirmation of purchase
-— Subscription may be managed by the user and auto-renewal may be turned off by going to the user’s Account Setting after purchase.
-— No cancellation of the current subscription is allowed during active subscription period.
-— Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
-— Your account will be charged for renewal for the amount of your current subscription within 24-hours prior to the end of the current period. All cost for subscriptions are mentioned above.
-
-Privacy Policy and Terms of Use
-Privacy Policy: http://gr.trendmicro.com/GREntry/NonPayment?Target=TrendCleaner&OS=&SP=&PID=TCS60&FunID=PrivacyPolicy&VID=&Locale=en
-Terms of Use: http://gr.trendmicro.com/GREntry/NonPayment?Target=TrendCleaner&OS=&SP=&PID=TCS60&FunID=EULA&VID=&Locale=en
-
-Please comment in the App Store and you can also email us directly at mac_support@trendmicro.com.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/47/df/0647dfec-9e40-5f35-74c1-fe202f37c1f0/d2ac6b69-4c5e-400a-8199-4641b7350179_1_en_Global.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/71/51/ec7151dc-454c-841e-7076-280f0b0408d7/725634c6-1687-4171-a8fc-807a0fa55ca1_2_Global.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/a9/56/1fa956a3-bdd9-e5df-ebe1-d4673f762514/87a95753-0d24-4a32-8493-c3426eee8bc7_3_Global.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/20/88/312088c9-130a-68a5-f0b0-2305c04ba544/9f67a9e8-48d6-400f-803c-dd3cea59041d_4_Global.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/3c/c0/4d3cc0bb-96e9-929c-d90b-ab38dd3ffa6b/COP_PhotoManager_Global.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TextSniper - OCR, Copy & Paste]]></title>
-        <id>TextSniper - OCR, Copy &amp; Paste-us-1751649340843</id>
-        <link href="https://apps.apple.com/us/app/textsniper-ocr-copy-paste/id1528890965?mt=12&amp;uo=4"/>
-        <updated>2025-07-04T17:15:40.843Z</updated>
-        <summary type="html"><![CDATA[Price: $11.99 → $9.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/textsniper-ocr-copy-paste/id1528890965?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/7a/b6/2b7ab603-fdee-d92e-f3ea-f3ef5f597aef/AppIcon-new-0-0-85-220-0-2-0-2x.png/60x60bb.png" />
-</a><h2>
-  Discount Information（Price：<span>$11.99</span> → <b>
-  <strong>$9.99</strong>
-</b><span>[$7.99 ~ $11.99]</span>）
-</h2><h2>Application Description</h2><p>
-  TextSniper is an easy-to-use desktop Mac OCR app that can extract and recognize any non-searchable and non-editable text on your Mac's screen. As an extra feature, it can turn OCR text into speech. It is a super convenient alternative to complicated optical character recognition tools.
-
-The tool is intuitive to use and makes extracting text from your images, scanned paper documents, PDFs, or even videos easy. No training or special skills are required, and it fits perfectly home and business Mac users. Easily accessible from the menu bar whenever you need it and has a simple user interface. 
-
-If you have used a built-in Mac screen capture application before, it wouldn't be any trouble to work with TextSniper, too. Select with a mouse any part of an image, photo, PDF document, or anything on your screen, and the app will process and recognize any text within this selection. The text output will be saved into a clipboard so you can paste it into your favourite macOS text editing or note-taking software. 
-
-Finally, the app's optical character recognition engine doesn't need an internet connection to process documents. Great OCR solution for those who are concerned about privacy. The application does not collect any users' data.
-
-Use Cases:
-• Convert different image formats to text (JPEG, PNG, GIF, TIFF, BMP, etc.).
-• Pull text from a non-searchable PDF file without a need to process the whole document.
-• Read text from images, PDF documents, photos, Zoom meetings, or any other sources.
-• Copy text even when it is uncopiable, like in ebooks or web articles.
-• Quickly extract emails, links, phone numbers, etc.
-• Grab text or turn it into speech in video games.
-• Read QR or barcodes.
-• Quickly generate alt text from the screenshot for tweets.
-
-Features:
-• On-device OCR technology. No internet connection is needed.
-• Instant text recognition. No need to upload files into the application. OCR document or file on the fly.
-• High accuracy and performance in processing any documents.
-• Recognizes even tiny text on images with low-quality or dense background.
-• Customizable. Custom keyboard shortcuts to extract text with various options.
-• You can have TextSniper speak the recognized text whenever you need it.
-• Supports optical character recognition in multiple languages: English, Spanish, French, German, Portuguese, Italian,  Traditional and Simplified Chinese.
-• Running macOS Ventura: All the above languages plus Ukrainian, Korean, Japanese and Russian.
-• Running macOS Sonoma: All the above languages plus Thai and Vietnamese.
-• Running macOS Sequoia: All the above languages plus Arabic and Najdi Arabic.
-• Running macOS Catalina: English language only supported.
-• Use your iPad or iPhone camera to capture text from a photo or scanned document quickly.
-• Fully compatible with macOS Sonoma and optimised for Apple's M1-M3 chips.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/78/ec/c778ec00-fd20-75d8-8490-1595db186fe5/874d684d-dee4-4c59-a252-70064415d940_appStore_01_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/04/75/7b047524-c1a5-9579-0bff-ce1aefe96010/374d7e25-b5b4-447f-bdbe-45651cc8884b_appStore_02_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/87/fd/bc87fd48-719b-11e2-1385-1d56379504e3/8d73581b-f46e-4881-a83c-304cbddadc5c_appStore_03_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/0d/68/f30d68d9-9451-0333-7ba4-b12f0b07ae2e/07e2c426-538f-4876-8210-408c3943a5b1_appStore_04_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/50/9a/1f509a06-e7bf-f355-960a-96783793aae9/95ccc544-4cdb-4d91-b7e4-4a7eea3ffa48_appStore_05_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/bd/98/8dbd9870-243d-dbbe-bc5d-1abe5369718b/65a3f23b-cf55-4730-a569-4c661d1da6da_appStore_06_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/4a/19/d34a192d-e9b8-ffeb-cb3e-a6dbf2594d7d/4c5a6f15-dd6f-4964-9414-34b0bef9d62b_appStore_07_2560x1600.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/00/94/6500942d-a32c-3254-3230-201cb9323fc0/0aed8b36-02b2-471c-802c-bfc3bbbea1dc_appStore_08_2560x1600.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wink: Video Enhancer & Editor]]></title>
-        <id>Wink: Video Enhancer &amp; Editor-us-1751646143535</id>
-        <link href="https://apps.apple.com/us/app/wink-video-enhancer-editor/id1594288016?uo=4"/>
-        <updated>2025-07-04T16:22:23.535Z</updated>
-        <summary type="html"><![CDATA[Monthly Auto-renew VIP: $12.99 → $9.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/wink-video-enhancer-editor/id1594288016?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/c8/fc/72c8fc00-bed8-357d-ba87-9d6b7966e02d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Monthly Auto-renew VIP：</strong><span>$12.99</span> → <b>
-  <strong>$9.99</strong>
-</b><span>[$9.99 ~ $12.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Wink 
-l Make any low-quality video & photo into HD/Ultra HD/4K with before/after comparisons.
-l Making video editing easier than ever!
-l Various creative video transition effects enhance final results!
-l Fine-tune your selfies with video retouch tools to highlight your day!
-
-Video ＆ Photo Enhance
-- Video Enhancer: Enhance portraits and selfies to stunning output.
-- 4K Upscaler: AI-powered 4K upscaling for enhanced video quality.
-- Stabilize: Smooth out shaky footage for professional-looking videos. 
-- Noise reduction: Reduce video noise and grain for professional-looking results.
--  AI Color: Give your video a vibrant, fresh look with our easy-to-use color enhancement tool
-
-Video Retouch
-- Manual Face Slimming: Adjust your facial features as you wish
-- Body Shape: Achieve a supermodel physique!
-- Stylish Makeup: Providing a range of natural makeup
-- Face Editor: Remove acne, Face Plump, Skin tone ... and more!
-- Whiten Teeth: Say goodbye to brown teeth and show off your smile!
-
-Video Editing
-- Professional Editing: Color, Crop, Speed, Split, Mirror, Soundtrack and more!
-- Templates: Easily apply to create high-quality vlogs
-- Quality Restoration: Clear AI-enhanced video restoration!
-- Effects: Adds texts, stickers, and transitions to enhance your videos
-- Automatic Subtitle: Utilizes intelligent voice recognition for easy text inputting
-
-
-AI Captions
-- Accurate AI subtitles for your videos in seconds 
-- Support Bilingual: Create dual-language subtitles for your videos
-- Support 8 languages
-
-Wink VIP
-- Access exclusive VIP features
-
-Wink offers a wide range of exclusive VIP features to enhance retouching experience. We are committed to providing you with an improved service. We look forward to your continuing support.
-- Subscriptions
-
-Wink VIP-Monthly Subscription offers a subscription period of one month.
-Wink VIP-Annual subscription entails a 12-month period.
-*The subscription price is determined based on the information provided in the in-app purchase (iAP) application.
-
-- Instructions for Payment and Cancellation
-
-"Payment" will be credited to your iTunes account once you have confirmed and paid for your subscription.
-
-"Renewal" subscriptions for "Monthly/Annual" plans are automatically renewed and will incur charges to your iTunes account following your purchase confirmation. The subscription will be automatically renewed. To cancel it, please disable the automatic renewal at least 24 hours before the subscription period ends. Within 24 hours before the subscription cycle expires, Apple will automatically debit your iTunes account, extending your subscription for a new cycle.
-
-"To cancel your subscription, kindly navigate to the "Settings" section on your iPhone, click on "Apple ID," proceed to the "Subscription" screen, and choose "Wink" to terminate your subscription.
-
-- Agreement
-Terms of Service：https://pro.meitu.com/wink-cut/agreements/common/service-global.html?lang=en
-Privacy Policy：https://pro.meitu.com/wink-cut/agreements/common/policy-global.html?lang=en
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/d1/94/d7d194a2-6f19-146b-d3d5-c592cec24b4b/iOS_1242x2208__U82f1_U6587-1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/45/fd/c345fdde-a422-ad22-4fc4-65e2523de21e/iOS_1242x2208__U82f1_U6587-2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/15/f4/b815f444-2be7-c373-5155-4300114fb70b/iOS_1242x2208__U82f1_U6587-3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/a4/cc/76a4ccf4-7954-c8d9-2ea6-f277d14042d8/iOS_1242x2208__U82f1_U6587-4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/a1/4b/e3a14bef-32d0-d6b7-c90f-d42f6a1a6b5c/iOS_1242x2208__U82f1_U6587-5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/4f/79/d94f7903-c309-764e-fa3e-6f7959b1bed0/iOS_1242x2208__U82f1_U6587-6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/7d/a9/667da93d-9ad6-e8c0-9de4-680f81d0a5d1/iOS_1242x2208__U82f1_U6587-7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/78/bb/f778bb57-2bd3-835c-2185-467529256156/iOS_1242x2208__U82f1_U6587-8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/4a/a4/304aa4d1-4958-cd41-ffda-1fdc855b28ee/iOS_1242x2208__U82f1_U6587-9.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/b3/c2/f4b3c23d-01c2-9fe2-1fa3-e72848d535c6/iOS_1242x2208__U82f1_U6587-10.jpg/392x696bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[优酷视频-嘘国王在冬眠 全网独播]]></title>
-        <id>优酷视频-嘘国王在冬眠 全网独播-us-1751642298495</id>
-        <link href="https://apps.apple.com/us/app/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91-%E5%98%98%E5%9B%BD%E7%8E%8B%E5%9C%A8%E5%86%AC%E7%9C%A0-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1014945607?mt=12&amp;uo=4"/>
-        <updated>2025-07-04T15:18:18.495Z</updated>
-        <summary type="html"><![CDATA[优酷视频点播: $5.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91-%E5%98%98%E5%9B%BD%E7%8E%8B%E5%9C%A8%E5%86%AC%E7%9C%A0-%E5%85%A8%E7%BD%91%E7%8B%AC%E6%92%AD/id1014945607?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/ca/f6/afcaf62c-52c9-f8ae-5817-e4ef8e8e05c8/icon.png/60x60bb.png" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>优酷视频点播：</strong><span>$5.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $5.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  优酷Mac客户端，聚焦全网精品内容，提供电影、电视剧、综艺、动漫、少儿等海量高清视频在线观看
-提供优质Mac本地视频播放器，同时支持优酷缓存视频和电脑本地视频播放
-支持4K画质，畅享极致视觉盛宴
-支持优酷账号及第三方登录，视频云记录，多屏同步看
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/4f/67/cd4f67e5-652e-3291-cfcc-61108e59a326/1280_U002a800-p1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/03/79/700379d4-5e0c-b64d-9118-5598426638d6/1280_U002a800-p2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/c9/48/7ec9485b-3ae7-eee3-dc9a-04da21cb21c2/1280_U002a800-p3.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奇游加速器 - 全球游戏畅玩]]></title>
-        <id>奇游加速器 - 全球游戏畅玩-us-1751606448361</id>
-        <link href="https://apps.apple.com/us/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4"/>
-        <updated>2025-07-04T05:20:48.361Z</updated>
-        <summary type="html"><![CDATA[移动端会员-连续包月: $2.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E5%A5%87%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8-%E5%85%A8%E7%90%83%E6%B8%B8%E6%88%8F%E7%95%85%E7%8E%A9/id1395152179?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/41/53/6b415334-6de4-89e9-b44b-02a11dfc266d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>移动端会员-连续包月：</strong><span>$2.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $2.99]</span>
-  </li>
-</ul><h2>Application Description</h2><p>
-  【 热门游戏，“游”先支持】
-支持PUBGM、王者荣耀国际服 、使命召唤战区、绝地求生：刺激战场 、吃鸡外服、鹅鸭杀手游，暗区突围国际服、飞机大厨、咒术回战、炉石传说国际服、ROBLOX国际版、原神国际服、英雄联盟手游（lol：wild rift）、云顶之弈手游、方舟：终极移动版等游戏加速！
-
-【海量手游库 新游上线快 】
-支持PUBGM、王者国际服、使命召唤战区、星际战甲国际服、炉石传说国际服、暗区突围国际服、飞机大厨、对峙2、云顶之奕PBE、鹅鸭杀、赛马娘、pubg2、暗黑破坏神不朽、apex手游、二之国、全境封锁手游、战地手游、瓦罗兰特手游、绝地求生刺激战场全球服、使命召唤手游全球服、八方旅人、符文大地传说、Among US、游戏王、方舟生存进化、黎明杀机、公主连接、冒险岛M、地球末日生存、Teon中文版、剑灵：革命、战争机器人、地牢猎手5、FIFA、碧蓝幻想全球服、iron force、世界计划、多彩舞台、第七史诗（epic 7）、和平精英全球服、堡垒之夜、fgo、影之诗、失落龙约黑色沙漠、文明重启全球服、荒野乱斗、狂野飙车9等游戏加速！游戏库包罗千款好玩游戏，热游新游排行一目了然。平均每天3款游戏的速度上新。App内可以随时提交想玩的游戏，你想玩的我们都支持！
-
-【 奇游电竞级加速 】
-奇游全自研“Qiy”电竞级加速引擎震撼上线，加速稳定性更胜一筹，不惧移动网络的波动。基于奇游电竞级游戏网络，带你感受稳定流畅的游戏体验。低延迟、不掉线，WIFI/5G随心切换。
-
-【新游推荐 硬核攻略 】
-新增游戏清单、新游预上线时间表等功能，更多实用、funny的游戏主题等你探索。游戏介绍、新游推荐、硬核攻略，丰富的游戏深度内容带你打开新世界的大门！
-
-【客服小队 随时待命 】
-奇游客服小队7x12h陪伴你的左右。使用过程中有任何疑问和反馈，我们随时待命。
-
-【自动续费套餐说明】
-1、订阅周期及套餐名称：1个月（连续包月），3个月(连续包季)
-2、订阅价格：以IAP申请信息为准，例如连续包月价格为首月15元，次月15元/月自动续费 
-3、付款：用户确认购买并付款后计入iTunes账户。
-4、取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能，到期前24小时内取消，将会收取订阅费用。
-5、续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
-6、隐私政策：https://www.qiyou.cn/specials/qymobile-protocol.html
-7、服务协议：https://mfront.qiyou.cn/protocol.html
-8、自动续费会员服务协议：https://mfront.qiyou.cn/renewal-protocol.html
-
-*本加速器的加速功能仅针对游戏使用，无法访问海外网站。
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/30/d9/a730d9aa-62c0-a310-ef97-258622bbd228/94e6bc59-0ed1-4662-9fe9-c6c451e5eff8_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/7b/26/067b26e4-94e4-e8dd-81e9-14a0ec0a4354/962aa0d0-12c7-4e94-8ce1-f6f9024c412c_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/10/80/20108048-f87d-5509-ee46-993017f4cee9/754dd371-0572-496e-b317-f4f78754097a_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/da/24/c5da242f-ed7d-eee2-aafd-7a134b8a2c1a/a6457b28-d217-4eb7-abbc-b84793c7a4ad_5.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/98/a2/1998a286-c405-6ee7-2549-d48179653067/5ab7ea42-5dde-488b-8677-e35e2767c474_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/20/76/ab207675-21ca-afc8-418b-a6e058a5628b/c1b12273-03dc-4645-bd76-2ec11fd06f72_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/2d/f0/c12df094-fd43-860b-b9f7-f4ed06d03635/3f45d5df-bae8-4a85-90be-b5c11e6b5d3f_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/fd/2c/35fd2c48-a4ce-0a15-cb14-eba428cdcf3d/57a9a98a-65a9-4a6f-b77f-09227a1a4252_5.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
