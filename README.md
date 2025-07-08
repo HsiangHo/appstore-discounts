@@ -242,7 +242,7 @@ So far, we've covered `2` `Countries or Regions` and  `865` `Apps` <br />Push no
 |695|1500706402|Automatic|花生壳||||PhDDNS||
 |694|1486294815|Automatic|阿里云网络客户端||||Aliyun Network Client||
 |693|1637557903|Automatic|即刻转换 - 万能小视频音频批量格式转码工厂||||Video Converter X2||
-|692|6737146353|Automatic|MateFox - KitVPN&国际网络加速器&无限流量||||KitVPN – Fast & World NetWork||
+|692|6737146353|Automatic|MateFox -快连全球网络加速器&无限流量&KitVPN||||KitVPN – Fast & World NetWork||
 |691|1543649099|Automatic|超级克隆大师 - 同步或恢复手机,电脑,平板的数据和文件||||Clone My Data-Sync&Backup Data||
 |690|1485671150|Automatic|VPN -  快滚 全球网络加速||||VPN -  快滚 全球网络加速||
 |689|1570653446|Automatic|Focus Video - 视频压缩和格式转换器||||Focus Video - Video Converter||
